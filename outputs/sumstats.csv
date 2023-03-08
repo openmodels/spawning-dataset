@@ -1,0 +1,483 @@
+"commercial.group","functional.group","CONTINENT","species.spawning","spawnings.spawning","species.included","spawnings.included","species.sau","stocks.sau"
+"Anchovies","Small pelagics (<30 cm)","Africa",2,4,1,1,3,36
+"Anchovies","Small pelagics (<30 cm)","Asia",5,14,4,12,7,58
+"Anchovies","Small pelagics (<30 cm)","Europe",3,37,2,22,3,44
+"Anchovies","Small pelagics (<30 cm)","North America",11,24,7,11,6,18
+"Anchovies","Small pelagics (<30 cm)","Oceania",3,3,3,3,6,11
+"Anchovies","Small pelagics (<30 cm)","South America",10,18,3,5,9,20
+"Anchovies","Small pelagics (<30 cm)",NA,4,8,1,1,NA,NA
+"Cod-likes","Large bathydemersals (>=90 cm)","Africa",1,1,0,0,1,3
+"Cod-likes","Large bathydemersals (>=90 cm)",NA,1,1,0,0,NA,NA
+"Cod-likes","Large bathypelagics (>=90 cm)","Europe",2,5,1,4,2,12
+"Cod-likes","Large bathypelagics (>=90 cm)","North America",2,2,1,1,2,6
+"Cod-likes","Large bathypelagics (>=90 cm)","Oceania",1,2,0,0,NA,NA
+"Cod-likes","Large bathypelagics (>=90 cm)",NA,5,5,2,2,NA,NA
+"Cod-likes","Large benthopelagics (>=90 cm)","Europe",2,28,2,21,6,74
+"Cod-likes","Large benthopelagics (>=90 cm)","North America",2,11,1,7,2,6
+"Cod-likes","Large benthopelagics (>=90 cm)","Oceania",1,1,1,1,1,1
+"Cod-likes","Large benthopelagics (>=90 cm)","South America",2,2,0,0,2,4
+"Cod-likes","Large benthopelagics (>=90 cm)",NA,4,8,2,3,NA,NA
+"Cod-likes","Large demersals (>=90 cm)","Africa",2,2,1,1,2,5
+"Cod-likes","Large demersals (>=90 cm)","Asia",4,6,2,3,7,12
+"Cod-likes","Large demersals (>=90 cm)","Europe",7,48,5,25,7,95
+"Cod-likes","Large demersals (>=90 cm)","North America",3,9,1,2,6,16
+"Cod-likes","Large demersals (>=90 cm)","Oceania",1,2,1,1,1,6
+"Cod-likes","Large demersals (>=90 cm)",NA,10,30,2,4,NA,NA
+"Cod-likes","Medium bathydemersals (30 - 89 cm)","Africa",2,2,0,0,2,38
+"Cod-likes","Medium bathydemersals (30 - 89 cm)","Asia",1,1,0,0,NA,NA
+"Cod-likes","Medium bathydemersals (30 - 89 cm)","Europe",1,16,0,0,1,7
+"Cod-likes","Medium bathydemersals (30 - 89 cm)","North America",2,6,2,6,1,3
+"Cod-likes","Medium bathydemersals (30 - 89 cm)","Oceania",1,1,0,0,NA,NA
+"Cod-likes","Medium bathydemersals (30 - 89 cm)","South America",6,9,2,3,2,4
+"Cod-likes","Medium bathydemersals (30 - 89 cm)",NA,5,13,1,1,NA,NA
+"Cod-likes","Medium bathypelagics (30 - 89 cm)","Europe",1,1,0,0,5,22
+"Cod-likes","Medium bathypelagics (30 - 89 cm)",NA,2,2,1,1,NA,NA
+"Cod-likes","Medium benthopelagics (30 - 89 cm)","Europe",12,22,7,13,15,179
+"Cod-likes","Medium benthopelagics (30 - 89 cm)","North America",6,10,4,7,8,29
+"Cod-likes","Medium benthopelagics (30 - 89 cm)","Oceania",1,1,1,1,6,28
+"Cod-likes","Medium benthopelagics (30 - 89 cm)","South America",2,4,2,2,6,14
+"Cod-likes","Medium benthopelagics (30 - 89 cm)",NA,14,19,7,8,NA,NA
+"Cod-likes","Medium demersals (30 - 89 cm)","Africa",1,1,0,0,2,7
+"Cod-likes","Medium demersals (30 - 89 cm)","Asia",1,3,1,2,6,13
+"Cod-likes","Medium demersals (30 - 89 cm)","Europe",5,17,4,12,11,81
+"Cod-likes","Medium demersals (30 - 89 cm)","North America",7,15,5,9,10,28
+"Cod-likes","Medium demersals (30 - 89 cm)","Oceania",1,1,1,1,2,3
+"Cod-likes","Medium demersals (30 - 89 cm)",NA,6,24,0,0,NA,NA
+"Cod-likes","Medium pelagics (30 - 89 cm)","Antarctica",1,2,1,2,NA,NA
+"Cod-likes","Small demersals (<30 cm)","Europe",2,3,2,2,NA,NA
+"Cod-likes","Small demersals (<30 cm)",NA,1,1,0,0,NA,NA
+"Flatfishes","Large flatfishes (>=90 cm)","Asia",1,2,1,2,4,11
+"Flatfishes","Large flatfishes (>=90 cm)","Europe",1,5,1,3,2,42
+"Flatfishes","Large flatfishes (>=90 cm)","North America",4,9,3,7,5,11
+"Flatfishes","Large flatfishes (>=90 cm)","South America",2,2,1,1,1,1
+"Flatfishes","Large flatfishes (>=90 cm)",NA,2,2,0,0,NA,NA
+"Flatfishes","Small to medium flatfishes (<90 cm)","Africa",3,4,1,2,22,84
+"Flatfishes","Small to medium flatfishes (<90 cm)","Asia",9,11,2,2,21,122
+"Flatfishes","Small to medium flatfishes (<90 cm)","Europe",11,32,8,24,29,385
+"Flatfishes","Small to medium flatfishes (<90 cm)","North America",18,38,15,22,35,118
+"Flatfishes","Small to medium flatfishes (<90 cm)","Seven seas (open ocean)",1,1,0,0,2,4
+"Flatfishes","Small to medium flatfishes (<90 cm)",NA,19,34,3,4,NA,NA
+"Herring-likes","Medium pelagics (30 - 89 cm)","Africa",6,19,0,0,6,69
+"Herring-likes","Medium pelagics (30 - 89 cm)","Asia",10,13,4,4,10,52
+"Herring-likes","Medium pelagics (30 - 89 cm)","Europe",17,142,2,80,8,76
+"Herring-likes","Medium pelagics (30 - 89 cm)","North America",15,39,9,26,12,27
+"Herring-likes","Medium pelagics (30 - 89 cm)","Oceania",5,28,4,21,1,3
+"Herring-likes","Medium pelagics (30 - 89 cm)","South America",5,8,5,8,2,5
+"Herring-likes","Medium pelagics (30 - 89 cm)",NA,16,33,0,0,NA,NA
+"Herring-likes","Small pelagics (<30 cm)","Africa",6,24,2,5,8,122
+"Herring-likes","Small pelagics (<30 cm)","Asia",26,61,13,23,23,244
+"Herring-likes","Small pelagics (<30 cm)","Europe",11,21,1,8,12,195
+"Herring-likes","Small pelagics (<30 cm)","North America",8,9,2,2,13,119
+"Herring-likes","Small pelagics (<30 cm)","Oceania",6,19,4,17,10,70
+"Herring-likes","Small pelagics (<30 cm)","Seven seas (open ocean)",3,3,3,3,3,4
+"Herring-likes","Small pelagics (<30 cm)","South America",9,19,7,12,14,40
+"Herring-likes","Small pelagics (<30 cm)",NA,10,16,1,1,NA,NA
+"Other fishes & inverts","Large bathydemersals (>=90 cm)","Asia",2,2,0,0,3,6
+"Other fishes & inverts","Large bathydemersals (>=90 cm)","Europe",1,1,1,1,7,76
+"Other fishes & inverts","Large bathydemersals (>=90 cm)","North America",1,1,0,0,5,14
+"Other fishes & inverts","Large bathydemersals (>=90 cm)","Oceania",2,4,2,4,3,4
+"Other fishes & inverts","Large bathydemersals (>=90 cm)",NA,5,8,2,5,NA,NA
+"Other fishes & inverts","Large benthopelagics (>=90 cm)","Asia",1,13,1,11,1,22
+"Other fishes & inverts","Large benthopelagics (>=90 cm)","Oceania",1,1,1,1,1,10
+"Other fishes & inverts","Large demersals (>=90 cm)","Asia",5,5,4,4,12,110
+"Other fishes & inverts","Large demersals (>=90 cm)","Europe",4,5,2,2,11,105
+"Other fishes & inverts","Large demersals (>=90 cm)","North America",6,7,2,2,6,13
+"Other fishes & inverts","Large demersals (>=90 cm)","Oceania",4,4,1,1,4,7
+"Other fishes & inverts","Large demersals (>=90 cm)","South America",1,1,0,0,2,6
+"Other fishes & inverts","Large demersals (>=90 cm)",NA,4,5,0,0,NA,NA
+"Other fishes & inverts","Large pelagics (>=90 cm)","Asia",4,5,0,0,4,17
+"Other fishes & inverts","Large pelagics (>=90 cm)","North America",3,5,1,1,7,22
+"Other fishes & inverts","Large pelagics (>=90 cm)","Oceania",1,1,0,0,4,9
+"Other fishes & inverts","Large pelagics (>=90 cm)","South America",1,2,1,1,3,7
+"Other fishes & inverts","Large pelagics (>=90 cm)",NA,2,2,1,1,NA,NA
+"Other fishes & inverts","Large reef assoc. fish (>=90 cm)","Africa",4,4,3,3,6,37
+"Other fishes & inverts","Large reef assoc. fish (>=90 cm)","Europe",2,2,2,2,5,23
+"Other fishes & inverts","Large reef assoc. fish (>=90 cm)","North America",3,3,2,2,5,28
+"Other fishes & inverts","Large reef assoc. fish (>=90 cm)","Oceania",2,2,1,1,5,8
+"Other fishes & inverts","Large reef assoc. fish (>=90 cm)","South America",2,2,0,0,5,11
+"Other fishes & inverts","Large reef assoc. fish (>=90 cm)",NA,2,2,1,1,NA,NA
+"Other fishes & inverts","Medium bathydemersals (30 - 89 cm)","Africa",1,1,1,1,5,31
+"Other fishes & inverts","Medium bathydemersals (30 - 89 cm)","North America",4,4,0,0,3,8
+"Other fishes & inverts","Medium bathydemersals (30 - 89 cm)","Oceania",1,1,1,1,5,10
+"Other fishes & inverts","Medium bathypelagics (30 - 89 cm)","Africa",1,1,1,1,3,14
+"Other fishes & inverts","Medium bathypelagics (30 - 89 cm)","Europe",1,1,1,1,3,12
+"Other fishes & inverts","Medium bathypelagics (30 - 89 cm)","Oceania",3,9,3,9,7,14
+"Other fishes & inverts","Medium benthopelagics (30 - 89 cm)","Africa",1,1,1,1,10,117
+"Other fishes & inverts","Medium benthopelagics (30 - 89 cm)","Asia",1,2,1,2,7,52
+"Other fishes & inverts","Medium benthopelagics (30 - 89 cm)","Europe",1,1,1,1,9,88
+"Other fishes & inverts","Medium benthopelagics (30 - 89 cm)","North America",1,3,1,3,6,16
+"Other fishes & inverts","Medium benthopelagics (30 - 89 cm)","Oceania",4,5,3,4,7,34
+"Other fishes & inverts","Medium benthopelagics (30 - 89 cm)","South America",2,3,0,0,3,5
+"Other fishes & inverts","Medium benthopelagics (30 - 89 cm)",NA,2,2,0,0,NA,NA
+"Other fishes & inverts","Medium demersals (30 - 89 cm)","Africa",5,7,1,1,10,42
+"Other fishes & inverts","Medium demersals (30 - 89 cm)","Asia",8,16,2,3,7,103
+"Other fishes & inverts","Medium demersals (30 - 89 cm)","Europe",1,1,0,0,6,12
+"Other fishes & inverts","Medium demersals (30 - 89 cm)","North America",3,5,1,2,7,23
+"Other fishes & inverts","Medium demersals (30 - 89 cm)","Oceania",5,5,0,0,6,14
+"Other fishes & inverts","Medium demersals (30 - 89 cm)","South America",8,16,0,0,12,29
+"Other fishes & inverts","Medium pelagics (30 - 89 cm)","Africa",3,3,0,0,5,24
+"Other fishes & inverts","Medium pelagics (30 - 89 cm)","Asia",1,1,1,1,10,57
+"Other fishes & inverts","Medium pelagics (30 - 89 cm)","Europe",4,4,1,1,7,57
+"Other fishes & inverts","Medium pelagics (30 - 89 cm)","North America",6,7,1,1,8,31
+"Other fishes & inverts","Medium pelagics (30 - 89 cm)","Oceania",3,3,1,1,3,16
+"Other fishes & inverts","Medium pelagics (30 - 89 cm)","South America",4,4,0,0,4,7
+"Other fishes & inverts","Medium pelagics (30 - 89 cm)",NA,4,8,0,0,NA,NA
+"Other fishes & inverts","Medium reef assoc. fish (30 - 89 cm)","Asia",5,7,1,2,4,21
+"Other fishes & inverts","Medium reef assoc. fish (30 - 89 cm)","North America",7,10,6,9,18,74
+"Other fishes & inverts","Medium reef assoc. fish (30 - 89 cm)","Oceania",5,5,2,2,9,27
+"Other fishes & inverts","Medium reef assoc. fish (30 - 89 cm)","South America",2,3,1,1,6,9
+"Other fishes & inverts","Medium reef assoc. fish (30 - 89 cm)",NA,2,2,0,0,NA,NA
+"Other fishes & inverts","Small bathypelagics (<30 cm)","Antarctica",1,1,1,1,NA,NA
+"Other fishes & inverts","Small bathypelagics (<30 cm)","Asia",2,2,0,0,1,4
+"Other fishes & inverts","Small bathypelagics (<30 cm)","Europe",1,1,0,0,4,15
+"Other fishes & inverts","Small bathypelagics (<30 cm)","North America",2,2,0,0,NA,NA
+"Other fishes & inverts","Small bathypelagics (<30 cm)",NA,3,4,0,0,NA,NA
+"Other fishes & inverts","Small demersals (<30 cm)","Africa",2,2,0,0,3,8
+"Other fishes & inverts","Small demersals (<30 cm)","Asia",2,2,0,0,3,7
+"Other fishes & inverts","Small demersals (<30 cm)","Europe",2,8,2,3,6,33
+"Other fishes & inverts","Small demersals (<30 cm)",NA,3,4,0,0,NA,NA
+"Other fishes & inverts","Small pelagics (<30 cm)","Asia",1,1,0,0,3,17
+"Other fishes & inverts","Small pelagics (<30 cm)","Europe",1,1,0,0,3,30
+"Other fishes & inverts","Small pelagics (<30 cm)","North America",3,12,2,4,2,4
+"Other fishes & inverts","Small pelagics (<30 cm)","South America",1,2,1,2,1,2
+"Other fishes & inverts","Small pelagics (<30 cm)",NA,3,3,1,1,NA,NA
+"Other fishes & inverts","Small reef assoc. fish (<30 cm)","Africa",1,2,0,0,3,14
+"Other fishes & inverts","Small reef assoc. fish (<30 cm)","Asia",5,7,5,6,4,37
+"Other fishes & inverts","Small reef assoc. fish (<30 cm)","Europe",1,2,1,2,4,12
+"Other fishes & inverts","Small reef assoc. fish (<30 cm)","North America",4,4,2,2,13,35
+"Other fishes & inverts","Small reef assoc. fish (<30 cm)","Oceania",6,6,3,3,5,23
+"Other fishes & inverts","Small reef assoc. fish (<30 cm)","South America",1,2,1,1,3,4
+"Other fishes & inverts","Small reef assoc. fish (<30 cm)",NA,10,11,5,6,NA,NA
+"Perch-likes","Large bathydemersals (>=90 cm)","Europe",1,1,1,1,6,42
+"Perch-likes","Large bathydemersals (>=90 cm)","North America",1,1,1,1,3,8
+"Perch-likes","Large bathydemersals (>=90 cm)","Oceania",2,2,2,2,4,12
+"Perch-likes","Large bathydemersals (>=90 cm)","Seven seas (open ocean)",1,2,1,2,NA,NA
+"Perch-likes","Large bathydemersals (>=90 cm)","South America",1,1,1,1,3,7
+"Perch-likes","Large bathydemersals (>=90 cm)",NA,2,3,0,0,NA,NA
+"Perch-likes","Large bathypelagics (>=90 cm)",NA,1,1,1,1,NA,NA
+"Perch-likes","Large benthopelagics (>=90 cm)","Africa",14,18,11,13,21,213
+"Perch-likes","Large benthopelagics (>=90 cm)","Antarctica",1,1,1,1,NA,NA
+"Perch-likes","Large benthopelagics (>=90 cm)","Asia",9,32,6,22,16,161
+"Perch-likes","Large benthopelagics (>=90 cm)","Europe",5,8,4,6,21,137
+"Perch-likes","Large benthopelagics (>=90 cm)","North America",2,5,2,3,13,46
+"Perch-likes","Large benthopelagics (>=90 cm)","Oceania",7,12,6,11,15,69
+"Perch-likes","Large benthopelagics (>=90 cm)","South America",1,1,0,0,11,37
+"Perch-likes","Large benthopelagics (>=90 cm)",NA,10,13,4,4,NA,NA
+"Perch-likes","Large demersals (>=90 cm)","Africa",14,18,10,10,16,165
+"Perch-likes","Large demersals (>=90 cm)","Asia",8,18,1,2,15,98
+"Perch-likes","Large demersals (>=90 cm)","Europe",13,43,9,12,17,121
+"Perch-likes","Large demersals (>=90 cm)","North America",14,31,8,18,25,71
+"Perch-likes","Large demersals (>=90 cm)","Oceania",7,37,4,19,8,21
+"Perch-likes","Large demersals (>=90 cm)","South America",4,6,2,2,13,28
+"Perch-likes","Large demersals (>=90 cm)",NA,20,34,4,4,NA,NA
+"Perch-likes","Large pelagics (>=90 cm)","Africa",11,12,4,4,16,264
+"Perch-likes","Large pelagics (>=90 cm)","Asia",5,14,2,4,15,300
+"Perch-likes","Large pelagics (>=90 cm)","Europe",3,13,3,9,15,201
+"Perch-likes","Large pelagics (>=90 cm)","North America",22,50,13,23,17,222
+"Perch-likes","Large pelagics (>=90 cm)","Oceania",8,9,6,6,14,111
+"Perch-likes","Large pelagics (>=90 cm)","Seven seas (open ocean)",1,1,1,1,11,24
+"Perch-likes","Large pelagics (>=90 cm)","South America",15,17,1,1,17,91
+"Perch-likes","Large pelagics (>=90 cm)",NA,8,12,2,2,NA,NA
+"Perch-likes","Large reef assoc. fish (>=90 cm)","Africa",4,6,4,6,9,41
+"Perch-likes","Large reef assoc. fish (>=90 cm)","Asia",10,46,5,35,19,123
+"Perch-likes","Large reef assoc. fish (>=90 cm)","Europe",1,3,1,3,17,91
+"Perch-likes","Large reef assoc. fish (>=90 cm)","North America",12,85,11,67,15,107
+"Perch-likes","Large reef assoc. fish (>=90 cm)","Oceania",17,77,15,70,18,44
+"Perch-likes","Large reef assoc. fish (>=90 cm)","Seven seas (open ocean)",4,11,2,8,8,9
+"Perch-likes","Large reef assoc. fish (>=90 cm)","South America",7,9,4,4,10,29
+"Perch-likes","Large reef assoc. fish (>=90 cm)",NA,5,5,0,0,NA,NA
+"Perch-likes","Medium bathydemersals (30 - 89 cm)","Antarctica",2,3,1,1,NA,NA
+"Perch-likes","Medium bathydemersals (30 - 89 cm)","Europe",1,1,1,1,7,44
+"Perch-likes","Medium bathydemersals (30 - 89 cm)","North America",2,2,2,2,4,14
+"Perch-likes","Medium bathydemersals (30 - 89 cm)",NA,6,6,2,2,NA,NA
+"Perch-likes","Medium bathypelagics (30 - 89 cm)",NA,1,1,0,0,NA,NA
+"Perch-likes","Medium benthopelagics (30 - 89 cm)","Africa",27,32,15,18,30,277
+"Perch-likes","Medium benthopelagics (30 - 89 cm)","Antarctica",4,6,0,0,NA,NA
+"Perch-likes","Medium benthopelagics (30 - 89 cm)","Asia",13,23,9,12,26,202
+"Perch-likes","Medium benthopelagics (30 - 89 cm)","Europe",5,7,4,5,29,213
+"Perch-likes","Medium benthopelagics (30 - 89 cm)","North America",6,12,3,5,17,42
+"Perch-likes","Medium benthopelagics (30 - 89 cm)","Oceania",1,6,1,2,11,25
+"Perch-likes","Medium benthopelagics (30 - 89 cm)","Seven seas (open ocean)",1,2,1,2,3,7
+"Perch-likes","Medium benthopelagics (30 - 89 cm)","South America",7,11,3,4,19,35
+"Perch-likes","Medium benthopelagics (30 - 89 cm)",NA,21,49,6,6,NA,NA
+"Perch-likes","Medium demersals (30 - 89 cm)","Africa",23,32,13,19,45,385
+"Perch-likes","Medium demersals (30 - 89 cm)","Antarctica",8,15,3,4,NA,NA
+"Perch-likes","Medium demersals (30 - 89 cm)","Asia",26,60,8,24,46,415
+"Perch-likes","Medium demersals (30 - 89 cm)","Europe",18,36,7,15,64,472
+"Perch-likes","Medium demersals (30 - 89 cm)","North America",35,87,27,46,44,183
+"Perch-likes","Medium demersals (30 - 89 cm)","Oceania",21,34,13,21,43,128
+"Perch-likes","Medium demersals (30 - 89 cm)","Seven seas (open ocean)",8,11,7,9,7,11
+"Perch-likes","Medium demersals (30 - 89 cm)","South America",29,85,16,24,44,124
+"Perch-likes","Medium demersals (30 - 89 cm)",NA,34,51,7,7,NA,NA
+"Perch-likes","Medium pelagics (30 - 89 cm)","Africa",3,3,1,1,26,248
+"Perch-likes","Medium pelagics (30 - 89 cm)","Antarctica",1,4,1,2,NA,NA
+"Perch-likes","Medium pelagics (30 - 89 cm)","Asia",8,24,8,21,23,347
+"Perch-likes","Medium pelagics (30 - 89 cm)","Europe",3,5,2,3,23,267
+"Perch-likes","Medium pelagics (30 - 89 cm)","North America",5,8,4,7,17,100
+"Perch-likes","Medium pelagics (30 - 89 cm)","Oceania",3,5,3,5,17,106
+"Perch-likes","Medium pelagics (30 - 89 cm)","Seven seas (open ocean)",3,3,3,3,8,13
+"Perch-likes","Medium pelagics (30 - 89 cm)","South America",3,3,0,0,12,46
+"Perch-likes","Medium pelagics (30 - 89 cm)",NA,10,10,4,4,NA,NA
+"Perch-likes","Medium reef assoc. fish (30 - 89 cm)","Africa",17,19,6,6,155,1178
+"Perch-likes","Medium reef assoc. fish (30 - 89 cm)","Antarctica",1,1,0,0,NA,NA
+"Perch-likes","Medium reef assoc. fish (30 - 89 cm)","Asia",57,111,32,69,242,2091
+"Perch-likes","Medium reef assoc. fish (30 - 89 cm)","Europe",9,13,3,4,283,2227
+"Perch-likes","Medium reef assoc. fish (30 - 89 cm)","North America",79,208,53,146,249,1171
+"Perch-likes","Medium reef assoc. fish (30 - 89 cm)","Oceania",109,203,77,156,197,737
+"Perch-likes","Medium reef assoc. fish (30 - 89 cm)","Seven seas (open ocean)",5,8,3,6,55,85
+"Perch-likes","Medium reef assoc. fish (30 - 89 cm)","South America",33,48,10,14,117,331
+"Perch-likes","Medium reef assoc. fish (30 - 89 cm)",NA,41,51,10,11,NA,NA
+"Perch-likes","Small bathydemersals (<30 cm)","Asia",1,1,1,1,1,4
+"Perch-likes","Small bathydemersals (<30 cm)","Europe",1,2,1,2,NA,NA
+"Perch-likes","Small benthopelagics (<30 cm)","Africa",6,9,3,4,6,31
+"Perch-likes","Small benthopelagics (<30 cm)","Antarctica",2,3,1,1,NA,NA
+"Perch-likes","Small benthopelagics (<30 cm)","Asia",9,15,6,6,7,63
+"Perch-likes","Small benthopelagics (<30 cm)","Europe",2,8,2,6,6,33
+"Perch-likes","Small benthopelagics (<30 cm)","North America",4,4,0,0,6,13
+"Perch-likes","Small benthopelagics (<30 cm)","Oceania",5,6,1,1,3,10
+"Perch-likes","Small benthopelagics (<30 cm)","Seven seas (open ocean)",2,3,2,2,NA,NA
+"Perch-likes","Small benthopelagics (<30 cm)","South America",4,5,1,1,1,3
+"Perch-likes","Small benthopelagics (<30 cm)",NA,4,11,0,0,NA,NA
+"Perch-likes","Small demersals (<30 cm)","Africa",1,1,0,0,16,88
+"Perch-likes","Small demersals (<30 cm)","Antarctica",1,1,0,0,NA,NA
+"Perch-likes","Small demersals (<30 cm)","Asia",7,27,5,18,18,122
+"Perch-likes","Small demersals (<30 cm)","Europe",5,18,3,7,13,91
+"Perch-likes","Small demersals (<30 cm)","North America",7,17,3,5,20,62
+"Perch-likes","Small demersals (<30 cm)","Oceania",2,2,2,2,7,16
+"Perch-likes","Small demersals (<30 cm)","Seven seas (open ocean)",1,1,1,1,NA,NA
+"Perch-likes","Small demersals (<30 cm)","South America",10,16,3,4,15,27
+"Perch-likes","Small demersals (<30 cm)",NA,8,12,2,2,NA,NA
+"Perch-likes","Small pelagics (<30 cm)","Antarctica",1,3,1,1,NA,NA
+"Perch-likes","Small pelagics (<30 cm)","North America",1,1,0,0,3,5
+"Perch-likes","Small pelagics (<30 cm)","Oceania",1,1,0,0,3,4
+"Perch-likes","Small pelagics (<30 cm)",NA,1,1,1,1,NA,NA
+"Perch-likes","Small reef assoc. fish (<30 cm)","Asia",8,9,1,1,15,124
+"Perch-likes","Small reef assoc. fish (<30 cm)","Europe",1,1,1,1,17,57
+"Perch-likes","Small reef assoc. fish (<30 cm)","North America",16,27,8,9,27,77
+"Perch-likes","Small reef assoc. fish (<30 cm)","Oceania",24,51,18,39,22,71
+"Perch-likes","Small reef assoc. fish (<30 cm)","Seven seas (open ocean)",2,2,2,2,1,1
+"Perch-likes","Small reef assoc. fish (<30 cm)","South America",8,8,0,0,9,15
+"Perch-likes","Small reef assoc. fish (<30 cm)",NA,7,9,3,3,NA,NA
+"Salmon, smelts, etc","Large benthopelagics (>=90 cm)","Africa",3,3,0,0,NA,NA
+"Salmon, smelts, etc","Large benthopelagics (>=90 cm)","Asia",23,49,2,2,8,14
+"Salmon, smelts, etc","Large benthopelagics (>=90 cm)","Europe",72,185,1,2,3,47
+"Salmon, smelts, etc","Large benthopelagics (>=90 cm)","North America",38,93,0,0,8,28
+"Salmon, smelts, etc","Large benthopelagics (>=90 cm)","Oceania",5,5,0,0,NA,NA
+"Salmon, smelts, etc","Large benthopelagics (>=90 cm)","South America",3,4,0,0,NA,NA
+"Salmon, smelts, etc","Large benthopelagics (>=90 cm)",NA,71,129,0,0,NA,NA
+"Salmon, smelts, etc","Medium bathydemersals (30 - 89 cm)","Asia",1,1,0,0,1,1
+"Salmon, smelts, etc","Medium bathydemersals (30 - 89 cm)","Europe",1,2,1,2,3,28
+"Salmon, smelts, etc","Medium bathydemersals (30 - 89 cm)","North America",3,4,2,3,1,1
+"Salmon, smelts, etc","Medium bathydemersals (30 - 89 cm)",NA,8,10,1,1,NA,NA
+"Salmon, smelts, etc","Medium benthopelagics (30 - 89 cm)","Europe",1,6,0,0,NA,NA
+"Salmon, smelts, etc","Medium benthopelagics (30 - 89 cm)","North America",1,3,0,0,1,4
+"Salmon, smelts, etc","Medium benthopelagics (30 - 89 cm)",NA,1,4,0,0,NA,NA
+"Salmon, smelts, etc","Medium demersals (30 - 89 cm)","Asia",1,2,1,1,3,5
+"Salmon, smelts, etc","Medium demersals (30 - 89 cm)","Europe",43,92,0,0,3,35
+"Salmon, smelts, etc","Medium demersals (30 - 89 cm)","North America",11,14,0,0,4,12
+"Salmon, smelts, etc","Medium demersals (30 - 89 cm)",NA,23,36,0,0,NA,NA
+"Salmon, smelts, etc","Small pelagics (<30 cm)","North America",2,2,1,1,5,18
+"Salmon, smelts, etc","Small pelagics (<30 cm)",NA,1,2,0,0,NA,NA
+"Scorpionfishes","Large bathydemersals (>=90 cm)","Asia",1,1,0,0,1,1
+"Scorpionfishes","Large bathydemersals (>=90 cm)","Europe",1,1,1,1,NA,NA
+"Scorpionfishes","Large bathydemersals (>=90 cm)","North America",1,2,1,2,1,3
+"Scorpionfishes","Large bathydemersals (>=90 cm)",NA,1,1,0,0,NA,NA
+"Scorpionfishes","Large demersals (>=90 cm)","North America",1,1,1,1,1,3
+"Scorpionfishes","Large demersals (>=90 cm)",NA,1,1,0,0,NA,NA
+"Scorpionfishes","Medium bathydemersals (30 - 89 cm)","Europe",1,1,0,0,5,32
+"Scorpionfishes","Medium bathydemersals (30 - 89 cm)","North America",1,1,1,1,2,3
+"Scorpionfishes","Medium bathydemersals (30 - 89 cm)","Seven seas (open ocean)",1,1,1,1,NA,NA
+"Scorpionfishes","Medium bathydemersals (30 - 89 cm)",NA,2,5,0,0,NA,NA
+"Scorpionfishes","Medium benthopelagics (30 - 89 cm)","North America",1,1,1,1,2,6
+"Scorpionfishes","Medium benthopelagics (30 - 89 cm)",NA,1,2,0,0,NA,NA
+"Scorpionfishes","Medium demersals (30 - 89 cm)","Africa",2,2,1,1,8,52
+"Scorpionfishes","Medium demersals (30 - 89 cm)","Asia",1,1,1,1,15,50
+"Scorpionfishes","Medium demersals (30 - 89 cm)","Europe",8,18,2,4,16,200
+"Scorpionfishes","Medium demersals (30 - 89 cm)","North America",6,8,1,1,15,44
+"Scorpionfishes","Medium demersals (30 - 89 cm)","Oceania",1,1,1,1,6,10
+"Scorpionfishes","Medium demersals (30 - 89 cm)","South America",3,3,0,0,4,7
+"Scorpionfishes","Medium demersals (30 - 89 cm)",NA,7,9,2,3,NA,NA
+"Scorpionfishes","Small demersals (<30 cm)","Europe",1,1,1,1,3,22
+"Sharks & rays","Large rays (>=90 cm)","Africa",7,7,2,2,17,87
+"Sharks & rays","Large rays (>=90 cm)","Asia",1,2,0,0,14,66
+"Sharks & rays","Large rays (>=90 cm)","Europe",3,3,1,1,26,218
+"Sharks & rays","Large rays (>=90 cm)","North America",5,7,2,2,10,49
+"Sharks & rays","Large rays (>=90 cm)","Oceania",3,3,2,2,12,21
+"Sharks & rays","Large rays (>=90 cm)","South America",2,2,0,0,15,39
+"Sharks & rays","Large rays (>=90 cm)",NA,16,16,5,5,NA,NA
+"Sharks & rays","Large sharks (>=90 cm)","Africa",21,25,19,23,67,1190
+"Sharks & rays","Large sharks (>=90 cm)","Asia",11,11,7,7,50,644
+"Sharks & rays","Large sharks (>=90 cm)","Europe",4,4,1,1,62,1267
+"Sharks & rays","Large sharks (>=90 cm)","North America",18,22,14,17,49,530
+"Sharks & rays","Large sharks (>=90 cm)","Oceania",17,19,15,16,52,322
+"Sharks & rays","Large sharks (>=90 cm)","Seven seas (open ocean)",1,1,1,1,29,69
+"Sharks & rays","Large sharks (>=90 cm)","South America",3,6,2,3,48,282
+"Sharks & rays","Large sharks (>=90 cm)",NA,84,112,21,23,NA,NA
+"Sharks & rays","Small to medium rays (<90 cm)","Africa",6,6,0,0,11,50
+"Sharks & rays","Small to medium rays (<90 cm)","Asia",1,1,0,0,2,3
+"Sharks & rays","Small to medium rays (<90 cm)","Europe",6,6,3,3,14,95
+"Sharks & rays","Small to medium rays (<90 cm)","North America",3,5,0,0,6,10
+"Sharks & rays","Small to medium rays (<90 cm)","Oceania",3,3,3,3,5,8
+"Sharks & rays","Small to medium rays (<90 cm)","South America",9,11,1,1,9,13
+"Sharks & rays","Small to medium rays (<90 cm)",NA,23,24,2,2,NA,NA
+"Sharks & rays","Small to medium sharks (<90 cm)","Asia",4,4,2,2,2,3
+"Sharks & rays","Small to medium sharks (<90 cm)","North America",2,2,2,2,2,5
+"Sharks & rays","Small to medium sharks (<90 cm)","Oceania",6,6,4,4,4,6
+"Sharks & rays","Small to medium sharks (<90 cm)",NA,30,31,7,7,NA,NA
+"Tuna & billfishes","Large pelagics (>=90 cm)","Africa",5,11,2,5,28,559
+"Tuna & billfishes","Large pelagics (>=90 cm)","Asia",9,13,5,7,26,552
+"Tuna & billfishes","Large pelagics (>=90 cm)","Europe",1,1,1,1,29,714
+"Tuna & billfishes","Large pelagics (>=90 cm)","North America",8,15,5,8,28,554
+"Tuna & billfishes","Large pelagics (>=90 cm)","Oceania",8,23,2,2,20,318
+"Tuna & billfishes","Large pelagics (>=90 cm)","Seven seas (open ocean)",1,1,1,1,17,49
+"Tuna & billfishes","Large pelagics (>=90 cm)","South America",8,8,0,0,23,215
+"Tuna & billfishes","Large pelagics (>=90 cm)",NA,16,38,1,1,NA,NA
+"Tuna & billfishes","Large reef assoc. fish (>=90 cm)","Oceania",1,1,1,1,1,1
+"Tuna & billfishes","Medium pelagics (30 - 89 cm)","Africa",1,3,1,2,4,121
+"Tuna & billfishes","Medium pelagics (30 - 89 cm)","Asia",4,8,3,7,4,91
+"Tuna & billfishes","Medium pelagics (30 - 89 cm)","North America",5,11,4,10,6,75
+"Tuna & billfishes","Medium pelagics (30 - 89 cm)","South America",1,3,1,3,6,36
+"Tuna & billfishes","Medium pelagics (30 - 89 cm)",NA,5,11,0,0,NA,NA
+"","","Africa",NA,NA,NA,NA,1,2
+"","","Asia",NA,NA,NA,NA,3,9
+"","","Europe",NA,NA,NA,NA,2,2
+"","","North America",NA,NA,NA,NA,2,4
+"","","South America",NA,NA,NA,NA,2,2
+"Anchovies","Small pelagics (<30 cm)","Seven seas (open ocean)",NA,NA,NA,NA,1,1
+"Cod-likes","Large benthopelagics (>=90 cm)","Africa",NA,NA,NA,NA,1,3
+"Cod-likes","Large benthopelagics (>=90 cm)","Asia",NA,NA,NA,NA,2,2
+"Cod-likes","Medium bathypelagics (30 - 89 cm)","Africa",NA,NA,NA,NA,2,3
+"Cod-likes","Medium bathypelagics (30 - 89 cm)","Asia",NA,NA,NA,NA,1,1
+"Cod-likes","Medium bathypelagics (30 - 89 cm)","North America",NA,NA,NA,NA,1,1
+"Cod-likes","Medium bathypelagics (30 - 89 cm)","Oceania",NA,NA,NA,NA,6,15
+"Cod-likes","Medium bathypelagics (30 - 89 cm)","South America",NA,NA,NA,NA,1,1
+"Cod-likes","Medium benthopelagics (30 - 89 cm)","Africa",NA,NA,NA,NA,8,50
+"Cod-likes","Medium benthopelagics (30 - 89 cm)","Asia",NA,NA,NA,NA,7,37
+"Cod-likes","Medium benthopelagics (30 - 89 cm)","Seven seas (open ocean)",NA,NA,NA,NA,1,3
+"Cod-likes","Medium demersals (30 - 89 cm)","South America",NA,NA,NA,NA,3,7
+"Cod-likes","Medium pelagics (30 - 89 cm)","Europe",NA,NA,NA,NA,1,2
+"Cod-likes","Small pelagics (<30 cm)","Asia",NA,NA,NA,NA,1,5
+"Cod-likes","Small pelagics (<30 cm)","Seven seas (open ocean)",NA,NA,NA,NA,1,1
+"Flatfishes","Large flatfishes (>=90 cm)","Africa",NA,NA,NA,NA,1,1
+"Flatfishes","Small to medium flatfishes (<90 cm)","Oceania",NA,NA,NA,NA,7,21
+"Flatfishes","Small to medium flatfishes (<90 cm)","South America",NA,NA,NA,NA,7,23
+"Herring-likes","Large benthopelagics (>=90 cm)","Africa",NA,NA,NA,NA,2,2
+"Herring-likes","Large benthopelagics (>=90 cm)","Asia",NA,NA,NA,NA,2,46
+"Herring-likes","Large benthopelagics (>=90 cm)","Europe",NA,NA,NA,NA,2,3
+"Herring-likes","Large benthopelagics (>=90 cm)","North America",NA,NA,NA,NA,1,2
+"Herring-likes","Large benthopelagics (>=90 cm)","Oceania",NA,NA,NA,NA,2,15
+"Herring-likes","Large pelagics (>=90 cm)","Africa",NA,NA,NA,NA,1,1
+"Herring-likes","Large pelagics (>=90 cm)","Asia",NA,NA,NA,NA,1,9
+"Other fishes & inverts","Large bathydemersals (>=90 cm)","Africa",NA,NA,NA,NA,6,27
+"Other fishes & inverts","Large bathydemersals (>=90 cm)","South America",NA,NA,NA,NA,3,9
+"Other fishes & inverts","Large bathypelagics (>=90 cm)","Africa",NA,NA,NA,NA,2,32
+"Other fishes & inverts","Large bathypelagics (>=90 cm)","Asia",NA,NA,NA,NA,2,5
+"Other fishes & inverts","Large bathypelagics (>=90 cm)","Europe",NA,NA,NA,NA,3,27
+"Other fishes & inverts","Large bathypelagics (>=90 cm)","North America",NA,NA,NA,NA,2,6
+"Other fishes & inverts","Large bathypelagics (>=90 cm)","Oceania",NA,NA,NA,NA,3,12
+"Other fishes & inverts","Large bathypelagics (>=90 cm)","Seven seas (open ocean)",NA,NA,NA,NA,1,3
+"Other fishes & inverts","Large bathypelagics (>=90 cm)","South America",NA,NA,NA,NA,1,8
+"Other fishes & inverts","Large benthopelagics (>=90 cm)","Africa",NA,NA,NA,NA,2,2
+"Other fishes & inverts","Large benthopelagics (>=90 cm)","Europe",NA,NA,NA,NA,2,4
+"Other fishes & inverts","Large benthopelagics (>=90 cm)","North America",NA,NA,NA,NA,2,8
+"Other fishes & inverts","Large benthopelagics (>=90 cm)","Seven seas (open ocean)",NA,NA,NA,NA,1,2
+"Other fishes & inverts","Large demersals (>=90 cm)","Africa",NA,NA,NA,NA,5,35
+"Other fishes & inverts","Large demersals (>=90 cm)","Seven seas (open ocean)",NA,NA,NA,NA,1,1
+"Other fishes & inverts","Large pelagics (>=90 cm)","Africa",NA,NA,NA,NA,5,15
+"Other fishes & inverts","Large pelagics (>=90 cm)","Europe",NA,NA,NA,NA,6,25
+"Other fishes & inverts","Large reef assoc. fish (>=90 cm)","Asia",NA,NA,NA,NA,4,16
+"Other fishes & inverts","Medium bathydemersals (30 - 89 cm)","Asia",NA,NA,NA,NA,1,4
+"Other fishes & inverts","Medium bathydemersals (30 - 89 cm)","Europe",NA,NA,NA,NA,3,20
+"Other fishes & inverts","Medium bathydemersals (30 - 89 cm)","South America",NA,NA,NA,NA,1,2
+"Other fishes & inverts","Medium bathypelagics (30 - 89 cm)","Asia",NA,NA,NA,NA,1,1
+"Other fishes & inverts","Medium bathypelagics (30 - 89 cm)","North America",NA,NA,NA,NA,2,2
+"Other fishes & inverts","Medium bathypelagics (30 - 89 cm)","South America",NA,NA,NA,NA,1,1
+"Other fishes & inverts","Medium benthopelagics (30 - 89 cm)","Seven seas (open ocean)",NA,NA,NA,NA,3,6
+"Other fishes & inverts","Medium reef assoc. fish (30 - 89 cm)","Africa",NA,NA,NA,NA,6,44
+"Other fishes & inverts","Medium reef assoc. fish (30 - 89 cm)","Europe",NA,NA,NA,NA,9,30
+"Other fishes & inverts","Small bathydemersals (<30 cm)","Oceania",NA,NA,NA,NA,1,1
+"Other fishes & inverts","Small bathypelagics (<30 cm)","Africa",NA,NA,NA,NA,1,8
+"Other fishes & inverts","Small bathypelagics (<30 cm)","Oceania",NA,NA,NA,NA,2,5
+"Other fishes & inverts","Small bathypelagics (<30 cm)","Seven seas (open ocean)",NA,NA,NA,NA,1,1
+"Other fishes & inverts","Small benthopelagics (<30 cm)","Asia",NA,NA,NA,NA,2,2
+"Other fishes & inverts","Small benthopelagics (<30 cm)","Europe",NA,NA,NA,NA,1,14
+"Other fishes & inverts","Small demersals (<30 cm)","North America",NA,NA,NA,NA,3,6
+"Other fishes & inverts","Small demersals (<30 cm)","Oceania",NA,NA,NA,NA,3,4
+"Other fishes & inverts","Small demersals (<30 cm)","South America",NA,NA,NA,NA,2,5
+"Other fishes & inverts","Small pelagics (<30 cm)","Africa",NA,NA,NA,NA,2,7
+"Other fishes & inverts","Small pelagics (<30 cm)","Oceania",NA,NA,NA,NA,2,2
+"Other fishes & inverts","Small reef assoc. fish (<30 cm)","Seven seas (open ocean)",NA,NA,NA,NA,1,2
+"Perch-likes","Large bathydemersals (>=90 cm)","Africa",NA,NA,NA,NA,4,21
+"Perch-likes","Large bathydemersals (>=90 cm)","Asia",NA,NA,NA,NA,2,2
+"Perch-likes","Large bathypelagics (>=90 cm)","Africa",NA,NA,NA,NA,2,16
+"Perch-likes","Large bathypelagics (>=90 cm)","Asia",NA,NA,NA,NA,1,14
+"Perch-likes","Large bathypelagics (>=90 cm)","Europe",NA,NA,NA,NA,2,16
+"Perch-likes","Large bathypelagics (>=90 cm)","North America",NA,NA,NA,NA,1,5
+"Perch-likes","Large bathypelagics (>=90 cm)","Oceania",NA,NA,NA,NA,2,10
+"Perch-likes","Large bathypelagics (>=90 cm)","Seven seas (open ocean)",NA,NA,NA,NA,1,3
+"Perch-likes","Large bathypelagics (>=90 cm)","South America",NA,NA,NA,NA,1,5
+"Perch-likes","Large benthopelagics (>=90 cm)","Seven seas (open ocean)",NA,NA,NA,NA,6,14
+"Perch-likes","Medium bathydemersals (30 - 89 cm)","Africa",NA,NA,NA,NA,5,16
+"Perch-likes","Medium bathydemersals (30 - 89 cm)","Asia",NA,NA,NA,NA,3,14
+"Perch-likes","Medium bathydemersals (30 - 89 cm)","Oceania",NA,NA,NA,NA,5,13
+"Perch-likes","Medium bathydemersals (30 - 89 cm)","Seven seas (open ocean)",NA,NA,NA,NA,1,1
+"Perch-likes","Medium bathydemersals (30 - 89 cm)","South America",NA,NA,NA,NA,2,2
+"Perch-likes","Medium bathypelagics (30 - 89 cm)","Africa",NA,NA,NA,NA,2,32
+"Perch-likes","Medium bathypelagics (30 - 89 cm)","Asia",NA,NA,NA,NA,2,24
+"Perch-likes","Medium bathypelagics (30 - 89 cm)","Europe",NA,NA,NA,NA,2,39
+"Perch-likes","Medium bathypelagics (30 - 89 cm)","North America",NA,NA,NA,NA,1,2
+"Perch-likes","Medium bathypelagics (30 - 89 cm)","Oceania",NA,NA,NA,NA,4,10
+"Perch-likes","Medium bathypelagics (30 - 89 cm)","Seven seas (open ocean)",NA,NA,NA,NA,1,3
+"Perch-likes","Medium bathypelagics (30 - 89 cm)","South America",NA,NA,NA,NA,3,5
+"Perch-likes","Small bathydemersals (<30 cm)","North America",NA,NA,NA,NA,1,2
+"Perch-likes","Small pelagics (<30 cm)","Africa",NA,NA,NA,NA,1,1
+"Perch-likes","Small pelagics (<30 cm)","Asia",NA,NA,NA,NA,4,23
+"Perch-likes","Small reef assoc. fish (<30 cm)","Africa",NA,NA,NA,NA,9,24
+"Salmon, smelts, etc","Large bathydemersals (>=90 cm)","Europe",NA,NA,NA,NA,1,6
+"Salmon, smelts, etc","Large bathydemersals (>=90 cm)","North America",NA,NA,NA,NA,1,2
+"Salmon, smelts, etc","Large demersals (>=90 cm)","Asia",NA,NA,NA,NA,1,1
+"Salmon, smelts, etc","Large demersals (>=90 cm)","North America",NA,NA,NA,NA,2,7
+"Salmon, smelts, etc","Large pelagics (>=90 cm)","Asia",NA,NA,NA,NA,2,2
+"Salmon, smelts, etc","Large pelagics (>=90 cm)","Europe",NA,NA,NA,NA,2,44
+"Salmon, smelts, etc","Large pelagics (>=90 cm)","North America",NA,NA,NA,NA,1,3
+"Salmon, smelts, etc","Medium bathydemersals (30 - 89 cm)","Africa",NA,NA,NA,NA,1,1
+"Salmon, smelts, etc","Medium bathydemersals (30 - 89 cm)","Oceania",NA,NA,NA,NA,1,1
+"Salmon, smelts, etc","Medium pelagics (30 - 89 cm)","Africa",NA,NA,NA,NA,1,4
+"Salmon, smelts, etc","Medium pelagics (30 - 89 cm)","Asia",NA,NA,NA,NA,3,5
+"Salmon, smelts, etc","Medium pelagics (30 - 89 cm)","Europe",NA,NA,NA,NA,3,36
+"Salmon, smelts, etc","Medium pelagics (30 - 89 cm)","North America",NA,NA,NA,NA,4,11
+"Salmon, smelts, etc","Small pelagics (<30 cm)","Asia",NA,NA,NA,NA,2,4
+"Salmon, smelts, etc","Small pelagics (<30 cm)","Europe",NA,NA,NA,NA,2,9
+"Scorpionfishes","Medium bathydemersals (30 - 89 cm)","Africa",NA,NA,NA,NA,5,27
+"Scorpionfishes","Medium bathydemersals (30 - 89 cm)","Asia",NA,NA,NA,NA,3,7
+"Scorpionfishes","Medium bathydemersals (30 - 89 cm)","Oceania",NA,NA,NA,NA,1,1
+"Scorpionfishes","Medium bathypelagics (30 - 89 cm)","Asia",NA,NA,NA,NA,1,1
+"Scorpionfishes","Medium bathypelagics (30 - 89 cm)","Europe",NA,NA,NA,NA,1,6
+"Scorpionfishes","Medium bathypelagics (30 - 89 cm)","North America",NA,NA,NA,NA,1,2
+"Scorpionfishes","Medium benthopelagics (30 - 89 cm)","Asia",NA,NA,NA,NA,2,2
+"Scorpionfishes","Medium benthopelagics (30 - 89 cm)","Europe",NA,NA,NA,NA,2,30
+"Scorpionfishes","Medium pelagics (30 - 89 cm)","North America",NA,NA,NA,NA,1,2
+"Scorpionfishes","Medium reef assoc. fish (30 - 89 cm)","Asia",NA,NA,NA,NA,1,2
+"Scorpionfishes","Medium reef assoc. fish (30 - 89 cm)","Europe",NA,NA,NA,NA,1,1
+"Scorpionfishes","Medium reef assoc. fish (30 - 89 cm)","North America",NA,NA,NA,NA,5,9
+"Scorpionfishes","Small demersals (<30 cm)","Africa",NA,NA,NA,NA,4,31
+"Scorpionfishes","Small demersals (<30 cm)","Asia",NA,NA,NA,NA,5,28
+"Scorpionfishes","Small demersals (<30 cm)","North America",NA,NA,NA,NA,3,5
+"Scorpionfishes","Small demersals (<30 cm)","Oceania",NA,NA,NA,NA,1,1
+"Scorpionfishes","Small demersals (<30 cm)","South America",NA,NA,NA,NA,1,1
+"Scorpionfishes","Small reef assoc. fish (<30 cm)","Africa",NA,NA,NA,NA,1,10
+"Scorpionfishes","Small reef assoc. fish (<30 cm)","Asia",NA,NA,NA,NA,1,11
+"Scorpionfishes","Small reef assoc. fish (<30 cm)","Europe",NA,NA,NA,NA,1,24
+"Scorpionfishes","Small reef assoc. fish (<30 cm)","North America",NA,NA,NA,NA,2,5
+"Scorpionfishes","Small reef assoc. fish (<30 cm)","Oceania",NA,NA,NA,NA,1,3
+"Sharks & rays","Large rays (>=90 cm)","Seven seas (open ocean)",NA,NA,NA,NA,2,4
+"Sharks & rays","Small to medium sharks (<90 cm)","Africa",NA,NA,NA,NA,9,64
+"Sharks & rays","Small to medium sharks (<90 cm)","Europe",NA,NA,NA,NA,9,108
+"Sharks & rays","Small to medium sharks (<90 cm)","South America",NA,NA,NA,NA,3,5
+"Tuna & billfishes","Large reef assoc. fish (>=90 cm)","Africa",NA,NA,NA,NA,1,3
+"Tuna & billfishes","Large reef assoc. fish (>=90 cm)","Asia",NA,NA,NA,NA,1,3
+"Tuna & billfishes","Large reef assoc. fish (>=90 cm)","Europe",NA,NA,NA,NA,1,3
+"Tuna & billfishes","Large reef assoc. fish (>=90 cm)","Seven seas (open ocean)",NA,NA,NA,NA,1,3
+"Tuna & billfishes","Medium pelagics (30 - 89 cm)","Europe",NA,NA,NA,NA,5,149
+"Tuna & billfishes","Medium pelagics (30 - 89 cm)","Oceania",NA,NA,NA,NA,2,11
+"Tuna & billfishes","Medium pelagics (30 - 89 cm)","Seven seas (open ocean)",NA,NA,NA,NA,3,8
