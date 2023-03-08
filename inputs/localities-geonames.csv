@@ -1,0 +1,1989 @@
+country,localities,geonames_id,address,description,g_country,lat,lon,code,ne_lat,ne_lon,sw_lat,sw_lon
+USA,Delaware Bay,4142190,Delaware Bay,bay,United States,39.05011,-75.14963,BAY,39.177901,-74.885513,38.847865,-75.16846199999999
+NA,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Azores Is.,Azores Is,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Panama,"Punta de San Blas, on the Caribbean coast of the Isthmus of Panama",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,São Paulo,3448433,São Paulo,first-order administrative division,Brazil,-22,-49,ADM1,-19.7796557978745,-44.1613651644231,-25.312320949314,-53.1101115316335
+Japan,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Argentina,"Buenos Aires - Patagonian region, 1981-1983",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bermuda,Bermuda,3573345,Bermuda,dependent political entity,Bermuda,32.33022,-64.74003,PCLD,32.3909785046382,-64.6473267161152,32.247240870129,-64.8870418687384
+,Mediterranean,10922502,Mediterranean Region,region,Turkey,36.78713,34.22001,RGN,38.5784072880003,37.7492790220001,35.8154300000002,29.263704221004
+USA,North Carolina,4563244,Carolina,first-order administrative division,Puerto Rico,18.37578,-65.95794,ADM1,18.4579659500215,-65.9017922401345,18.2700470073664,-66.0430973425624
+USA,Northern Gulf of Mexico,4326669,Gulf of Mexico,sea,United States,29.1869,-89.93674,SEA,30.775054931640597,-80.37205505371091,18.060806274414098,-97.8910827636719
+USA,Straits of Florida,4155752,Straits of Florida,channel,United States,25.0004,-79.74974,CHN,25.131494235158755,-79.47023269799979,22.74541664123558,-82.10906982421875
+Mexico,Straits of Yucatan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Kosi estuary,987654,Kosibaai,bay,South Africa,-26.9016,32.86682,BAY,NA,NA,NA,NA
+South Africa,South Africa,953987,South Africa,independent political entity,South Africa,-29,24,PCLI,-22.1250300579999,38.000465,-46.978931,16.45189
+United Arab Em.,"off Abu Dhabi, 2000-2003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+China,coastal waters to the north of Hong Kong,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,Tokyo Bay,2113488,Ōkuzure Wan,bay,Japan,26.6668,142.17034,BAY,NA,NA,NA,NA
+Hong Kong,Tolo Harbour,1818671,Tolo Harbour,harbor(s),Hong Kong,22.44214,114.21151,HBR,NA,NA,NA,NA
+Hawaii,west coast (19°42' N; 156°03' W) (May 2006-April 2007),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+American Samoa,"Afao, Tutuila Island",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Micronesia,Pohnpei State (Jul-Aug 2016),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Israel,Larome Beach (April 1981-May 1984),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Palau,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Palau,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indonesia,"Mayangan Coast, West Java, May-November 2003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Chesapeake Bay,4351177,Chesapeake Bay,bay,United States,37.96186,-76.17834,BAY,37.040886,-75.975839,36.90684,-76.18142600000002
+USA,Gulf of Maine,4966107,Gulf Hill,mountain,United States,43.22216,-70.61014,MT,NA,NA,NA,NA
+USA,"Hudson River, New York",5121521,Hudson River,stream,United States,40.69677,-74.0282,STM,NA,NA,NA,NA
+USA,"Patuxent River estuary, Maryland",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Western Central Atlantic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Enisey river,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Ob,3192120,Radlje ob Dravi,first-order administrative division,Slovenia,46.60725,15.25093,ADM1,46.65772057066126,15.335430777178958,46.52278595378813,15.16009859553497
+Russia,Siberian rivers; in strong currents.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,North Sea,4563233,Caribbean Sea,sea,Puerto Rico,15.00028,-75.00028,SEA,22.70950698852539,-59.2689323425293,7.898654937744141,-88.99104309082031
+Denmark,Not stated.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Florida,4155751,Florida,first-order administrative division,United States,28.75054,-82.5001,ADM1,31.000968,-80.031158,24.52108,-87.634896
+USA,South Florida (Feb 1989-Apr 1995),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,West Indies,3571219,West Indies,region,,19.38333,-71.21667,RGN,27.232027,-60.8096896756103,10.7262525558472,-84.957428
+Hawaii,Kane'ohe Bay,5848190,Kāne‘ohe Bay,bay,United States,21.46278,-157.81028,BAY,NA,NA,NA,NA
+New Zealand,south Chatham Rise (Nov 1986),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,southern coasts and Tasmania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,not given,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Not given,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,-,1269750,India,independent political entity,India,22,79,PCLI,35.524548272882,97.4152926679075,6.7559528993543,68.1862489922762
+Kiribati,Abaiang,7521786,Abaiang Atoll Airport,airport,Kiribati,1.79807,173.04214,AIRP,NA,NA,NA,NA
+Kiribati,Abemama,7521789,Abemama Airport,airport,Kiribati,0.49133,173.82624,AIRP,NA,NA,NA,NA
+Kiribati,Butaritari,6299956,Butaritari Airport,airport,Kiribati,3.0853,172.80857,AIRP,NA,NA,NA,NA
+Solomon Is.,Munda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Caledonia,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kiribati,Tarawa,2110075,Tarawa Atoll,atoll(s),Kiribati,1.419,172.985,ATOL,NA,NA,NA,NA
+Kiribati,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Solomon Is.,Tulagi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Solomon Is.,Vona vona,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cuba,Cuba,3562981,Cuba,independent political entity,Cuba,22,-79.5,PCLI,23.283781,-74.131775,19.828083,-84.957428
+Cambodia,"Tonle Sap and Great Lake, 1995-1997",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Caspian Sea,630671,Caspian Sea,sea,,42,50,SEA,47.01561,54.04377746582031,36.572303771972656,46.684612
+Russia,Northern Caspian Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Mississippi,4436296,Mississippi,first-order administrative division,United States,32.75041,-89.75036,ADM1,34.996099,-88.097888,30.160617,-91.655009
+USA,Ohio River,5162151,Maumee River,stream,United States,41.69949,-83.45993,STM,NA,NA,NA,NA
+USA,Connecticut,4831725,Connecticut,first-order administrative division,United States,41.66704,-72.66648,ADM1,42.050511,-71.787239,40.980377,-73.727775
+USA,Delaware River,4142210,Delaware River,stream,United States,39.43261,-75.52881,STM,NA,NA,NA,NA
+USA,Potomac River,4366037,Potomac River,stream,United States,37.93889,-76.25278,STM,NA,NA,NA,NA
+Canada,"St. John, Margaree, Gaspereau, and Tusket rivers (Nova Scotia and New Brunswick)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Sea of Japan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Europe,6255148,Europe,continent,,48.69096,9.14062,CONT,80.76416015625,41.73303985595703,27.6377894797159,-24.532675386662543
+Tunisia,Lake Ichkeul,2473233,Garaet el Ichkeul,lake,Tunisia,37.16362,9.67471,LK,NA,NA,NA,NA
+Algeria,Mazafran River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ireland,Lough Lane,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,NA,3165361,Tuscany,first-order administrative division,Italy,43.41667,11,ADM1,44.4727074845038,12.3713544099033,42.2376815066415,9.68670044107838
+Greece,Lake Volvi,733875,Lake Volvi,lake,Greece,40.67951,23.4695,LK,NA,NA,NA,NA
+Greece,Lake Volvi (2001),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Romania,Lake Razelm,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Godavari estuary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,"Albany, Western Australia",2078285,Harry Riggs Albany Regional Airport,airport,Australia,-34.94583,117.80806,AIRP,NA,NA,NA,NA
+Japan,central Honshu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Peru,"Ilo, Callao, Chimbote, Paita",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,northern New South Wales,7289171,Northern Tablelands,region,Australia,-30.59537,151.50009,RGN,NA,NA,NA,NA
+Chile,Off Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Point Conception to San Diego, California",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"San Pedro, California",5392574,San Pedro Valley County Park,park,United States,37.57383,-122.47053,PRK,NA,NA,NA,NA
+Australia,South Australia,2061327,South Australia,first-order administrative division,Australia,-30,135,ADM1,-25.996146488,141.002955612,-38.06260299,129.001336993
+,southern Africa,9406051,Southern Africa,region,,-27.11781,22.28027,RGN,-16.963488173,38.000465,-46.978931,11.737502061
+Australia,southern New South Wales,7281848,Southern Highlands,region,Australia,-34.46667,150.41667,RGN,NA,NA,NA,NA
+Australia,Victoria,2145234,Victoria,first-order administrative division,Australia,-37,145,ADM1,-33.980425587,149.976290995,-39.159189528,140.961681996
+Australia,Western Australia (south coasts),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Black Warrior R., Black Warrior R. Tuscaloosa Co",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Lagoa dos Patos,12070278,Lagoa Dos Patos,region,Brazil,-31.08096,-51.31513,RGN,NA,NA,NA,NA
+Portugal,Aveiro,2742610,Aveiro,first-order administrative division,Portugal,40.72974,-8.4815,ADM1,41.08015455925146,-8.089172179289966,40.278809203824736,-8.784028884237848
+,Black Sea,10922499,Black Sea Region,region,Turkey,41.25206,36.96073,RGN,42.1017990110001,42.5943298340003,39.9119606020002,30.821590424000192
+Spain,East Cantabrian area,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,English Channel,2649991,English Channel,channel,United Kingdom,50,-1,CHN,51.168724060058594,1.927944421768188,48.498085021972656,-5.718666553497314
+Spain,Galician coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,Lisboa,12070034,Lisbon metropolitan area,region,Portugal,38.74724,-9.24526,RGN,39.0647183791658,-8.490972125626811,38.40907442337502,-9.500526607165884
+Portugal,Matosinhos,8010584,Matosinhos,second-order administrative division,Portugal,41.20766,-8.66743,ADM2,41.27311470199142,-8.595447869897782,41.17149003386357,-8.72915780721838
+Spain,"North-Atlantic Spanish Coasts, 41°55 N - 1°58 W",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Morocco,"Northwest Africa (27°-29° N), 1976-82",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Off African coasts of Mediterranean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Off European coasts of Mediterranean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,Olhao,8010521,Olhão Municipality,second-order administrative division,Portugal,37.04509,-7.81032,ADM2,37.131162013975754,-7.7233609820768026,36.998080691072,-7.889765507568291
+Portugal,Peniche & Olhao/Portimao,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Spanish and Portueguese coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,SW England,6618004,St Paul's Cathedral,church,United Kingdom,51.51386,-0.0983,CH,NA,NA,NA,NA
+Spain,W Cantabrian area,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Caspian Sea (Volga),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Don River (1966-1971),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,"Volga, Vyatka, Kama, Oka and Ural rivers and their tributaries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Black Sea and Sea of Azov,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Romania,Danube Delta (1987),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Romania,Danube Delta (1989),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+China,Yangtze River,1815696,Yangtze River,stream,China,31.76986,121.04664,STM,NA,NA,NA,NA
+France,Lower reaches of rivers,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,Portugal,2264397,Portugal,independent political entity,Portugal,39.6945,-8.13057,PCLI,42.154311127408,-6.18915930748288,30.030283523608002,-31.2688154080396
+Russia,Northern Caspian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kazakhstan,Northern Caspian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Eastern part at north end of Caspian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,"Europe: Italy, Tunisia",10294276,Alimandi Tunisi,hotel,Italy,41.90739,12.453,HTL,NA,NA,NA,NA
+Germany,"Weser, Elbe und Ems rivers (Refs. 89634, 89642 )",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Black Sea and Sea of Azov,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Egypt,Gulf of Suez,8692966,General Authority for Economic Zone North West of Gulf Suez,zone,Egypt,29.65718,32.36052,ZN,NA,NA,NA,NA
+South Africa,"Hout , Saldana and Stompneus Bays",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,New South Wales,2155400,New South Wales,first-order administrative division,Australia,-33,146,ADM1,-28.1570199139999,159.109219014,-37.505076999,140.999264988
+Mexico,Pacific coast of Baja California,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,"Primorye, Sea of Japan",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Caspian Sea (Volga),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Caribbean sea,4563233,Caribbean Sea,sea,Puerto Rico,15.00028,-75.00028,SEA,22.70950698852539,-59.2689323425293,7.898654937744141,-88.99104309082031
+Brazil,"Pernambuco, 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Pernambuco, 2009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sri Lanka,Negombo,7542641,Negombo Division,third-order administrative division,Sri Lanka,7.2074,79.8417,ADM3,7.277024248321966,79.8683966531154,7.112013190625627,79.81688105904347
+India,Vishinjam,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sri Lanka,West coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,"Nagahama Beach, Okinawa (July-October 1996)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Cape Cod,4932251,Cape Cod National Seashore,park,United States,41.97324,-70.0384,PRK,NA,NA,NA,NA
+USA,Lower Chesapeake Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Gulf of Anadyr,4031773,Anadyrskiy Zaliv,gulf,Russia,64,-178,GULF,66.39166259765625,-173.10140991210938,55.99702835083008,162.00210571289062
+Alaska,Kodiak I.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Laperuza Strait,2123847,La Pérouse Strait,strait,Russia,45.75,142,STRT,NA,NA,NA,NA
+Russia,North Kurils,10401251,North Kurils,islands,Russia,50.50295,155.40436,ISLS,NA,NA,NA,NA
+Russia,Sea of Okhotsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,South Kurils,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Eastern Atlantic,4460372,Eastern Cherokee Reservation,administrative division,United States,35.4785,-83.27217,ADMD,NA,NA,NA,NA
+NA,North Sea,3422085,Lincoln Sea,sea,Greenland,83,-58,SEA,83.77350616455078,-32.66490936279297,81.5023193359375,-70.2391357421875
+Norway,"East Central Grounds (English Klondyke, East Bank, Inner and Outer shoal), 1997-1999; also coastal ground off SW Norway",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Eastern North Atlantic,3163618,West European Basin,basin,,47,-15,BSNU,NA,NA,NA,NA
+UK,North Sea,2960860,Arctic Ocean,ocean,,85,0,OCN,90.0,180.0,71.39041900634766,-180.0
+Korea (South),"East coast, 1993-94",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Korea (South),"Shinsudo, Sacheon, 1988",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,northeastern Atlantic,4482605,Northeastern High School,school,United States,36.28605,-76.25495,SCH,NA,NA,NA,NA
+NA,Mediterranean Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Eastern North Atlantic,4460372,Eastern Cherokee Reservation,administrative division,United States,35.4785,-83.27217,ADMD,NA,NA,NA,NA
+NA,Northeastern Atlantic,4482605,Northeastern High School,school,United States,36.28605,-76.25495,SCH,NA,NA,NA,NA
+Brazil,Ceará,3402362,Ceará,first-order administrative division,Brazil,-5,-39.5,ADM1,-2.795833587646484,-37.24092102050781,-7.85805606842041,-41.40955352783203
+,Northeastern Atlantic,7136824,Baltimore Police Department Northeastern District,building(s),United States,39.34076,-76.58279,BLDG,NA,NA,NA,NA
+Norway,Norway,3144096,Norway,independent political entity,Norway,62,10,PCLI,71.1854764998959,31.168391344451287,57.959537164107346,4.504130421063497
+NA,Not specified.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Primorye,2017622,Primor’ye,region,Russia,44,133,RGN,NA,NA,NA,NA
+USA,"Beaufort, North Carolina",4570292,Beaufort,second-order administrative division,United States,32.35706,-80.69217,ADM2,32.704321,-80.428302,32.07689,-81.016234
+USA,"Tampa, Florida",6955101,Tampa-St. Petersburg-Clearwater,economic region,United States,27.87307,-82.51007,RGNE,NA,NA,NA,NA
+Mexico,"Laguna de Tamiahua, northern Mexico",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,Laguna de Términos,3515783,Laguna de Términos,lagoon,Mexico,18.62112,-91.49595,LGN,NA,NA,NA,NA
+USA,Mid-Chesapeake Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Near Beaufort, North Carolina",9858812,Days Inn Port Royal Near Parri,hotel,United States,32.38736,-80.68997,HTL,NA,NA,NA,NA
+USA,Off North Carolina,4487880,Rich Top,mountain,United States,35.62344,-82.91486,MT,NA,NA,NA,NA
+Brazil,"Lagoa dos Patos, Rio Grande",3454804,Lagoa dos Patos,lagoon,Brazil,-31.11193,-51.3283,LGN,NA,NA,NA,NA
+Argentina,"Rosario to Corrientes, La Plata river system",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,California Current region,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Costa Rica,Gulf of Nicoya,3622714,Gulf of Nicoya,gulf,Costa Rica,9.75353,-84.6857,GULF,NA,NA,NA,NA
+USA,New York and southern New England,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Venezuela,Orinoco mouth,3640554,Boca Grande,stream mouth(s),Venezuela,8.60306,-60.6225,STMM,NA,NA,NA,NA
+Italy,Adriatic,10630507,Adriatic Arena,stadium,Italy,43.9029,12.86733,STDM,NA,NA,NA,NA
+Italy,Adriatic Sea,11184440,Cà Roman Adriatic sea S STNB,scientific research base,Italy,45.25007,12.30889,STNB,NA,NA,NA,NA
+France,Bay of Biscay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Bay of Biscay,2960858,Bay of Biscay,gulf,,44.95119,-4.40826,GULF,47.971778869628906,-0.557500004768372,43.2874551984332,-7.90447747326032
+Spain,Bay of Biscay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,"Bay of Biscay, 1987",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,"Bay of Biscay, 1989-1992",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,Bay of Cadiz (1989-1992),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,"Black Sea, Northwestern coast, 1987 -1992",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ghana,Ghana,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,Gulf of Cadíz,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,Gulf of Cádiz,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,"Mira estuary, 1985-1992",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Denmark,North Sea and Channel,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Northern Europe and Mediterranean,2411530,Mediterranean Steps,cliff(s),Gibraltar,36.12392,-5.34294,CLF,NA,NA,NA,NA
+Portugal,"Pranto River, May-September 1990",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,southeastern part of North Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,"southern Bay of Biscay, January 1987-December 1989",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,Strait of Sicliy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,"Trieste,  Adriatic Sea,1974-90",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Croatia,"Zrmanja River estuaury, Jan-Dec 2003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+China,"Daya Bay, Guangdong, 1985-86",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indonesia,"Jepara, north Central Java, 1983-85",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philippines,Manila Bay,1701666,Manila Bay,bay,Philippines,14.5192,120.77,BAY,NA,NA,NA,NA
+Papua New Guinea,New Ireland,2089693,New Ireland,first-order administrative division,Papua New Guinea,-3,151.5,ADM1,-1.35527777671814,153.67221069335938,-4.823333740234375,149.52777099609375
+Singapore,Straits of Singapore,1880132,Singapore Strait,strait,Singapore,1.23175,103.94131,STRT,1.369194388389587,104.57089233398438,1.103500008583069,103.35333251953125
+Venezuela,Orinoco,7730177,Caicara del Orinoco Airport,airport,Venezuela,7.62551,-66.1628,AIRP,NA,NA,NA,NA
+Brazil,Paraná,3455077,Paraná,first-order administrative division,Brazil,-24.5,-51.33333,ADM1,-22.5166618996674,-48.0235374346287,-26.7171220079272,-54.6193046378125
+USA,California,11071615,Southern California,region,United States,34.68743,-116.78467,RGN,35.809236,-114.131211,32.534175,-121.347791
+USA,"North of Point Conception, California",5339087,Point Conception,cape,United States,34.4484,-120.47197,CAPE,NA,NA,NA,NA
+USA,Southern California Bight,5334063,Capistrano Bight,bay,United States,33.43336,-117.65088,BAY,NA,NA,NA,NA
+Venezuela,Orinoco delta,3631296,Orinoco Delta,delta,Venezuela,9,-61.5,DLTA,NA,NA,NA,NA
+,Orinoco River,10860638,Orinoco River,watercourse,Venezuela,8.61667,-62.25,WTRC,NA,NA,NA,NA
+Brazil,São Paulo (1979-1980),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hawaii,Hawaii,5855797,Hawaii,first-order administrative division,United States,20.78785,-156.38612,ADM1,28.402182,-154.806622,18.91069,-178.306196
+Peru,Along the entire coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,"Dakshina Kannada coast, Mangalore",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Coral Sea,2170371,Coral Sea Islands Territory,territory,Australia,-17.5,151,TERR,-9.2325,172.061386,-54.778252,112.911057
+Micronesia,western Mariana Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,Not stated.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Off the coast of New England,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,Ontario,6093943,Ontario,first-order administrative division,Canada,49.25014,-84.49983,ADM1,56.859036233,-74.3440298799999,41.6814354250001,-95.1548259419999
+,Sargasso Sea,3373404,Sargasso Sea,sea,,30,-60,SEA,NA,NA,NA,NA
+Germany,Sargasso Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Maine (various river drainages),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,Bering Sea,5880533,Bering Sea Wilderness,reserve,United States,60.37209,-172.64679,RES,NA,NA,NA,NA
+,continental slope at depths generally exceeding 300 m,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Pacific off the North Kuril Islands and Southeast Kamchatka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Mediterranean and eastern Atlantic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Madeira Is.,Funchal (May 1998-Dec 1999),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canary Is.,waters around the island (June 2004-Oct 2006),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,West of British Isles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vanuatu,Vanuatu,2134431,Vanuatu,independent political entity,Vanuatu,-16,167,PCLI,-13.0717069251352,170.238284000857,-20.2524399918312,166.541563758726
+,Adriatic Sea,3183462,Adriatic Sea,sea,,43,16,SEA,45.8047260841301,20.0514567522372,39.6965953834618,12.2401778188909
+Spain,"Alcudia Bay, Majorca (1985-1993)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,Northern Thyrrenian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,Oslofjord,3143243,Oslofjord,fjord,Norway,59.34639,10.58972,FJD,NA,NA,NA,NA
+Spain,"Palma Bay, Majorca",6476843,PALMA BAY CLUB Hotel,hotel,Spain,39.50692,2.7563,HTL,NA,NA,NA,NA
+Portugal,Ria de Aveiro,2735227,Barra da Ria de Aveiro,marine channel,Portugal,40.67969,-8.71542,CHNM,NA,NA,NA,NA
+Bulgaria,Varna,6299310,Varna Airport,airport,Bulgaria,43.23207,27.82511,AIRP,NA,NA,NA,NA
+Hawaii,no locality given,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Off East Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"Western Atlantic continental slopes, eastern North Atlantic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,USA coast,5858782,Casco Cove Coast Guard Station,airport,United States,52.83299,173.17979,AIRP,NA,NA,NA,NA
+Haiti,Haiti,3723988,Haiti,independent political entity,Haiti,19.07582,-72.29616,PCLI,20.08782,-71.613358,18.021032,-74.478584
+Mexico,"Puerto Real Inlet, Terminos Lagoon, Southern Gulf of Mexico",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Korea (South),In coastal Korean waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Peter the Great Bay,2017987,Zaliv Petra Velikogo,gulf,Russia,42.77386,132.60415,GULF,NA,NA,NA,NA
+,Mediterranean Sea,6947193,Western Mediterranean,sea,,40.24599,5.97656,SEA,43.7848795847866,12.426555633544922,35.58000183105469,-2.18423492426588
+,north of 40°N,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,Sea of Japan,2038684,Japan Sea,sea,,43.5,135.75,SEA,46.043025970458984,141.9219207763672,32.5666656494141,125.800003051758
+Canada,British Columbia,7281922,Lower Mainland,area,Canada,49.08333,-122.35,AREA,NA,NA,NA,NA
+,California Current region,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Washington,5815135,Washington,first-order administrative division,United States,47.50012,-120.50147,ADM1,49.002432,-116.916071,45.543541,-124.754093
+USA,south of southern California to Oregon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,"(shelf and slope >300 m depth), 1980-83",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Denmark,"north-eastern North Sea and Skagerrak-  the Norwegian Deep, 1984-87",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Qatar,"Arabian Gulf, Nov 1991-May 1993",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oman,"Arabian Sea, 2001-2002",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canary Is.,Canary Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mauritania,Off west Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tunisia,Southern Mediterranean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Cape (Ref. 3198),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Tsitsikamma National Park,947761,Tsitsikamma National Park,park,South Africa,-33.98793,23.84593,PRK,NA,NA,NA,NA
+India,"north Andhra Pradesh coast, 1976-79",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Seamounts off southern part of  Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Mississippi coast,4428662,University of Southern Mississippi-Gulf Park Campus,school,United States,30.35242,-89.13643,SCH,NA,NA,NA,NA
+Niger,Cross River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nigeria,Cross River (Jan 2004-Dec 2006),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ghana,"Lake Volta, 1995-96",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Maranhão,3395443,Maranhão,first-order administrative division,Brazil,-5,-45,ADM1,-1.04448912201321,-41.7958843809523,-10.2617647027709,-48.7551507366124
+French Guiana,Not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Sergipe,3447799,Sergipe,first-order administrative division,Brazil,-10.5,-37.33333,ADM1,-9.51502990848504,-36.3938678211131,-11.568655736636,-38.2450317495498
+Brazil,"São Paulo, 1974-1975",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Charleston, SC, Charleston, South Carolina",4574328,Charleston,second-order administrative division,United States,32.74917,-79.94202,ADM2,33.215136,-79.267946,32.493328,-80.45363
+Papua New Guinea,Sepik River,8298703,April River Airport,airport,Papua New Guinea,-4.6746,142.5399,AIRP,NA,NA,NA,NA
+Brazil,Amazonas,3665361,Amazonas,first-order administrative division,Brazil,-3.75,-64.5,ADM1,2.24663056112273,-56.0975580377312,-9.81804587575885,-73.8015583247804
+Brazil,"Maranhão, 2001-2002",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Paraná, 2003-2004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Rio de Janeiro, 1993-1994",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,southeast mangrove areas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,"north-west coast, 1991-94",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Bombay coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Karnataka coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Lagoa dos Patos,  Rio Grande do Sul, 1977-80",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Rio Grande do Sul,3451133,Rio Grande do Sul,first-order administrative division,Brazil,-30,-53.5,ADM1,-27.0823020219537,-49.6914598601596,-33.7520812705959,-57.6438847936289
+NA,North Sea and Mediterranean Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,southern coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+S. Georg. Sandw.,"ICEFISH Cruise (54 15'S, 36 45'W, June 2004)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,Bering Sea and Aleutian Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Engld Wal,"Aberthaw Lagoon, Bristol Channel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iran,Caspian Sea (Feb-Aug 2007),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+France,France,3017382,France,independent political entity,France,46,2,PCLI,51.0889894407743,9.56009360694225,41.3335556861592,-5.14127657354623
+Spain,Guadalquivir,2516973,Río Guadalquivir,stream,Spain,36.78933,-6.36763,STM,NA,NA,NA,NA
+Greece,Lake Trichonis,252652,Lake Trichonida,lake,Greece,38.56722,21.55333,LK,NA,NA,NA,NA
+Croatia,Mala Neretva River (2001-2002),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+France,"Mauguio, Pérols and Méjean lagoons (1992-1994)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Algeria,"Mellah Lagoon, 2010-2011",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Greece,Mesolongi & Etolikon lagoonal system (Apr 1989 - Jun 1990),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Channel,6070720,M'Clintock Channel,channel,Canada,72.0013,-102.0019,CHN,73.5720138549805,-98.8104705810547,70.1113357543945,-105.53283691406301
+Brazil,"Santa Catarina, 2004-2005",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Eastern Central Pacific,10102200,Pacific Express Hotel Central Market Kuala Lumpur,hotel,Malaysia,3.14467,101.69575,HTL,NA,NA,NA,NA
+Turkey,"Aegean and Mediterranean Seas, 1994-96",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Cape Hatteras in North Carolina to Florida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,Gulf of Mexico,3523271,Gulf of Mexico,gulf,Mexico,25,-90,GULF,30.808618545532227,-80.4324722290039,18.147180557251,-97.8671646118164
+,northeastern Atlantic and Mediterranean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,Off southern Japan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Taiwan,Off Taiwan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Eastern Pacific,3948653,Peru Basin,basin,,-15,-85,BSNU,NA,NA,NA,NA
+Japan,Japan,1861060,Japan,independent political entity,Japan,35.68536,139.75309,PCLI,45.55608764,153.986844163,20.422746414,122.933653061
+,North of the equator,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Costa Rica,Off Costa Rica,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Southern Indian Ocean,1546748,French Southern Territories,section of independent political entity,French Southern Territories,-43,67,PCLIX,-15.88459954977133,77.598808,-50.020264,40.32914529683842
+,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Pernambuco, 1997",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Everglades National Park, Florida",4154663,Everglades National Park,park,United States,25.37217,-80.88182,PRK,NA,NA,NA,NA
+USA,"Mississippi Sound, Gulf of Mexico, 2002-2003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,New Jersey,5101760,New Jersey,first-order administrative division,United States,40.16706,-74.49987,ADM1,41.357423,-73.893979,38.928514,-75.559566
+USA,Northern Florida,4155751,Florida,first-order administrative division,United States,28.75054,-82.5001,ADM1,31.000968,-80.031158,24.52108,-87.634896
+Mexico,"Terminos Lagoon, Gulf of Mexico, 1984",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Colombia,"Ciénaga Grande de Santa Marta, (February 1993-January 1994)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ghana,"coastal trawl surveys, Jan-Dec 1980",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Gulf of Mexico,4326669,Gulf of Mexico,sea,United States,29.1869,-89.93674,SEA,30.775054931640597,-80.37205505371091,18.060806274414098,-97.8910827636719
+Brazil,"São Paulo, 1984-1985",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Southeastern coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Mekong mainstream,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,California Current region,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,southwest Atlantic (1998-2003),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Greenland,not given,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Pacific off the North Kuril Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Algeria,Algeria,2589581,Algeria,independent political entity,Algeria,28,3,PCLI,37.089801381,11.9984999060001,18.968147,-8.66761116299995
+,"British Isles, Mediterranean and Black sea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bahamas,not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,fjords of Western  Norway,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,"Slope Sea, Nova Scotia (1988-1989)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oman,Arabian Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,southeastern coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Charleston Bump (approx. 31°30?N, 79°W)), South Carolina, 2003-2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Caledonia,seamounts (June 1991-Oct 1992),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Atlantic,12110846,Mid-Atlantic,region,United States,40.58629,-76.28807,RGN,45.015865,-71.856154,38.928514,-80.519851
+,Black  Sea,10922499,Black Sea Region,region,Turkey,41.25206,36.96073,RGN,42.1017990110001,42.5943298340003,39.9119606020002,30.821590424000192
+,Black Sea.,10922499,Black Sea Region,region,Turkey,41.25206,36.96073,RGN,42.1017990110001,42.5943298340003,39.9119606020002,30.821590424000192
+Senegal,Dakar - Takoradi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Eastern Mediterranean,6947194,Eastern Mediterranean,sea,,34.88593,22.36816,SEA,36.933528900146484,36.218971252441406,30.266082763671875,10.013111114501953
+Italy,Livorno,3174658,Provincia di Livorno,second-order administrative division,Italy,43.23333,10.58333,ADM2,43.6346613741549,10.7962196475972,42.3133935315168,9.79128283594742
+,North West African coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Western Mediterranean,10922502,Mediterranean Region,region,Turkey,36.78713,34.22001,RGN,38.5784072880003,37.7492790220001,35.8154300000002,29.263704221004
+Alaska,Beaufort Sea,5880233,Beaufort Sea,sea,United States,71.12685,-155.3055,SEA,NA,NA,NA,NA
+Russia,Soviet waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,White Sea,577742,White Sea,sea,Russia,65.5,38,SEA,68.64430236816406,44.592140197753906,63.78511047363281,31.854110717773438
+Azores Is.,"Horta, Faial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chile,"Lebu (37°37’S-73°40’W), Jan-Sept 2001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Mediterranean,325361,Adana,first-order administrative division,Turkey,36.985,35.28809,ADM1,38.3875541690001,36.429153442,36.5428161620002,34.7780952450001
+USA,Louisiana,11874184,Acadiana,region,United States,30.12595,-92.00939,RGN,31.343811,-89.904243,29.03658,-93.929208
+USA,From Long Island to North Carolina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Long Island,6955102,New York-Northern New Jersey-Long Island,economic region,United States,40.75766,-73.91327,RGNE,NA,NA,NA,NA
+UK Scotland,North and West,9259505,North West Castle,hotel,United Kingdom,54.905,-5.0212,HTL,NA,NA,NA,NA
+Norway,Off Norway,2727804,Woodfjorden,fjord,Svalbard and Jan Mayen,79.83333,14,FJD,NA,NA,NA,NA
+Iceland,Off south-western Iceland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Western and Eastern Atlantic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ireland,Western Ireland,8689203,Western,historical first-order administrative division,Cayman Islands,19.30833,-81.375,ADM1H,NA,NA,NA,NA
+UK,Western part of English Channel,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,South America.,3865483,Argentina,independent political entity,Argentina,-34,-64,PCLI,-21.777951173,-53.637962552,-55.0576984539999,-73.566302817
+Marshall Is.,Enewetak Atoll,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,Campeche bank,3531729,Campeche Bank,bank(s),Mexico,22,-90,BNK,NA,NA,NA,NA
+Mexico,Campeche bank.,3531729,Campeche Bank,bank(s),Mexico,22,-90,BNK,NA,NA,NA,NA
+USA,"Cape Fear-Cape Canaveral, 1973-1977",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Zealand,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,"South Aegean Sea (37.5° to 37.0° N), Dec 2009 - Nov 2010",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ireland,Southwestern Ireland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+United Arab Em.,off Abu Dhabi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,"Colima, Mexico",4013513,Colima,first-order administrative division,Mexico,19.13333,-103.9,ADM1,19.512518770796,-103.486346449617,18.3388639099182,-114.759500786745
+USA,"South Florida, Northwest Florida and Mississippi Delta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Off Natal,6951653,Bulwer Take Off,mountain,South Africa,-29.81175,29.75299,MT,NA,NA,NA,NA
+Cuba,Golfo de Batabanó,3567654,Golfo de Batabanó,gulf,Cuba,22.23158,-82.48699,GULF,NA,NA,NA,NA
+Australia,Gulf of Carpentaria,2074837,Gulf of Carpentaria,gulf,Australia,-14,139,GULF,-10.983277320861816,142.1656036376953,-17.724695205688477,134.96932983398438
+Mexico,"Manzanillo, Colima, México",8581706,Manzanillo,second-order administrative division,Mexico,19.10856,-104.31351,ADM2,19.3349834243581,-104.023076340241,18.9438067199281,-112.066422820089
+Australia,"eastern coast of Tasmania, Great Australian Bight (Ref. 5868)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Galveston, Texas, 2000-2001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,Pelagie Islands,2523847,Pelagie Islands,islands,Italy,35.66667,12.66667,ISLS,NA,NA,NA,NA
+St Helena,St. Helena,3370751,Saint Helena,dependent political entity,Saint Helena,-15.95,-5.7,PCLD,-7.887815,-5.638753,-40.37054124358255,-14.42123
+Hawaii,Northwestern Hawaiian Islands,5851564,Northwestern Hawaiian Islands,island,United States,28.41667,-178.33333,ISL,NA,NA,NA,NA
+Senegal,Sénégal,2245662,Senegal,independent political entity,Senegal,14.5,-14.25,PCLI,16.6929572170001,-11.345768371,12.307289079,-17.529520035
+Indonesia,"Ambon Bay waters, 1996-1997",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indonesia,Java Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philippines,Palawan waters and Manila Bay approaches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mozambique,"Sofala Bank, 1979-81",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,"Vizhinjam, 1971-74",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Not stated.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guinea-Bissau,Rio Grande de Buba,2372291,Rio Grande de Buba,estuary,Guinea-Bissau,11.53333,-15.41667,ESTY,NA,NA,NA,NA
+New Zealand,not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chile,"Northern Coast off Chile, 1991-92",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,Baja California,4017700,Baja California,first-order administrative division,Mexico,30,-115,ADM1,32.7186535707389,-112.654240299838,27.9999999799384,-118.365114353651
+USA,Off southern California,5345734,El Mirage Off Highway Vehicle Recreation Area,park,United States,34.65832,-117.55505,PRK,NA,NA,NA,NA
+NA,East China Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,"Bay of Biscay (Golfe de Gascogne, 1985-1990)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ireland,"Celtic Sea, 1977",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ireland,"Celtic Sea, 1989",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,Division IX a,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,"English Channel & North Sea, 1974",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,English Channel - North Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Off west coast of Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Greece,Saronikos Gulf,254052,Gulf of Aegina,gulf,Greece,37.80286,23.61709,GULF,NA,NA,NA,NA
+Denmark,Southern North Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,"SW-coast, Frio Cape (betwen 17° and 20°S)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,"Western English Channel, 1967-69",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Northwestern Atlantic,4776589,Northwestern District,administrative division,United States,37.13681,-81.81205,ADMD,NA,NA,NA,NA
+India,Bombay,1335474,Bombay High Oilfield Development Area,oilfield,India,19.41667,71.33333,OILF,NA,NA,NA,NA
+South Africa,Natal,972062,KwaZulu-Natal,first-order administrative division,South Africa,-29,30,ADM1,-26.8044300619999,32.944984945,-31.0826299409999,28.873479941
+NA,Northwestern Indian Ocean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Southern hemisphere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Southwestern Indian Ocean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Madagascar,Not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Eastern Indian Ocean,2078157,Indian Antarctic Rise,ridge,,-50,110,RDGU,NA,NA,NA,NA
+,Indo-West Pacific,5867113,Lake and Peninsula,second-order administrative division,United States,57.00056,-158.00056,ADM2,60.906236,-153.397261,55.639321,-159.900149
+,Northern Indian Ocean,1282588,British Indian Ocean Territory,dependent political entity,British Indian Ocean Territory,-6,72,PCLD,-5.227167,72.493164,-7.438028,71.259972
+,Not given.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hawaii,not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mozambique,"Mozambique channel, off Madagascar",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Southwestern Indian Ocean (1),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Southwestern Indian Ocean (2),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Off South Africa,6951649,Sir Lowrys Pass Lower HG Take Off,slope(s),South Africa,-34.14143,18.93008,SLP,NA,NA,NA,NA
+Australia,southern waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Gulf of Mexico off Florida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,"Natal coast, South African waters",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Senegal,Off Senegal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Southestern Indian Ocean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Northeastern Indian Ocean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,South Pacific,5868589,Denali,mountain,United States,63.06933,-151.00609,MT,NA,NA,NA,NA
+,"Off West Africa, Laysan Island, off East Africa, European waters, eastern North Pacific, southern Australia, Californian waters.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Eastern Indian Ocean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"Off northwestern Borneo, off Taiwan Island, off Borneo",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,"Campeche Bank, Yucatan",3531729,Campeche Bank,bank(s),Mexico,22,-90,BNK,NA,NA,NA,NA
+,Eastern and central Pacific,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Northwestern Atlantic,4776589,Northwestern District,administrative division,United States,37.13681,-81.81205,ADMD,NA,NA,NA,NA
+,Northwestern Gulf of Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Southwestern Gulf of Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Western Indian Ocean,6491077,Indian Ocean Hotel,hotel,Australia,-31.8965,115.75951,HTL,NA,NA,NA,NA
+Australia,not given,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hawaii,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Ganges Hooghly system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Indo-West Pacific,5877325,Upper Tazimina Lake,lake,United States,60.04426,-154.1323,LK,60.055235,-153.99830944399997,60.02869444500004,-154.23950436999996
+NA,Tropical Atlantic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,coastal waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Western Atlantic,4036731,Atlantic-Indian Basin,basin,,-60,15,BSNU,NA,NA,NA,NA
+,North Atlantic,12110846,Mid-Atlantic,region,United States,40.58629,-76.28807,RGN,45.015865,-71.856154,38.928514,-80.519851
+Madagascar,Off Madagascar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"Central Pacific, western North Atlantic, Southwestern Indian Ocean",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"Indian Ocean, North Atlantic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Bombay waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Tropical Indo-Pacific,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Southwestern Pacific,5753607,Southwestern Oregon Community College,school,United States,43.3947,-124.25314,SCH,NA,NA,NA,NA
+,"Eastern North Pacific and western North Atlantic, off southern coast of Natal",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Atlantic South America,4482348,North Carolina,first-order administrative division,United States,35.50069,-80.00032,ADM1,36.588137,-75.459952,33.841205,-84.321821
+USA,Eastern Central (probably off Florida),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,continental shelves,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Madagascar,Mediterranean side,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,off Natal,6951653,Bulwer Take Off,mountain,South Africa,-29.81175,29.75299,MT,NA,NA,NA,NA
+NA,Western Atlantic,4452672,Western Carolina Regional Airport,airport,United States,35.19509,-83.86518,AIRP,NA,NA,NA,NA
+Australia,northern waters,8260800,RAAF Base Daly Waters,airport,Australia,-16.26597,133.38428,AIRP,NA,NA,NA,NA
+India,Off Bombay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Caribbean Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,North Eastern Atlantic,4460372,Eastern Cherokee Reservation,administrative division,United States,35.4785,-83.27217,ADMD,NA,NA,NA,NA
+Portugal,Off Sesimbra (Jan 2000-Aug 2006),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Venezuela,Venezuela,3625428,Venezuela,independent political entity,Venezuela,8,-66,PCLI,12.201903,-59.80378,0.626311,-73.354073
+,East Africa,12070073,Greater Cairo Area,region,Egypt,30.01745,31.21808,RGN,NA,NA,NA,NA
+New Caledonia,New Caledonia,2139685,New Caledonia,dependent political entity,New Caledonia,-21.5,165.5,PCLD,-19.549778,168.953857,-22.71464,163.564667
+United Arab Em.,"off Abu Dhabi, 2003-2004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+French Guiana,Spawns on banks.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Egypt,"Alexandria, 1981-82",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,British Isles,2654669,British Isles,islands,United Kingdom,54,-4,ISLS,NA,NA,NA,NA
+Chad,"Malamfatori, Lake Chad",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Burkina Faso,Tapoa,2354771,Province de la Tapoa,second-order administrative division,Burkina Faso,12,1.75,ADM2,12.8385079892261,2.39016890400009,11.3886858120001,1.19975141789362
+French Guiana,In brackish waters in estuaries.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,Mexico,3996063,Mexico,independent political entity,Mexico,23,-102,PCLI,32.716759,-86.703392,14.532866,-118.453949
+Spain,off Blanes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bulgaria,Batak Dam,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bulgaria,Batak Dam (1982- 1988),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,Curonian Lagoon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lithuania,"Curonian Lagoon,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,"Curonian Lagoon, spring 2000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,E?irdir Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,"Helsinki, Gulf of Finland",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,"Hirfanl? Dam Lake, Red River Basin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sweden,inlet basins in the east coast (April-Jun 2002),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,Jeziorak Lake,3097179,Jezioro Jeziorak,lake,Poland,53.73884,19.59508,LK,NA,NA,NA,NA
+Finland,"Lake Tuusulanjärvi, May-June 1997",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,Not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,Omulew Lake,763146,Jezioro Omulew,lake,Poland,53.48887,20.57653,LK,NA,NA,NA,NA
+Bulgaria,Ovcharitsa cooling reservoir (1986-1988),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,Peipsi Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,Pärnu Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Estonia,"Pärnu Bay, Gulf of Riga",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Romania,River Razelm (1959),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,Schleswig-Holstein,2838632,Schleswig-Holstein,first-order administrative division,Germany,54.2,9.75,ADM1,55.05838360080724,11.312892395725587,53.359830983618,7.869099861201056
+Turkey,"Seyhan Dam Lake, June 2007-2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,"Szczecin Lagoon, spring 2000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,Vistula Lagoon,3081867,Vistula Lagoon,bay,Poland,54.44722,19.75139,BAY,NA,NA,NA,NA
+Poland,Vistula Lagoon -,3081867,Vistula Lagoon,bay,Poland,54.44722,19.75139,BAY,NA,NA,NA,NA
+Poland,"Vistula Lagoon,",3081867,Vistula Lagoon,bay,Poland,54.44722,19.75139,BAY,NA,NA,NA,NA
+Poland,Vistula near W?oc?awek,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,Võrtsjärves Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,Wielimie Lake,3082297,Wielimie,lake,Poland,53.7563,16.74661,LK,NA,NA,NA,NA
+Poland,Within Vistula Lagoon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,Ähijärves Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+French Guiana,Western Atlantic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,St. Martins Reef to Egmont Reef,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,boreal North Atlantic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hong Kong,eastern waters of Hong Kong,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jamaica,Caribbean Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Curaçao,7626836,Curaçao,section of independent political entity,Curaçao,12.16667,-68.96667,PCLIX,12.385672,-68.639336,11.973197,-69.157204
+Bahamas,Bahamas,3572887,Bahamas,independent political entity,Bahamas,25.04082,-77.37122,PCLI,27.232027,-72.729446,20.916067,-80.499237
+Brazil,Bahia (2005-2007),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jamaica,Carribean Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Egypt,South Sinai,355182,South Sinai,first-order administrative division,Egypt,29,33.8,ADM1,29.926387786865234,34.90380096435547,27.72861099243164,32.649024963378906
+Hong Kong,Not specified.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+French Polynesia,French Polynesia,4030656,French Polynesia,dependent political entity,French Polynesia,-15,-140,PCLD,10.31345,-109.199318,-27.653572,-154.688171
+United Arab Em.,"coast of the Emirate of Abu Dhabi, Sept. 2000-March 2003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Senegal,Dakar,2253350,Dakar,first-order administrative division,Senegal,14.76667,-17.28333,ADM1,14.895554542541504,-17.128055572509766,14.613920211791992,-17.53722381591797
+India,Southeast coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Southwest coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kuwait,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Zealand,off New Zealand,11072290,Raby Bay Foreshore Park and Dog Off-leash Beach,park,Australia,-27.5159,153.27219,PRK,NA,NA,NA,NA
+Greece,Euboikos and Pagassitikos Gulfs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Venezuela,Araya Peninsula (opposite Margarita Island),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Colombia,"Ciénaga Grande de Santa Marta, Magdalena, 1982",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Santa Catarina (1999-2001),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Panama,Gulf of Panama,3703438,Golfo de Panamá,gulf,Panama,8,-79.5,GULF,9.030436515808105,-77.74856567382812,7.469748020172119,-80.49102020263672
+,"Off the Atlantic seaboard of North America, off the eastern North Pacific, off the British Isles",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,Western Atlantic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Elephant I.,Elephant Is/Antarctic Peninsula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antarctica,South Georgia Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antarctica,South Orkney Islands,6625763,South Orkney Islands,island,Antarctica,-60.583,-45.5,ISL,NA,NA,NA,NA
+Antarctica,Cosmonaut Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antarctica,not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Paranaguá Estuarine Complex (25°30’ S, 48°25’ W)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"South Carolina, 1985-87",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,Okinawa,1854345,Okinawa,first-order administrative division,Japan,26.5,127.93333,ADM1,27.885686019,131.332113009,24.0456164180001,122.93366527
+Jamaica,island shelfs and oceanic banks (1968-1973),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Elephant I.,Elephant Island/Antarctic Peninsula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kerguelen Is.,Kerguelen Is,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antarctica,Skif Bank,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antarctica,South Georgia Island,3426223,South Georgia,island,South Georgia and South Sandwich Islands,-54.25,-36.75,ISL,NA,NA,NA,NA
+Indonesia,"Kapuas Lakes area, Kalimantan Barat",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Heard McDon Is.,Heard Is,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indonesia,Central section,6760662,Kali Kaum,section of stream,Indonesia,-6.9673,109.8776,STMX,NA,NA,NA,NA
+India,Coromandel coast,1273819,Coromandel Coast,coast,India,13.39938,80.34736,CST,NA,NA,NA,NA
+Indonesia,Eastern section,1641903,Kalimantan,section of island,Indonesia,-1,114,ISLX,4.383016,118.9908,-4.305831,108.6793
+Fiji,Fiji,2205218,Fiji,independent political entity,Fiji,-18,178,PCLI,-12.4795295382484,-178.213242,-20.67597,176.879303
+India,Gulf of Manaar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Malabar coast,1264188,Malabār Coast,coast,India,11.24306,75.88257,CST,NA,NA,NA,NA
+Sri Lanka,Not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Palk Strait,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philippines,Philippines,1694008,Philippines,independent political entity,Philippines,13,122,PCLI,21.1218854788318,126.60497402182328,4.587294496743652,114.27789225312506
+Philippines,"rearing ponds - Pangasinan, Zambales, Bohol, Davao del Sur (March-Dec 1985)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Taiwan,Taiwan,1668284,Taiwan,independent political entity,Taiwan,24,121,PCLI,26.386,122.006739823315,20.6975,116.706665
+Thailand,Thailand,1605651,Thailand,independent political entity,Thailand,15.5,101,PCLI,20.463194,105.639389,5.61,97.345642
+Viet Nam,Viet Nam,1562822,Vietnam,independent political entity,Vietnam,16.16667,107.83333,PCLI,23.388834,109.464638,8.40825,102.148224
+Indonesia,Western section,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Southern Africa,9406051,Southern Africa,region,,-27.11781,22.28027,RGN,-16.963488173,38.000465,-46.978931,11.737502061
+NA,Northeast Atlantic and Mediterranean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Zealand,Hauraki Gulf,2190190,Hauraki Gulf Maritime Park,park,New Zealand,-36.33333,175.08333,PRK,NA,NA,NA,NA
+Tunisia,"Gulf of Gabès, Jan 2003-Nov 2004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Engld Wal,Channel and Irish waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Mediterranean coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+France,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antarctica,Weddell Sea/Bransfeild Str,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antarctica,Mawson Sea,6637723,Mawson Sea,sea,Antarctica,-65,105,SEA,NA,NA,NA,NA
+Antarctica,South Shetland-South Orkney Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antarctica,"Weddell Sea, 1985-86",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Shetland,South Shetland,4036663,South Shetland Trough,trough,Antarctica,-61,-59.5,TRGU,NA,NA,NA,NA
+,Eastern Atlantic and Mediterranean seas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Croatia,northern and central Adriatic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Zululand coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ireland,Off west coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,Plymouth (1972),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Engld Wal,Severn Estuary and Bristol Channel (1972-1976),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Kuril Isl.,2124018,Kunashir Island,island,Russia,44.14927,145.87535,ISL,44.518274198,146.577419689,43.652268613,145.398582944
+Chile,Chile,3895114,Chile,independent political entity,Chile,-30,-71,PCLI,-17.4977759459999,-66.416152278,-55.9829702769999,-109.449941591
+UK,"Along the English East coast, autumn spawner",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,Archipelago Sea,812394,Archipelago Sea,sea,Finland,60.33333,21,SEA,NA,NA,NA,NA
+Finland,"Archipelago Sea, 1987-1989",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Denmark,"Area between the islands of Ærø, Tåsinge, Funen and Langeland, spring spawner",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sweden,Asko Archipelago,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,Baltic Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sweden,"Baltic Sea, 1982",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,Bothnian Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,Celtic Sea,2960856,Celtic Sea,sea,,50,-9,SEA,52.2799987792969,-4.18938875198364,46.5,-11.500082969665527
+UK Scotland,"Clyde, 1981",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,"Clyde, 1981 (spawning ground)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,"Cork, South Ireland, 1981",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK No Ireld,"Donegal Bay, 1982",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,Dover Straits,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,"Dunmore, Celtic Sea, 1981",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,"East Anglia, 1933",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,Eastern Manx,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,English Channel,2649991,English Channel,channel,United Kingdom,50,-1,CHN,51.168724060058594,1.927944421768188,48.498085021972656,-5.718666553497314
+UK,"Galway, West Ireland, 1981",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,"Georges Bank, 1986-1995",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,"Greifswald lagoon at Rügen, spring spawner",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,Gulf of Finland,453749,Gulf of Finland,gulf,,60,27,GULF,60.772640228271484,30.2521667480469,59.215667724609375,22.8978328704834
+Poland,Gulf of Gdansk (spring herring),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,Gulf of Gdansk - Autumn spawning stock,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,Gulf of Gdansk - Spring spawning stock,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,Gulf of Riga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Estonia,"Gulf of Riga (autumn spawner), 1956 - 58",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Estonia,"Gulf of Riga (spring spawner), 1957",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Estonia,"Gulf of Riga, 1960",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,"Gulf of St. Lawrence, 1970-72",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sweden,Hano Bight,2707930,Hanöbukten,bay,Sweden,55.75,14.5,BAY,NA,NA,NA,NA
+Sweden,"Hållsfjärden, 1978-1982",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,"Kerry, West Ireland, 1981",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,"Kiel fjord, Schleswig-Holstein, spring spawner",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Denmark,"Kolding, Southern Jutland, spring spawner",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,Lusterfjord,3146724,Lustrafjorden,fjord,Norway,61.33333,7.36667,FJD,NA,NA,NA,NA
+UK No Ireld,"Manx, 1978-1981",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,"Minch, 1981",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,"Minch, 1981 (spawning ground)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK No Ireld,"Mourne, 1978-1980",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Murmansk,524304,Murmansk,first-order administrative division,Russia,68,34,ADM1,69.96748352050781,41.39110565185547,66.05081176757812,28.431941986083984
+USA,New Jersey and Maryland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ireland,"North Irish Sea, 1976",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,North Sea,6142909,Sea Dogs,shoals,Canada,43.71723,-65.35688,SHSU,NA,NA,NA,NA
+,North Sea Southern Bight & Eastern English Channel,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,northern side of the Archipelago Sea up to the Quark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,NW North Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iceland,off southern and southwestern Iceland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,"Off the Scottish east coast, autumn spawner",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,"Orkney Shetland area, autumn spawner",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK No Ireld,"Point of Ayre and Maughold Head, North Irish Sea , 1998-2000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,"Rathlin, 1981",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,"Rathlin, 1981 (spawning ground)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,"Schlei fjord, Schleswig-Holstein, spring spawner",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sweden,"south-western, south-eastern and northeastern part of the Bothnian Sea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,"Telemark Coast, July 1963- Sept 1964",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,"Thames Estuary, 1982",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,West coast,8168464,Mount Norway,mountain,Australia,-42.40751,145.94961,MT,NA,NA,NA,NA
+UK Scotland,"West coast, 1983-84",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Western and southwestern Baltic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,"Whitby, Dogger, Northeast Bank",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,Bering Sea near St. Michael,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,"Central British Columbia, 1974",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,Prince William Sound,5872088,Prince William Sound,sound,United States,60.615,-147.16806,SD,NA,NA,NA,NA
+Canada,"S. Strait of Georgia, 1985",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,Sout-east Alaska,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,southeastern Alaska,5558210,University of Alaska Southeast,school,United States,58.38527,-134.64029,SCH,NA,NA,NA,NA
+NA,Caspian Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,"Burhabalang estuary, Orissa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,California Current region,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,Honshu,1862185,Honshū Island,island,Japan,36,138,ISL,41.546808721,142.072480947,33.433015,130.860387665
+India,Indian Sea,5768591,Rosebud Indian Reservation,administrative division,United States,43.29436,-100.65598,ADMD,NA,NA,NA,NA
+USA,Lakes Michigan and Huron,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Lake Constance,4316810,Big Constance Lake,lake,United States,29.59812,-92.64001,LK,29.612252883000053,-92.62466649999999,29.58539245700007,-92.65431456599998
+USA,"Lake Erie, L. Erie & Niagara R., Canada",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Austria,Lake Attersee,2782288,Attersee,lake,Austria,47.87499,13.54848,LK,NA,NA,NA,NA
+Austria,Lake Mondsee,2771278,Mondsee,lake,Austria,47.81667,13.38333,LK,NA,NA,NA,NA
+Ireland,Ireland,2963597,Ireland,independent political entity,Ireland,53,-8,PCLI,55.43513104278,-5.99627768519354,51.4199053321416,-10.6186478804892
+Russia,Volkhov estuary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,Lake Ammersee,2956426,Ammersee,lake,Germany,47.99668,11.12716,LK,48.07885167797286,11.170766185139433,47.935015262921105,11.09551903939296
+France,Lake Bourget,3031000,Lac du Bourget,lake,France,45.73333,5.86667,LK,NA,NA,NA,NA
+Finland,Finland,660013,Finland,independent political entity,Finland,64,26,PCLI,70.096054,31.580944,59.767582,20.556944
+Russia,Lake Beloye,8249374,Ozero Beloye,lake,Russia,56.4709,64.053,LK,NA,NA,NA,NA
+Germany,Lake Breiter Luzin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,Lake Isag (1982-1983),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,Lake Kuohijärvi,650275,Kuohijärvi,lake,Finland,61.23333,24.88333,LK,NA,NA,NA,NA
+Russia,Lake Ladoga,537232,Lake Ladoga,lake,Russia,61,31.5,LK,61.78007932395843,32.95450959045792,59.900564372222675,29.795688142208064
+Poland,Lake Lutry (1982-1983),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,Lake Narie (1982-1983),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,Lake Onkamo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,Lake Pyhäjarvi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,Lake Stechlin,2915982,Großer Stechlinsee,lake,Germany,53.1527,13.02908,LK,53.17037882004098,13.043417169423824,53.13967508893612,12.994590937864395
+Finland,Lake Suvasvesi,635474,Suvasvesi,lake,Finland,62.65,28.2,LK,NA,NA,NA,NA
+Finland,"Lakes Änättijärvi, Sokojärvi and Kajoonjärvi in North Karelia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Northern Europe,7729883,Northern Europe,region,,61.68987,2.90039,RGN,80.834053,33.9165550000001,-34.6904600039999,-24.5326753866625
+Germany,Northern Germany,9782171,German,first-order administrative division,Isle of Man,54.22197,-4.69464,ADM1,NA,NA,NA,NA
+Finland,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Onega Lake,515236,Lake Onega,lake,Russia,61.69059,35.65562,LK,62.92074031659354,36.456559610943344,60.854598508256345,33.92767739475519
+Germany,Schlewsig-Holstein,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Lakes of Amur river basin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,Lake Bienne,2661512,Lake Biel,lake,Switzerland,47.08101,7.17187,LK,47.134690417552775,7.236448805058495,47.037445465661,7.070794320880889
+Switzerland,Lakes Morat,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,Bristol Bay,5866328,King Salmon Airport,airport,United States,58.67667,-156.64917,AIRP,NA,NA,NA,NA
+USA,"Bull Lake, Montana",5642598,Bull Lake,lake,United States,48.67243,-114.73128,LK,NA,NA,NA,NA
+Canada,"Lake Superior, Ontario",6048728,Lake Superior,lake,Canada,48.33222,-87.09861,LK,49.01075744628906,-84.35503387451172,46.408687591552734,-92.08006286621094
+Switzerland,Lakes Thun & Brienz,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Austria,Lake Traunsee,2763413,Traunsee,lake,Austria,47.85,13.8,LK,NA,NA,NA,NA
+Switzerland,Lake Walenstadt,2658065,Walensee,lake,Switzerland,47.12287,9.19496,LK,47.13958831812672,9.30266022426582,47.11149301929448,9.098305784062447
+Switzerland,Lake Zürich,2657892,Lake Zurich,lake,Switzerland,47.23129,8.70336,LK,47.36690910264533,8.948558411946689,47.19130892582132,8.534970518297579
+NA,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Lake Michigan, Lake Michigan off Racine, WI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Lake Onega,515236,Lake Onega,lake,Russia,61.69059,35.65562,LK,62.92074031659354,36.456559610943344,60.854598508256345,33.92767739475519
+Germany,Lake Chiemsee,2940125,Chiemsee,lake,Germany,47.88333,12.46667,LK,47.93346725267641,12.534177541581444,47.831385258851846,12.363627364869991
+,Estonia & Russia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,"Lake Constance-Obersee, Germany, 1991-1997",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Greece,Lake Tavropos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Greece,Lake Vegoritis,733918,Límni Vegorítida,lake,Greece,40.75506,21.79271,LK,NA,NA,NA,NA
+UK Scotland,"Loch Lomond, 1984-1986",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,"Lock Eck, 1966-1987",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,Pomerian Bay/ Szczecin Lagoon (1983-1984),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,"River Imsa, 1976-1985",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sweden,Lake Vänern,2665172,Vänern,lake,Sweden,58.91667,13.5,LK,59.41735607103006,14.152326159752212,58.35505489908412,12.308091452066714
+Germany,Odra river,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sweden,Vänern,2665172,Vänern,lake,Sweden,58.91667,13.5,LK,59.41735607103006,14.152326159752212,58.35505489908412,12.308091452066714
+Sweden,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,Loch Lomond,2643750,Loch Lomond,lake,United Kingdom,56.08333,-4.6,LK,NA,NA,NA,NA
+,Arctic and subarctic region.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Arctic Ocean,2960860,Arctic Ocean,ocean,,85,0,OCN,90.0,180.0,71.39041900634766,-180.0
+,Nizhnyaya Tunguska,1497368,Nizhnyaya Tunguska,stream,Russia,65.8,88.06667,STM,NA,NA,NA,NA
+Alaska,Interior Alaska,8486793,Tri - Valley Community Center - Interior Community Health Center,building(s),United States,63.8705,-149.00588,BLDG,NA,NA,NA,NA
+Switzerland,Lake Vierwaldstätter,2658136,Lake of Lucerne,lake,Switzerland,47.01667,8.4,LK,47.08219300340346,8.625016644125484,46.888444628426846,8.278775240094731
+Switzerland,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"Sweden, Finland, Russia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Engld Wal,Lake Llyn Tegid (Lake Bala),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ireland,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Lake Superior,4994594,Great Lakes,lake,United States,45.68751,-84.43753,LK,43.0087203979492,-78.85114288330078,41.38056182861328,-83.49104309082031
+,Michigan and Huron Lakes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,southern part of range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,Lake Morat,2659528,Lake Murten,lake,Switzerland,46.9316,7.08304,LK,46.95796269643063,7.13411616751134,46.90442192916176,7.0333433347769105
+Canada,Great Lakes region,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,Lake Thun,2658375,Lake Thun,lake,Switzerland,46.69228,7.72085,LK,46.74624166363031,7.832120210981968,46.65435821207221,7.625120186279056
+NA,Lake Geneva,5653982,Lake Geneva,lake,United States,45.25162,-113.65567,LK,NA,NA,NA,NA
+,Arctic Ocean basin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,European lakes.,6698043,Plitvice Lakes National Park,nature reserve,Croatia,44.88124,15.6199,RESN,NA,NA,NA,NA
+Alaska,Kuskokwim river near Bethel,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Bear L., Bear L. near Fish Haven ID",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,Ammersee,2956426,Ammersee,lake,Germany,47.99668,11.12716,LK,48.07885167797286,11.170766185139433,47.935015262921105,11.09551903939296
+Austria,Hallstädtersee See,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,"Kochelsee, Walchensee",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,Schliersee,2838503,Schliersee,lake,Germany,47.7242,11.86259,LK,47.73353944414606,11.869912068279989,47.71072928953172,11.852381449755917
+Germany,Starnbergersee,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,Tegernsee,2823680,Tegernsee Lake,lake,Germany,47.71667,11.73333,LK,NA,NA,NA,NA
+Austria,Traunsee,2763413,Traunsee,lake,Austria,47.85,13.8,LK,NA,NA,NA,NA
+UK,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Lake Constance,11919717,Lake Constance region,region,,47.61495,9.39765,RGN,48.28905788493152,10.511613351441,46.8413967462222,8.35769337494331
+Switzerland,Upper Lake Constanze,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Northern Baltic,5892408,Baltic,area,Canada,48.38339,-83.68308,AREA,NA,NA,NA,NA
+USA,Montana,5667009,Montana,first-order administrative division,United States,47.00025,-109.75102,ADM1,49.0011,-104.039694,44.357915,-116.049153
+Switzerland,Lake Vierwaldstätter and Lake Zug,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Florida Current,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,Kyushu,1857891,Kyūshū Chihō,region,Japan,32.33546,130.85082,RGN,34.72755201800004,132.17749501,24.0456164180001,122.93366527
+Barbados,Not specified.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hawaii,Oceanic Institute hatcheries,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Taiwan,Off eastern Taiwan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Panama,"Panama Bight (including Colombia), 1994-96",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Puerto Rico,Puerto Rico,4566966,Puerto Rico,dependent political entity,Puerto Rico,18.24829,-66.49989,PCLD,18.5159687270238,-65.22098290999642,17.881240733653026,-67.95137380712532
+Canary Is.,"waters off Gran Canaria (May-Sept 1995, July-Sept 1996)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,Hebrides Terrace,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iceland,Iceland,2629691,Iceland,independent political entity,Iceland,65,-18,PCLI,66.5664361911914,-13.4946206239501,63.2957660883905,-24.5326753866625
+,Reykjanes and Mid-Atlantic ridge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iceland,"Rockall and Hatton Banks, 1975",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,"Rockall trough, 1993-95",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,"Skagerrak (Norwegian Deep), 1986-87",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,Catalan Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,North Atlantic,4482348,North Carolina,first-order administrative division,United States,35.50069,-80.00032,ADM1,36.588137,-75.459952,33.841205,-84.321821
+USA,Oregon,5744337,Oregon,first-order administrative division,United States,44.00013,-120.50139,ADM1,46.291026,-116.463262,41.992082,-124.596293
+NA,Rockall Trough,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Oregon (in the California Current region),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Zealand,New Zealand,2186224,New Zealand,independent political entity,New Zealand,-42,174,PCLI,-29.241097,-175.836411,-52.607582,165.883774
+Australia,"off Cape Sorell, west coast of Tasmania",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antarctica,Weddell Sea/Antarctic Peninsula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Gulf of Maine, 2010-2011",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,English Channel and North Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Norway,6625050,Sentinel Range,mountains,Antarctica,-78.16667,-85.5,MTS,NA,NA,NA,NA
+Brazil,"Southeast, South",8437608,Petrolina Southeast,airport,Brazil,-9.39313,-40.49804,AIRP,NA,NA,NA,NA
+Brazil,"Southeast, South_",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Baltic Sea,2633321,Baltic Sea,sea,,56,18,SEA,59.950584411621094,23.513721466064453,53.5821380615234,9.84188842773438
+Greenland,west coast of Greenland,2190465,Mount Greenland,mountain,New Zealand,-42.95,170.83333,MT,NA,NA,NA,NA
+India,"Porto Novo, 1981-82",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Korea (South),"off Yeosu, 2001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Kerala (2014),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indonesia,"Ujung Pangkah, East Java, August 2005 -January 2006",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Venezuela,"Bay of El Tablazo, Straits of Maracaibo and  northern Lake Maracaibo",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Maranhâo, 2007-2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Peru,03° - 06°  S,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Peru,Paita,3694110,Provincia de Paita,second-order administrative division,Peru,-5.10189,-81.09695,ADM2,-4.77179297299995,-80.8242402399999,-5.38846097399994,-81.21055274
+Venezuela,Northern coast of Paria Peninsula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Southeast, South, 1993-1998",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Maranhâo, 2005-2006",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Barataria Bay, Louisiana, 1994-95",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,"Campeche Sound, Gulf of Mexico",3531731,Bahía de Campeche,bay,Mexico,20,-94,BAY,NA,NA,NA,NA
+USA,"off Port Aransas, Texas, 1977-78",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Eastern Central Pacific,10063759,Pacific Cebu Resort,hotel,Philippines,,,,NA,NA,NA,NA
+USA,"Cape Haterras-Cape Fear, North Carolina ,1967-1970",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"North Carolina, 1912",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Argentina,"El Rincon, Buenos Aires (38°50'S-40°30'S)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Uruguay,near Punta del Este (35°10'S-55°W),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Bay of Bengal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,Eastern Atlantic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Northeast Atlantic,6955102,New York-Northern New Jersey-Long Island,economic region,United States,40.75766,-73.91327,RGNE,NA,NA,NA,NA
+Azores Is.,waters off the island,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,to be checked,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tunisia,Tunisia,2464461,Tunisia,independent political entity,Tunisia,34,9,PCLI,37.55984063500006,11.608143339,30.2415834110001,7.52252789300007
+South Africa,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Caiçara do Norte (Sept 2003-Aug 2004),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,"Bahía Almejas, Baja California Sur",4018745,Bahía Las Almejas,bay,Mexico,24.48996,-111.70692,BAY,NA,NA,NA,NA
+Australia,"Moreton Bay, April 2002-May 2006",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"Northeastern Atlantic, Mediterranean and Black Sea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+El Salvador,"10°N, 90°W, 1977",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,"Benalmadena Sea Life Park near Malaga, 1995",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,"Keikyo Aburatsubo Marine Park Aquarium, 1986",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,"Osaka Aquarium, 1992-93",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Sea World, 1995",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Steinhart Aquarium, San Francisco, 2000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Global,8469808,Global Village,mall,United Arab Emirates,25.06765,55.30557,MALL,NA,NA,NA,NA
+Ireland,Rockall Trough & Porcupine Bank (1996-97; 1999),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,insular slope of Madeira and Japan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indonesia,"Java Sea (West Java, Central Java, South Kalimantan), 1992-1995,1998",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philippines,Manila Bay (Nov 1956-Mar 1959),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philippines,Palawan (Nov 1956-Mar 1959),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philippines,Manila Bay approaches (Nov 1956-Mar 1959),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philippines,Palawan waters (Nov 1956-Mar 1959),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,"Suruga Bay, 1995-96; 1998",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Congo,Pointe-Noire,7280295,Pointe-Noire,first-order administrative division,Congo Republic,-4.79029,11.87622,ADM1,-4.741543806338996,11.898240999522557,-4.8553997419046055,11.819266039000127
+NA,eastern Atlantic and southwestern Mediterranean Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canary Is.,"Gran Canaria, Fuerteventura and Lanzarote, 1991-93",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indonesia,Flores,9062332,Flores Island,island,Indonesia,-8.62354,121.12899,ISL,-8.06335739999997,123.0211334,-8.95643239999993,119.7956772
+Kuwait,Doha sea cage site,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Aegean Sea,265695,Aegean Sea,sea,Greece,39,25,SEA,41.011749267578125,28.332416534423828,35.11455535888672,22.524499893188477
+,Cape Blanc,2463030,Presqu’île du Cap Blanc,peninsula,Western Sahara,20.98901,-17.0446,PEN,NA,NA,NA,NA
+Namibia,Cunene river,3355854,Cunene River,stream,Namibia,-17.25,11.75,STM,NA,NA,NA,NA
+,Eastern Atlantic,3163618,West European Basin,basin,,47,-15,BSNU,NA,NA,NA,NA
+,Mediterranean and west coast of Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,South West African coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Southern Mediterranean,2411530,Mediterranean Steps,cliff(s),Gibraltar,36.12392,-5.34294,CLF,NA,NA,NA,NA
+Senegal,North of Cape Verde,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Cochin,7626292,Cochin International Airport,airport,India,10.15556,76.39139,AIRP,NA,NA,NA,NA
+India,Kakinada,11859594,Kakinada Port,railroad station,India,16.9552,82.24006,RSTN,NA,NA,NA,NA
+India,Veraval,8030681,Veraval LORAN-C Tower,tower,India,20.95261,70.3366,TOWR,NA,NA,NA,NA
+South Africa,Transkei,948233,Transkei,region,South Africa,-31.5,29,RGN,NA,NA,NA,NA
+Hong Kong,Hong Kong,1819727,Hong Kong,island,Hong Kong,22.26686,114.17885,ISL,22.2950743364561,114.261349661935,22.1940829837911,114.116384787404
+Japan,off Fukuoka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Malaysia,East Malaysian waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Madras,1255053,Tamil Nadu,first-order administrative division,India,11,78.33333,ADM1,13.5631526975041,80.3463054069028,8.07784703385616,76.2331006512215
+India,"north Andhra and Orissa coasts, 1965-66",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hong Kong,Not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,off Cochin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Off the coast of Mangalore,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,"off Visakhapatnam, 1990-99",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,"Visakhapatnam, Bay of Bengal, Nov-Feb 1965-66",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Waltair,1252982,Waltair Point,point,India,17.72869,83.34649,PT,NA,NA,NA,NA
+Australia,"Northwest coast, 1979-80",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Taiwan,"Jinshan, Rueifang and Dasi fishing ports",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Northwest shelf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Saudi Arabia,Off Jizan coast (Red Sea),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Off the coast of East Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hawaii,Not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Veraval and Lakshadweep waters (2011-2012),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Venezuela,"south of Margarita Island, 1972-73",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Morocco,Atlantic coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,central coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+France,"Golfe de Gascogne, Bay of Biscay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Algeria,Mediterranean coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,"Sanlúcar de Barrameda, Gulf of Cadiz (May 1993-Dec 1994)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,"Sesoko Island, northern Okinawa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,off eastern Kanto region (1981-2006),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Off the coasts, Apr 2001-Jul 2004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Croatia,Adriatic Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,Algarve,10227214,Coast of Algarve,coast,Portugal,37.08367,-8.24902,CST,37.28783174275967,-7.393304846134398,36.96171046617777,-8.997545018487815
+Greece,Amvrakikos Gulf,265134,Amvrakikós Kólpos,bay,Greece,38.96843,20.97228,BAY,NA,NA,NA,NA
+Spain,"Balearic Islands, December 2005-August 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Black Sea 1,10309976,Tevhit-1 Camii,mosque,Turkey,40.55331,34.9521,MSQE,NA,NA,NA,NA
+,Black Sea 2,5766176,Kary Number 2 Dam,dam,United States,43.41667,-101.11209,DAM,NA,NA,NA,NA
+,Black Sea 3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Black Sea 4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Algeria,coasts of Annaba,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Eastern Atlantic and western Mediterranean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Croatia,Eastern middle Adriatic Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Algeria,Gulf of Annaba,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+France,Gulf of Lions & Gulf of Roses-Cape Creus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,Izmir Bay,11361422,Nemrut Limani Bay,port,Turkey,38.76667,26.91667,PRT,NA,NA,NA,NA
+Tunisia,Kerkennah Island,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,Marmara Sea,10171300,Wyndham Kalamis Marina (Partial Sea Vw),hotel,Turkey,40.97743,29.04164,HTL,NA,NA,NA,NA
+,Northern Adriatic,4928775,Adriatic Mills (historical),,United States,42.24926,-71.81035,,NA,NA,NA,NA
+Canary Is.,off Gran Canaria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,Urla Harbor,738340,Urla Limanı,harbor(s),Turkey,42.00279,33.49766,HBR,NA,NA,NA,NA
+Brazil,"Cabo Frio, Rio de Janeiro (2001-2002)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,eastern Atlantic and Mediterranean Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,along the south coast of South Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Villafranca Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Chilka Lake,1274203,Chilika Lake,lagoon,India,19.73078,85.33656,LGN,NA,NA,NA,NA
+United Arab Em.,"off Abu Dhabi, 2008-2009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canary Is.,"Gran Canaria Island, 2000-2001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,"Algarve, 37°N",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,"Asturias, 43°N",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Eastern Cape,1085593,Eastern Cape,first-order administrative division,South Africa,-32,26,ADM1,-30.00179997,30.194719971,-34.2138600009999,22.7357400010001
+Azores Is.,"Faial Island (Aug 1997- July 1999), Corvo and Santa Maria islands (each summer 1997-1999)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kuwait,"Kuwait Bay, 29°N",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,"KwaZulu-Natal, 30°S",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,"Lisbon, 38°N",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,"Southeast Cape, 34°S",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,western Mediterranean,10922502,Mediterranean Region,region,Turkey,36.78713,34.22001,RGN,38.5784072880003,37.7492790220001,35.8154300000002,29.263704221004
+NA,eastern Atlantic,4460372,Eastern Cherokee Reservation,administrative division,United States,35.4785,-83.27217,ADMD,NA,NA,NA,NA
+Turkey,Çanakkale Strait,749779,Hellespont,strait,Turkey,40.21407,26.4584,STRT,NA,NA,NA,NA
+Algeria,Off Algeria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+S. Georg. Sandw.,Burdwood Bank,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antarctica,Ross Sea,4036625,Ross Sea,sea,Antarctica,-75,-175,SEA,-71.34517179391742,-147.07003629147772,-85.23690564656795,158.15035624872405
+India,"Chilka Lake, east coast of India",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,West coast (Mangalore area),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Lake Erie,5153380,Lake Erie,lake,United States,41.97333,-81.30313,LK,42.90689812800008,-78.85325626499997,41.38084812300008,-83.49911483199998
+USA,USA,6255150,South America,continent,,-14.60485,-57.65625,CONT,13.394789727,-28.8360947061847,-56.5377657939999,-109.454879262
+NA,Indian waters,4927930,Waters Ditch,canal,United States,40.40337,-85.82609,CNL,NA,NA,NA,NA
+Brazil,"Pernambuco, 1999-2003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antarctica,Southern Ocean,1546748,French Southern Territories,section of independent political entity,French Southern Territories,-43,67,PCLIX,-15.88459954977133,77.598808,-50.020264,40.32914529683842
+,Gulf of Sakhalin,2121527,Gulf of Sakhalin,gulf,Russia,53.75,141.5,GULF,NA,NA,NA,NA
+,Gulf of Terpenie,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Tartar Strait,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,"Tuktoyaktuk Harbour, Northwest Territories",6170032,Tuktoyaktuk Harbour,harbor(s),Canada,69.43324,-132.9722,HBR,NA,NA,NA,NA
+Russia,Arctic Ocean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Malaysia,Malacca coastal waters of Peninsular Malaysia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Papua New Guinea,Off south Papua,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Townsville,6301304,Townsville Airport,airport,Australia,-19.2525,146.76528,AIRP,NA,NA,NA,NA
+Panama,Gatun Locks,3709290,Gatún Locks,lock(s),Panama,9.27056,-79.92333,LOCK,NA,NA,NA,NA
+USA,off Florida,4152739,Dames Point - Fulton Cutoff,channel,United States,30.38857,-81.52981,CHN,NA,NA,NA,NA
+Canada,Canada,6251999,Canada,independent political entity,Canada,60.10867,-113.64258,PCLI,83.110626,-52.636291,41.67598,-141.0
+USA,Cape Sable to Block Island,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Gulf of Maine; Massachusetts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ireland,Western coast,8857781,Jack Ireland Park,park,Australia,-32.53722,115.7408,PRK,NA,NA,NA,NA
+Philippines,Manila Bay (Nov 1956-Sept 1958),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Aniva Bay (Sea of Okhotsk),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Between Lambert's Bay and St. Sebastian Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Namibia,Off Namibia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Taiwan,Off northern Taiwan Island,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Peter the Great Bay (Sea of Japan),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,"Esteban Deep, British Columbia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,West coast of USA and Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Southeastern Mediterranean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hong Kong,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Kwazulu-Natal,972062,KwaZulu-Natal,first-order administrative division,South Africa,-29,30,ADM1,-26.8044300619999,32.944984945,-31.0826299409999,28.873479941
+Australia,31-32° on the lower west coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,GBR Marine Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Puerto Rico,La Parguera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Puerto Rico,Off southwestern coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jamaica,Offshore banks,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bermuda,St. Croix,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Virgin Is. (US),Virgin Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Eastern Gulf of Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,Balearic Islands (1998-2004),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Algeria,Eastern Algerian coast (1993-1994),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,Pelagie Islands (1994-1996),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Santa Catarina Island, 1998-2000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"eastern Gulf of Mexico (Panama City to Key West, 1992-2001)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,southern Gulf of Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,off South Carolina upper continental slope (176-232 m depths),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Juan Fernández,Around Juan Fernandez Archipelago.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,"North Andhra Region (17°01'N-19°22'N; 83°23'E-85°14'E), Sept 2009-Oct 2011",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,"Ningaloo Reef, Western Australia",11467893,Ningaloo Reef,reef,Australia,-21.9994,113.90934,RFU,NA,NA,NA,NA
+,Caribbean,6255150,South America,continent,,-14.60485,-57.65625,CONT,13.394789727,-28.8360947061847,-56.5377657939999,-109.454879262
+Cayman Is.,Eastern ends of the Cayman Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cayman Is.,"Grand Cayman, 1988-89",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bahamas,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bahamas,Off Long Island,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,Honshu Isl.,1862185,Honshū Island,island,Japan,36,138,ISL,41.546808721,142.072480947,33.433015,130.860387665
+St Lucia,Saint Lucia,3576468,Saint Lucia,independent political entity,Saint Lucia,13.88333,-60.96667,PCLI,14.110317287646,-60.8732306422271,13.7072692224982,-61.07995730159752
+Ghana,Cape Coast,7648969,Cape Coast,second-order administrative division,Ghana,5.10535,-1.2466,ADM2,5.254657005919963,-1.211251146185959,5.096769578947575,-1.3628706175731322
+Senegal,Casamance,2253435,Casamance,region,Senegal,12.75,-15.5,RGN,NA,NA,NA,NA
+Cote d'Ivoire,Côte d'Ivoire,2287781,Ivory Coast,independent political entity,Ivory Coast,8,-5.5,PCLI,10.740015,-2.49303099999997,4.36035248000007,-8.60205899999994
+Gambia,Gambia River,2411711,Upper River,first-order administrative division,Gambia,13.36667,-14.16667,ADM1,13.583054542541504,-13.798612594604492,13.230554580688477,-14.54777717590332
+Nigeria,Nigeria,2328926,Nigeria,independent political entity,Nigeria,10,8,PCLI,13.885645000000068,14.677982000000043,4.27058531900002,2.663560999000026
+Senegal,Not specified.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gambia,river,2411711,Upper River,first-order administrative division,Gambia,13.36667,-14.16667,ADM1,13.583054542541504,-13.798612594604492,13.230554580688477,-14.54777717590332
+Senegal,Senegal River,2246451,Saint-Louis,first-order administrative division,Senegal,16.33333,-15,ADM1,16.6930541992188,-13.6977787017822,15.6378404764568,-16.5486145019531
+Sierra Leone,Sierra Leone,2403846,Sierra Leone,independent political entity,Sierra Leone,8.5,-11.5,PCLI,9.99997300000007,-10.2716829999999,6.92343700100002,-13.302128077
+Peru,Peru,3932488,Peru,independent political entity,Peru,-10,-75.25,PCLI,-0.0386059686681167,-68.6522791042853,-18.3509277356587,-81.3281953622301
+New Zealand,upper insular slopes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philippines,Philippine Islands,1694008,Philippines,independent political entity,Philippines,13,122,PCLI,21.1218854788318,126.60497402182328,4.587294496743652,114.27789225312506
+NA,Western Atlantic continental slopes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"off Hainan Island, China",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,off Argentina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Straits of Magellan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,central South Atlantic,4187115,Central Gwinnett Industrial Park,industrial area,United States,33.95788,-84.01241,INDS,NA,NA,NA,NA
+NA,southeastern Indian Ocean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"off Natal, South Africa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Global,5552505,Thunderbird School of Global Management,school,United States,33.62368,-112.18397,SCH,NA,NA,NA,NA
+NA,insular slopes of the Hawaiian Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,Campeche Sound,3531731,Bahía de Campeche,bay,Mexico,20,-94,BAY,NA,NA,NA,NA
+USA,South Carolina,4482348,North Carolina,first-order administrative division,United States,35.50069,-80.00032,ADM1,36.588137,-75.459952,33.841205,-84.321821
+Mexico,"Celestún, Yucatán, 1986-87",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Paraná, 1998-1999",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,"Sassoon Dock, Maharashtra (1996-2000)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Seychelles,Seychelles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Angola,Angola,3351879,Angola,independent political entity,Angola,-12.5,18.5,PCLI,-4.376826,24.082119,-18.042076,11.679219
+Congo,Congo,2260494,Congo Republic,independent political entity,Congo Republic,-1,15.5,PCLI,3.70779100000004,18.65042119,-5.04072158799994,11.1520760600001
+,Eastern and western Atlantic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Gulf of Guinea,2096633,Gulf Province,first-order administrative division,Papua New Guinea,-7.7246,145.08545,ADM1,-6.676731109619141,146.67129516601562,-8.584708213806152,143.02479553222656
+Sao Tome Princ.,Sao Tome and Principe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Mouth of the Gulf of California,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,Off western Baja California,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Massachusetts,6254926,Massachusetts,first-order administrative division,United States,42.36565,-71.10832,ADM1,42.886778,-69.927977,41.239045,-73.50821
+USA,New York,6955102,New York-Northern New Jersey-Long Island,economic region,United States,40.75766,-73.91327,RGNE,NA,NA,NA,NA
+Alaska,eastern Bering Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,Gulf of Alaska along the continental slope of Alaska Peninsula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,Hokkaido,11257417,Hokkaido,region,Japan,43.51669,142.44873,RGN,45.557243414,148.894403191,41.351645559,139.333960169
+Japan,Mutsu Bay (northernmost Honshu),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Korea (South),Republic of Korea,1835841,South Korea,independent political entity,South Korea,36.5,127.75,PCLI,38.5933891092225,131.872205583533,33.1137120723136,124.609708786479
+Greenland,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Greenland,"Wemindji, eastern James Bay (1987-1988)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Western Pacific: around Commander Island and coast of Siberia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Denmark,"Baltic Sea, Bornholm Basin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,"Baltic, ICES SD 22 + 24, Belt Sea and Kiel Bay",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,"Baltic, ICES SD 25-32, Gdansk deep and Gotland Basin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Barents Sea,630674,Barentsz Sea,sea,,74,36,SEA,81.84172058105469,68.59566497802734,66.8113632202148,16.265443801879883
+Denmark,Bornholm Basin (1994),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Denmark,"Bornholm Basin, 1987-96",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Denmark,"Bornholm Basin, 1995-97",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Denmark,Bornholm Deep,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iceland,Coastal area,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,Gdanks Deep,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,German Bight (North Sea),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,Irish Sea,6640368,Irish Sea,sea,,53.66667,-5,SEA,55.0272216796875,-2.744166612625122,51.90583419799805,-6.514527797698975
+Germany,"Kiel Bay, 1992-96",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,Lofoten,3147088,Lofoten,islands,Norway,68.20483,12.79496,ISLS,NA,NA,NA,NA
+Norway,Møre,3145495,Møre og Romsdal,first-order administrative division,Norway,62.7345,7.1506,ADM1,63.5342216460241,9.36483147045844,61.923343798346,5.26380210953414
+Canada,Newfoundland,6354959,Newfoundland and Labrador,first-order administrative division,Canada,52,-56,ADM1,60.377744013,-52.6194085039999,46.6110929450001,-67.8216852879999
+Norway,Norwegian coast (Lofoten Islands),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,off Lofoten,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,Southwestern Gulf of St. Lawrence,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,"The Shinneys, Gilbert Bay, Labrador (1998-2001)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,Vesterålen,3152265,Holdøya,island,Norway,68.45521,14.89137,ISL,68.45876989625913,14.906918710771668,68.449638603178,14.880848215046925
+Greenland,West Greenland,3422392,West Greenland,region,Greenland,68,-52,RGN,78.0,-43.08666229248047,59.79027557373047,-58.15471649169922
+Germany,Western Baltic,7283696,HVDC Baltic Cable - Cathode,ridge,Germany,54.02837,11.13999,RDGU,NA,NA,NA,NA
+,Western Baltic: Danish Straits and Arkona Basin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Denmark,"Western Baltic: Little Belt Sea, Great Belt Sea, southern Kattegat",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,Western Baltic: Mecklenburg Bay and Kiel Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,"off Capo di Monte Santu, Sardinia, 2007 (March)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Northeast Atlantic,5178453,Archbald Pothole State Park,park,United States,41.52341,-75.5663,PRK,NA,NA,NA,NA
+,Mediterranean and Black Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,off British Isles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,southern Europe,9408658,Southern Europe,region,,41.34382,-3.33984,RGN,47.0917837415439,29.642984894413,27.6377894797159,-31.2688154080396
+Ireland,Western side,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,to be filled (landlocked population),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Northern hemisphere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Caribbean insular shelf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Australia,2077456,Australia,independent political entity,Australia,-25,135,PCLI,-9.142175976999965,171.349228,-54.77666079353939,112.921113949
+Japan,Japanese waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Eastern Atlantic continental slopes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,Northern Gulf of California,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Taiwan,Taiwan Straits.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Not given.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Bass Strait,2194168,Bass Strait,strait,Australia,-39.81783,146.06529,STRT,-37.45975112915039,149.97796630859375,-41.411109924316406,143.5132293701172
+New Zealand,southwest waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Off Kosi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,KwaZulu-Natal,972062,KwaZulu-Natal,first-order administrative division,South Africa,-29,30,ADM1,-26.8044300619999,32.944984945,-31.0826299409999,28.873479941
+NA,"off  Florida, Caribbean",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,California Current Region,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Taiwan,Northern coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Central and northern New South Wales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,"Clarence River, New South Wales (29.427° S, 153.372° E), Sept 2003-March 2005",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,"Gippsland Lakes, Victoria",2165511,Gippsland Lakes,lake,Australia,-38,147.65,LK,NA,NA,NA,NA
+Australia,Moreton Bay,7839376,Moreton Bay,second-order administrative division,Australia,-27.10731,152.92937,ADM2,-26.7922699929999,153.207557665,-27.422374998,152.651189005
+Australia,"Tuggerah Lake, New South Wales (33.345° S, 151.504° E), Sept 2003-March 2005",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,"Turros River, New South Wales (36.067° S, 150.135° E), Sept 2003-March 2005",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,"Hecate Strait, British Columbia",5973314,Hecate Strait,channel,Canada,53.4995,-131.17003,CHN,54.171096282297796,-128.90306091308602,51.9466245044884,-131.981047865482
+Elephant I.,Elephant Is,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+S. Georg. Sandw.,"shelf section, February-April, 1965",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Orkney Is.,"South Orkney Islands, February-April, 1965",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,Naples,6299627,Naples Airport,airport,Italy,40.88603,14.29078,AIRP,NA,NA,NA,NA
+Netherlands,Veerse Meer,2745733,Veerse Meer,lake,Netherlands,51.54796,3.74812,LK,NA,NA,NA,NA
+Croatia,"Dubrovnik, Elafiti Archipelago, Mljet and Sveti Andrija islands (Oct 2009-Dec 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canary Is.,Fishing ports (1985-1994),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Global,Global,8469808,Global Village,mall,United Arab Emirates,25.06765,55.30557,MALL,NA,NA,NA,NA
+USA,"Alligator Harbor, Florida",4145883,Alligator Harbor Aquatic Preserve,park,United States,29.90166,-84.46466,PRK,NA,NA,NA,NA
+USA,"Crystal River, Florida",9972710,Crystal River National Wildlife Refuge,park,United States,28.84217,-82.60974,PRK,NA,NA,NA,NA
+USA,"Port Aransas, Texas",11788938,City of Port Aransas,third-order administrative division,United States,27.81298,-97.08325,ADM3,NA,NA,NA,NA
+USA,"St. Andrew Bay, Florida",4170865,Saint Andrews State Park,park,United States,30.13104,-85.73771,PRK,NA,NA,NA,NA
+USA,"Tampa Bay, Florida",6955101,Tampa-St. Petersburg-Clearwater,economic region,United States,27.87307,-82.51007,RGNE,NA,NA,NA,NA
+Brazil,"Ceará, 2006-2007",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,Kuchierabu-jima Island (located between Kyushu and the Ryukyu islands),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Lake Abrau,584366,Abrau,lake,Russia,44.69667,37.59139,LK,NA,NA,NA,NA
+India,Gulf of Mannar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Kerala,1267254,Kerala,first-order administrative division,India,10.41667,76.5,ADM1,12.7950801065127,77.4126870462142,8.29135591621394,74.8630379683918
+India,Tuticorin Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Visakhapatnam,7668597,Visakhapatnam Airport,airport,India,17.7212,83.2245,AIRP,NA,NA,NA,NA
+Senegal,rivers,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Karwar,10535675,Karwār Reserved Forest,forest reserve,India,21.54519,78.54888,RESF,NA,NA,NA,NA
+India,Vizhinjam,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Around Miami,6330492,Clown Around Preschool,school,United States,25.89722,-80.19389,SCH,NA,NA,NA,NA
+Indonesia,Bali Strait,1621139,Selat Bali,strait,Indonesia,-8.3,114.425,STRT,NA,NA,NA,NA
+,East China Sea,1676969,East China Sea,sea,Taiwan,29,125,SEA,33.28388977050781,131.1341094970703,24.040250778198242,119.54624938964844
+Hawaii,-,5855797,Hawaii,first-order administrative division,United States,20.78785,-156.38612,ADM1,28.402182,-154.806622,18.91069,-178.306196
+Marshall Is.,--,4901299,Marshall,second-order administrative division,United States,41.03317,-89.34478,ADM2,41.1487,-89.047059,40.921203,-89.63873
+Seychelles,1982-83,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Andaman Is,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kiribati,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philippines,Lake Taal (Bombon),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philippines,"Taal Lake, Batangas",1685141,Lake Taal,lake,Philippines,13.9824,121.017,LK,14.070424690838706,121.05003937366115,13.957388866020153,120.93229372280848
+Korea (North),not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,northwest coast,5948779,End Island,island,Canada,52.0507,-128.14676,ISL,NA,NA,NA,NA
+Azores Is.,arch,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,Gulf of Lion,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Ligurian Sea,3174724,Ligurian Sea,sea,,43.5,9,SEA,44.4271094537682,10.5398012215824,42.9822398611136,7.53961028607671
+,Northeast Atlantic (south of 48°N),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,"Rockall Trough, 1992-93",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,areas poleward,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Papua New Guinea,Sepik and Ramu rivers,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,aquarium observation,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Easter I.,"nearshore (27°10'S, 109°20'W, Nov. 1999)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,Off Japan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,Not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,none,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,none,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philippines,Central coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,Among Sargassum close to shore.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Chesapeake Bay, Virginia",4752195,Chesapeake Channel,channel,United States,36.96681,-75.99993,CHN,NA,NA,NA,NA
+Australia,not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,East Pacific,5861229,East Butterfly Lake,lake,United States,61.59923,-150.08787,LK,NA,NA,NA,NA
+France,Mediterranean shore,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,South-eastern coast of Spain,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Viet Nam,Binh Thuan waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Southwestern Australia,2208233,Southwestern Extreme,reef(s),Australia,-21.28889,155.725,RF,NA,NA,NA,NA
+Viet Nam,Binh Thuan,1581882,Tỉnh Bình Thuận,first-order administrative division,Vietnam,11.08333,108.08333,ADM1,11.566200256347656,108.97135925292969,10.503332138061523,107.41664123535156
+Indonesia,Western Central Pacific,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Viet Nam,Cuabe Estuary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,southeastern coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Europe,690791,Ukraine,independent political entity,Ukraine,49,32,PCLI,52.3793713250001,40.22048033,44.3820571900001,22.137078
+Australia,Southeast Australia,2078157,Indian Antarctic Rise,ridge,,-50,110,RDGU,NA,NA,NA,NA
+USA,Florida Keys,4163380,Florida Keys Marathon International Airport,airport,United States,24.72523,-81.05155,AIRP,NA,NA,NA,NA
+Alaska,Eastern Bering Sea (Mar-Jun 2012),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,off Norwegian coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Pernambuco (2007),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jamaica,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bermuda,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Zealand,Chatham Rise,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Great Australian Bight,8155998,Great Australian Bight Marine National Park,park,Australia,-31.61473,130.12331,PRK,NA,NA,NA,NA
+Madagascar,Madagascar ridge,1084891,Madagascar Plateau,plateau,,-30,45,PLTU,NA,NA,NA,NA
+New Zealand,"Mid-East Coast (MEC) region, 2001 & 2003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,St. Helens sea hill in Tasmania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,West Australian ridge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,Northwestern Ionian Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Zealand,Not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Atlantic and Indian Oceans seamounts off southern part of Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Mainland Australia,8311984,Mainland,mine(s),Australia,-27.58371,117.9272,MN,NA,NA,NA,NA
+Australia,Off northern New South Wales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Tasmania,2147291,Tasmania,first-order administrative division,Australia,-42,147,ADM1,-39.203661659,148.498673612,-43.740509603,143.818922728
+Sierra Leone,Goderich (July 1993-March 1994),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Peru,Chao and Samanco (Chimbote),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+China,Hainan Island,1809055,Hainan Dao,island,China,19.2,109.7,ISL,20.164583206,111.042945862,18.1603889460001,108.612030029
+Australia,Northwestern part of the Coral Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Off Cairns,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,South China Sea,1567570,South China Sea,sea,Vietnam,15,115,SEA,23.4645004272461,122.21925354003906,1.226500034332275,102.22799682617188
+Australia,"Timor Sea, northwestern coasts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guinea,Conakry-Freetown region,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guinea,Conakry-St. Luis region,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Florida (offshore waters beyond the 100 fathom isobath),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cuba,Offshore waters beyond the 100 fathom isobath,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,South Carolina (offshore waters beyond the 100 fathom isobath),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+French Polynesia,"16.47-31.50°S, 140-144°W (Jan 2006-Jan 2009)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indonesia,Banda and Timor Seas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Bay of Bengal,1281789,Bay of Bengal,sea,,13.5392,87.6709,SEA,24.0,95.02930450439453,5.748416900634766,79.75741577148438
+Fiji,near 177°W,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Northeastern Indian Ocean between 10°S and 20°S,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Southern Coral Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Southwest Pacific between 10°S and 30°S,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Southwestern Pacific Ocean (Jan 2006-Jan 2009),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Western North Pacific,6178853,Western Rock,shoals,Canada,49.73349,-124.28219,SHSU,NA,NA,NA,NA
+Brazil,"São Paulo, 1971-1979",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,tropical and subtropical waters of the Pacific,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"Western Atlantic, central Pacific",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Between 20° to 30°S and 20°to 50° W.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cuba,Off Cuba,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Andhra Pradesh (2011-2012),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Coral Sea (off north Queensland) and off northwestern Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,In equatorial waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,off the coast of North Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,Ariake Sound,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,"Peter the Great Bay, Sea of Japan",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Off Natal coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,Between rocks and algae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,North sea,4563233,Caribbean Sea,sea,Puerto Rico,15.00028,-75.00028,SEA,22.70950698852539,-59.2689323425293,7.898654937744141,-88.99104309082031
+NA,western Mediterranean,325361,Adana,first-order administrative division,Turkey,36.985,35.28809,ADM1,38.3875541690001,36.429153442,36.5428161620002,34.7780952450001
+Puerto Rico,"La Parguera, Dec 1977-July 1979 (17°54'N, 66°57'W)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cuba,south-western Cuba,3644881,Cerro Cuba,mountain,Venezuela,10.97348,-68.88866,MT,NA,NA,NA,NA
+India,"Andhra Pradesh-Orissa, 1976-79",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Venezuela,"northeast coast, 1990-91",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Egypt,"Attaka fishing harbor, Gulf of Suez",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"North Atlantic, off the Atlantic coast of Europe and the British Isles, off North America",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Korea (South),"Goheung, Jeonam (Dec 1996-Nov 1997)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+China,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hong Kong,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,"Burrum River mouth, southern Queensland",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Northern Territory/Gulf of Carpentaria,8236182,Carpentaria Mining Area,mine(s),Australia,-14.4,132.4667,MN,NA,NA,NA,NA
+Thailand,not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,"Queensland, east coast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,southeast coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bangladesh,Sunderban,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Western Australia,2058645,Western Australia,first-order administrative division,Australia,-25,122,ADM1,-13.6887040089999,129.002044984,-35.192007995,112.921113949
+Sri Lanka,"Portugal Bay,  Puttalam estuary",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Kakinada coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,"Kerala coast, Mar 2005-Feb 2007",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,"Kerala coast, Oct 1998-Dec 1999",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Porto Novo coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,"Cleveland Bay, north Queensland, 1988-90",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,northern Australia,7839444,Northern Areas,second-order administrative division,Australia,-33.30074,138.47745,ADM2,-32.942340266500004,138.791160992,-33.659147612,138.163736896
+USA,Off the coast of North Carolina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iceland,"Icelandic waters, 1976-97",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+S. Georg. Sandw.,South Georgia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Orkney Is.,Antarctic Peninsula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Orkney Is.,"South Orkneys region, Jan-Mar 1965",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,"Kodiak Island, 1996-99",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Puget Sound, Washington",5807517,Puget Sound,bay,United States,47.83315,-122.43458,BAY,47.972953,-122.427023,47.508189,-122.637411
+Italy,"Ionian Sea, 1996-97",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Off north African coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,North Atlantic and Mediterranean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,Northern Tyrrhenian Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ireland,West coast (Division VII b) (Apr 1997-Feb 2001),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,Central Tyrrhenian Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Senegal,continental shelf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+United Arab Em.,southern Arabian Gulf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ryukyu Is.,Off Yaeyama (Aug 1988-Mar 1988),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Red Sea,408646,Red Sea State,first-order administrative division,Sudan,19.96667,35.66667,ADM1,21.99571360900002,38.60385175900015,16.989221707415922,33.15976042185312
+United Arab Em.,"southern Arabian Gulf, 2008-2009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Southern India,1269750,India,independent political entity,India,22,79,PCLI,35.524548272882,97.4152926679075,6.7559528993543,68.1862489922762
+Saudi Arabia,Tuwwal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Southern distributional range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Palau,Not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+United Arab Em.,"southern Arabian Gulf, 2007-2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Northern coast,11523936,East Coast,region,Australia,-41.8491,148.17535,RGN,-40.83718701699996,148.35926084000005,-42.74261727199996,147.58591555700002
+Japan,Off Okinawa Island (Feb 1987-Mar 1988),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Queensland (Cairns and Townsville),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Queensland (north-central waters) off Townsville,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Queensland (southern waters),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Gulf of Aden,80303,Gulf of Aden,gulf,,12,48,GULF,15.627888679504395,52.22536087036133,10.379611015319824,42.513832092285156
+,North Arabian Gulf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,northern coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Northern Red Sea,408646,Red Sea State,first-order administrative division,Sudan,19.96667,35.66667,ADM1,21.99571360900002,38.60385175900015,16.989221707415922,33.15976042185312
+Palau,not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ryukyu Is.,Off Yaeyama (Jul 1988-Mar 1992),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ryukyu Is.,Off Yaeyama (Apr 1989-May 1992),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,Off Okinawa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,Off Yaeyama,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Caledonia,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Southern distributional range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Cape Henlopen, Delaware to Cape Haterras, North Carolina (Chesapeake Bight)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,Along Peniche and Matonsinhos (2003-2010),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Bristol Bay northward to Nunivak Island,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,Bristol Bay to Nunivak Island,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Eastern Bering Sea (1959-1964),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Eastern Bering Sea (1990),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,Eastern Bering Sea (Mar-Jul 2012),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Engld Wal,off Brittany and southern England,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Namibia,southern population,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,Eastern Spain,1062982,Nosy Longo,island,Madagascar,-12.3,49.31667,ISL,NA,NA,NA,NA
+Canary Is.,"off Gran Canaria, 1999-2000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,"Tigris River, 1990-92",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Greece,Klisova lagoon (1992-1994),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cuba,Cuban waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Venezuela,"La Restinga Lagoon, Margarita Island, 1992-93",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Pernambuco,3392268,Pernambuco,first-order administrative division,Brazil,-8.33333,-37.75,ADM1,-3.8287835791888,-32.3911090093679,-9.48289744373713,-41.3583361843337
+Brazil,Sergipe (2009),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Southern coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,"Tamiahua Lagoon, Veracruz (21°06'-22°06' N and 97°23'-97°46' W, April 1991-Mar 1992)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guinea-Bissau,Rio Gande de Buba,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,"Eastern Black Sea, 1995",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kuwait,"Kuwait Bay, March 1998-February 1999",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Croatia,"middle eastern Adriatic, 2008-2009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Greece,"Lake Vistonis, December 1988-November 1990",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Swartkops estuary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Natal estuaries,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sri Lanka,west coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"North Carolina, 1969-70",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Cape Hatteras to Southern New England,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Atlantic Iberian coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,East China and Yellow seas (March 1991-July 1997),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Atlantic Iberian coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Greece,Mediterranean Sea,265695,Aegean Sea,sea,Greece,39,25,SEA,41.011749267578125,28.332416534423828,35.11455535888672,22.524499893188477
+NA,"British Isles (north, west and south)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,East China Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Mid-Atlantic-southern New England,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK No Ireld,Irish Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Northeast coast, 1997-1999",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Northeastern Caribbean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Venezuela,northeastern Venezuela,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,At least in lower latitudes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philippines,"floating-cages, SEAFDEC Marine substation",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,Manzanillo harbor-Boca de Apiza,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,Northwest Biological Research Center (2000-2001),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,In lower latitudes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Palau,locality not given,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Samoa,Samoa,4034894,Samoa,independent political entity,Samoa,-13.8,-172.13333,PCLI,-13.440157771394277,-171.40580635310363,-14.076515773032975,-172.8035771799316
+Jamaica,Jamaica,3489940,Jamaica,independent political entity,Jamaica,18.16667,-77.25,PCLI,18.524766185516,-76.1830989848426,17.7059966193696,-78.3690062954957
+USA,northwest Florida,7602002,Northwest Florida Beaches International Airport,airport,United States,30.3578,-85.79892,AIRP,NA,NA,NA,NA
+Mexico,Northwestern Gulf of Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Off southwestern Florida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,Yucatan Peninsula,3514210,Yucatan Peninsula,peninsula,Mexico,19.69302,-89.05037,PEN,NA,NA,NA,NA
+Australia,Great Barrier Reef (2001-2004),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,"Lizard Is. and Palm Is., Great Barrier Reef, 1997-98",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Great Barrier Reef,2164628,Great Barrier Reef,reef(s),Australia,-17.98722,146.76979,RF,-9.366666793823242,152.8274383544922,-24.116666793823242,142.4678955078125
+,Lower latitudes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,"Yaeyama Islands, Okinawa",1848815,Yaeyama-rettō,islands,Japan,24.33333,124,ISLS,NA,NA,NA,NA
+Japan,"Ishigaki Island, Okinawa, 24° N",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Palau,Palau,1559582,Palau,freely associated state,Palau,7.503,134.621,PCLF,8.09399899631225,134.721123567106,2.97033311786089,131.120126953551
+Jamaica,Off Jamaica,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Andaman Sea,1158425,Andaman Sea,sea,Thailand,10,95,SEA,17.4903888702393,98.84053039550781,5.549361228942871,92.36003112792969
+India,southeast India,1996549,West Papua,first-order administrative division,Indonesia,-0.86531,134.06118,ADM1,0.092294,135.200992,-4.347466,129.301285
+NA,Andaman Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Lower latitudes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+France,Mediterranean coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,North African coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tunisia,Sfax coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Northeastern Caribbean Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,northwestern Mediterranean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,southwestern Mediterranean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+France,Corsica,3023517,Corse,region,France,41.98859,8.99827,RGN,43.0117089454807,9.56009360694225,41.3645589826522,8.53989168933703
+Algeria,Mediterranean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+France,Nice,6299418,Nice Airport,airport,France,43.66272,7.20787,AIRP,NA,NA,NA,NA
+NA,Off East Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Northwestern Mediterranean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Trinidad Tobago,"10°35'-11°15'N, 61°15'-60°20'W, 1990-91",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Ceará, Rio Grande do Norte",6320136,Ceará-Mirim,second-order administrative division,Brazil,-5.55046,-35.37667,ADM2,-5.457159812179929,-35.22491129785949,-5.73780161109787,-35.551899898157004
+Brazil,Ceará_,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,North and northeast coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"North and northeast coasts, 1970-1973",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"North and northeast coasts, 1972",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"North and northeast coasts, 1972-1973",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Pará, 1998-2000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Pará, 1998-2000_",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Pernambuco, Bahia, 1963-1964",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,South African waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bangladesh,Bangladesh,1210997,Bangladesh,independent political entity,Bangladesh,24,90,PCLI,26.631945,92.673668,20.57620273500015,88.028336
+India,Calcutta,1256927,Sealdah,railroad station,India,22.56667,88.36667,RSTN,NA,NA,NA,NA
+India,Lake Kolleru,1266265,Kolleru Lake,intermittent lake,India,16.6495,81.19367,LKI,NA,NA,NA,NA
+,Mekong mainstream,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Thailand,Mekong mainstream at Chiang Khong Province,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Viet Nam,Mekong mainstream at Dong Thap Province,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Patna (fish dealers market),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Port Canning,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Colombia,Caribean coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bermuda,"reef , 1992-96",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jamaica,"southern coast, 1996-99",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Trinidad Tobago,Trinidad and Tobago,3573591,Trinidad and Tobago,independent political entity,Trinidad and Tobago,11,-61,PCLI,11.348472596,-60.489552,10.0411386500001,-61.933723449
+USA,"(South Carolina), South Carolina",4482348,North Carolina,first-order administrative division,United States,35.50069,-80.00032,ADM1,36.588137,-75.459952,33.841205,-84.321821
+USA,"Gulf and Atlantic coasts of Florida, 1981-82",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"northern Gulf of Mexico (Mobile Bay, Alabama westward to Galveston Bay, Texas)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Northwestern Mediterranean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,"Northwest shelf, Aug 1982-Oct 1983",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Puerto Rico,Puerto rico,4566966,Puerto Rico,dependent political entity,Puerto Rico,18.24829,-66.49989,PCLD,18.5159687270238,-65.22098290999642,17.881240733653026,-67.95137380712532
+Russia,western Bering Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Patagonian region,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Amapá, Pará, Maranhão (1998-2001)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Maranhâo, 1997-1999",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Off Rio Grande do Sul,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Pará,3393129,Pará,first-order administrative division,Brazil,-4,-53,ADM1,2.59102704633434,-46.0609467928189,-9.84115347745231,-58.8983283997823
+Brazil,"Pará, 1996-1997",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Argentina,Río de la Plata estuary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Rio Grande do Sul, 1976-1977",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Rio Grande do Sul_,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,São Paolo,6301857,Congonhas-São Paulo Airport,airport,Brazil,-23.62754,-46.65597,AIRP,NA,NA,NA,NA
+Brazil,"São Paolo, 1961-1964",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"São Paolo, 1997-1999",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Western central Atlantic bet. Chesapeake Bay and Amazon River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canary Is.,"Meteor Seamount (30° N, 28° 30' W)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,Straits of Messina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,"Roccella Ionica Bank, Ionian Sea, 1996-98",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Argentina,Gulf of San Matias,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,northwestern waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Ribbon and Osprey reefs off Queensland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,subtropical and tropical waters of the Pacific and Indian oceans,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Colombia,Caribbean coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Eastern Gulf of Mexico, off Florida",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,Gulf of Mexico and Yucatan Channel,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Barents & Norwegian Seas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,Bodø,6296726,Bodø Airport,airport,Norway,67.26917,14.36528,AIRP,NA,NA,NA,NA
+,Celtic Sea,2960856,Celtic Sea,sea,,50,-9,SEA,52.2799987792969,-4.18938875198364,46.5,-11.500082969665527
+Faeroe Is.,Faeroes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,"Faroe (NW, N and NE)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,Finnmark,780166,Finnmark,historical first-order administrative division,Norway,70.0815,29.7358,ADM1H,71.1854764998959,31.1683913444513,68.5545912064097,21.1745802801947
+,"Georges Bank, Browns Bank and coastal Gulf of Maine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Grand Bank,3425024,The Grand Banks of Newfoundland,banks,,45,-53,BKSU,NA,NA,NA,NA
+,Northern North Sea,3422085,Lincoln Sea,sea,Greenland,83,-58,SEA,83.77350616455078,-32.66490936279297,81.5023193359375,-70.2391357421875
+,northern North Sea and shelf West of Orkney and Shetland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,NW Norway (63°N-68°N),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iceland,Off Southwestern,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,off Trondheim and Møre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,Rockall Bank,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Scotian Banks,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iceland,SW and W Iceland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,"western Barents Sea, continental slopes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Woods Hole,4956153,Woods Hole,harbor(s),United States,41.51678,-70.68281,HBR,NA,NA,NA,NA
+USA,"Essex Bay, MA",4947789,Pool Hill,mountain,United States,42.65704,-70.63421,MT,NA,NA,NA,NA
+USA,Indian River Bay,4159661,Indian River Lagoon,bay,United States,28.05529,-80.57616,BAY,NA,NA,NA,NA
+USA,"Rehobot Bay, Delaware",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Southern New England,5240538,Rutland - Southern Vermont Regional Airport,airport,United States,43.52714,-72.94664,AIRP,NA,NA,NA,NA
+USA,"northcentral Gulf of Mexico, 2008-2009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,São Paulo_,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Off New Jersey,8102836,Off Road Vehicle Park Ambulance,building(s),United States,39.86351,-74.47187,BLDG,NA,NA,NA,NA
+,Between British Isles and Bay of Biscay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ireland,"Celtic Sea (ICES div VIIg, Jan 2001-Jan 2002)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Caribbean Sea,4563233,Caribbean Sea,sea,Puerto Rico,15.00028,-75.00028,SEA,22.70950698852539,-59.2689323425293,7.898654937744141,-88.99104309082031
+USA,Gulf of Maine to Cape Hatteras,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,New England,11919979,New England,region,United States,44,-71,RGN,47.459854,-66.949607,40.980377,-73.727775
+Mexico,southern Gulf of California,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Argentina,Off the Patagonian shelf south of 47° S,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Zealand,Off west coast of South Island,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,Nova Scotia,6091530,Nova Scotia,first-order administrative division,Canada,45.00015,-62.99865,ADM1,47.2280322280001,-59.67416757,43.3896620090001,-66.3950323769999
+Canada,Off Sable Island Bank,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Southeastern and southern slopes of Georges Bank,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,"Lüderitz (Namibia)  and Cape fishing grounds, 1970",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chile,deep waters off Chile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Peru,between 4°S and 8°S,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Argentina,Argentine Sea,4036624,Weddell Sea,sea,Antarctica,-73,-45,SEA,-70.96447112982258,-20.13480867317992,-83.477589610353,-83.88365252035265
+Argentina,north Patagonia waters (43°S-45°S),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Argentina,northern coasts (35°S-38°S),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Argentina,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,Balearic Islands,6424360,Balearic Islands,second-order administrative division,Spain,39.60992,3.02948,ADM2,40.09457443,4.32778473,38.64038758,1.15724056
+,"Bay of Biscay, 1994-95",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,"Bay of Biscay, 1996-1997",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+France,"Bay of Biscay, 1996-1997",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,Eastern Bay of Biscay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+France,Gulf of Lions,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,Iberian Peninsula,2267430,Iberian Peninsula,peninsula,,40,-5,PEN,NA,NA,NA,NA
+Italy,N Tyrrhenian Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,North Sea (northern) and Skagerrak,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ireland,Off Ireland,11776725,Off Road Driving Centre,amusement park,Ireland,53.24884,-6.62696,AMUS,NA,NA,NA,NA
+Morocco,Off Morocco,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,Off Scotland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Greece,"Porto Santo Stefano, Northern Tyrrhenian Sea, 1992",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,Scotland,2638360,Scotland,first-order administrative division,United Kingdom,56,-4,ADM1,60.8607664336448,-0.724443780321123,54.6332382494092,-8.65000722346228
+Italy,Strait of Sicily,2524168,Strait of Messina,strait,Italy,38.24681,15.6411,STRT,NA,NA,NA,NA
+Iceland,West Iceland,7869837,Lombok Island,island,Indonesia,-8.67697,116.33286,ISL,-8.21037289999998,116.7249985,-8.95607469999993,115.8209839
+USA,Off California,5345734,El Mirage Off Highway Vehicle Recreation Area,park,United States,34.65832,-117.55505,PRK,NA,NA,NA,NA
+Morocco,eastern coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,"Portuguese coast 38°00´ - 39°31´N, 1965-66",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Varna,2610715,Varna,restaurant,Denmark,56.12476,10.21624,REST,NA,NA,NA,NA
+,Channel,8426502,Mozambique Channel,channel,,-19,41,CHN,-10.495522499084473,49.24113082885742,-26.856843948364258,32.44340515136719
+,Mediterannean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Falkland Is.,Including Malvinas Islands and Patagonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,British Isles,2654669,British Isles,islands,United Kingdom,54,-4,ISLS,NA,NA,NA,NA
+Portugal,"Portuguese coast, 1984-85",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,west of the British Isles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Maranhâo,3395443,Maranhão,first-order administrative division,Brazil,-5,-45,ADM1,-1.04448912201321,-41.7958843809523,-10.2617647027709,-48.7551507366124
+Brazil,Maranhâo_,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Argentina,Rio de la Plata estuary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"São Paulo, 1979-1980",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"São Paulo, 1979-1980_",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Beaufort, North Carolina (offshore and estuaries)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,northeastern coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,Aberdeenshire coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,East coast of Scotland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,Moray Firth,2646087,Inverness Firth,estuary,United Kingdom,57.55,-4.15,ESTY,NA,NA,NA,NA
+UK Scotland,Shetlands,2638011,Shetland Islands,islands,United Kingdom,60.32275,-1.24104,ISLS,NA,NA,NA,NA
+UK Engld Wal,West Central North Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,West Coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,West of the Orkneys,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Central California coast (Point Conception to San Francisco Bay) and off Oregon coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,"Baruipur, South-24-Paraganas, West Bengal (22°34' N, 88°43' E), Sept 2009-Aug 2010",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bangladesh,Dacca,8985943,University of Dhaka,university,Bangladesh,23.73155,90.3925,UNIV,NA,NA,NA,NA
+India,India,1269750,India,independent political entity,India,22,79,PCLI,35.524548272882,97.4152926679075,6.7559528993543,68.1862489922762
+Faeroe Is.,Faeroe Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iceland,Southern Iceland,1205538,Dakhin Shāhbāzpur Island,island,Bangladesh,22.4966,90.75626,ISL,20.63673712750017,92.33864068750017,20.57620273500015,92.31484567500019
+UK Scotland,Western Scotland,2634428,Western Isles,second-order administrative division,United Kingdom,57.66667,-7.16667,ADM2,59.1346930966846,-5.81035110435325,56.7779526193226,-8.65000722346228
+,Anadyr River,2127201,Anadyr River,stream,Russia,64.88232,176.23338,STM,NA,NA,NA,NA
+,Central Europe,11961322,Central,region,Russia,55.75383,37.6224,RGN,59.634437561035156,47.611663818359375,49.5494384765625,30.778884887695312
+Russia,Enisey River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,Large rivers and lakes (not specified).,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+China,Not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Ohio R., Falls of Ohio, Louisville, KY",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,Lake Ontario,6048611,Lake Ontario,lake,Canada,43.75012,-77.99951,LK,44.492950439453125,-75.75757598876953,43.18253707885742,-79.7924575805664
+USA,Maryland,4361885,Maryland,first-order administrative division,United States,39.00039,-76.74997,ADM1,39.723037,-75.049123,37.889707,-79.487651
+USA,not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,east coast,7839505,East Pilbara,second-order administrative division,Australia,-21.61331,123.71368,ADM2,-19.495506005,129.001301844,-23.728038662,118.426041358
+Spain,Minorca (Balearic Archipelago),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,North Carolina to lower Florida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Taiwan,northeastern coasts (Nov 2005-Jan 2006),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,southwest Bay of Bengal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Taiwan,southwestern Taiwan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,west coast,2058645,Western Australia,first-order administrative division,Australia,-25,122,ADM1,-13.6887040089999,129.002044984,-35.192007995,112.921113949
+Taiwan,West coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Alagoas (2003-2004),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,east coast to South Australia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,"South Australia to Shark Bay, Western Australia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Rio de Janeiro (2006-2007),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jamaica,"Buff Bay, Swift River and Yallahs River (July 1982-Aug 1986)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Puerto Rico,northeastern Carribean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Honduras,"Rio Plátano, Mosquitia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Trinidad Tobago,Tompire River (Jan 1987-Sept 1988),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jordan,"Aqaba, Red Sea",10055547,Kempinski Hotel Aqaba Red Sea,hotel,Jordan,29.52344,35.00723,HTL,NA,NA,NA,NA
+North Marianas,no locality given,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,North Sea and Mediterranean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Egypt,"Alexandria, Demietta, and Port Said",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Algeria,Algerian coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+France,Banyuls sur mer,6618454,Banyuls-sur-Mer,fourth-order administrative division,France,42.4818,3.1283,ADM4,42.4952467986841,3.16252904544703,42.4250538467665,3.04044229422238
+Egypt,Egyptian coast (Mediterranean),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Morocco,M'diq Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,Majorca,2514239,Majorca,island,Spain,39.6078,3.01197,ISL,39.962532709609,3.47868461144736,39.2644631866345,2.34461945327274
+,"North Atlantic, English Channel area, Mediterranean and Black seas, Adriatic Sea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Belgium,North Sea,4656302,Sea Isle Park,park,United States,35.09731,-89.88842,PRK,NA,NA,NA,NA
+Israel,Ports of Haifa and Ashdod,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+France,"southern coast of Brittany, Glénan Archipelago, 1990-1991",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tunisia,Tunisian coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antarctica,Scotia Sea,3426293,Scotia Sea,sea,South Georgia and South Sandwich Islands,-57.5,-40,SEA,NA,NA,NA,NA
+Antarctica,South Georgia,3426223,South Georgia,island,South Georgia and South Sandwich Islands,-54.25,-36.75,ISL,NA,NA,NA,NA
+,Not given,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,"Off Albany and Esperance, Western Australia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,North-central Californian waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Off New England,7178005,Houlton Maliseet Reservation,administrative division,United States,46.19774,-67.81059,ADMD,NA,NA,NA,NA
+NA,Central and South American continentals shelves,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,San Francisco Bay,10630414,San Francisco Bay Area,economic region,United States,37.77239,-122.42349,RGNE,38.8642449987091,-121.208178,36.892976,-123.533746
+USA,US Pacific coast.,5858782,Casco Cove Coast Guard Station,airport,United States,52.83299,173.17979,AIRP,NA,NA,NA,NA
+NA,South American continentals shelf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Zealand,insular shelves,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Zealand,Kaikoura and Nelson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,continental shelves,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,South American continental shelf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,"False Bay, Western Cape",3360103,False Bay,bay,South Africa,-34.17286,18.66443,BAY,NA,NA,NA,NA
+NA,Gulf of Mexico,4326669,Gulf of Mexico,sea,United States,29.1869,-89.93674,SEA,30.775054931640597,-80.37205505371091,18.060806274414098,-97.8910827636719
+,Atlantic South American continental shelf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Uruguay,coastal area (April 1974),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Rio Grande do Sul (1980 - 1984),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Rio Grande do Sul (Jan 1988-Nov 1992),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Pacific South American continental shelf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,"Campeche Bank , (April 1996-May 1999)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,eastern Gulf of Mexico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,"Campeche Bank, southern Gulf of Mexico (April 1996- August 1999)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"northeastern Gulf of Mexico, 1991-94",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Southern Florida,4155738,Florida Southern College,school,United States,28.03141,-81.94619,SCH,NA,NA,NA,NA
+Galapagos Is.,Galapagos Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jamaica,Carribean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Off Brazil.,7538824,Rio Off-Price,market,Brazil,-22.95367,-43.17847,MKT,NA,NA,NA,NA
+Russia,Kamchatka,2125072,Kamchatka,first-order administrative division,Russia,55,159,ADM1,64.9342538519337,174.512376743692,50.8639169090001,155.551177167
+Russia,SE Sakhalin,2131693,Kuchino Se,rock,Russia,50.06111,155.20833,RK,NA,NA,NA,NA
+Russia,East Kamchatka,2125072,Kamchatka,first-order administrative division,Russia,55,159,ADM1,64.9342538519337,174.512376743692,50.8639169090001,155.551177167
+Russia,West Kamchatka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Arctic Seas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,"Onezhsky Bay, White Sea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Denmark,Koge Bugt,2618413,Køge Bugt,bay,Denmark,55.5,12.33333,BAY,NA,NA,NA,NA
+Denmark,Limfjord,2617622,Limfjorden,marine channel,Denmark,56.91667,9.16667,CHNM,NA,NA,NA,NA
+Denmark,Sonderborg Bugt,2618653,Knarhøj Bugt,bight(s),Denmark,54.99159,9.69501,BGHT,NA,NA,NA,NA
+Norway,Tromsø (Nov 1998- Mar 1999),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,"Boreal, demersal.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,Arctic Canada,8531991,Arctic Bay Airport,airport,Canada,73.00598,-85.03294,AIRP,NA,NA,NA,NA
+NA,Western North Atlantic,4452672,Western Carolina Regional Airport,airport,United States,35.19509,-83.86518,AIRP,NA,NA,NA,NA
+India,Off Kakinada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antarctica,Weddell Sea,4036624,Weddell Sea,sea,Antarctica,-73,-45,SEA,-70.96447112982258,-20.13480867317992,-83.477589610353,-83.88365252035265
+Japan,"Seto Inland Sea, 1977-78",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bermuda,Not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Polar,6108913,Polar Bear Pass National Wildlife Area,reserve,Canada,75.66827,-98.91877,RES,NA,NA,NA,NA
+S. Georg. Sandw.,in tank experiments,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Orkney Is.,South Orkney Is,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+S. Georg. Sandw.,South Sandwich Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Terre Adélie,Terre Adélie,6690917,La Terre-Adélie,first-order administrative division,French Southern Territories,-59.99856,138.9913,ADM1,NA,NA,NA,NA
+Crozet Is.,Crozet Is,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+S. Georg. Sandw.,"South Georgia Island, February-March 1965",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Orkney Is.,"South Orkney and South Shetland islands, February-March 1965",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,Strait of Messina,2524168,Strait of Messina,strait,Italy,38.24681,15.6411,STRT,NA,NA,NA,NA
+Peru,Callao,3946080,Callao,first-order administrative division,Peru,-12.05139,-77.125,ADM1,-11.8192773546398,-77.0768944863112,-12.0794922298822,-77.1870976114146
+Canada,British Columbia and Alberta.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,"Cowichan River, Vancouver Island, British Columbia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,"Flathead River of British Columbia, Alberta and Montana.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,"Sheep River, Alberta",6145795,Sheep River,stream,Canada,50.73342,-113.85197,STM,NA,NA,NA,NA
+USA,Upper Missouri River drainage,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Korea (South),Nak-dong river,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,Not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,Not specified.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Yukon River,6296176,Ross River Airport,airport,Canada,61.97172,-132.42959,AIRP,NA,NA,NA,NA
+,Korea,1835841,South Korea,independent political entity,South Korea,36.5,127.75,PCLI,38.5933891092225,131.872205583533,33.1137120723136,124.609708786479
+Russia,rivers of western Kamchatka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,spring fed tributaries of the Yukon system from the Bonasilia River to at least as far upstream as the Tanana,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Washington State,5815135,Washington,first-order administrative division,United States,47.50012,-120.50147,ADM1,49.002432,-116.916071,45.543541,-124.754093
+Canada,"Lardeau River, British Columbia",6049931,Lardeau River,stream,Canada,50.24988,-116.9522,STM,NA,NA,NA,NA
+Australia,"New South Wales, Victoria, Tasmania, and Western Australia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Northern hemisphere,5973686,Hemisphere Rocks,shoals,Canada,45.10015,-61.64855,SHSU,NA,NA,NA,NA
+Hawaii,Not specified.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,"Lake Saiko, Yamanashi Prefecture",1853232,Saiko Lake,lake,Japan,35.49902,138.68694,LK,NA,NA,NA,NA
+Japan,Lake Tazawa,2110799,Tazawa Ko,lake,Japan,39.71667,140.66667,LK,NA,NA,NA,NA
+Canada,"Boulter Lake, Ontario",5906435,Boulter Lake,lake,Canada,45.30611,-78.04833,LK,45.31162422400007,-78.04555911199992,45.30281464400008,-78.05436787799994
+Alaska,Copper River,5859870,Copper River,stream,United States,60.38861,-144.96083,STM,NA,NA,NA,NA
+Canada,"Kootenay Lake, British Columbia",5994000,Kootenay Lake,lake,Canada,49.7125,-116.88333,LK,50.17951789400008,-116.65464680999992,49.24890389500007,-116.9598091019999
+Russia,"Amur River, Siberia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,Kuskokwim River,5866937,Kuskokwim River,stream,United States,60.08306,-162.33389,STM,NA,NA,NA,NA
+Russia,"Moochka River, Murman area, 1960",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Korea (South),to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Ulika river,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Yukon,6185811,Yukon,first-order administrative division,Canada,62.99962,-135.00404,ADM1,69.6474552750001,-123.789324836,59.9999999870001,-141.018073158
+Canada,"Fraser River, British Columbia",5957635,Fraser River Park,park,Canada,53.48322,-122.71964,PRK,NA,NA,NA,NA
+USA,"Freshwater population, New Hampshire",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,Not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,"Vancouver Island, British Columbia",8630140,Vancouver Island,area,Canada,49.75152,-126.48958,AREA,51.000054794699615,-123.00728678175906,48.22452676462248,-129.43013602827432
+,Yukon drainage,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Ceará (1970-1972),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Senegal,Off Sénégal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nicaragua,"Lake Moyua, 1962",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Lake Sibaya,955870,Lake Sibayi,lake,South Africa,-27.35261,32.69127,LK,NA,NA,NA,NA
+Sri Lanka,"Parakrama Samudra reservoir, February 1978 - January 1979",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hong Kong,Plover Cove Reservoir,1819095,Plover Cove,reservoir(s),Hong Kong,22.47603,114.25824,RSV,NA,NA,NA,NA
+Sri Lanka,Various reservoirs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sri Lanka,"Various reservoirs, 1982-1983",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,Miramichi River,6057461,Little Southwest Miramichi River,stream,Canada,46.9501,-65.83206,STM,NA,NA,NA,NA
+Kuwait,Kuwait waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Laos,Ban Hang Khone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Laos,Khoum Pa Tong/Peo Ta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Laos,Veun Hat Phou,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Laos,Veun Louk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Laos,Veun Phou That,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Laos,Veun Te/Veun Va,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Laos,Veun Tholathi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Thailand,aquaculture ponds,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Marshall Is.,"Choptop Reef, Enewetak Atoll",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,"Atlantic continental slope, off British Isles",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canary Is.,"Gran Canaria (27°57'24""N, 15°35'23""W), 1991-94",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,North West African coast.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Morocco,Morocco,2542007,Morocco,independent political entity,Morocco,32,-6,PCLI,35.922341095,-0.996975780999946,27.6672694750001,-13.1722970399999
+Greece,"Crete, 1991",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Senegal,Dakar and Takoradi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,eastern Atlantic and Mediterranean seas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Croatia,Istria,3337514,Istria,first-order administrative division,Croatia,45.25,13.91667,ADM1,45.51422556600002,14.234684435175211,44.772406317000076,13.50147545700014
+,North Adriatic,4928775,Adriatic Mills (historical),,United States,42.24926,-71.81035,,NA,NA,NA,NA
+Greece,Patraikos Gulf,255682,Gulf of Patras,bay,Greece,38.25,21.5,BAY,NA,NA,NA,NA
+Ghana,Takoradi and Dakar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Zealand,northern coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Shark Bay ( bay area),2079215,Shark Bay Salt Works,salt area,Australia,-26.13333,113.41667,SALT,NA,NA,NA,NA
+Australia,Shark Bay (ocean side),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,South Australian gulfs (northern coasts),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,South Australian gulfs (southern coasts),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Southeast Queensland (Moreton Bay),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Zealand,southern coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,"Sydney, New South Wales",2208268,Sydney International Airport,airport,Australia,-33.94611,151.17722,AIRP,NA,NA,NA,NA
+NA,eastern Atlantic and Mediterranean seas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Senegal,northern coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oman,"Arabian Sea coast, April 2005-March 2007",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Agulhas Bank,1023515,Agulhas Bank,bank(s),South Africa,-35.5,21,BNK,NA,NA,NA,NA
+South Africa,Eastern Cape coast,940126,Wild Coast,region,South Africa,-32,29,RGN,NA,NA,NA,NA
+,eastern Atlantic,3163618,West European Basin,basin,,47,-15,BSNU,NA,NA,NA,NA
+Canary Is.,"Tenerife and Gran Canaria, 1985-86; 1991-93",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Chandipur,10660548,Chāndipur Ferry,ferry,India,26.42866,83.07256,FY,NA,NA,NA,NA
+Kuwait,coastal water of Kuwait,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antarctica,"South Georgia, 1967",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Indian River, FL, Indian River, FL (neotype)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Off Maine,7178005,Houlton Maliseet Reservation,administrative division,United States,46.19774,-67.81059,ADMD,NA,NA,NA,NA
+Japan,"Ishikari Bay, Hokkaido, Japan.",11886735,Ishikari Bay New Port,port,Japan,43.2109,141.29561,PRT,NA,NA,NA,NA
+Brazil,"Paraná, 1999-2000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Rio Grande do Sul, 1990-2000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Rio Grande do Sul, 1997-1998",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Peru,"Paita, Santa Rosa and Callao",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philippines,"Lingayen Gulf, 1978-79",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,"Baynes Sound, British Columbia",5895389,Baynes Sound,channel,Canada,49.48229,-124.76641,CHN,NA,NA,NA,NA
+Jordan,Aqaba (Sept 1982-Aug 1983),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Viet Nam,Nha Trang Bay (2008-2010),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Channel (western part),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"Israel, Lebanon, and Mediterranean coast of Sinai",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Paraná coast (Mar 1999-Jan 2000),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Karwar region,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,"Andhra Pradesh, 2007-2011",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,Ariake Sound (Sept 2001-Aug 2002),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Rio Drande do Sul, 1980-1983",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sierra Leone,"Congotown, Freetown (July 1992-April 1993)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"Canada (from at least 56°N) to Florida, USA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK No Ireld,western Ireland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"north of Cape Cod to Florida, and northeastern Gulf of Mexico",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,New Jersey and Virginia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"west Indian submarine ridge, 1980-92",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Pará, 2005-2006",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Pará, 2007-2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Arkona and Bornholm basin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,German Bight; also western Baltic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,"Gulf of Gdansk, 1959",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Off Kola Peninsula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,Southern North Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Southern North Sea,5391505,Salton Sea,lake,United States,33.31361,-115.81679,LK,33.53205612700003,-115.58417687999997,33.09019025500004,-116.08386358099995
+USA,off California,5345734,El Mirage Off Highway Vehicle Recreation Area,park,United States,34.65832,-117.55505,PRK,NA,NA,NA,NA
+Korea (South),"Lake Biwa tributaries (Seri and Inakumi Rivers), 1972-74",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Taiwan,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Scott Reef off Cairns,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Capricorn Islands group,2172400,Capricorn Group,islands,Australia,-23.46667,152,ISLS,NA,NA,NA,NA
+Australia,Lizard Island and Cairns areas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antarctica,Around the continent of Antarctica,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antarctica,Prydz Bay,6623681,Prydz Bay,cove(s),Antarctica,-69,76,COVE,NA,NA,NA,NA
+Russia,Northern Sea of Japan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,Aleutian Islands,5879148,Aleutian Islands,islands,United States,52.09694,-173.50056,ISLS,55.439881,172.444761,51.770743,-162.232823
+,Arkona-Bornholm deeps,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,"Baltic, Bornholm basin, Bohuslän, Kattegatt and Belt Sea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Eastern Channel,1819994,Channel Rock,rock,Hong Kong,22.3,114.21667,RK,NA,NA,NA,NA
+Germany,"German Bight, 1960-95",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Netherlands,North Sea; off the Belgish and Dutch coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+France,northwest coast of Brittany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,south of Start Point and south of Portland Bill,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,"Southern Bight, German Bight, Flamborough, 1985-1986",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK No Ireld,"west coast of Isle of Man, Irish Sea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Great Bay Estuary, New Hampshire",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Northwestern Pacific,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Wilson Inlet (WA),2058242,Wilson Inlet,inlet,Australia,-34.98333,117.375,INLT,NA,NA,NA,NA
+Mexico,Northern Gulf of Mexico,4326669,Gulf of Mexico,sea,United States,29.1869,-89.93674,SEA,30.775054931640597,-80.37205505371091,18.060806274414098,-97.8910827636719
+Spain,Galician western coast (Nov 2009-Oct 2010),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,Spain,2510769,Spain,independent political entity,Spain,40,-4,PCLI,43.79237956786995,4.32778473043961,27.6377894797159,-18.1612217229543
+Norway,Northern Shelf and western edge of the Norwegian Trench,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Western North Atlantic,3408475,North American Basin,basin,,30,-60,BSNU,NA,NA,NA,NA
+USA,"off Freeport, Texas, 1977-81",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canary Is.,"Canary Islands, 1995-2002",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Southern region,3373286,Monte Brasil,mountain,Portugal,38.63333,-27.23333,MT,NA,NA,NA,NA
+Australia,"Fraser Island, Queensland and Western Australia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Middle Atlantic Bight: Cape Hatteras to Cape Cod, Massachusetts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Natal shelf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Rio Drande do Sul, 1976-1987",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"South Atlantic Bight: Cape Canaveral, Florida to Cape Hatteras, North Carolina",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,Inner Severn Estuary (July 1972-September 1974),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,Ythan Estuary (1967-1968),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,off southern Florida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,California Current Region,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,New York Bight,5143105,Wallabout Bay,bay,United States,40.70638,-73.97604,BAY,NA,NA,NA,NA
+USA,Off Woods Hole,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Rio Grande do Sul, 1981-1987",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Peru,Paita and Otros,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Western North Pacific continental shelves,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Australian contiental shelf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Continental and insular slopes of the Bahamas region,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hawaii,Hawaiian Islands,5855811,Hawaiian Islands,islands,United States,21.13446,-157.00974,ISLS,NA,NA,NA,NA
+Seychelles,"Mahe Plateau, 1989-90",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,North West Shelf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Papua New Guinea,not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,South China Sea/Andaman Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canary Is.,1992-95,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Madeira Is.,near Madeira,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Bellingham Bay, Washington",5786900,Bellingham Bay,bay,United States,48.7365,-122.56462,BAY,48.780812,-122.48456199999998,48.625687,-122.62629
+Canada,northern British Columbia,7281922,Lower Mainland,area,Canada,49.08333,-122.35,AREA,NA,NA,NA,NA
+Canada,"Sydney Inlet, Vancouver Island, British Columbia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Porto Novo,11679251,Porto Novo Railway Station,railroad station,India,11.47695,79.73694,RSTN,NA,NA,NA,NA
+India,"Porto Novo, 1971-73",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,"Yonge Reef, Great Barrier Reef",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"South-west Indian Ocean seamounts (600-1000 m depths), 2001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Southern Emperor-Northern Hawaiian Ridge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Argentina,northern Patagonian shelf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+China,Korea Bay and the Yellow Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,tropical West Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,not given,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Fisheries and Mariculture Laboratory (FAML) of the University of Texas at Austin Marine Science Institute in Port Aransas, Texas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,southern coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"São Paulo, 1995",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"São Paulo, 2005-2006",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Off Brazil,7538824,Rio Off-Price,market,Brazil,-22.95367,-43.17847,MKT,NA,NA,NA,NA
+UK,British waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Delaware Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Northeastern Atlantic and Mediterranean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,Mediterranean,10300533,In the Mediterranean Biodiversity Park,park,Italy,38.91848,16.5817,PRK,NA,NA,NA,NA
+Brazil,"São Paulo, Sept 2007-Aug 2009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Santa Catarina,3450387,Santa Catarina,first-order administrative division,Brazil,-27,-50,ADM1,-25.955841822,-48.3284376967527,-29.3548140084176,-53.8368638573633
+NA,Not seen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,not given,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portugal,South coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,to be checked,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Central Indo-West Pacific,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,"Tuticorin coast, 1997-2007",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,Florida Gulf,4157652,Gulf,second-order administrative division,United States,29.90862,-85.26101,ADM2,30.201385,-85.017939,29.6568,-85.417686
+Mexico,not stated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Arctic,10941926,Arctic,region,,75.58494,-43.94531,RGN,NA,NA,NA,NA
+Norway,"Bear Island, Barents Sea (Sept 1996)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,"Southern Davis Strait, Eastern Denmark Strait, Off north-western Norway",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,"Off New South Wales, southeastern Australia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,South East Africa,12105114,Builsa South,second-order administrative division,Ghana,10.53815,-1.33445,ADM2,10.786215748460714,-1.065567636630305,10.274659752998613,-1.5734740758929702
+Taiwan,"eastern coast, 1995",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Algoa Bay,1023340,Algoa Bay,bay,South Africa,-33.82677,25.79526,BAY,NA,NA,NA,NA
+China,"Off Xiamen, Fuijan",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,not given,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,"Almejas, Baja California Sur",4018745,Bahía Las Almejas,bay,Mexico,24.48996,-111.70692,BAY,NA,NA,NA,NA
+USA,"waters between Seal and Redondo Beaches, California (November 1988, January 1991)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,"Carribean, South America",6532672,Carribean Beach,hotel,United States,26.4084,-81.8975,HTL,NA,NA,NA,NA
+Brazil,Northeast region (1996-1997),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,southern waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Off Texas, Florida, and North Carolina",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Morocco,Lake Ifni,2546940,Lac d’Ifni,lake,Morocco,31.03092,-7.88327,LK,NA,NA,NA,NA
+Iceland,Lake Thingvalla,3412647,Þingvallavatn,lake,Iceland,64.18333,-21.15,LK,NA,NA,NA,NA
+Macedonia,Eastern shore of Lake Ohrid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Macedonia,Lake Ohrid,782150,Lake Ohrid,lake,North Macedonia,41,20.75,LK,NA,NA,NA,NA
+,Lake Ohrid,782150,Lake Ohrid,lake,North Macedonia,41,20.75,LK,NA,NA,NA,NA
+Canada,"tributaries to Thutade Lake, northcentral British Columbia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+French Guiana,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,Lake Posta Fibreno and tributaries,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+French Guiana,Fr. Guiana,3381670,French Guiana,dependent political entity,French Guiana,4,-53,PCLD,5.7481556027856175,-51.619065827085,2.11107565187642,-54.6024155447667
+Ireland,Lough Melvin,2962642,Lough Melvin,lake,Ireland,54.43333,-8.16667,LK,NA,NA,NA,NA
+,Danube drainage,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Czechia,Moravice River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,southern & eastern Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,Lake Garda (North),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,Lake Garda (South),10399818,South Garda karting,amusement park,Italy,45.42529,10.50631,AMUS,NA,NA,NA,NA
+Kazakhstan,Lake Markakol,1521110,Ozero Markakol’,lake,Kazakhstan,48.74804,85.75826,LK,NA,NA,NA,NA
+Macedonia,Lake Ohrid (eastern shore),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,"Hitozuminai River, Hokkaido, 1997-99",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Korea (North),Not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Lake Ohrid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,Alatna River,5879102,Alatna River,stream,United States,66.57,-152.625,STM,NA,NA,NA,NA
+Russia,Anadyr River,2127201,Anadyr River,stream,Russia,64.88232,176.23338,STM,NA,NA,NA,NA
+Alaska,Kobuk River,5866560,Kobuk River,stream,United States,66.92111,-160.81333,STM,NA,NA,NA,NA
+Alaska,"Tolovana and Chatanika rivers, with a few entering the Chena River and other clear streams",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,upper reaches of Alaskan rivers,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,upper Yukon,5877319,Upper Telida Lake,lake,United States,63.43984,-153.16463,LK,63.44795333400003,-153.14319666599997,63.43221444500006,-153.18475944399998
+,"Yenisei River, Siberia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Syr-Darya,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Albania,Lake Ohrid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,"Lake Ohrid (Albania, Macedonia)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Asia,6255147,Asia,continent,,29.84064,89.29688,CONT,81.8519287109375,-168.98974609375,-11.00214,25.6685104370001
+Alaska,certain Alaskan lakes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,eastern Canada,194530,Kanata,locality,Kenya,-1.94166,38.12774,LCTY,NA,NA,NA,NA
+Canada,"Heming Lake, Manitoba",5973682,Heming Lake,area,Canada,54.87624,-101.13997,AREA,NA,NA,NA,NA
+USA,"Red Lake, Minnesota",5042730,Red Lake,second-order administrative division,United States,47.87169,-96.0953,ADM2,47.96464,-95.709148,47.75957,-96.48255
+USA,"SE Lake Michigan, 1970",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,"Fraser River, 8 miles of river between Chilliwack and Mission, British Columbia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Klamath River, California",5566349,Klamath River,stream,United States,41.53306,-124.08113,STM,NA,NA,NA,NA
+Alaska,certain lakes in northern Alaska,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,Great Bear Lake,5965755,Great Bear Lake,lake,Canada,65.83373,-120.75341,LK,67.046547922471,-117.46246855049034,64.80732000738041,-125.12373650528274
+France,High altitude lakes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+France,Lake Leman,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,southern parts of the range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,throughout the range,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Engld Wal,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Lake Prespa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,Rhône,2659056,Rhône Glacier,glacier(s),Switzerland,46.60454,8.38605,GLCR,46.65378343007266,8.422556375078402,46.57969755032105,8.373307224489727
+France,Rhône drainage,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,Adriatic basin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Aniva Bay,2127151,Zaliv Aniva,bay,Russia,46.27289,142.84393,BAY,NA,NA,NA,NA
+Norway,eastern Murman coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,"Finnmark, western and central Murman",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Gulf of Anadyr (Bering Sea),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Kola Bay in the West to the Cheshskaya Inlet in the East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Middle Cove Beach,10338784,Middle Cove Beach,beach,United States,27.39602,-80.26201,BCH,NA,NA,NA,NA
+,Newfoundland,6354959,Newfoundland and Labrador,first-order administrative division,Canada,52,-56,ADM1,60.377744013,-52.6194085039999,46.6110929450001,-67.8216852879999
+Norway,Norwegian-western Murman coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Novaya Zemlya,519406,Novaya Zemlya,islands,Russia,74,56,ISLS,77.0062484740001,69.171638488,70.5445861810001,51.4061393740001
+,Pacific coasts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,"Sakhalin Island, northeastern coast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,"Sakhalin Island, southwestern coast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Sakhalinskiy Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iceland,south and west of Iceland,8162693,West Island Conservation Park,park,Australia,-35.60801,138.59196,PRK,NA,NA,NA,NA
+Canada,southern British Columbia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,west Kamchatka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,western coast of Novaya Zemlya and Indiga Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,UK,1545739,Indian Ocean,ocean,,-10,70,OCN,10.439666748046875,146.9141845703125,-71.44219970703125,19.970081329345703
+Denmark,Denmark,2623032,Denmark,independent political entity,Denmark,56,10,PCLI,57.75257255234523,15.197371697693196,54.5590783718363,8.07250975308422
+Spain,"Esva River (43°33'N, 6°32'E), 1992-1994",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,Germany,2921044,Germany,independent political entity,Germany,51.5,10.5,PCLI,55.0583836008072,15.0418156516163,47.2701236047002,5.8663152683722
+Finland,Gulf of Bothnia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,"River Almond, Perthshire",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,"River Byske (Gulf of Bothnia), 1991-92",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,"River Lögde (Gulf of Bothnia), 1991-93",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,"River Simo (Gulf of Bothnia), 1986-1992",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,"River Torne (Gulf of Bothnia), 1992-93",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,"River Ume (Gulf of Bothnia), 1977-1993",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,"River Öre (Gulf of Bothnia), 1992-93",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sweden,Southwestern Sweden,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,"Tornionjoki, Simojoki, Tenojoki and Näätämöjoki",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK Scotland,Loch Rannoch & Loch Ericht,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mongolia,Darhat region,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mongolia,Eg River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kazakhstan,Irtysh River tributaries,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,Britain,2635167,United Kingdom,independent political entity,United Kingdom,54.75844,-2.69531,PCLI,60.8458084904017,33.9165550000001,-34.6904600039999,-8.65000722346228
+Poland,River Dunajec (1978-1979),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Peru,"Ucayali, Pucallpa",6300799,FAP Captain David Abenzur Rengifo International Airport,airport,Peru,-8.37794,-74.5743,AIRP,NA,NA,NA,NA
+Russia,Lake Kezenoi-am,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,?a?layan stream,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,?yidere stream,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,"Anuri Stream, Nov 2000 - Oct 2002",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Greece,Aspropotamos stream (March 1981- February 1982),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,Ataköy Dam Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Caspian Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,"Cenker Stream, Nov 2000 - Oct 2002",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,Firtina stream,747077,Fırtına Deresi,stream,Turkey,41.18817,40.96376,STM,NA,NA,NA,NA
+USA,"Grand Mesa, Uncompahgre, and Gunnison National Forests",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,Kapsitre stream,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,Lake Drweckim (1978-1980),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+France,"Oir River system, Normandy, 1984-2005",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,"Small streams tributary to the Little Qualicum and Cowhichan Rivers, British Columbia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,Solakli stream,739396,Solaklı Çayı,section of stream,Turkey,40.85,40.31667,STMX,NA,NA,NA,NA
+Australia,southern inland waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,Tifi Stream,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+France,to be filled,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,"Urpalajoki, Summanjoki, Sipoonjoki, Siuntionjoki, Ingarskilanjoki",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Western Caspian Sea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Macedonia,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Adriatic basin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,From Po to Soca drainages,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Morocco,Aguelman de Sidi Ali ou Mohamed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,"Firniz stream, Ceyhan River (2000-2001)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Not specified (probably North Korea),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+China,Not specified.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,Not stated.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philippines,"Manila Bay and adjacent waters, 1956-58",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,Baffin Island,5889292,Baffin Island,island,Canada,72.23384,-88.82446,ISL,NA,NA,NA,NA
+Poland,Hornsund (1986),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Greenland,"Iterlaa lakes, Paamiut/Frederikshåb County, 1982",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,North Slope of Brooks Range,5858074,Brooks Range,mountains,United States,69.20222,-143.80167,MTS,NA,NA,NA,NA
+,not spcified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UK,Scotland,2638360,Scotland,first-order administrative division,United Kingdom,56,-4,ADM1,60.8607664336448,-0.724443780321123,54.6332382494092,-8.65000722346228
+UK,Windermere,2633852,Windermere,lake,United Kingdom,54.37296,-2.93438,LK,NA,NA,NA,NA
+Brazil,Mogi Guassu,3456999,Rio Moji-Guaçu,stream,Brazil,-20.88333,-48.16667,STM,NA,NA,NA,NA
+Brazil,Uruguay River,9882989,Uruguay River,stream,Brazil,-29.73219,-57.07492,STM,NA,NA,NA,NA
+NA,"Moraca and Neretva drainages (Bosnia-Herzegovina, Montenegro)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,Lake El'gygytgyn,2125771,Ozero El’gygytgyn,lake,Russia,67.49222,172.09225,LK,NA,NA,NA,NA
+Ireland,Lough Coomasharn (Kerry),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Faeroe Is.,"Lake Leynavatn, on Streymoy Island",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Japan,Chûgoku District,1864492,Chūgoku Chihō,region,Japan,34.5,133,RGN,36.356098,134.515371,33.712898001,130.774870064
+Russia,"Ochepukha, Dolinka and Zavetinka River (1973)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,Lake Neuchatel,2659494,Lake Neuchâtel,lake,Switzerland,46.92518,6.87572,LK,47.011362065764345,7.050702339188645,46.784613888468,6.633482032378347
+USA,"Alaska to Baja California, Mexico",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,"Santa Monica Bay; between Long Beach and Dana Point, California",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sri Lanka,Off south and southwest coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Off the southwest coast,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Mediterrannean and off Morocco,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Senegal,Off Dakar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Gulf of Mexico,3523271,Gulf of Mexico,gulf,Mexico,25,-90,GULF,30.808618545532227,-80.4324722290039,18.147180557251,-97.8671646118164
+Greece,Kavala Gulf (2000-2002),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cote d'Ivoire,Off Côte d'Ivoire,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mauritania,Off Mauritania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Venezuela,Off Venezuela,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Senegal,shores of Senegal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Rio de Janeiro (1999-2000),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Rio de Janeiro (1999-2001),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,São Paulo (1963-1964),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,Southeast coast (1970-1971),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,"Paradeep, Visakhapatnam and Kakinada (Jan 2005-Dec 2010)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Mangalore,1261478,New Mangalore,port,India,12.92778,74.82083,PRT,NA,NA,NA,NA
+Indonesia,"Sibolga Bay, August-September 1999",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Marquesas Is.,not specified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Caledonia,-,2139685,New Caledonia,dependent political entity,New Caledonia,-21.5,165.5,PCLD,-19.549778,168.953857,-22.71464,163.564667
+Indonesia,Panggang Island,7103043,Pulau Panggang,island,Indonesia,-1.15991,100.34785,ISL,NA,NA,NA,NA
+NA,eastern Mediterranean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ghana,Lake Bosumtwi,2302657,Lake Bosumtwi,crater lake,Ghana,6.5055,-1.40891,LKC,NA,NA,NA,NA
+Israel,Lake Tiberias,294459,Sea of Galilee,lake,Israel,32.80723,35.59279,LK,NA,NA,NA,NA
+Burkina Faso,Tapoa and small reservoirs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,north of Cape Verde,3571403,Cape Verde,point,Bahamas,22.85526,-74.85622,PT,NA,NA,NA,NA
+India,Andra Pradesh (2012-2013),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,northwestern Bay of Bengal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,off Visakhapatnam,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brazil,"Pernambuco, 2008-2009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Marshall Is.,Eniwetok Atoll,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Zealand,Cook Strait,6201687,Cook Channel,strait,New Zealand,-45.74841,166.83005,STRT,NA,NA,NA,NA
+New Zealand,Otago,6612109,Otago,first-order administrative division,New Zealand,-45.26392,169.53501,ADM1,-43.9554247001227,171.144215833505,-46.638124332943,168.11639466613
+Portugal,Ria Formosa,7303437,Parque Natural de Ria Formosa,nature reserve,Portugal,37.0549,-7.74064,RESN,NA,NA,NA,NA
+Italy,southern coasts,11497335,Etruscan Coast,coast,Italy,43.26521,10.4425,CST,43.59591385971606,10.751622832871393,42.91962593090219,9.88850503597421
+Lebanon,"Batrun area, January 1999-August 2000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lebanon,eastern Mediterranean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Virgin Is. (UK),British Virgin Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jamaica,Port Royal Reefs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+China,South China coastal waters,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Atlantic and Indian Oceans seamounts off southern part of Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+American Samoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Argentina,NA,3865483,Argentina,independent political entity,Argentina,-34,-64,PCLI,-21.777951173,-53.637962552,-55.0576984539999,-73.566302817
+Australia,NA,2177478,Australian Capital Territory,first-order administrative division,Australia,-35.5,149,ADM1,-35.1244160059999,149.399287205,-35.920762215,148.762789985
+Bahamas,NA,4569853,Bahama Swamp,swamp,United States,32.35769,-81.04178,SWMP,NA,NA,NA,NA
+Belize,NA,11886860,Na Hájičku [Neveklov-Bělice],hill,Czechia,49.76846,14.47133,HLL,NA,NA,NA,NA
+Bermuda,NA,7170619,Town of Bermuda Run,administrative division,United States,36.00151,-80.42912,ADMD,36.014956,-80.41375,35.987801,-80.448946
+Brazil,NA,3457153,Minas Gerais,first-order administrative division,Brazil,-18,-44,ADM1,-14.24416732788086,-39.859169006347656,-22.89889144897461,-51.024444580078125
+British Indian Ocean Territory,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,NA,6251999,Canada,independent political entity,Canada,60.10867,-113.64258,PCLI,83.110626,-52.636291,41.67598,-141.0
+Cayman Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Costa Rica,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cuba,NA,3530508,Coba,archaeological/prehistoric site,Mexico,20.49004,-87.73233,ANS,NA,NA,NA,NA
+Denmark,NA,2609919,Yding Skovhøj,hill,Denmark,56,9.8,HLL,NA,NA,NA,NA
+Dominican Republic,NA,3508796,Dominican Republic,independent political entity,Dominican Republic,19,-70.66667,PCLI,19.9321257501267,-68.3229591969468,17.4701630457207,-72.0114723981787
+Egypt,NA,270375,Misr Qâne,hill,Lebanon,33.22972,35.39611,HLL,NA,NA,NA,NA
+Fiji,NA,1864076,Fuji-yoshida Shi,second-order administrative division,Japan,35.43915,138.79368,ADM2,35.532754468,138.86622297,35.362798613,138.727593969
+France,NA,6625050,Sentinel Range,mountains,Antarctica,-78.16667,-85.5,MTS,NA,NA,NA,NA
+French Polynesia,NA,4034700,Anaa,atoll(s),French Polynesia,-17.41667,-145.5,ATOL,NA,NA,NA,NA
+Honduras,NA,4327798,Honduras Elementary School,school,United States,29.58917,-90.7043,SCH,NA,NA,NA,NA
+India,NA,3571219,West Indies,region,,19.38333,-71.21667,RGN,27.232027,-60.8096896756103,10.7262525558472,-84.957428
+Indonesia,NA,9947301,Natuna Sea,sea,Indonesia,0.5,106.75,SEA,4.010416507721175,109.64202880859426,-3.0060000419615562,103.27622222900425
+Ireland,NA,2963597,Ireland,independent political entity,Ireland,53,-8,PCLI,55.43513104278,-5.99627768519354,51.4199053321416,-10.6186478804892
+Israel,NA,9618378,Shemurat Karé Na’aman,nature reserve,Israel,32.86762,35.10554,RESN,NA,NA,NA,NA
+Jamaica,NA,5299760,Jamaica Drain,canal,United States,34.45557,-114.3094,CNL,NA,NA,NA,NA
+Japan,NA,1857155,Minaminaka Gun,historical second-order administrative division,Japan,31.66333,131.32836,ADM2H,NA,NA,NA,NA
+Kenya,NA,10273241,Kena,grazing area,China,31.45971,90.82919,GRAZ,NA,NA,NA,NA
+Kiribati,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Malaysia,NA,1736632,Mount Kinabalu,mountain,Malaysia,6.07458,116.5582,MT,NA,NA,NA,NA
+Maldives,NA,6301875,Velana International Airport,airport,Maldives,4.19183,73.52913,AIRP,NA,NA,NA,NA
+Marshall Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mexico,NA,3983035,Sinaloa,first-order administrative division,Mexico,25,-107.5,ADM1,27.0423059798728,-105.392219999731,22.4671337704512,-109.447692600437
+"Micronesia, Federated States of",NA,2081918,Micronesia,freely associated state,Micronesia,6.924,158.162,PCLF,10.090334691000052,163.035442786,1.026214038000088,137.48591820300007
+Mozambique,NA,1096754,Lago Na-Acane,lake,Mozambique,-24.07861,33.82,LK,NA,NA,NA,NA
+Netherlands Antilles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Caledonia,NA,2140000,Na Couéta,peak,New Caledonia,-21.85,165.95,PK,NA,NA,NA,NA
+Norway,NA,6625050,Sentinel Range,mountains,Antarctica,-78.16667,-85.5,MTS,NA,NA,NA,NA
+Palau,NA,3993699,Puerto Palo Colorado,pass,Mexico,26.35566,-108.88919,PASS,NA,NA,NA,NA
+Papua New Guinea,NA,2088566,Patamu Island,island,Papua New Guinea,-2.10213,147.28417,ISL,NA,NA,NA,NA
+Peru,NA,3928127,Tacna,first-order administrative division,Peru,-17.66667,-70.33333,ADM1,-16.770431609188517,-69.4673163537103,-18.350927735658672,-71.13944335569147
+Philippines,NA,7521301,Ilocos,first-order administrative division,Philippines,16.97917,120.52083,ADM1,18.6512241676613,120.976453676996,15.6177695707092,119.749719464582
+Portugal,NA,8010477,Penamacor Municipality,second-order administrative division,Portugal,40.15495,-7.17149,ADM2,40.3246424227194,-6.932238576747079,40.049177892695866,-7.319242582676611
+Puerto Rico,NA,11993904,Puerto Deportivo Puerto Rico,port,Spain,27.78312,-15.71513,PRT,NA,NA,NA,NA
+Russian Federation,NA,239880,Central African Republic,independent political entity,Central African Republic,7,21,PCLI,11.017957,27.4583050000001,2.22305300000005,14.4150980000001
+Seychelles,NA,241438,Baie Sainte Anne,first-order administrative division,Seychelles,-4.31667,55.73333,ADM1,-4.276841461161183,55.78703806352323,-4.350286481747602,55.682819592930656
+Solomon Islands,NA,2105291,Na Vuvuti,locality,Solomon Islands,-9.76667,160.58333,LCTY,NA,NA,NA,NA
+South Africa,NA,9406051,Southern Africa,region,,-27.11781,22.28027,RGN,-16.963488173,38.000465,-46.978931,11.737502061
+Spain,NA,2520308,Canary Islands,islands,Spain,28,-15.5,ISLS,29.4165070701164,-13.3336474737366,27.6377894797159,-18.1612217229543
+Sweden,NA,2699767,Dalarna,first-order administrative division,Sweden,61,14.5,ADM1,62.2674976550801,16.704790599636,59.8541454374369,12.1377182705056
+Tanzania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,NA,325361,Adana,first-order administrative division,Turkey,36.985,35.28809,ADM1,38.3875541690001,36.429153442,36.5428161620002,34.7780952450001
+Turks and Caicos Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+United Kingdom,NA,6625050,Sentinel Range,mountains,Antarctica,-78.16667,-85.5,MTS,NA,NA,NA,NA
+United States,NA,7729892,Central America,region,,25.32417,-99.66797,RGN,32.716759,-77.1563637579897,5.49857041364627,-118.453949
+Venezuela,NA,3631575,Pico da Neblina,peak,Venezuela,0.80459,-66.00616,PK,NA,NA,NA,NA
+Virgin Islands (British),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Virgin Islands (USA),NA,4796775,U.S. Virgin Islands,dependent political entity,U.S. Virgin Islands,18.34829,-64.98348,PCLD,18.415382,-64.565193,17.673931,-65.101333
