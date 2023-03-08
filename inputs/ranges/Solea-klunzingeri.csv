@@ -1,0 +1,148 @@
+Mapping parameters for Achirus klunzingeri (Brown sole)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77 |  87,
+Bounding Box (NSWE): ,10,-4,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,14,16,28,40
+Temperature (°C),1,22.52,23.11,28.27,32.47
+Salinity (psu),1,28.92,31.26,35.45,37.72
+Primary Production,1,510,640,2084,3707.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,1,2,83,111
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 88): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Achirus,klunzingeri,-0.75,-89.75,5008:209:4,0.09
+Achirus,klunzingeri,-0.25,-90.75,5009:100:2,0.04
+Achirus,klunzingeri,3.75,-77.75,7007:237:4,0.08
+Achirus,klunzingeri,7.75,-81.25,7008:371:3,0.07
+Achirus,klunzingeri,-3.25,-80.25,5008:130:1,0.37
+Achirus,klunzingeri,-3.25,-80.75,5008:130:2,0.37
+Achirus,klunzingeri,-3.75,-80.75,5008:130:4,0.37
+Achirus,klunzingeri,-1.25,-90.25,5009:110:1,0.22
+Achirus,klunzingeri,7.75,-78.75,7007:478:4,0.21
+Achirus,klunzingeri,0.25,-91.25,7009:101:1,0.25
+Achirus,klunzingeri,-0.75,-90.75,5009:100:4,0.57
+Achirus,klunzingeri,-1.25,-90.75,5009:110:2,0.56
+Achirus,klunzingeri,8.25,-81.75,7008:381:2,0.57
+Achirus,klunzingeri,0.25,-91.75,7009:101:2,0.48
+Achirus,klunzingeri,-3.25,-79.75,5007:239:2,0.64
+Achirus,klunzingeri,7.75,-80.75,7008:370:4,0.73
+Achirus,klunzingeri,8.75,-83.25,7008:383:3,0.70
+Achirus,klunzingeri,-2.75,-79.75,5007:229:4,1.00
+Achirus,klunzingeri,-0.25,-80.25,5008:100:1,1.00
+Achirus,klunzingeri,-0.25,-80.75,5008:100:2,0.87
+Achirus,klunzingeri,-0.75,-80.25,5008:100:3,1.00
+Achirus,klunzingeri,-0.75,-80.75,5008:100:4,1.00
+Achirus,klunzingeri,-1.25,-80.75,5008:110:2,1.00
+Achirus,klunzingeri,-1.75,-80.75,5008:110:4,1.00
+Achirus,klunzingeri,-1.25,-81.25,5008:111:1,1.00
+Achirus,klunzingeri,-1.75,-81.25,5008:111:3,1.00
+Achirus,klunzingeri,-2.25,-80.75,5008:120:2,1.00
+Achirus,klunzingeri,-2.75,-80.25,5008:120:3,1.00
+Achirus,klunzingeri,-2.75,-80.75,5008:120:4,1.00
+Achirus,klunzingeri,-2.25,-81.25,5008:121:1,0.85
+Achirus,klunzingeri,-0.25,-91.25,5009:101:1,1.00
+Achirus,klunzingeri,-0.25,-91.75,5009:101:2,1.00
+Achirus,klunzingeri,-0.75,-91.25,5009:101:3,1.00
+Achirus,klunzingeri,-1.25,-91.25,5009:111:1,1.00
+Achirus,klunzingeri,0.75,-79.75,7007:209:4,1.00
+Achirus,klunzingeri,1.25,-78.75,7007:218:2,1.00
+Achirus,klunzingeri,1.75,-78.75,7007:218:4,1.00
+Achirus,klunzingeri,1.25,-79.25,7007:219:1,0.95
+Achirus,klunzingeri,1.25,-79.75,7007:219:2,1.00
+Achirus,klunzingeri,2.75,-77.75,7007:227:4,0.85
+Achirus,klunzingeri,2.25,-78.75,7007:228:2,1.00
+Achirus,klunzingeri,2.75,-78.25,7007:228:3,1.00
+Achirus,klunzingeri,2.75,-78.75,7007:228:4,1.00
+Achirus,klunzingeri,3.25,-77.25,7007:237:1,1.00
+Achirus,klunzingeri,3.25,-77.75,7007:237:2,1.00
+Achirus,klunzingeri,3.75,-77.25,7007:237:3,0.90
+Achirus,klunzingeri,3.25,-78.25,7007:238:1,1.00
+Achirus,klunzingeri,4.25,-77.25,7007:247:1,1.00
+Achirus,klunzingeri,4.75,-77.25,7007:247:3,1.00
+Achirus,klunzingeri,5.25,-77.25,7007:457:1,1.00
+Achirus,klunzingeri,5.75,-77.25,7007:457:3,1.00
+Achirus,klunzingeri,6.25,-77.25,7007:467:1,0.85
+Achirus,klunzingeri,6.75,-77.25,7007:467:3,0.85
+Achirus,klunzingeri,6.75,-77.75,7007:467:4,0.85
+Achirus,klunzingeri,7.25,-77.75,7007:477:2,0.85
+Achirus,klunzingeri,7.25,-78.25,7007:478:1,0.85
+Achirus,klunzingeri,7.75,-78.25,7007:478:3,0.85
+Achirus,klunzingeri,7.25,-79.75,7007:479:2,1.00
+Achirus,klunzingeri,7.75,-79.75,7007:479:4,1.00
+Achirus,klunzingeri,8.25,-78.25,7007:488:1,1.00
+Achirus,klunzingeri,8.25,-78.75,7007:488:2,1.00
+Achirus,klunzingeri,8.75,-78.25,7007:488:3,1.00
+Achirus,klunzingeri,8.75,-78.75,7007:488:4,1.00
+Achirus,klunzingeri,8.25,-79.25,7007:489:1,1.00
+Achirus,klunzingeri,8.25,-79.75,7007:489:2,1.00
+Achirus,klunzingeri,8.75,-79.25,7007:489:3,0.87
+Achirus,klunzingeri,8.75,-79.75,7007:489:4,0.87
+Achirus,klunzingeri,0.25,-80.25,7008:100:1,1.00
+Achirus,klunzingeri,0.75,-80.25,7008:100:3,1.00
+Achirus,klunzingeri,7.25,-80.25,7008:370:1,1.00
+Achirus,klunzingeri,7.25,-80.75,7008:370:2,1.00
+Achirus,klunzingeri,7.75,-80.25,7008:370:3,1.00
+Achirus,klunzingeri,7.25,-81.25,7008:371:1,1.00
+Achirus,klunzingeri,7.25,-81.75,7008:371:2,0.87
+Achirus,klunzingeri,7.75,-82.25,7008:372:3,0.96
+Achirus,klunzingeri,8.25,-80.25,7008:380:1,1.00
+Achirus,klunzingeri,8.25,-82.25,7008:382:1,0.94
+Achirus,klunzingeri,8.25,-82.75,7008:382:2,0.94
+Achirus,klunzingeri,8.25,-83.25,7008:383:1,0.90
+Achirus,klunzingeri,8.25,-83.75,7008:383:2,0.90
+Achirus,klunzingeri,8.75,-83.75,7008:383:4,0.90
+Achirus,klunzingeri,9.25,-83.75,7008:393:2,0.92
+Achirus,klunzingeri,9.25,-84.25,7008:394:1,0.93
+Achirus,klunzingeri,9.25,-84.75,7008:394:2,0.93
+Achirus,klunzingeri,9.75,-84.25,7008:394:3,0.93
+Achirus,klunzingeri,9.75,-84.75,7008:394:4,0.93
+Achirus,klunzingeri,9.75,-85.25,7008:495:3,1.00
+Achirus,klunzingeri,9.75,-85.75,7008:495:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 24)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Achirus,klunzingeri,-3.75,-80.25,5008:130:3,1,22.52,34.42,1959,0,1
+Achirus,klunzingeri,-2.75,-80.75,5008:120:4,119,23.11,34.08,1213,0,97
+Achirus,klunzingeri,-2.25,-80.25,5008:120:1,1,23.11,34.08,1601,0,2
+Achirus,klunzingeri,-0.75,-90.25,5009:100:3,129,23.73,34.45,510,0,22
+Achirus,klunzingeri,-0.75,-80.75,5008:100:4,216,25.87,33.38,717,0,25
+Achirus,klunzingeri,1.75,-79.25,7007:219:3,785,26.83,32.47,1745,0,83
+Achirus,klunzingeri,2.75,-77.75,7007:227:4,27,27.08,32.22,2326,0,14
+Achirus,klunzingeri,3.25,-77.75,7007:237:2,203,27.33,32.22,1688,0,27
+Achirus,klunzingeri,3.25,-77.25,7007:237:1,6,27.33,32.22,1957,0,6
+Achirus,klunzingeri,3.75,-77.75,7007:237:4,874,27.33,32.22,1413,0,83
+Achirus,klunzingeri,3.75,-77.25,7007:237:3,22,27.33,32.22,2245,0,20
+Achirus,klunzingeri,4.25,-77.25,7007:247:1,29,27.28,31.79,2084,0,10
+Achirus,klunzingeri,4.75,-77.25,7007:247:3,170,27.28,31.79,1964,0,12
+Achirus,klunzingeri,5.25,-77.25,7007:457:1,145,27.25,31.29,1854,0,9
+Achirus,klunzingeri,8.25,-79.75,7007:489:2,54,27.88,31.26,893,0,27
+Achirus,klunzingeri,8.25,-79.25,7007:489:1,74,27.88,31.26,1101,0,27
+Achirus,klunzingeri,8.25,-80.25,7008:380:1,17,28.04,35.06,661,0,18
+Achirus,klunzingeri,8.75,-78.75,7007:488:4,88,27.9,35.45,790,0,19
+Achirus,klunzingeri,8.75,-83.75,7008:383:4,121,28.68,32.38,662,0,23
+Achirus,klunzingeri,8.75,-79.75,7007:489:4,23,27.88,35.75,1405,0,14
+Achirus,klunzingeri,8.75,-79.25,7007:489:3,65,27.88,35.75,1498,0,82
+Achirus,klunzingeri,9.25,-85.25,7008:495:1,2226,28.27,32.74,640,0,111
+Achirus,klunzingeri,9.75,-85.25,7008:495:3,437,28.27,33.47,994,0,16
+Achirus,klunzingeri,9.75,-84.75,7008:394:4,104,28.56,32.38,1274,0,20

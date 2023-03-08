@@ -1,0 +1,89 @@
+Mapping parameters for Herklotsichthys blackburni (Blackburn's herring)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 57,
+Bounding Box (NSWE): ,-14,-21,118,127
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,25.99,27.01,28.48,32.68
+Salinity (psu),1,34.45,34.95,35.11,35.61
+Primary Production,1,510.25,636.4,784.4,880.25
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,1.25,6.2,15,23.25
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 50): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Herklotsichthys,blackburni,-18.75,118.75,3111:488:4,0.06
+Herklotsichthys,blackburni,-14.25,121.75,3112:141:2,0.05
+Herklotsichthys,blackburni,-14.75,122.75,3112:142:4,0.09
+Herklotsichthys,blackburni,-14.25,125.75,3112:245:2,0.08
+Herklotsichthys,blackburni,-15.25,121.75,3112:351:2,0.07
+Herklotsichthys,blackburni,-15.75,121.25,3112:351:3,0.14
+Herklotsichthys,blackburni,-16.25,121.25,3112:361:1,0.08
+Herklotsichthys,blackburni,-16.25,122.75,3112:362:2,0.01
+Herklotsichthys,blackburni,-16.25,124.25,3112:364:1,0.10
+Herklotsichthys,blackburni,-17.75,123.75,3112:373:4,0.09
+Herklotsichthys,blackburni,-18.75,120.25,3112:380:3,0.08
+Herklotsichthys,blackburni,-18.75,119.75,3111:489:4,0.33
+Herklotsichthys,blackburni,-14.25,123.75,3112:143:2,0.39
+Herklotsichthys,blackburni,-14.75,124.75,3112:144:4,0.33
+Herklotsichthys,blackburni,-14.75,125.25,3112:245:3,0.22
+Herklotsichthys,blackburni,-15.25,122.75,3112:352:2,0.31
+Herklotsichthys,blackburni,-15.75,123.75,3112:353:4,0.29
+Herklotsichthys,blackburni,-15.25,124.75,3112:354:2,0.25
+Herklotsichthys,blackburni,-16.25,124.75,3112:364:2,0.20
+Herklotsichthys,blackburni,-17.75,119.25,3111:479:3,0.50
+Herklotsichthys,blackburni,-19.25,119.75,3111:499:2,0.50
+Herklotsichthys,blackburni,-14.25,124.75,3112:144:2,0.48
+Herklotsichthys,blackburni,-14.75,124.25,3112:144:3,0.59
+Herklotsichthys,blackburni,-15.75,121.75,3112:351:4,0.40
+Herklotsichthys,blackburni,-15.25,122.25,3112:352:1,0.50
+Herklotsichthys,blackburni,-16.75,122.25,3112:362:3,0.40
+Herklotsichthys,blackburni,-17.25,123.25,3112:373:1,0.53
+Herklotsichthys,blackburni,-17.25,123.75,3112:373:2,0.45
+Herklotsichthys,blackburni,-19.25,120.25,3112:390:1,0.50
+Herklotsichthys,blackburni,-19.25,120.75,3112:390:2,0.40
+Herklotsichthys,blackburni,-19.25,121.25,3112:391:1,0.50
+Herklotsichthys,blackburni,-14.75,123.75,3112:143:4,0.60
+Herklotsichthys,blackburni,-14.25,124.25,3112:144:1,0.72
+Herklotsichthys,blackburni,-14.25,126.75,3112:246:2,0.68
+Herklotsichthys,blackburni,-15.75,124.25,3112:354:3,0.72
+Herklotsichthys,blackburni,-16.25,123.25,3112:363:1,0.72
+Herklotsichthys,blackburni,-16.25,123.75,3112:363:2,0.60
+Herklotsichthys,blackburni,-16.75,123.25,3112:363:3,0.72
+Herklotsichthys,blackburni,-16.75,123.75,3112:363:4,0.72
+Herklotsichthys,blackburni,-20.25,118.25,3211:208:1,0.74
+Herklotsichthys,blackburni,-20.25,118.75,3211:208:2,0.74
+Herklotsichthys,blackburni,-19.25,118.25,3111:498:1,0.96
+Herklotsichthys,blackburni,-14.25,125.25,3112:245:1,0.90
+Herklotsichthys,blackburni,-14.25,126.25,3112:246:1,0.97
+Herklotsichthys,blackburni,-15.25,124.25,3112:354:1,0.86
+Herklotsichthys,blackburni,-17.75,122.25,3112:372:3,0.90
+Herklotsichthys,blackburni,-18.75,121.25,3112:381:3,0.81
+Herklotsichthys,blackburni,-19.25,121.75,3112:391:2,0.91
+Herklotsichthys,blackburni,-19.75,121.25,3112:391:3,0.93
+Herklotsichthys,blackburni,-20.25,119.25,3211:209:1,0.81
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Herklotsichthys,blackburni,-20.25,118.75,3211:208:2,15,26.78,35.13,670,0,15
+Herklotsichthys,blackburni,-17.75,122.25,3112:372:3,27,27.95,34.93,628,0,15
+Herklotsichthys,blackburni,-14.25,126.75,3112:246:2,8,28.61,35.02,813,0,4

@@ -1,0 +1,88 @@
+Mapping parameters for Coryphaenoides hoskynii ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 51 |  57,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,2300,2362,2534,2820
+Temperature (°C),1,2.27,2.77,3.28,3.78
+Salinity (psu),1,34.33,34.83,34.86,35.36
+Primary Production,1,747.5,870.2,1004.6,1083.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,87.5,111.8,143.800003051758,167.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 49): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Coryphaenoides,hoskynii,6.75,77.25,1007:467:3,0.18
+Coryphaenoides,hoskynii,12.25,49.25,1104:229:1,0.02
+Coryphaenoides,hoskynii,13.25,47.75,1104:237:2,0.01
+Coryphaenoides,hoskynii,12.75,50.75,1105:120:4,0.02
+Coryphaenoides,hoskynii,13.25,51.25,1105:131:1,0.12
+Coryphaenoides,hoskynii,14.25,72.75,1107:142:2,0.06
+Coryphaenoides,hoskynii,18.75,87.25,1108:487:3,0.03
+Coryphaenoides,hoskynii,15.25,93.25,1109:353:1,0.02
+Coryphaenoides,hoskynii,22.25,66.25,1206:226:1,0.16
+Coryphaenoides,hoskynii,7.25,50.25,1005:370:1,0.24
+Coryphaenoides,hoskynii,8.75,75.25,1007:485:3,0.21
+Coryphaenoides,hoskynii,12.75,52.25,1105:122:3,0.21
+Coryphaenoides,hoskynii,13.25,50.75,1105:130:2,0.34
+Coryphaenoides,hoskynii,13.75,71.25,1107:131:3,0.27
+Coryphaenoides,hoskynii,18.75,88.25,1108:488:3,0.28
+Coryphaenoides,hoskynii,17.25,93.75,1109:373:2,0.34
+Coryphaenoides,hoskynii,17.75,93.75,1109:373:4,0.33
+Coryphaenoides,hoskynii,18.25,93.25,1109:383:1,0.29
+Coryphaenoides,hoskynii,21.25,67.75,1206:217:2,0.30
+Coryphaenoides,hoskynii,14.25,71.25,1107:141:1,0.49
+Coryphaenoides,hoskynii,16.75,83.25,1108:363:3,0.59
+Coryphaenoides,hoskynii,6.25,76.75,1007:466:2,0.65
+Coryphaenoides,hoskynii,5.75,80.75,1008:350:4,0.75
+Coryphaenoides,hoskynii,12.25,46.75,1104:226:2,0.76
+Coryphaenoides,hoskynii,12.25,47.75,1104:227:2,0.72
+Coryphaenoides,hoskynii,11.25,52.75,1105:112:2,0.63
+Coryphaenoides,hoskynii,12.75,52.75,1105:122:4,0.60
+Coryphaenoides,hoskynii,18.25,88.25,1108:488:1,0.75
+Coryphaenoides,hoskynii,18.75,92.75,1109:382:4,0.62
+Coryphaenoides,hoskynii,6.25,49.75,1004:469:2,0.80
+Coryphaenoides,hoskynii,6.75,50.25,1005:360:3,0.87
+Coryphaenoides,hoskynii,8.25,50.75,1005:380:2,0.87
+Coryphaenoides,hoskynii,12.25,47.25,1104:227:1,0.93
+Coryphaenoides,hoskynii,12.75,47.75,1104:227:4,0.92
+Coryphaenoides,hoskynii,12.25,48.25,1104:228:1,0.83
+Coryphaenoides,hoskynii,12.25,48.75,1104:228:2,0.99
+Coryphaenoides,hoskynii,12.75,48.25,1104:228:3,0.99
+Coryphaenoides,hoskynii,18.75,69.75,1106:489:4,1.00
+Coryphaenoides,hoskynii,10.75,74.25,1107:104:3,1.00
+Coryphaenoides,hoskynii,12.25,73.25,1107:123:1,0.98
+Coryphaenoides,hoskynii,18.25,70.25,1107:380:1,1.00
+Coryphaenoides,hoskynii,14.75,80.75,1108:140:4,0.93
+Coryphaenoides,hoskynii,15.25,81.25,1108:351:1,0.94
+Coryphaenoides,hoskynii,15.75,82.25,1108:352:3,0.94
+Coryphaenoides,hoskynii,16.25,82.75,1108:362:2,0.83
+Coryphaenoides,hoskynii,17.25,83.75,1108:373:2,0.90
+Coryphaenoides,hoskynii,18.25,85.25,1108:485:1,0.81
+Coryphaenoides,hoskynii,16.75,93.75,1109:363:4,0.92
+Coryphaenoides,hoskynii,21.25,66.75,1206:216:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Coryphaenoides,hoskynii,12.75,52.75,1105:122:4,2231,26.98,35.83,1036,0,108
+Coryphaenoides,hoskynii,12.75,47.75,1104:227:4,2138,28.37,36.25,868,0,148
+Coryphaenoides,hoskynii,18.25,85.25,1108:485:1,2237,28.21,31.05,879,0,127

@@ -1,0 +1,201 @@
+Mapping parameters for Isogomphodon oxyrhynchus (Daggernose shark)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Expert-reviewed,
+Map Option: In FAO and Bounding Box
+FAOAreas:  31 |  41 ,
+Bounding Box (NSWE): ,12,-20,-63,-34
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,2,9,15
+Temperature (°C),1,25.59,26.09,27.41,28.325
+Salinity (psu),1,32.5727,33.8628,36.145,37.7296
+Primary Production,1,207.5,1434,2721,3859.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,1,5,27,84
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 155): 
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability,Depth,Temperature,Salinity,Primary Production,Sea Ice Concentration.,Distance to Land
+Isogomphodon,oxyrhynchus,-2.75,-39.75,5003:229:4,0.03,1,1,0.858386974631,0.0330207908683,1,1
+Isogomphodon,oxyrhynchus,-3.25,-38.75,5003:238:2,0.09,1,0.92,0.874290041651,0.107215654301,1,1
+Isogomphodon,oxyrhynchus,-3.75,-38.75,5003:238:4,0.07,1,1,1,0.0688952303302,1,1
+Isogomphodon,oxyrhynchus,-3.25,-39.25,5003:239:1,0.09,1,1,1,0.0892784345699,1,1
+Isogomphodon,oxyrhynchus,-3.25,-39.75,5003:239:2,0.17,1,1,1,0.169995923359,1,1
+Isogomphodon,oxyrhynchus,-4.25,-37.75,5003:247:2,0.06,1,1,1,0.0607419486343,1,1
+Isogomphodon,oxyrhynchus,-4.75,-37.25,5003:247:3,0.15,1,1,0.928183768774,0.159396657155,1,1
+Isogomphodon,oxyrhynchus,-4.75,-37.75,5003:247:4,0.17,1,1,1,0.173257236038,1,1
+Isogomphodon,oxyrhynchus,-4.25,-38.25,5003:248:1,0.11,1,1,1,0.114553607827,1,1
+Isogomphodon,oxyrhynchus,-7.25,-34.75,5003:374:2,0.09,1,1,0.881673608482,0.106400326131,1,1
+Isogomphodon,oxyrhynchus,-7.75,-34.75,5003:374:4,0.09,1,0.956284153005,0.750599520384,0.125152874032,1,1
+Isogomphodon,oxyrhynchus,-5.25,-35.25,5003:455:1,0.13,1,1,0.838381926038,0.150428047289,1,1
+Isogomphodon,oxyrhynchus,-5.25,-35.75,5003:455:2,0.13,1,1,0.943203332071,0.136567468406,1,1
+Isogomphodon,oxyrhynchus,-5.75,-35.25,5003:455:3,0.17,1,0.989071038251,0.96339770289,0.174072564207,1,1
+Isogomphodon,oxyrhynchus,-5.25,-36.25,5003:456:1,0.12,1,1,0.948504354411,0.126783530371,1,1
+Isogomphodon,oxyrhynchus,-5.25,-36.75,5003:456:2,0.15,1,1,0.93847027641,0.157766000815,1,1
+Isogomphodon,oxyrhynchus,-6.25,-35.25,5003:465:1,0.14,1,1,0.906096175691,0.152058703628,1,1
+Isogomphodon,oxyrhynchus,-8.75,-35.25,5003:485:3,0.13,1,0.825136612022,0.776852202449,0.20831634733,1,1
+Isogomphodon,oxyrhynchus,-9.25,-35.25,5003:495:1,0.11,1,1,0.602297109681,0.183856502242,1,1
+Isogomphodon,oxyrhynchus,-9.25,-35.75,5003:495:2,0.09,1,1,0.683011485548,0.130044843049,1,1
+Isogomphodon,oxyrhynchus,-0.25,-44.75,5004:104:2,0.14,1,1,1,0.139828781084,1,1
+Isogomphodon,oxyrhynchus,-2.75,-40.25,5004:120:3,0.14,1,1,0.858386974631,0.165919282511,1,1
+Isogomphodon,oxyrhynchus,-2.25,-42.75,5004:122:2,0.07,1,1,1,0.0721565430086,1,1
+Isogomphodon,oxyrhynchus,-2.25,-43.25,5004:123:1,0.17,1,1,1,0.174887892377,1,1
+Isogomphodon,oxyrhynchus,-2.75,-44.25,5004:124:3,0.19,1,1,0.385081408557,0.499388503873,1,1
+Isogomphodon,oxyrhynchus,-3.25,-44.75,5004:134:2,0.17,1,1,0.385081408557,0.441500203832,1,1
+Isogomphodon,oxyrhynchus,-0.25,-45.25,5004:205:1,0.19,1,0.890710382514,1,0.209131675499,1,1
+Isogomphodon,oxyrhynchus,-0.75,-45.25,5004:205:3,0.15,1,0.912568306011,0.99892717405,0.165919282511,1,1
+Isogomphodon,oxyrhynchus,-0.25,-47.75,5004:207:2,0.09,1,0.693989071038,1,0.126043039087,1,1
+Isogomphodon,oxyrhynchus,-0.75,-47.25,5004:207:3,0.09,1,0.781420765027,0.117505995204,1,1,1
+Isogomphodon,oxyrhynchus,-1.25,-46.25,5004:216:1,0.09,1,0.781420765027,0.117505995204,1,1,1
+Isogomphodon,oxyrhynchus,-10.25,-36.25,5103:206:1,0.18,1,1,0.615549665531,0.295556461476,1,1
+Isogomphodon,oxyrhynchus,-11.75,-37.75,5103:217:4,0.18,1,1,0.614729269216,0.289849164289,1,1
+Isogomphodon,oxyrhynchus,-12.75,-38.75,5103:228:4,0.18,1,1,0.533573141487,0.333876885446,1,1
+Isogomphodon,oxyrhynchus,-14.25,-39.25,5103:249:1,0.17,1,1,0.539379023097,0.317570322055,1,1
+Isogomphodon,oxyrhynchus,-15.25,-39.25,5103:459:1,0.14,1,1,0.498359207371,0.282511210762,1,1
+Isogomphodon,oxyrhynchus,-16.25,-38.75,5103:468:2,0.05,1,1,0.378959989903,0.133306155728,1,1
+Isogomphodon,oxyrhynchus,-16.25,-39.25,5103:469:1,0.15,1,1,0.559447179099,0.269465960049,1,1
+Isogomphodon,oxyrhynchus,-16.75,-39.25,5103:469:3,0.14,1,1,0.486621229332,0.295556461476,1,1
+Isogomphodon,oxyrhynchus,-17.75,-38.25,5103:478:3,0.01,1,0.74,0.335478985233,0.0493273542601,1,1
+Isogomphodon,oxyrhynchus,-17.25,-39.25,5103:479:1,0.07,1,0.98,0.365013252556,0.183856502242,1,1
+Isogomphodon,oxyrhynchus,-17.75,-39.25,5103:479:3,0.15,1,1,0.44433926543,0.331430900938,1,1
+Isogomphodon,oxyrhynchus,-18.25,-39.25,5103:489:1,0.05,1,0.4,0.357124826455,0.334692213616,1,1
+Isogomphodon,oxyrhynchus,-19.75,-40.25,5104:390:3,0.05,1,0.26,0.463713239934,0.401549123522,1,1
+Isogomphodon,oxyrhynchus,0.25,-45.75,7004:205:2,0.18,1,1,0.966931717784,0.189563799429,1,1
+Isogomphodon,oxyrhynchus,0.25,-46.25,7004:206:1,0.17,1,1,0.976334721696,0.16918059519,1,1
+Isogomphodon,oxyrhynchus,0.75,-46.25,7004:206:3,0.17,1,1,0.909945727628,0.191194455768,1,1
+Isogomphodon,oxyrhynchus,0.25,-47.25,7004:207:1,0.12,0.166666666667,1,1,0.713004484305,1,1
+Isogomphodon,oxyrhynchus,0.25,-47.75,7004:207:2,0.08,0.5,0.890710382514,1,0.185770750988,1,1
+Isogomphodon,oxyrhynchus,0.75,-47.25,7004:207:3,0.18,0.333333333333,1,1,0.527924989808,1,1
+Isogomphodon,oxyrhynchus,1.75,-49.25,7004:219:3,0.08,0.5,1,1,0.151515151515,1,1
+Isogomphodon,oxyrhynchus,2.25,-48.25,7004:228:1,0.16,0.166666666667,1,0.94907232109,1,1,1
+Isogomphodon,oxyrhynchus,2.25,-49.25,7004:229:1,0.09,1,1,1,0.0917874396135,1,1
+Isogomphodon,oxyrhynchus,6.75,-55.75,7005:465:4,0.06,0.5,0.46,0.921115738988,0.271911944558,1,1
+Isogomphodon,oxyrhynchus,9.75,-60.75,7006:390:4,0.10,1,0.48,0.94907232109,0.223539745279,1,1
+Isogomphodon,oxyrhynchus,-1.25,-44.25,5004:114:1,0.23,1,1,0.992364003534,0.230330207909,1,1
+Isogomphodon,oxyrhynchus,-1.75,-44.75,5004:114:4,0.35,1,1,0.385081408557,0.910313901345,1,1
+Isogomphodon,oxyrhynchus,-2.75,-40.75,5004:120:4,0.22,1,1,1,0.218915613534,1,1
+Isogomphodon,oxyrhynchus,-2.75,-41.25,5004:121:3,0.22,1,1,1,0.217284957195,1,1
+Isogomphodon,oxyrhynchus,-2.75,-41.75,5004:121:4,0.26,1,1,1,0.260497350183,1,1
+Isogomphodon,oxyrhynchus,-2.75,-43.75,5004:123:4,0.26,1,1,0.924397324246,0.277619241745,1,1
+Isogomphodon,oxyrhynchus,-2.25,-44.75,5004:124:2,0.22,1,1,0.385081408557,0.569506726457,1,1
+Isogomphodon,oxyrhynchus,-0.25,-45.75,5004:205:2,0.36,1,0.890710382514,1,0.409702405218,1,1
+Isogomphodon,oxyrhynchus,-1.75,-45.25,5004:215:3,0.25,1,1,0.385081408557,0.646962902568,1,1
+Isogomphodon,oxyrhynchus,-10.75,-37.25,5103:207:3,0.37,1,0.989071038251,0.844503344693,0.447207501019,1,1
+Isogomphodon,oxyrhynchus,-14.75,-39.25,5103:249:3,0.22,1,1,0.539379023097,0.399103139013,1,1
+Isogomphodon,oxyrhynchus,-18.25,-39.75,5103:489:2,0.21,1,0.98,0.365013252556,0.576029351814,1,1
+Isogomphodon,oxyrhynchus,-18.75,-39.75,5103:489:4,0.21,1,0.94,0.497791240692,0.454545454545,1,1
+Isogomphodon,oxyrhynchus,-19.25,-39.75,5103:499:2,0.28,1,0.94,0.497791240692,0.593151243375,1,1
+Isogomphodon,oxyrhynchus,0.75,-46.75,7004:206:4,0.39,1,1,0.976334721696,0.395026498166,1,1
+Isogomphodon,oxyrhynchus,0.25,-48.25,7004:208:1,0.21,1,0.890710382514,1,0.235836627141,1,1
+Isogomphodon,oxyrhynchus,1.25,-47.25,7004:217:1,0.21,1,1,1,0.205870362821,1,1
+Isogomphodon,oxyrhynchus,4.75,-51.25,7005:141:3,0.33,1,1,1,0.328941589811,1,1
+Isogomphodon,oxyrhynchus,7.75,-57.75,7005:477:4,0.35,1,1,1,0.349368120669,1,1
+Isogomphodon,oxyrhynchus,-2.75,-42.25,5004:122:3,0.47,1,1,1,0.46596004892,1,1
+Isogomphodon,oxyrhynchus,-2.75,-42.75,5004:122:4,0.45,1,1,1,0.448838157358,1,1
+Isogomphodon,oxyrhynchus,-2.25,-43.75,5004:123:2,0.42,1,1,1,0.417040358744,1,1
+Isogomphodon,oxyrhynchus,-0.75,-45.75,5004:205:4,0.51,1,0.890710382514,1,0.575214023645,1,1
+Isogomphodon,oxyrhynchus,-0.25,-46.25,5004:206:1,0.46,1,0.75956284153,1,0.607827150428,1,1
+Isogomphodon,oxyrhynchus,-0.25,-46.75,5004:206:2,0.50,1,0.606557377049,1,0.817366490012,1,1
+Isogomphodon,oxyrhynchus,-0.75,-46.25,5004:206:3,0.50,1,0.606557377049,1,0.818997146351,1,1
+Isogomphodon,oxyrhynchus,0.75,-47.75,7004:207:4,0.44,0.666666666667,1,1,0.663592446201,1,1
+Isogomphodon,oxyrhynchus,1.75,-48.25,7004:218:3,0.52,1,1,1,0.516029863856,1,1
+Isogomphodon,oxyrhynchus,2.75,-48.25,7004:228:3,0.49,1,1,0.94907232109,0.516510395434,1,1
+Isogomphodon,oxyrhynchus,3.75,-50.25,7005:130:3,0.56,1,0.56,0.996655307333,1,1,1
+Isogomphodon,oxyrhynchus,3.25,-51.25,7005:131:1,0.56,1,0.56,0.996655307333,1,1,1
+Isogomphodon,oxyrhynchus,6.25,-52.75,7005:362:2,0.43,1,1,1,0.427639624949,1,1
+Isogomphodon,oxyrhynchus,6.25,-55.75,7005:465:2,0.42,1,0.46,0.921115738988,1,1,1
+Isogomphodon,oxyrhynchus,7.75,-58.25,7005:478:3,0.59,1,0.868852459016,1,0.675499388504,1,1
+Isogomphodon,oxyrhynchus,8.25,-59.75,7005:489:2,0.53,1,0.628415300546,0.839159755058,1,1,1
+Isogomphodon,oxyrhynchus,8.75,-59.75,7005:489:4,0.44,1,0.945355191257,1,0.465963987703,1,1
+Isogomphodon,oxyrhynchus,9.25,-60.75,7006:390:2,0.49,1,1,1,0.491436100132,1,1
+Isogomphodon,oxyrhynchus,10.25,-61.75,7106:101:2,0.49,1,1,1,0.485287659201,1,1
+Isogomphodon,oxyrhynchus,10.75,-61.25,7106:101:3,0.48,1,0.48,1,1,1,1
+Isogomphodon,oxyrhynchus,-2.25,-44.25,5004:124:1,0.77,1,1,0.980562918087,0.789645332246,1,1
+Isogomphodon,oxyrhynchus,-2.75,-44.75,5004:124:4,0.63,1,1,0.980562918087,0.64370158989,1,1
+Isogomphodon,oxyrhynchus,-0.75,-46.75,5004:206:4,0.61,1,0.606557377049,1,1,1,1
+Isogomphodon,oxyrhynchus,0.75,-48.75,7004:208:4,0.78,1,1,1,0.783926218709,1,1
+Isogomphodon,oxyrhynchus,1.75,-47.75,7004:217:4,0.69,1,1,1,0.690990623726,1,1
+Isogomphodon,oxyrhynchus,2.75,-49.25,7004:229:3,0.79,1,1,0.973810425344,0.807641633729,1,1
+Isogomphodon,oxyrhynchus,4.25,-50.75,7005:140:2,0.75,1,1,1,0.748792270531,1,1
+Isogomphodon,oxyrhynchus,4.75,-51.75,7005:141:4,0.63,1,1,1,0.627580149319,1,1
+Isogomphodon,oxyrhynchus,6.75,-53.75,7005:363:4,0.71,1,1,0.945285876562,0.754586220954,1,1
+Isogomphodon,oxyrhynchus,6.25,-56.25,7005:466:1,0.78,1,0.84,0.931970213303,1,1,1
+Isogomphodon,oxyrhynchus,6.25,-56.75,7005:466:2,0.72,1,0.84,0.931970213303,0.922543823889,1,1
+Isogomphodon,oxyrhynchus,6.25,-57.75,7005:467:2,0.77,1,0.912568306011,1,0.845087647778,1,1
+Isogomphodon,oxyrhynchus,6.75,-57.25,7005:467:3,0.77,1,1,1,0.771708112515,1,1
+Isogomphodon,oxyrhynchus,7.25,-57.75,7005:477:2,0.66,1,0.978142076503,1,0.676314716673,1,1
+Isogomphodon,oxyrhynchus,7.25,-58.75,7005:478:2,0.64,1,0.639344262295,1,1,1,1
+Isogomphodon,oxyrhynchus,7.75,-58.75,7005:478:4,0.73,1,0.726775956284,1,1,1,1
+Isogomphodon,oxyrhynchus,7.75,-59.25,7005:479:3,0.62,1,0.639344262295,1,0.976355483082,1,1
+Isogomphodon,oxyrhynchus,8.25,-59.25,7005:489:1,0.73,1,0.726775956284,1,1,1,1
+Isogomphodon,oxyrhynchus,9.25,-59.75,7005:499:2,0.74,1,1,1,0.739910313901,1,1
+Isogomphodon,oxyrhynchus,8.75,-60.25,7006:380:3,0.74,1,1,1,0.743522178305,1,1
+Isogomphodon,oxyrhynchus,-1.25,-44.75,5004:114:2,0.88,1,0.890710382514,1,0.985324092947,1,1
+Isogomphodon,oxyrhynchus,-1.75,-44.25,5004:114:3,0.80,1,1,0.980562918087,0.816551161843,1,1
+Isogomphodon,oxyrhynchus,-0.25,-47.25,5004:207:1,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,0.25,-49.25,7004:209:1,0.92,1,0.92349726776,1,1,1,1
+Isogomphodon,oxyrhynchus,0.75,-49.25,7004:209:3,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,1.25,-49.25,7004:219:1,0.82,1,0.92349726776,1,0.884936319719,1,1
+Isogomphodon,oxyrhynchus,1.75,-49.75,7004:219:4,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,2.25,-50.25,7005:120:1,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,4.75,-50.75,7005:140:4,0.99,1,1,0.990786318314,1,1,1
+Isogomphodon,oxyrhynchus,4.25,-51.25,7005:141:1,0.87,1,1,1,0.873517786561,1,1
+Isogomphodon,oxyrhynchus,4.75,-52.25,7005:142:3,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,5.25,-51.25,7005:351:1,0.99,1,1,0.990786318314,1,1,1
+Isogomphodon,oxyrhynchus,5.25,-51.75,7005:351:2,0.96,1,1,0.958475325003,1,1,1
+Isogomphodon,oxyrhynchus,5.25,-52.25,7005:352:1,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,5.25,-52.75,7005:352:2,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,5.75,-52.25,7005:352:3,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,5.75,-52.75,7005:352:4,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,5.25,-53.25,7005:353:1,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,5.75,-53.25,7005:353:3,0.95,1,1,0.945285876562,1,1,1
+Isogomphodon,oxyrhynchus,5.75,-53.75,7005:353:4,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,5.75,-54.25,7005:354:3,0.90,1,1,1,0.895637994293,1,1
+Isogomphodon,oxyrhynchus,5.75,-54.75,7005:354:4,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,6.25,-54.25,7005:364:1,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,6.25,-54.75,7005:364:2,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,5.75,-55.25,7005:455:3,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,5.75,-55.75,7005:455:4,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,5.75,-56.25,7005:456:3,0.93,1,1,1,0.925805136567,1,1
+Isogomphodon,oxyrhynchus,5.75,-56.75,7005:456:4,0.80,1,1,1,0.796983285773,1,1
+Isogomphodon,oxyrhynchus,6.25,-55.25,7005:465:1,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,6.25,-57.25,7005:467:1,0.87,1,1,1,0.874439461883,1,1
+Isogomphodon,oxyrhynchus,6.75,-57.75,7005:467:4,0.98,1,0.978142076503,1,1,1,1
+Isogomphodon,oxyrhynchus,6.75,-58.25,7005:468:3,0.85,1,1,1,0.851610273135,1,1
+Isogomphodon,oxyrhynchus,7.25,-58.25,7005:478:1,0.87,1,1,1,0.865470852018,1,1
+Isogomphodon,oxyrhynchus,8.25,-58.75,7005:488:2,0.87,1,0.868852459016,1,1,1,1
+Isogomphodon,oxyrhynchus,8.75,-59.25,7005:489:3,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,9.75,-61.25,7006:391:3,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,9.75,-62.25,7006:392:3,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,10.25,-60.75,7106:100:2,1.00,1,1,1,1,1,1
+Isogomphodon,oxyrhynchus,10.25,-61.25,7106:101:1,0.93,1,1,1,0.929732103645,1,1
+Isogomphodon,oxyrhynchus,10.25,-62.25,7106:102:1,0.86,1,1,1,0.858585858586,1,1
+Isogomphodon,oxyrhynchus,10.25,-62.75,7106:102:2,1.00,1,1,1,1,1,1
+
+
+Occurrence cells used for creating environmental envelope (n = 17)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Isogomphodon,oxyrhynchus,-4.75,-37.25,5003:247:3,17,27.39,36.22,403,0,15
+Isogomphodon,oxyrhynchus,-2.25,-43.75,5004:123:2,25,27.56,36.11,719,0,83
+Isogomphodon,oxyrhynchus,-1.75,-44.75,5004:114:4,2,27.65,36.79,1324,0,13
+Isogomphodon,oxyrhynchus,4.25,-51.75,7005:141:2,3,27.87,32.27,2257,0,7
+Isogomphodon,oxyrhynchus,4.75,-52.25,7005:142:3,27,27.73,31.28,2172,0,7
+Isogomphodon,oxyrhynchus,4.75,-51.75,7005:141:4,49,27.87,32.27,3145,0,26
+Isogomphodon,oxyrhynchus,5.25,-53.25,7005:353:1,6,27.49,31.28,2348,0,1
+Isogomphodon,oxyrhynchus,5.25,-52.75,7005:352:2,17,27.63,31.28,2490,0,12
+Isogomphodon,oxyrhynchus,5.25,-52.25,7005:352:1,37,27.63,31.28,2721,0,27
+Isogomphodon,oxyrhynchus,5.75,-54.25,7005:354:3,4,27.46,33.72,1306,0,5
+Isogomphodon,oxyrhynchus,5.75,-53.75,7005:353:4,16,27.49,33.25,1577,0,16
+Isogomphodon,oxyrhynchus,5.75,-53.25,7005:353:3,43,27.49,33.25,2213,0,25
+Isogomphodon,oxyrhynchus,6.25,-55.25,7005:465:1,37,27.33,34.31,1462,0,27
+Isogomphodon,oxyrhynchus,6.25,-54.75,7005:364:2,19,27.42,33.72,1616,0,27
+Isogomphodon,oxyrhynchus,6.25,-54.25,7005:364:1,37,27.42,33.72,1434,0,84
+Isogomphodon,oxyrhynchus,6.75,-57.75,7005:467:4,5,27.32,35.02,1664,0,22
+Isogomphodon,oxyrhynchus,11.25,-60.75,7106:110:2,137,27.64,34.13,1216,0,26

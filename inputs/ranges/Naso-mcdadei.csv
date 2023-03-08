@@ -1,0 +1,135 @@
+Mapping parameters for Naso mcdadei (Squarenose unicornfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 51 |  57 |  71,
+Bounding Box (NSWE): ,-10,-22,114,124
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,5,11,36,65
+Temperature (°C),1,25.84,26.49,27.88,32.08
+Salinity (psu),1,33.83,34.33,35.08,35.58
+Primary Production,1,399,498.2,752.2,907
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,25,35,127.800003051758,195
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 94): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Naso,mcdadei,-16.75,119.75,3111:469:4,0.04
+Naso,mcdadei,-17.25,118.75,3111:478:2,0.04
+Naso,mcdadei,-19.75,115.25,3111:495:3,0.05
+Naso,mcdadei,-19.75,115.75,3111:495:4,0.11
+Naso,mcdadei,-19.25,116.25,3111:496:1,0.14
+Naso,mcdadei,-19.75,119.75,3111:499:4,0.05
+Naso,mcdadei,-10.75,122.25,3112:102:3,0.10
+Naso,mcdadei,-10.25,123.25,3112:103:1,0.14
+Naso,mcdadei,-12.25,122.75,3112:122:2,0.12
+Naso,mcdadei,-15.25,123.25,3112:353:1,0.10
+Naso,mcdadei,-15.75,123.75,3112:353:4,0.19
+Naso,mcdadei,-16.25,122.75,3112:362:2,0.17
+Naso,mcdadei,-18.75,121.75,3112:381:4,0.06
+Naso,mcdadei,-20.75,114.75,3211:104:4,0.09
+Naso,mcdadei,-21.25,114.75,3211:114:2,0.12
+Naso,mcdadei,-21.75,114.25,3211:114:3,0.03
+Naso,mcdadei,-17.25,119.75,3111:479:2,0.34
+Naso,mcdadei,-18.75,117.75,3111:487:4,0.37
+Naso,mcdadei,-14.25,122.25,3112:142:1,0.21
+Naso,mcdadei,-16.25,121.25,3112:361:1,0.26
+Naso,mcdadei,-17.25,121.25,3112:371:1,0.24
+Naso,mcdadei,-20.25,117.75,3211:207:2,0.36
+Naso,mcdadei,-20.75,117.75,3211:207:4,0.22
+Naso,mcdadei,-17.75,118.75,3111:478:4,0.43
+Naso,mcdadei,-17.25,119.25,3111:479:1,0.50
+Naso,mcdadei,-19.75,117.75,3111:497:4,0.58
+Naso,mcdadei,-19.25,119.75,3111:499:2,0.46
+Naso,mcdadei,-14.75,122.25,3112:142:3,0.52
+Naso,mcdadei,-14.75,123.25,3112:143:3,0.44
+Naso,mcdadei,-16.75,122.75,3112:362:4,0.54
+Naso,mcdadei,-18.75,120.25,3112:380:3,0.59
+Naso,mcdadei,-18.25,122.25,3112:382:1,0.52
+Naso,mcdadei,-19.75,120.75,3112:390:4,0.55
+Naso,mcdadei,-20.75,117.25,3211:207:3,0.45
+Naso,mcdadei,-20.25,119.75,3211:209:2,0.43
+Naso,mcdadei,-10.25,119.75,3111:209:2,0.61
+Naso,mcdadei,-18.75,118.75,3111:488:4,0.79
+Naso,mcdadei,-18.75,119.75,3111:489:4,0.79
+Naso,mcdadei,-19.25,117.75,3111:497:2,0.76
+Naso,mcdadei,-19.25,118.25,3111:498:1,0.74
+Naso,mcdadei,-10.25,120.25,3112:100:1,0.64
+Naso,mcdadei,-10.25,120.75,3112:100:2,0.79
+Naso,mcdadei,-10.25,121.75,3112:101:2,0.77
+Naso,mcdadei,-10.75,121.25,3112:101:3,0.77
+Naso,mcdadei,-10.75,121.75,3112:101:4,0.77
+Naso,mcdadei,-10.25,122.25,3112:102:1,0.75
+Naso,mcdadei,-10.75,122.75,3112:102:4,0.74
+Naso,mcdadei,-10.25,123.75,3112:103:2,0.65
+Naso,mcdadei,-10.75,123.25,3112:103:3,0.72
+Naso,mcdadei,-11.75,123.75,3112:113:4,0.65
+Naso,mcdadei,-12.75,123.75,3112:123:4,0.71
+Naso,mcdadei,-15.75,121.75,3112:351:4,0.78
+Naso,mcdadei,-16.25,123.75,3112:363:2,0.63
+Naso,mcdadei,-16.75,123.25,3112:363:3,0.73
+Naso,mcdadei,-18.75,121.25,3112:381:3,0.67
+Naso,mcdadei,-20.25,117.25,3211:207:1,0.78
+Naso,mcdadei,-20.25,119.25,3211:209:1,0.76
+Naso,mcdadei,-17.75,119.25,3111:479:3,1.00
+Naso,mcdadei,-19.25,116.75,3111:496:2,1.00
+Naso,mcdadei,-19.75,116.25,3111:496:3,0.83
+Naso,mcdadei,-19.75,116.75,3111:496:4,0.83
+Naso,mcdadei,-19.75,117.25,3111:497:3,0.89
+Naso,mcdadei,-11.75,123.25,3112:113:3,0.81
+Naso,mcdadei,-12.25,123.25,3112:123:1,0.80
+Naso,mcdadei,-12.25,123.75,3112:123:2,0.80
+Naso,mcdadei,-14.25,121.75,3112:141:2,0.85
+Naso,mcdadei,-14.75,122.75,3112:142:4,0.85
+Naso,mcdadei,-14.25,123.75,3112:143:2,0.86
+Naso,mcdadei,-14.75,123.75,3112:143:4,0.86
+Naso,mcdadei,-15.25,121.75,3112:351:2,0.89
+Naso,mcdadei,-15.75,121.25,3112:351:3,0.89
+Naso,mcdadei,-15.25,122.25,3112:352:1,0.89
+Naso,mcdadei,-15.25,122.75,3112:352:2,0.89
+Naso,mcdadei,-16.75,122.25,3112:362:3,0.92
+Naso,mcdadei,-16.25,123.25,3112:363:1,0.92
+Naso,mcdadei,-16.75,123.75,3112:363:4,0.86
+Naso,mcdadei,-17.25,122.25,3112:372:1,0.91
+Naso,mcdadei,-17.75,122.25,3112:372:3,0.98
+Naso,mcdadei,-17.25,123.25,3112:373:1,0.97
+Naso,mcdadei,-17.25,123.75,3112:373:2,0.97
+Naso,mcdadei,-19.25,120.25,3112:390:1,0.80
+Naso,mcdadei,-19.25,120.75,3112:390:2,1.00
+Naso,mcdadei,-19.25,121.25,3112:391:1,1.00
+Naso,mcdadei,-19.25,121.75,3112:391:2,1.00
+Naso,mcdadei,-19.75,121.25,3112:391:3,1.00
+Naso,mcdadei,-20.25,115.25,3211:205:1,1.00
+Naso,mcdadei,-20.25,115.75,3211:205:2,1.00
+Naso,mcdadei,-20.75,115.25,3211:205:3,0.92
+Naso,mcdadei,-20.25,116.25,3211:206:1,1.00
+Naso,mcdadei,-20.25,116.75,3211:206:2,1.00
+Naso,mcdadei,-20.75,116.25,3211:206:3,1.00
+Naso,mcdadei,-20.75,116.75,3211:206:4,0.96
+Naso,mcdadei,-20.25,118.25,3211:208:1,0.90
+Naso,mcdadei,-20.25,118.75,3211:208:2,0.90
+
+
+Occurrence cells used for creating environmental envelope (n = 5)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Naso,mcdadei,-20.75,115.75,3211:205:4,19,26.49,35.08,399,0,50
+Naso,mcdadei,-20.25,115.25,3211:205:1,104,26.49,35.08,647,0,108
+Naso,mcdadei,-20.25,115.75,3211:205:2,60,26.49,35.08,751,0,97
+Naso,mcdadei,-19.75,116.75,3111:496:4,63,26.92,35.02,733,0,141
+Naso,mcdadei,-10.75,122.75,3112:102:4,395,28.52,34.27,753,0,25

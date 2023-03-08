@@ -1,0 +1,109 @@
+Mapping parameters for Pterygotrigla spirai ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 51,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,250,270,341,440
+Temperature (°C),1,19.08,21.62,24.37,25.96
+Salinity (psu),1,39.82,40.32,40.54,40.9
+Primary Production,1,183,403.2,662.4,831
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,1,15.8,88.5999984741211,151.75
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 70): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Pterygotrigla,spirai,18.25,38.75,1103:488:2,0.10
+Pterygotrigla,spirai,18.75,39.75,1103:489:4,0.14
+Pterygotrigla,spirai,19.75,39.75,1103:499:4,0.17
+Pterygotrigla,spirai,17.25,40.25,1104:370:1,0.17
+Pterygotrigla,spirai,17.75,40.75,1104:370:4,0.07
+Pterygotrigla,spirai,22.75,38.25,1203:228:3,0.06
+Pterygotrigla,spirai,23.25,37.75,1203:237:2,0.14
+Pterygotrigla,spirai,23.75,38.25,1203:238:3,0.15
+Pterygotrigla,spirai,17.25,39.75,1103:479:2,0.29
+Pterygotrigla,spirai,19.25,38.75,1103:498:2,0.29
+Pterygotrigla,spirai,19.75,38.25,1103:498:3,0.32
+Pterygotrigla,spirai,21.25,38.75,1203:218:2,0.25
+Pterygotrigla,spirai,21.75,38.75,1203:218:4,0.35
+Pterygotrigla,spirai,23.75,35.75,1203:235:4,0.34
+Pterygotrigla,spirai,25.25,36.75,1203:456:2,0.32
+Pterygotrigla,spirai,26.75,36.25,1203:466:3,0.33
+Pterygotrigla,spirai,17.75,39.25,1103:479:3,0.47
+Pterygotrigla,spirai,17.75,39.75,1103:479:4,0.52
+Pterygotrigla,spirai,18.75,38.75,1103:488:4,0.57
+Pterygotrigla,spirai,19.25,38.25,1103:498:1,0.44
+Pterygotrigla,spirai,19.25,39.75,1103:499:2,0.46
+Pterygotrigla,spirai,18.25,40.25,1104:380:1,0.54
+Pterygotrigla,spirai,18.75,40.25,1104:380:3,0.44
+Pterygotrigla,spirai,20.25,37.75,1203:207:2,0.56
+Pterygotrigla,spirai,20.75,39.25,1203:209:3,0.41
+Pterygotrigla,spirai,27.25,34.25,1203:374:1,0.43
+Pterygotrigla,spirai,27.75,34.25,1203:374:3,0.43
+Pterygotrigla,spirai,27.75,34.75,1203:374:4,0.55
+Pterygotrigla,spirai,28.75,34.75,1203:384:4,0.40
+Pterygotrigla,spirai,29.25,34.75,1203:394:2,0.55
+Pterygotrigla,spirai,27.25,35.25,1203:475:1,0.43
+Pterygotrigla,spirai,18.25,39.25,1103:489:1,0.69
+Pterygotrigla,spirai,18.75,39.25,1103:489:3,0.67
+Pterygotrigla,spirai,19.75,37.75,1103:497:4,0.71
+Pterygotrigla,spirai,20.75,37.75,1203:207:4,0.72
+Pterygotrigla,spirai,20.25,39.25,1203:209:1,0.67
+Pterygotrigla,spirai,21.25,37.75,1203:217:2,0.60
+Pterygotrigla,spirai,21.75,37.25,1203:217:3,0.66
+Pterygotrigla,spirai,22.25,37.25,1203:227:1,0.72
+Pterygotrigla,spirai,24.75,36.75,1203:246:4,0.79
+Pterygotrigla,spirai,26.25,34.75,1203:364:2,0.65
+Pterygotrigla,spirai,27.25,33.75,1203:373:2,0.63
+Pterygotrigla,spirai,28.25,34.25,1203:384:1,0.67
+Pterygotrigla,spirai,28.25,34.75,1203:384:2,0.65
+Pterygotrigla,spirai,25.75,36.25,1203:456:3,0.72
+Pterygotrigla,spirai,21.25,37.25,1203:217:1,0.84
+Pterygotrigla,spirai,22.25,36.75,1203:226:2,0.81
+Pterygotrigla,spirai,22.75,36.75,1203:226:4,1.00
+Pterygotrigla,spirai,22.25,38.75,1203:228:2,0.81
+Pterygotrigla,spirai,22.75,38.75,1203:228:4,1.00
+Pterygotrigla,spirai,23.25,36.25,1203:236:1,0.99
+Pterygotrigla,spirai,23.75,36.25,1203:236:3,0.83
+Pterygotrigla,spirai,23.75,37.75,1203:237:4,1.00
+Pterygotrigla,spirai,23.25,38.25,1203:238:1,1.00
+Pterygotrigla,spirai,23.25,38.75,1203:238:2,0.83
+Pterygotrigla,spirai,24.25,35.75,1203:245:2,1.00
+Pterygotrigla,spirai,24.75,35.25,1203:245:3,1.00
+Pterygotrigla,spirai,24.75,35.75,1203:245:4,0.99
+Pterygotrigla,spirai,24.25,37.25,1203:247:1,1.00
+Pterygotrigla,spirai,24.25,37.75,1203:247:2,1.00
+Pterygotrigla,spirai,25.25,34.75,1203:354:2,0.98
+Pterygotrigla,spirai,25.75,34.75,1203:354:4,0.93
+Pterygotrigla,spirai,26.25,34.25,1203:364:1,0.90
+Pterygotrigla,spirai,26.75,34.25,1203:364:3,0.93
+Pterygotrigla,spirai,25.25,35.25,1203:455:1,0.99
+Pterygotrigla,spirai,25.75,36.75,1203:456:4,0.92
+Pterygotrigla,spirai,26.75,35.75,1203:465:4,0.98
+Pterygotrigla,spirai,26.25,36.25,1203:466:1,0.90
+Pterygotrigla,spirai,27.25,35.75,1203:475:2,1.00
+Pterygotrigla,spirai,27.75,35.25,1203:475:3,0.92
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Pterygotrigla,spirai,20.25,39.25,1203:209:1,504,28.81,38.66,712,0,92
+Pterygotrigla,spirai,25.25,35.25,1203:455:1,605,25.93,39.49,464,0,75
+Pterygotrigla,spirai,29.75,34.75,1203:394:4,20,24.3,38.63,388,0,1

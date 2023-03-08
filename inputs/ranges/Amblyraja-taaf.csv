@@ -1,0 +1,115 @@
+Mapping parameters for Amblyraja taaf (Whiteleg skate)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 58,
+Bounding Box (NSWE): ,-35,-49,-180,180
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,150,375,390,600
+Temperature (°C),1,4.38,4.97,5.97,6.47
+Salinity (psu),1,33.21,33.71,33.76,34.26
+Primary Production (mgC·m-3·day-1) ,1,1.74,2.74,4.4,5.4
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,158.22,209.5,258.49,301.94
+Distance to Land (km),0,17,18,157,204
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 66): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Amblyraja,taaf,-46.25,41.75,3404:361:2,0.12
+Amblyraja,taaf,-46.25,42.25,3404:362:1,0.05
+Amblyraja,taaf,-46.25,42.75,3404:362:2,0.01
+Amblyraja,taaf,-48.25,44.25,3404:384:1,0.19
+Amblyraja,taaf,-45.25,49.75,3404:459:2,0.09
+Amblyraja,taaf,-47.25,65.75,3406:475:2,0.04
+Amblyraja,taaf,-47.75,65.75,3406:475:4,0.03
+Amblyraja,taaf,-47.75,68.75,3406:478:4,0.07
+Amblyraja,taaf,-48.25,66.25,3406:486:1,0.09
+Amblyraja,taaf,-48.25,67.75,3406:487:2,0.06
+Amblyraja,taaf,-46.75,70.75,3407:360:4,0.10
+Amblyraja,taaf,-47.75,73.75,3407:373:4,0.13
+Amblyraja,taaf,-46.75,42.75,3404:362:4,0.22
+Amblyraja,taaf,-47.25,66.25,3406:476:1,0.26
+Amblyraja,taaf,-47.75,68.25,3406:478:3,0.21
+Amblyraja,taaf,-47.25,69.25,3406:479:1,0.31
+Amblyraja,taaf,-48.25,66.75,3406:486:2,0.35
+Amblyraja,taaf,-48.25,67.25,3406:487:1,0.34
+Amblyraja,taaf,-47.25,71.25,3407:371:1,0.31
+Amblyraja,taaf,-47.25,71.75,3407:371:2,0.39
+Amblyraja,taaf,-47.75,74.25,3407:374:3,0.28
+Amblyraja,taaf,-46.25,38.25,3403:468:1,0.57
+Amblyraja,taaf,-46.25,39.75,3403:469:2,0.50
+Amblyraja,taaf,-46.25,67.75,3406:467:2,0.45
+Amblyraja,taaf,-47.25,72.25,3407:372:1,0.44
+Amblyraja,taaf,-46.75,66.75,3406:466:4,0.75
+Amblyraja,taaf,-46.25,67.25,3406:467:1,0.60
+Amblyraja,taaf,-47.75,66.25,3406:476:3,0.72
+Amblyraja,taaf,-47.75,66.75,3406:476:4,0.76
+Amblyraja,taaf,-47.75,67.25,3406:477:3,0.79
+Amblyraja,taaf,-47.75,67.75,3406:477:4,0.69
+Amblyraja,taaf,-47.25,68.25,3406:478:1,0.78
+Amblyraja,taaf,-47.25,68.75,3406:478:2,0.75
+Amblyraja,taaf,-46.75,37.75,3403:467:4,0.89
+Amblyraja,taaf,-46.75,38.25,3403:468:3,0.90
+Amblyraja,taaf,-46.75,39.75,3403:469:4,0.90
+Amblyraja,taaf,-47.25,37.75,3403:477:2,0.91
+Amblyraja,taaf,-45.75,49.25,3404:459:3,0.99
+Amblyraja,taaf,-45.75,49.75,3404:459:4,0.81
+Amblyraja,taaf,-46.25,49.25,3404:469:1,1.00
+Amblyraja,taaf,-46.25,49.75,3404:469:2,1.00
+Amblyraja,taaf,-46.75,49.75,3404:469:4,0.99
+Amblyraja,taaf,-45.25,50.25,3405:350:1,0.83
+Amblyraja,taaf,-45.75,50.25,3405:350:3,1.00
+Amblyraja,taaf,-45.75,50.75,3405:350:4,1.00
+Amblyraja,taaf,-45.75,51.25,3405:351:3,1.00
+Amblyraja,taaf,-46.25,50.25,3405:360:1,1.00
+Amblyraja,taaf,-46.25,50.75,3405:360:2,1.00
+Amblyraja,taaf,-46.75,50.25,3405:360:3,1.00
+Amblyraja,taaf,-46.75,50.75,3405:360:4,1.00
+Amblyraja,taaf,-46.25,51.25,3405:361:1,1.00
+Amblyraja,taaf,-46.25,51.75,3405:361:2,1.00
+Amblyraja,taaf,-46.75,51.25,3405:361:3,1.00
+Amblyraja,taaf,-46.75,51.75,3405:361:4,1.00
+Amblyraja,taaf,-46.25,52.25,3405:362:1,1.00
+Amblyraja,taaf,-46.75,52.25,3405:362:3,0.96
+Amblyraja,taaf,-46.75,52.75,3405:362:4,0.83
+Amblyraja,taaf,-46.75,67.25,3406:467:3,0.86
+Amblyraja,taaf,-46.75,67.75,3406:467:4,0.86
+Amblyraja,taaf,-46.75,68.25,3406:468:3,0.86
+Amblyraja,taaf,-46.75,68.75,3406:468:4,0.86
+Amblyraja,taaf,-46.75,69.25,3406:469:3,0.89
+Amblyraja,taaf,-47.25,66.75,3406:476:2,0.87
+Amblyraja,taaf,-47.25,67.25,3406:477:1,0.89
+Amblyraja,taaf,-47.25,67.75,3406:477:2,0.90
+Amblyraja,taaf,-46.75,70.25,3407:360:3,0.89
+
+
+Occurrence cells used for creating environmental envelope (n = 13)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Amblyraja,taaf,-47.75,50.25,3405:370:3,3845,4.37543916702271,0.0280629992485046,33.7558937072754,34.6772384643555,2.80499993823469,0,225.420715332031,204
+Amblyraja,taaf,-46.75,50.75,3405:360:4,1605,5.13053607940674,2.5344569683075,33.7585144042969,34.6050605773926,3.0849999748170402,0,216.669616699219,106
+Amblyraja,taaf,-46.25,51.25,3405:361:1,1139,5.35453414916992,2.34191393852234,33.7453498840332,34.7302322387695,3.50999995134771,0,208.66487121582,77
+Amblyraja,taaf,-46.25,51.75,3405:361:2,958,5.25834894180298,2.40345096588135,33.743896484375,34.7057151794434,3.55300004594028,0,209.495330810547,18
+Amblyraja,taaf,-46.25,52.25,3405:362:1,1537,5.19554996490479,1.70418095588684,33.741886138916,34.7621421813965,3.25100007466972,0,212.114868164063,18
+Amblyraja,taaf,-46.25,49.25,3404:469:1,957,5.4894847869873,3.35560607910156,33.7374839782715,34.1754875183105,3.35399992763996,0,248.044021606445,115
+Amblyraja,taaf,-46.25,49.75,3404:469:2,293,5.64903402328491,4.18487215042114,33.733528137207,33.8559608459473,3.38799995370209,0,281.108123779297,77
+Amblyraja,taaf,-46.25,50.25,3405:360:1,376,5.60469579696655,3.71365904808044,33.7407035827637,34.0319175720215,3.31700011156499,0,255.629211425781,19
+Amblyraja,taaf,-46.25,50.75,3405:360:2,378,5.49297380447388,2.97266411781311,33.745288848877,34.2612724304199,3.4640000667423,0,241.703430175781,77
+Amblyraja,taaf,-45.75,49.25,3404:459:3,1454,5.81930685043335,2.60950398445129,33.705753326416,34.528018951416,3.92800010740757,0,221.465621948242,134
+Amblyraja,taaf,-45.75,50.25,3405:350:3,189,5.75425386428833,3.82203388214111,33.7307472229004,34.027717590332,4.40400000661612,0,258.493804931641,94
+Amblyraja,taaf,-45.75,51.25,3405:351:3,1076,5.61230182647705,2.63532996177673,33.7345657348633,34.4900245666504,3.75199993140996,0,225.33251953125,107
+Amblyraja,taaf,-45.25,49.75,3404:459:2,1732,6.13448286056519,1.75472795963287,33.7001724243164,34.7639198303223,4.4450000859797,0,211.315368652344,157

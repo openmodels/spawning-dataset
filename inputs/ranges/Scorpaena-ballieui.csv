@@ -1,0 +1,94 @@
+Mapping parameters for Sebastapistes ballieui (Spotfin scorpionfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 61 |  77,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,2,7,11
+Temperature (°C),1,23.04,23.95,25.39,29.59
+Salinity (psu),1,34.38,34.88,35.22,35.72
+Primary Production,1,191,215,264.6,282
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,17.75,21,24.3999996185303,27.75
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 51): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Sebastapistes,ballieui,24.25,123.25,1212:143:1,0.11
+Sebastapistes,ballieui,24.25,124.25,1212:144:1,0.12
+Sebastapistes,ballieui,24.75,124.25,1212:144:3,0.03
+Sebastapistes,ballieui,24.25,154.25,1215:144:1,0.13
+Sebastapistes,ballieui,31.25,130.75,1313:110:2,0.15
+Sebastapistes,ballieui,24.75,-167.75,7216:247:4,0.12
+Sebastapistes,ballieui,27.75,-175.75,7217:475:4,0.16
+Sebastapistes,ballieui,20.25,136.25,1213:206:1,0.33
+Sebastapistes,ballieui,20.75,144.75,1214:104:4,0.21
+Sebastapistes,ballieui,24.25,141.75,1214:141:2,0.35
+Sebastapistes,ballieui,18.75,-155.75,7115:485:4,0.51
+Sebastapistes,ballieui,16.75,-169.25,7116:469:3,0.42
+Sebastapistes,ballieui,24.75,131.25,1213:141:3,0.67
+Sebastapistes,ballieui,25.75,131.25,1213:351:3,0.68
+Sebastapistes,ballieui,24.75,141.25,1214:141:3,0.76
+Sebastapistes,ballieui,26.75,142.25,1214:362:3,0.71
+Sebastapistes,ballieui,27.25,140.75,1214:370:2,0.62
+Sebastapistes,ballieui,19.25,-154.75,7115:394:2,0.78
+Sebastapistes,ballieui,19.75,-154.75,7115:394:4,0.78
+Sebastapistes,ballieui,19.25,-155.25,7115:495:1,0.77
+Sebastapistes,ballieui,19.25,-155.75,7115:495:2,0.67
+Sebastapistes,ballieui,25.25,141.25,1214:351:1,0.83
+Sebastapistes,ballieui,19.75,-155.25,7115:495:3,0.98
+Sebastapistes,ballieui,19.75,-155.75,7115:495:4,0.98
+Sebastapistes,ballieui,20.25,-155.25,7215:205:1,1.00
+Sebastapistes,ballieui,20.25,-155.75,7215:205:2,1.00
+Sebastapistes,ballieui,20.75,-155.75,7215:205:4,1.00
+Sebastapistes,ballieui,20.75,-156.25,7215:206:3,1.00
+Sebastapistes,ballieui,21.25,-156.75,7215:216:2,1.00
+Sebastapistes,ballieui,21.25,-157.25,7215:217:1,1.00
+Sebastapistes,ballieui,21.25,-157.75,7215:217:2,1.00
+Sebastapistes,ballieui,21.75,-157.75,7215:217:4,1.00
+Sebastapistes,ballieui,21.25,-158.25,7215:218:1,1.00
+Sebastapistes,ballieui,21.75,-158.25,7215:218:3,1.00
+Sebastapistes,ballieui,21.75,-159.25,7215:219:3,0.98
+Sebastapistes,ballieui,21.75,-159.75,7215:219:4,0.98
+Sebastapistes,ballieui,22.25,-159.25,7215:229:1,1.00
+Sebastapistes,ballieui,22.25,-159.75,7215:229:2,1.00
+Sebastapistes,ballieui,21.75,-160.25,7216:110:3,0.96
+Sebastapistes,ballieui,22.25,-160.25,7216:120:1,1.00
+Sebastapistes,ballieui,23.25,-161.75,7216:131:2,1.00
+Sebastapistes,ballieui,23.75,-164.75,7216:134:4,1.00
+Sebastapistes,ballieui,24.25,-167.25,7216:247:1,1.00
+Sebastapistes,ballieui,25.25,-167.75,7216:457:2,0.98
+Sebastapistes,ballieui,25.75,-169.25,7216:459:3,0.98
+Sebastapistes,ballieui,25.25,-170.25,7217:350:1,0.96
+Sebastapistes,ballieui,25.75,-170.75,7217:350:4,0.96
+Sebastapistes,ballieui,25.75,-171.75,7217:351:4,0.94
+Sebastapistes,ballieui,25.75,-173.25,7217:353:3,0.92
+Sebastapistes,ballieui,26.25,-173.25,7217:363:1,0.92
+Sebastapistes,ballieui,26.25,-173.75,7217:363:2,0.92
+
+
+Occurrence cells used for creating environmental envelope (n = 7)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Sebastapistes,ballieui,20.75,-156.75,7215:206:4,259,25.41,34.93,191,0,21
+Sebastapistes,ballieui,21.25,-158.25,7215:218:1,2368,25.38,34.88,239,0,24
+Sebastapistes,ballieui,21.25,-157.75,7215:217:2,404,25.26,34.88,253,0,22
+Sebastapistes,ballieui,21.75,-158.25,7215:218:3,1551,25.38,35,238,0,24
+Sebastapistes,ballieui,22.25,-159.25,7215:229:1,1985,25.11,35.02,231,0,21
+Sebastapistes,ballieui,25.75,-171.75,7217:351:4,1723,24.55,35.25,250,0,25
+Sebastapistes,ballieui,28.25,-177.25,7217:487:1,2463,23.04,35.2,282,0,24

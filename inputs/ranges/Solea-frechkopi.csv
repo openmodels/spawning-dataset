@@ -1,0 +1,271 @@
+Mapping parameters for Microchirus frechkopi (Frechkop's sole)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 34 |  47,
+Bounding Box (NSWE): ,16,1,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,85,97,142,200
+Temperature (°C),1,23.64,26.03,27.96,32.16
+Salinity (psu),1,30.2,31.11,35.09,36.18
+Primary Production,1,135.5,824,1982,2998
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,2,13,179,331
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 154): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Microchirus,frechkopi,1.75,9.25,1000:219:3,0.17
+Microchirus,frechkopi,9.25,-13.25,7001:393:1,0.08
+Microchirus,frechkopi,10.75,-16.25,7101:206:3,0.05
+Microchirus,frechkopi,13.75,-17.25,7101:237:3,0.15
+Microchirus,frechkopi,14.25,-17.25,7101:247:1,0.14
+Microchirus,frechkopi,14.75,-17.25,7101:247:3,0.10
+Microchirus,frechkopi,14.75,-17.75,7101:247:4,0.12
+Microchirus,frechkopi,15.25,-17.25,7101:457:1,0.04
+Microchirus,frechkopi,15.75,-17.25,7101:457:3,0.03
+Microchirus,frechkopi,14.75,-23.25,7102:143:3,0.13
+Microchirus,frechkopi,14.75,-23.75,7102:143:4,0.14
+Microchirus,frechkopi,14.75,-24.25,7102:144:3,0.12
+Microchirus,frechkopi,14.75,-24.75,7102:144:4,0.12
+Microchirus,frechkopi,15.75,-22.75,7102:352:4,0.08
+Microchirus,frechkopi,15.25,-23.25,7102:353:1,0.07
+Microchirus,frechkopi,15.25,-23.75,7102:353:2,0.07
+Microchirus,frechkopi,15.75,-23.25,7102:353:3,0.07
+Microchirus,frechkopi,15.25,-24.25,7102:354:1,0.06
+Microchirus,frechkopi,15.25,-24.75,7102:354:2,0.06
+Microchirus,frechkopi,3.75,7.25,1000:237:3,0.37
+Microchirus,frechkopi,3.75,7.75,1000:237:4,0.37
+Microchirus,frechkopi,3.25,8.25,1000:238:1,0.37
+Microchirus,frechkopi,3.75,8.25,1000:238:3,0.37
+Microchirus,frechkopi,3.75,8.75,1000:238:4,0.37
+Microchirus,frechkopi,4.25,7.25,1000:247:1,0.37
+Microchirus,frechkopi,4.25,7.75,1000:247:2,0.37
+Microchirus,frechkopi,4.75,7.75,1000:247:4,0.33
+Microchirus,frechkopi,4.25,8.25,1000:248:1,0.33
+Microchirus,frechkopi,4.25,8.75,1000:248:2,0.20
+Microchirus,frechkopi,4.75,8.25,1000:248:3,0.29
+Microchirus,frechkopi,4.25,9.25,1000:249:1,0.23
+Microchirus,frechkopi,13.75,-16.75,7101:236:4,0.29
+Microchirus,frechkopi,13.25,-17.25,7101:237:1,0.37
+Microchirus,frechkopi,12.25,-16.75,7101:226:2,0.45
+Microchirus,frechkopi,13.25,-16.75,7101:236:2,0.59
+Microchirus,frechkopi,13.25,-17.75,7101:237:2,0.58
+Microchirus,frechkopi,4.25,6.75,1000:246:2,0.75
+Microchirus,frechkopi,5.25,-0.75,7000:350:2,0.76
+Microchirus,frechkopi,5.25,-10.25,7001:350:1,0.78
+Microchirus,frechkopi,9.25,-14.25,7001:394:1,0.77
+Microchirus,frechkopi,10.25,-15.25,7101:205:1,0.73
+Microchirus,frechkopi,12.25,-17.25,7101:227:1,0.76
+Microchirus,frechkopi,12.75,-17.25,7101:227:3,0.76
+Microchirus,frechkopi,12.75,-17.75,7101:227:4,0.76
+Microchirus,frechkopi,4.75,4.75,1000:144:4,1.00
+Microchirus,frechkopi,1.25,7.25,1000:217:1,1.00
+Microchirus,frechkopi,1.75,7.25,1000:217:3,1.00
+Microchirus,frechkopi,1.75,7.75,1000:217:4,1.00
+Microchirus,frechkopi,1.25,9.25,1000:219:1,1.00
+Microchirus,frechkopi,1.25,9.75,1000:219:2,1.00
+Microchirus,frechkopi,1.75,9.75,1000:219:4,1.00
+Microchirus,frechkopi,3.75,5.75,1000:235:4,1.00
+Microchirus,frechkopi,3.75,6.25,1000:236:3,1.00
+Microchirus,frechkopi,3.75,6.75,1000:236:4,1.00
+Microchirus,frechkopi,4.25,5.25,1000:245:1,1.00
+Microchirus,frechkopi,4.25,5.75,1000:245:2,0.90
+Microchirus,frechkopi,4.75,5.25,1000:245:3,1.00
+Microchirus,frechkopi,4.25,6.25,1000:246:1,1.00
+Microchirus,frechkopi,5.25,0.25,1000:350:1,1.00
+Microchirus,frechkopi,5.75,0.25,1000:350:3,1.00
+Microchirus,frechkopi,5.75,0.75,1000:350:4,1.00
+Microchirus,frechkopi,5.75,1.25,1000:351:3,1.00
+Microchirus,frechkopi,5.25,4.75,1000:354:2,1.00
+Microchirus,frechkopi,5.75,4.75,1000:354:4,1.00
+Microchirus,frechkopi,6.25,1.75,1000:361:2,1.00
+Microchirus,frechkopi,6.25,2.25,1000:362:1,1.00
+Microchirus,frechkopi,6.25,2.75,1000:362:2,1.00
+Microchirus,frechkopi,6.25,3.25,1000:363:1,1.00
+Microchirus,frechkopi,6.25,3.75,1000:363:2,1.00
+Microchirus,frechkopi,6.25,4.25,1000:364:1,1.00
+Microchirus,frechkopi,6.25,4.75,1000:364:2,1.00
+Microchirus,frechkopi,5.25,5.25,1000:455:1,1.00
+Microchirus,frechkopi,5.75,5.25,1000:455:3,1.00
+Microchirus,frechkopi,4.25,-0.75,7000:140:2,1.00
+Microchirus,frechkopi,4.75,-0.25,7000:140:3,1.00
+Microchirus,frechkopi,4.75,-0.75,7000:140:4,0.91
+Microchirus,frechkopi,4.25,-1.25,7000:141:1,0.99
+Microchirus,frechkopi,4.25,-1.75,7000:141:2,1.00
+Microchirus,frechkopi,4.75,-1.75,7000:141:4,1.00
+Microchirus,frechkopi,4.25,-2.25,7000:142:1,1.00
+Microchirus,frechkopi,4.75,-2.25,7000:142:3,1.00
+Microchirus,frechkopi,4.75,-2.75,7000:142:4,1.00
+Microchirus,frechkopi,4.75,-3.25,7000:143:3,1.00
+Microchirus,frechkopi,4.75,-5.25,7000:245:3,1.00
+Microchirus,frechkopi,4.75,-5.75,7000:245:4,1.00
+Microchirus,frechkopi,4.25,-6.75,7000:246:2,1.00
+Microchirus,frechkopi,4.75,-6.25,7000:246:3,1.00
+Microchirus,frechkopi,4.75,-6.75,7000:246:4,1.00
+Microchirus,frechkopi,4.25,-7.25,7000:247:1,1.00
+Microchirus,frechkopi,4.25,-7.75,7000:247:2,1.00
+Microchirus,frechkopi,4.25,-8.25,7000:248:1,1.00
+Microchirus,frechkopi,4.75,-8.25,7000:248:3,1.00
+Microchirus,frechkopi,4.75,-8.75,7000:248:4,1.00
+Microchirus,frechkopi,4.75,-9.25,7000:249:3,0.89
+Microchirus,frechkopi,5.25,-0.25,7000:350:1,1.00
+Microchirus,frechkopi,5.75,-0.25,7000:350:3,1.00
+Microchirus,frechkopi,5.25,-1.25,7000:351:1,1.00
+Microchirus,frechkopi,5.25,-1.75,7000:351:2,1.00
+Microchirus,frechkopi,5.25,-3.25,7000:353:1,1.00
+Microchirus,frechkopi,5.25,-3.75,7000:353:2,1.00
+Microchirus,frechkopi,5.25,-4.25,7000:354:1,1.00
+Microchirus,frechkopi,5.25,-4.75,7000:354:2,1.00
+Microchirus,frechkopi,5.25,-5.25,7000:455:1,1.00
+Microchirus,frechkopi,5.25,-9.25,7000:459:1,1.00
+Microchirus,frechkopi,5.25,-9.75,7000:459:2,1.00
+Microchirus,frechkopi,5.75,-10.25,7001:350:3,0.99
+Microchirus,frechkopi,5.75,-10.75,7001:350:4,0.88
+Microchirus,frechkopi,6.25,-10.75,7001:360:2,1.00
+Microchirus,frechkopi,6.25,-11.25,7001:361:1,1.00
+Microchirus,frechkopi,6.75,-11.25,7001:361:3,1.00
+Microchirus,frechkopi,6.75,-11.75,7001:361:4,1.00
+Microchirus,frechkopi,6.75,-12.25,7001:362:3,0.99
+Microchirus,frechkopi,7.25,-11.75,7001:371:2,1.00
+Microchirus,frechkopi,7.25,-12.25,7001:372:1,1.00
+Microchirus,frechkopi,7.25,-12.75,7001:372:2,1.00
+Microchirus,frechkopi,7.75,-12.75,7001:372:4,1.00
+Microchirus,frechkopi,7.25,-13.25,7001:373:1,1.00
+Microchirus,frechkopi,7.25,-13.75,7001:373:2,1.00
+Microchirus,frechkopi,7.75,-13.25,7001:373:3,1.00
+Microchirus,frechkopi,7.75,-13.75,7001:373:4,1.00
+Microchirus,frechkopi,7.75,-14.25,7001:374:3,1.00
+Microchirus,frechkopi,8.25,-12.75,7001:382:2,1.00
+Microchirus,frechkopi,8.25,-13.25,7001:383:1,1.00
+Microchirus,frechkopi,8.25,-13.75,7001:383:2,0.81
+Microchirus,frechkopi,8.75,-13.25,7001:383:3,1.00
+Microchirus,frechkopi,8.75,-13.75,7001:383:4,1.00
+Microchirus,frechkopi,8.25,-14.25,7001:384:1,1.00
+Microchirus,frechkopi,8.75,-14.25,7001:384:3,0.81
+Microchirus,frechkopi,8.75,-14.75,7001:384:4,1.00
+Microchirus,frechkopi,9.25,-13.75,7001:393:2,1.00
+Microchirus,frechkopi,9.75,-13.75,7001:393:4,1.00
+Microchirus,frechkopi,9.25,-14.75,7001:394:2,1.00
+Microchirus,frechkopi,9.75,-14.25,7001:394:3,1.00
+Microchirus,frechkopi,9.75,-14.75,7001:394:4,1.00
+Microchirus,frechkopi,9.25,-15.25,7001:495:1,1.00
+Microchirus,frechkopi,9.25,-15.75,7001:495:2,1.00
+Microchirus,frechkopi,9.75,-15.25,7001:495:3,1.00
+Microchirus,frechkopi,9.75,-15.75,7001:495:4,1.00
+Microchirus,frechkopi,9.75,-16.25,7001:496:3,1.00
+Microchirus,frechkopi,9.75,-16.75,7001:496:4,1.00
+Microchirus,frechkopi,10.25,-14.25,7101:104:1,1.00
+Microchirus,frechkopi,10.25,-15.75,7101:205:2,1.00
+Microchirus,frechkopi,10.75,-15.75,7101:205:4,0.87
+Microchirus,frechkopi,10.25,-16.25,7101:206:1,1.00
+Microchirus,frechkopi,10.25,-16.75,7101:206:2,1.00
+Microchirus,frechkopi,10.75,-16.75,7101:206:4,1.00
+Microchirus,frechkopi,10.75,-17.25,7101:207:3,1.00
+Microchirus,frechkopi,11.25,-15.25,7101:215:1,1.00
+Microchirus,frechkopi,11.25,-15.75,7101:215:2,1.00
+Microchirus,frechkopi,11.75,-15.25,7101:215:3,1.00
+Microchirus,frechkopi,11.75,-15.75,7101:215:4,1.00
+Microchirus,frechkopi,11.25,-16.75,7101:216:2,1.00
+Microchirus,frechkopi,11.25,-17.25,7101:217:1,1.00
+Microchirus,frechkopi,11.75,-17.25,7101:217:3,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 81)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Microchirus,frechkopi,1.25,9.25,1000:219:1,377,27.66,31.11,1690,0,27
+Microchirus,frechkopi,1.75,9.75,1000:219:4,247,27.66,31.11,1752,0,13
+Microchirus,frechkopi,2.25,9.75,1000:229:2,444,27.83,30.2,1922,0,19
+Microchirus,frechkopi,3.25,9.75,1000:239:2,61,27.89,30.2,2485,0,26
+Microchirus,frechkopi,3.75,9.25,1000:239:3,102,27.89,30.2,2174,0,27
+Microchirus,frechkopi,3.75,-5.25,7000:235:3,3912,27.71,34.68,824,0,173
+Microchirus,frechkopi,4.25,8.75,1000:248:2,110,27.89,30.54,2447,0,27
+Microchirus,frechkopi,4.25,8.25,1000:248:1,31,27.89,30.54,2107,0,83
+Microchirus,frechkopi,4.25,7.75,1000:247:2,31,27.92,30.54,1516,0,83
+Microchirus,frechkopi,4.25,6.25,1000:246:1,12,27.94,31.48,1092,0,22
+Microchirus,frechkopi,4.25,5.25,1000:245:1,385,27.95,33.63,825,0,96
+Microchirus,frechkopi,4.25,-9.25,7000:249:1,1851,28,34.74,635,0,97
+Microchirus,frechkopi,4.25,-8.25,7000:248:1,1357,27.88,34.65,894,0,83
+Microchirus,frechkopi,4.25,-7.75,7000:247:2,696,27.69,34.59,1164,0,25
+Microchirus,frechkopi,4.25,-0.25,7000:140:1,4378,27.35,34.79,765,0,148
+Microchirus,frechkopi,4.75,5.25,1000:245:3,92,27.95,33.63,1053,0,27
+Microchirus,frechkopi,4.75,-9.25,7000:249:3,349,28,34.74,756,0,51
+Microchirus,frechkopi,4.75,-8.25,7000:248:3,50,27.88,34.74,1187,0,8
+Microchirus,frechkopi,4.75,-7.25,7000:247:3,2,27.69,34.59,1035,0,2
+Microchirus,frechkopi,4.75,-6.75,7000:246:4,124,27.56,34.58,1469,0,13
+Microchirus,frechkopi,4.75,-6.25,7000:246:3,630,27.56,34.58,1598,0,23
+Microchirus,frechkopi,4.75,-5.75,7000:245:4,972,27.48,34.58,1404,0,51
+Microchirus,frechkopi,4.75,-5.25,7000:245:3,1543,27.48,34.58,1219,0,84
+Microchirus,frechkopi,4.75,-3.25,7000:143:3,1029,27.39,34.68,1077,0,84
+Microchirus,frechkopi,4.75,-2.75,7000:142:4,452,27.38,34.68,1144,0,51
+Microchirus,frechkopi,4.75,-2.25,7000:142:3,118,27.38,34.68,1309,0,22
+Microchirus,frechkopi,4.75,-1.75,7000:141:4,43,27.38,34.68,1087,0,24
+Microchirus,frechkopi,5.25,4.75,1000:354:2,316,27.89,33.25,1101,0,97
+Microchirus,frechkopi,5.25,-9.75,7000:459:2,386,27.96,34.2,931,0,27
+Microchirus,frechkopi,5.25,0.25,1000:350:1,2171,27.27,34.86,888,0,84
+Microchirus,frechkopi,5.25,-5.25,7000:455:1,26,27.51,34.58,1454,0,9
+Microchirus,frechkopi,5.25,-4.75,7000:354:2,92,27.46,34.63,1310,0,11
+Microchirus,frechkopi,5.25,-4.25,7000:354:1,292,27.46,34.63,1251,0,14
+Microchirus,frechkopi,5.25,-3.25,7000:353:1,85,27.42,34.68,1192,0,9
+Microchirus,frechkopi,5.25,-1.25,7000:351:1,27,27.27,34.68,868,0,9
+Microchirus,frechkopi,5.25,-0.25,7000:350:1,604,27.1,34.79,935,0,27
+Microchirus,frechkopi,5.25,5.25,1000:455:1,67,27.95,33.25,1553,0,24
+Microchirus,frechkopi,5.75,4.75,1000:354:4,166,27.89,33.25,1982,0,27
+Microchirus,frechkopi,5.75,1.25,1000:351:3,1177,27.45,35.09,946,0,51
+Microchirus,frechkopi,5.75,-10.25,7001:350:3,310,28.01,34.2,1069,0,27
+Microchirus,frechkopi,5.75,0.75,1000:350:4,386,27.27,35.09,1140,0,17
+Microchirus,frechkopi,6.25,1.75,1000:361:2,193,27.48,35.09,848,0,16
+Microchirus,frechkopi,6.25,-11.25,7001:361:1,1333,27.96,34.29,1498,0,84
+Microchirus,frechkopi,6.25,-10.75,7001:360:2,170,27.95,34.2,1281,0,21
+Microchirus,frechkopi,6.25,4.25,1000:364:1,194,27.83,33.25,1741,0,23
+Microchirus,frechkopi,6.25,3.75,1000:363:2,437,27.69,34.15,1542,0,26
+Microchirus,frechkopi,6.25,-13.75,7001:363:2,4513,28.06,34.22,548,0,249
+Microchirus,frechkopi,6.25,2.75,1000:362:2,373,27.58,34.77,1064,0,23
+Microchirus,frechkopi,6.25,2.25,1000:362:1,449,27.58,34.77,965,0,20
+Microchirus,frechkopi,6.75,-11.25,7001:361:3,101,27.96,33.88,1295,0,15
+Microchirus,frechkopi,6.75,-12.25,7001:362:3,2286,28.01,33.88,856,0,96
+Microchirus,frechkopi,6.75,-11.75,7001:361:4,754,27.96,33.88,1214,0,51
+Microchirus,frechkopi,7.25,-13.25,7001:373:1,1389,27.87,33.83,1020,0,129
+Microchirus,frechkopi,7.25,-12.75,7001:372:2,683,27.91,33.83,1111,0,96
+Microchirus,frechkopi,7.25,-12.25,7001:372:1,290,27.91,33.88,1234,0,21
+Microchirus,frechkopi,7.25,-11.75,7001:371:2,22,27.87,33.88,1311,0,8
+Microchirus,frechkopi,7.75,-13.75,7001:373:4,175,27.87,33.83,1188,0,133
+Microchirus,frechkopi,7.75,-13.25,7001:373:3,203,27.87,33.83,1200,0,96
+Microchirus,frechkopi,8.25,-13.25,7001:383:1,135,27.6,33.83,1006,0,23
+Microchirus,frechkopi,8.75,-16.25,7001:486:3,3649,27.54,34.86,606,0,285
+Microchirus,frechkopi,8.75,-13.75,7001:383:4,46,27.6,34.15,1024,0,96
+Microchirus,frechkopi,9.25,-17.75,7001:497:2,2960,27.05,35.06,582,0,331
+Microchirus,frechkopi,9.25,-16.25,7001:496:1,1067,27.09,34.77,775,0,248
+Microchirus,frechkopi,9.75,-16.25,7001:496:3,152,27.09,34.77,986,0,211
+Microchirus,frechkopi,9.75,-14.25,7001:394:3,79,27.24,33.75,1670,0,84
+Microchirus,frechkopi,9.75,-13.75,7001:393:4,43,27.39,33.75,1630,0,19
+Microchirus,frechkopi,10.25,-16.75,7101:206:2,224,26.58,34.7,1164,0,179
+Microchirus,frechkopi,10.25,-15.75,7101:205:2,110,26.66,34.36,1813,0,133
+Microchirus,frechkopi,10.25,-14.75,7101:104:2,15,26.89,34.36,1760,0,27
+Microchirus,frechkopi,10.75,-16.75,7101:206:4,79,26.58,34.7,1687,0,133
+Microchirus,frechkopi,10.75,-16.25,7101:206:3,8,26.58,34.7,2330,0,110
+Microchirus,frechkopi,11.25,-17.25,7101:217:1,608,26.03,35.02,1177,0,164
+Microchirus,frechkopi,11.25,-16.25,7101:216:1,4,26.05,34.66,1543,0,25
+Microchirus,frechkopi,11.75,-17.25,7101:217:3,385,26.03,35.02,1407,0,132
+Microchirus,frechkopi,11.75,-16.25,7101:216:3,6,26.05,34.66,1484,0,24
+Microchirus,frechkopi,12.25,-17.25,7101:227:1,316,25.5,35.11,1877,0,109
+Microchirus,frechkopi,14.75,-19.25,7101:249:3,3546,24.73,35.63,1433,0,242
+Microchirus,frechkopi,14.75,-17.25,7101:247:3,66,24.51,35.68,2415,0,19
+Microchirus,frechkopi,15.75,-24.25,7102:354:3,3905,24.61,36.02,884,0,109
+Microchirus,frechkopi,15.75,-21.25,7102:351:3,3952,24.3,35.83,1005,0,223
+Microchirus,frechkopi,15.75,-16.75,7101:456:4,101,23.64,35.68,2998,0,24

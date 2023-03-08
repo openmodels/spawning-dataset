@@ -1,0 +1,225 @@
+Mapping parameters for Totoaba macdonaldi (Totoaba)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,32,17,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,10,14,31,50
+Temperature (°C),1,20.65,21.99,25.81,30.01
+Salinity (psu),1,31.04,33.74,35.58,36.98
+Primary Production (mgC·m-3·day-1) ,1,0.43,1.43,13.66,20.49
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,1.42,12.57,227.1,357.15
+Distance to Land (km),0,0,2,50,71
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 169): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Totoaba,macdonaldi,26.25,-174.75,7217:364:2,0.04
+Totoaba,macdonaldi,26.25,-173.75,7217:363:2,0.19
+Totoaba,macdonaldi,26.25,-173.25,7217:363:1,0.17
+Totoaba,macdonaldi,25.75,-173.75,7217:353:4,0.06
+Totoaba,macdonaldi,25.75,-173.25,7217:353:3,0.17
+Totoaba,macdonaldi,25.25,-172.25,7217:352:1,0.17
+Totoaba,macdonaldi,25.75,-169.25,7216:459:3,0.17
+Totoaba,macdonaldi,24.25,-167.25,7216:247:1,0.14
+Totoaba,macdonaldi,23.75,-164.25,7216:134:3,0.11
+Totoaba,macdonaldi,23.25,-164.75,7216:134:2,0.03
+Totoaba,macdonaldi,23.25,-164.25,7216:134:1,0.14
+Totoaba,macdonaldi,23.25,-162.25,7216:132:1,0.12
+Totoaba,macdonaldi,23.25,-161.75,7216:131:2,0.15
+Totoaba,macdonaldi,22.75,-162.25,7216:122:3,0.07
+Totoaba,macdonaldi,22.75,-161.25,7216:121:3,0.03
+Totoaba,macdonaldi,20.75,-157.75,7215:207:4,0.11
+Totoaba,macdonaldi,25.75,-112.75,7211:352:4,0.13
+Totoaba,macdonaldi,22.75,-105.75,7210:225:4,0.18
+Totoaba,macdonaldi,21.75,-105.25,7210:215:3,0.01
+Totoaba,macdonaldi,20.75,-105.25,7210:205:3,0.10
+Totoaba,macdonaldi,17.25,-100.75,7110:370:2,0.11
+Totoaba,macdonaldi,17.25,-100.25,7110:370:1,0.17
+Totoaba,macdonaldi,26.25,-174.25,7217:364:1,0.21
+Totoaba,macdonaldi,25.75,-171.75,7217:351:4,0.26
+Totoaba,macdonaldi,25.75,-171.25,7217:351:3,0.37
+Totoaba,macdonaldi,25.25,-171.25,7217:351:1,0.30
+Totoaba,macdonaldi,25.25,-170.25,7217:350:1,0.22
+Totoaba,macdonaldi,25.25,-168.25,7216:458:1,0.34
+Totoaba,macdonaldi,25.25,-167.75,7216:457:2,0.28
+Totoaba,macdonaldi,24.75,-168.25,7216:248:3,0.26
+Totoaba,macdonaldi,24.75,-167.75,7216:247:4,0.22
+Totoaba,macdonaldi,23.75,-166.25,7216:236:3,0.20
+Totoaba,macdonaldi,23.75,-164.75,7216:134:4,0.26
+Totoaba,macdonaldi,22.75,-160.75,7216:120:4,0.24
+Totoaba,macdonaldi,21.75,-160.25,7216:110:3,0.29
+Totoaba,macdonaldi,25.75,-112.25,7211:352:3,0.35
+Totoaba,macdonaldi,25.25,-112.75,7211:352:2,0.36
+Totoaba,macdonaldi,20.25,-105.25,7210:205:1,0.37
+Totoaba,macdonaldi,18.25,-114.75,7111:384:2,0.26
+Totoaba,macdonaldi,19.25,-104.25,7110:394:1,0.35
+Totoaba,macdonaldi,18.75,-103.75,7110:383:4,0.34
+Totoaba,macdonaldi,18.25,-103.75,7110:383:2,0.37
+Totoaba,macdonaldi,18.25,-103.25,7110:383:1,0.31
+Totoaba,macdonaldi,17.25,-101.25,7110:371:1,0.25
+Totoaba,macdonaldi,25.75,-170.75,7217:350:4,0.51
+Totoaba,macdonaldi,25.25,-170.75,7217:350:2,0.41
+Totoaba,macdonaldi,22.25,-160.25,7216:120:1,0.45
+Totoaba,macdonaldi,21.75,-159.75,7215:219:4,0.43
+Totoaba,macdonaldi,21.75,-159.25,7215:219:3,0.47
+Totoaba,macdonaldi,21.25,-158.25,7215:218:1,0.50
+Totoaba,macdonaldi,21.25,-157.75,7215:217:2,0.59
+Totoaba,macdonaldi,26.75,-112.75,7211:362:4,0.56
+Totoaba,macdonaldi,25.25,-112.25,7211:352:1,0.44
+Totoaba,macdonaldi,23.75,-111.75,7211:131:4,0.44
+Totoaba,macdonaldi,27.25,-109.75,7210:479:2,0.50
+Totoaba,macdonaldi,23.25,-106.25,7210:236:1,0.47
+Totoaba,macdonaldi,22.75,-106.25,7210:226:3,0.51
+Totoaba,macdonaldi,22.25,-106.25,7210:226:1,0.50
+Totoaba,macdonaldi,21.75,-106.25,7210:216:3,0.45
+Totoaba,macdonaldi,21.25,-106.25,7210:216:1,0.58
+Totoaba,macdonaldi,20.75,-105.75,7210:205:4,0.56
+Totoaba,macdonaldi,19.75,-105.25,7110:495:3,0.53
+Totoaba,macdonaldi,19.25,-105.25,7110:495:1,0.59
+Totoaba,macdonaldi,19.25,-104.75,7110:394:2,0.55
+Totoaba,macdonaldi,18.75,-104.25,7110:384:3,0.45
+Totoaba,macdonaldi,22.25,-159.75,7215:229:2,0.67
+Totoaba,macdonaldi,22.25,-159.25,7215:229:1,0.64
+Totoaba,macdonaldi,21.75,-158.25,7215:218:3,0.70
+Totoaba,macdonaldi,21.75,-157.75,7215:217:4,0.69
+Totoaba,macdonaldi,21.25,-157.25,7215:217:1,0.73
+Totoaba,macdonaldi,21.25,-156.25,7215:216:1,0.68
+Totoaba,macdonaldi,29.25,-113.75,7211:393:2,0.79
+Totoaba,macdonaldi,28.75,-113.25,7211:383:3,0.77
+Totoaba,macdonaldi,24.75,-112.25,7211:142:3,0.62
+Totoaba,macdonaldi,23.25,-110.25,7211:130:1,0.74
+Totoaba,macdonaldi,24.25,-108.25,7210:248:1,0.64
+Totoaba,macdonaldi,23.75,-106.75,7210:236:4,0.67
+Totoaba,macdonaldi,23.25,-106.75,7210:236:2,0.72
+Totoaba,macdonaldi,21.75,-106.75,7210:216:4,0.69
+Totoaba,macdonaldi,20.25,-105.75,7210:205:2,0.65
+Totoaba,macdonaldi,19.25,-154.75,7115:394:2,0.72
+Totoaba,macdonaldi,18.75,-110.75,7111:380:4,0.75
+Totoaba,macdonaldi,31.75,-114.75,7311:114:4,0.99
+Totoaba,macdonaldi,31.75,-114.25,7311:114:3,1.00
+Totoaba,macdonaldi,31.25,-114.75,7311:114:2,1.00
+Totoaba,macdonaldi,31.25,-114.25,7311:114:1,1.00
+Totoaba,macdonaldi,31.75,-113.75,7311:113:4,1.00
+Totoaba,macdonaldi,31.25,-113.75,7311:113:2,1.00
+Totoaba,macdonaldi,31.25,-113.25,7311:113:1,1.00
+Totoaba,macdonaldi,30.75,-114.75,7311:104:4,0.99
+Totoaba,macdonaldi,30.75,-114.25,7311:104:3,1.00
+Totoaba,macdonaldi,30.25,-114.75,7311:104:2,1.00
+Totoaba,macdonaldi,30.25,-114.25,7311:104:1,1.00
+Totoaba,macdonaldi,30.75,-113.25,7311:103:3,1.00
+Totoaba,macdonaldi,30.25,-113.25,7311:103:1,1.00
+Totoaba,macdonaldi,30.75,-112.75,7311:102:4,1.00
+Totoaba,macdonaldi,30.25,-112.75,7311:102:2,1.00
+Totoaba,macdonaldi,21.25,-156.75,7215:216:2,0.87
+Totoaba,macdonaldi,20.75,-156.75,7215:206:4,0.81
+Totoaba,macdonaldi,20.75,-156.25,7215:206:3,0.88
+Totoaba,macdonaldi,20.75,-155.75,7215:205:4,0.91
+Totoaba,macdonaldi,20.25,-155.75,7215:205:2,1.00
+Totoaba,macdonaldi,20.25,-155.25,7215:205:1,1.00
+Totoaba,macdonaldi,29.75,-114.25,7211:394:3,1.00
+Totoaba,macdonaldi,29.75,-113.75,7211:393:4,1.00
+Totoaba,macdonaldi,29.75,-113.25,7211:393:3,1.00
+Totoaba,macdonaldi,29.25,-113.25,7211:393:1,1.00
+Totoaba,macdonaldi,29.75,-112.75,7211:392:4,1.00
+Totoaba,macdonaldi,29.75,-112.25,7211:392:3,1.00
+Totoaba,macdonaldi,29.25,-112.25,7211:392:1,1.00
+Totoaba,macdonaldi,28.75,-112.75,7211:382:4,1.00
+Totoaba,macdonaldi,28.75,-112.25,7211:382:3,1.00
+Totoaba,macdonaldi,28.25,-112.75,7211:382:2,1.00
+Totoaba,macdonaldi,28.25,-112.25,7211:382:1,1.00
+Totoaba,macdonaldi,28.75,-111.75,7211:381:4,1.00
+Totoaba,macdonaldi,28.25,-111.75,7211:381:2,1.00
+Totoaba,macdonaldi,28.25,-111.25,7211:381:1,1.00
+Totoaba,macdonaldi,27.75,-112.75,7211:372:4,1.00
+Totoaba,macdonaldi,27.75,-112.25,7211:372:3,1.00
+Totoaba,macdonaldi,27.25,-112.25,7211:372:1,1.00
+Totoaba,macdonaldi,27.75,-111.25,7211:371:3,1.00
+Totoaba,macdonaldi,27.25,-111.75,7211:371:2,0.91
+Totoaba,macdonaldi,27.75,-110.75,7211:370:4,1.00
+Totoaba,macdonaldi,27.25,-110.75,7211:370:2,1.00
+Totoaba,macdonaldi,27.25,-110.25,7211:370:1,1.00
+Totoaba,macdonaldi,26.25,-112.25,7211:362:1,0.93
+Totoaba,macdonaldi,26.75,-111.75,7211:361:4,1.00
+Totoaba,macdonaldi,26.75,-111.25,7211:361:3,0.83
+Totoaba,macdonaldi,26.25,-111.25,7211:361:1,0.92
+Totoaba,macdonaldi,26.75,-110.25,7211:360:3,1.00
+Totoaba,macdonaldi,25.75,-111.25,7211:351:3,1.00
+Totoaba,macdonaldi,25.75,-110.75,7211:350:4,1.00
+Totoaba,macdonaldi,25.25,-110.75,7211:350:2,1.00
+Totoaba,macdonaldi,24.75,-111.75,7211:141:4,1.00
+Totoaba,macdonaldi,24.25,-111.75,7211:141:2,1.00
+Totoaba,macdonaldi,24.25,-111.25,7211:141:1,1.00
+Totoaba,macdonaldi,24.75,-110.75,7211:140:4,1.00
+Totoaba,macdonaldi,24.75,-110.25,7211:140:3,1.00
+Totoaba,macdonaldi,24.25,-110.75,7211:140:2,1.00
+Totoaba,macdonaldi,24.25,-110.25,7211:140:1,1.00
+Totoaba,macdonaldi,23.75,-110.75,7211:130:4,1.00
+Totoaba,macdonaldi,23.75,-110.25,7211:130:3,1.00
+Totoaba,macdonaldi,22.75,-110.25,7211:120:3,0.84
+Totoaba,macdonaldi,26.75,-109.75,7210:469:4,1.00
+Totoaba,macdonaldi,26.75,-109.25,7210:469:3,1.00
+Totoaba,macdonaldi,26.25,-109.75,7210:469:2,1.00
+Totoaba,macdonaldi,26.25,-109.25,7210:469:1,1.00
+Totoaba,macdonaldi,25.75,-109.25,7210:459:3,1.00
+Totoaba,macdonaldi,25.25,-109.25,7210:459:1,1.00
+Totoaba,macdonaldi,25.25,-108.75,7210:458:2,1.00
+Totoaba,macdonaldi,25.25,-108.25,7210:458:1,1.00
+Totoaba,macdonaldi,24.25,-109.75,7210:249:2,1.00
+Totoaba,macdonaldi,24.75,-108.25,7210:248:3,1.00
+Totoaba,macdonaldi,24.75,-107.75,7210:247:4,1.00
+Totoaba,macdonaldi,24.25,-107.75,7210:247:2,0.93
+Totoaba,macdonaldi,24.25,-107.25,7210:247:1,0.84
+Totoaba,macdonaldi,23.75,-109.75,7210:239:4,1.00
+Totoaba,macdonaldi,23.75,-109.25,7210:239:3,0.98
+Totoaba,macdonaldi,23.25,-109.75,7210:239:2,1.00
+Totoaba,macdonaldi,23.25,-109.25,7210:239:1,1.00
+Totoaba,macdonaldi,23.75,-107.25,7210:237:3,0.83
+Totoaba,macdonaldi,22.75,-109.75,7210:229:4,0.93
+Totoaba,macdonaldi,19.75,-155.75,7115:495:4,1.00
+Totoaba,macdonaldi,19.75,-155.25,7115:495:3,1.00
+Totoaba,macdonaldi,19.25,-155.75,7115:495:2,1.00
+Totoaba,macdonaldi,19.25,-155.25,7115:495:1,0.98
+Totoaba,macdonaldi,18.75,-155.75,7115:485:4,0.90
+Totoaba,macdonaldi,19.75,-154.75,7115:394:4,0.96
+Totoaba,macdonaldi,19.25,-110.75,7111:390:2,0.80
+
+
+Occurrence cells used for creating environmental envelope (n = 20)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Totoaba,macdonaldi,22.25,-105.75,7210:225:2,52,27.0923366546631,27.2196292877197,31.036735534668,34.706127166748,20.4920005053282,0,212.238494873047,19
+Totoaba,macdonaldi,24.75,-107.75,7210:247:4,10,25.8108882904053,22.0319576263428,33.7369956970215,34.8588600158691,7.14283157140017,0,188.05744934082,8
+Totoaba,macdonaldi,25.75,-111.25,7211:351:3,18,24.7123718261719,24.7932224273682,34.6322250366211,34.9867935180664,1.43299996852875,0,213.007202148438,11
+Totoaba,macdonaldi,25.75,-109.25,7210:459:3,158,25.3409233093262,18.5890350341797,34.2263107299805,34.9358139038086,5.12136984616518,0,138.832717895508,16
+Totoaba,macdonaldi,26.75,-111.75,7211:361:4,219,23.7526359558105,10.0643692016602,34.5640335083008,34.5682487487793,2.86994036287069,0,81.8473052978516,12
+Totoaba,macdonaldi,27.75,-110.75,7211:370:4,371,24.4187450408936,23.1147422790527,34.5703430175781,35.0973167419434,3.4880000166595,0,219.50373840332,21
+Totoaba,macdonaldi,27.75,-111.25,7211:371:3,863,24.3409881591797,6.70659112930298,34.6355972290039,34.5374984741211,2.19299993477762,0,1.41847503185272,50
+Totoaba,macdonaldi,28.75,-113.75,7211:383:4,1,20.6540470123291,13.0911645889282,34.4422302246094,34.1739082336426,13.663150370121,0,113.786758422852,0
+Totoaba,macdonaldi,29.75,-112.25,7211:392:3,40,23.6754608154297,22.6834125518799,35.1857109069824,35.1553688049316,2.75145191699266,0,221.390502929688,2
+Totoaba,macdonaldi,29.75,-114.25,7211:394:3,111,23.0140953063965,23.0979747772217,35.5825347900391,34.9646034240723,2.6390000712126502,0,224.193786621094,11
+Totoaba,macdonaldi,30.25,-112.75,7311:102:2,65,23.4976272583008,22.0921440124512,35.3536262512207,35.1592903137207,2.48365360312164,0,220.774520874023,12
+Totoaba,macdonaldi,30.25,-114.25,7311:104:1,150,23.1766471862793,11.5544881820679,35.5820198059082,34.3804931640625,2.56799999624491,0,12.56520652771,50
+Totoaba,macdonaldi,30.25,-114.75,7311:104:2,23,21.9881324768066,18.9887447357178,35.1202201843262,34.5587959289551,12.194000184536,0,172.312622070313,6
+Totoaba,macdonaldi,30.75,-114.75,7311:104:4,19,23.560453414917,23.3671436309814,35.5888595581055,35.0299758911133,2.21600010991096,0,225.645843505859,9
+Totoaba,macdonaldi,30.75,-113.25,7311:103:3,60,23.444206237793,20.8628330230713,35.530689239502,35.1528358459473,1.90599996130913,0,227.101760864258,22
+Totoaba,macdonaldi,31.25,-113.75,7311:113:2,40,23.5154075622559,21.3659591674805,35.5578384399414,35.1491317749023,1.6969999996945302,0,227.287719726563,23
+Totoaba,macdonaldi,31.25,-114.25,7311:114:1,50,23.4326324462891,17.5291366577148,35.4700202941895,34.998363494873,1.7859999788925098,0,224.058853149414,71
+Totoaba,macdonaldi,31.25,-114.75,7311:114:2,29,23.6153163909912,23.0366115570068,35.3169136047363,35.1607093811035,1.5610000118613199,0,226.336929321289,17
+Totoaba,macdonaldi,31.75,-114.25,7311:114:3,7,23.0511150360107,22.4825668334961,35.2150192260742,34.9620323181152,5.10226329788566,0,226.672348022461,5
+Totoaba,macdonaldi,31.75,-114.75,7311:114:4,8,23.4836654663086,23.4373588562012,35.2696189880371,34.9630432128906,1.41899997834116,0,226.157974243164,10

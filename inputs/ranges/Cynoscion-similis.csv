@@ -1,0 +1,201 @@
+Mapping parameters for Cynoscion similis (Tonkin weakfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 31 |  41,
+Bounding Box (NSWE): ,12,4,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,20,24,41,60
+Temperature (°C),1,26.6,27.1,28.1,32.3
+Salinity (psu),1,28.15,31.28,35.24,39.15
+Primary Production,1,763,803,3013,5673
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,4,9,148,181.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 148): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Cynoscion,similis,6.75,-56.25,7005:466:3,0.09
+Cynoscion,similis,9.75,-79.75,7007:499:4,0.11
+Cynoscion,similis,5.75,-54.75,7005:354:4,0.25
+Cynoscion,similis,9.75,-78.75,7007:498:4,0.24
+Cynoscion,similis,9.25,-79.75,7007:499:2,0.22
+Cynoscion,similis,11.25,-61.25,7106:111:1,0.21
+Cynoscion,similis,10.25,-65.75,7106:205:2,0.20
+Cynoscion,similis,7.25,-53.25,7005:373:1,0.47
+Cynoscion,similis,10.25,-64.25,7106:104:1,0.41
+Cynoscion,similis,10.25,-64.75,7106:104:2,0.41
+Cynoscion,similis,10.75,-64.25,7106:104:3,0.41
+Cynoscion,similis,11.25,-71.25,7107:111:1,0.47
+Cynoscion,similis,11.25,-71.75,7107:111:2,0.48
+Cynoscion,similis,11.75,-71.25,7107:111:3,0.47
+Cynoscion,similis,11.75,-71.75,7107:111:4,0.48
+Cynoscion,similis,9.75,-60.75,7006:390:4,0.78
+Cynoscion,similis,9.25,-71.25,7007:391:1,0.79
+Cynoscion,similis,9.75,-71.25,7007:391:3,0.79
+Cynoscion,similis,9.25,-75.75,7007:495:2,0.69
+Cynoscion,similis,9.25,-81.75,7008:391:2,0.67
+Cynoscion,similis,11.75,-63.75,7106:113:4,0.63
+Cynoscion,similis,11.25,-70.25,7107:110:1,0.70
+Cynoscion,similis,11.25,-70.75,7107:110:2,0.70
+Cynoscion,similis,11.75,-70.25,7107:110:3,0.70
+Cynoscion,similis,11.75,-70.75,7107:110:4,0.62
+Cynoscion,similis,11.75,-72.25,7107:112:3,0.70
+Cynoscion,similis,11.75,-72.75,7107:112:4,0.70
+Cynoscion,similis,4.25,-49.75,7004:249:2,1.00
+Cynoscion,similis,4.25,-50.25,7005:140:1,1.00
+Cynoscion,similis,4.25,-50.75,7005:140:2,1.00
+Cynoscion,similis,4.75,-50.25,7005:140:3,1.00
+Cynoscion,similis,4.75,-50.75,7005:140:4,1.00
+Cynoscion,similis,4.25,-51.25,7005:141:1,1.00
+Cynoscion,similis,4.25,-51.75,7005:141:2,1.00
+Cynoscion,similis,4.75,-51.25,7005:141:3,0.82
+Cynoscion,similis,4.75,-51.75,7005:141:4,0.95
+Cynoscion,similis,4.75,-52.25,7005:142:3,1.00
+Cynoscion,similis,5.25,-50.75,7005:350:2,1.00
+Cynoscion,similis,5.25,-51.25,7005:351:1,1.00
+Cynoscion,similis,5.25,-51.75,7005:351:2,1.00
+Cynoscion,similis,5.75,-51.25,7005:351:3,1.00
+Cynoscion,similis,5.75,-51.75,7005:351:4,1.00
+Cynoscion,similis,5.25,-52.25,7005:352:1,1.00
+Cynoscion,similis,5.25,-52.75,7005:352:2,1.00
+Cynoscion,similis,5.75,-52.25,7005:352:3,1.00
+Cynoscion,similis,5.75,-52.75,7005:352:4,1.00
+Cynoscion,similis,5.25,-53.25,7005:353:1,1.00
+Cynoscion,similis,5.75,-53.25,7005:353:3,1.00
+Cynoscion,similis,5.75,-53.75,7005:353:4,1.00
+Cynoscion,similis,6.25,-51.75,7005:361:2,1.00
+Cynoscion,similis,6.25,-52.25,7005:362:1,1.00
+Cynoscion,similis,6.75,-52.25,7005:362:3,1.00
+Cynoscion,similis,6.75,-52.75,7005:362:4,1.00
+Cynoscion,similis,6.25,-53.25,7005:363:1,1.00
+Cynoscion,similis,6.25,-53.75,7005:363:2,1.00
+Cynoscion,similis,6.75,-53.25,7005:363:3,1.00
+Cynoscion,similis,6.75,-53.75,7005:363:4,1.00
+Cynoscion,similis,6.25,-54.25,7005:364:1,1.00
+Cynoscion,similis,6.25,-54.75,7005:364:2,1.00
+Cynoscion,similis,6.75,-54.25,7005:364:3,1.00
+Cynoscion,similis,6.75,-54.75,7005:364:4,1.00
+Cynoscion,similis,7.25,-53.75,7005:373:2,1.00
+Cynoscion,similis,7.25,-54.25,7005:374:1,1.00
+Cynoscion,similis,7.25,-54.75,7005:374:2,1.00
+Cynoscion,similis,6.25,-55.25,7005:465:1,1.00
+Cynoscion,similis,6.25,-55.75,7005:465:2,1.00
+Cynoscion,similis,6.25,-56.25,7005:466:1,1.00
+Cynoscion,similis,6.25,-56.75,7005:466:2,1.00
+Cynoscion,similis,6.75,-56.75,7005:466:4,1.00
+Cynoscion,similis,6.25,-57.25,7005:467:1,1.00
+Cynoscion,similis,6.25,-57.75,7005:467:2,1.00
+Cynoscion,similis,6.75,-57.25,7005:467:3,1.00
+Cynoscion,similis,6.75,-57.75,7005:467:4,1.00
+Cynoscion,similis,6.75,-58.25,7005:468:3,1.00
+Cynoscion,similis,7.25,-57.75,7005:477:2,1.00
+Cynoscion,similis,7.25,-58.25,7005:478:1,1.00
+Cynoscion,similis,7.75,-58.25,7005:478:3,1.00
+Cynoscion,similis,7.75,-58.75,7005:478:4,1.00
+Cynoscion,similis,8.25,-58.75,7005:488:2,1.00
+Cynoscion,similis,8.75,-58.75,7005:488:4,1.00
+Cynoscion,similis,8.25,-59.25,7005:489:1,1.00
+Cynoscion,similis,8.25,-59.75,7005:489:2,1.00
+Cynoscion,similis,8.75,-59.25,7005:489:3,1.00
+Cynoscion,similis,8.75,-59.75,7005:489:4,0.88
+Cynoscion,similis,9.25,-59.75,7005:499:2,1.00
+Cynoscion,similis,8.75,-60.25,7006:380:3,1.00
+Cynoscion,similis,8.75,-60.75,7006:380:4,1.00
+Cynoscion,similis,9.25,-60.25,7006:390:1,0.91
+Cynoscion,similis,9.25,-60.75,7006:390:2,0.89
+Cynoscion,similis,9.75,-60.25,7006:390:3,1.00
+Cynoscion,similis,9.75,-61.25,7006:391:3,1.00
+Cynoscion,similis,9.75,-61.75,7006:391:4,1.00
+Cynoscion,similis,9.25,-71.75,7007:391:2,0.80
+Cynoscion,similis,9.75,-71.75,7007:391:4,0.80
+Cynoscion,similis,9.75,-72.25,7007:392:3,1.00
+Cynoscion,similis,7.75,-76.75,7007:476:4,1.00
+Cynoscion,similis,8.25,-76.75,7007:486:2,0.95
+Cynoscion,similis,8.75,-76.25,7007:486:3,0.95
+Cynoscion,similis,8.75,-76.75,7007:486:4,0.95
+Cynoscion,similis,8.25,-77.25,7007:487:1,0.93
+Cynoscion,similis,8.75,-77.25,7007:487:3,0.93
+Cynoscion,similis,8.75,-77.75,7007:487:4,0.84
+Cynoscion,similis,9.75,-75.75,7007:495:4,0.92
+Cynoscion,similis,9.25,-76.25,7007:496:1,0.95
+Cynoscion,similis,9.75,-76.25,7007:496:3,0.95
+Cynoscion,similis,9.25,-79.25,7007:499:1,0.87
+Cynoscion,similis,9.75,-79.25,7007:499:3,0.87
+Cynoscion,similis,9.75,-82.25,7008:392:3,0.83
+Cynoscion,similis,10.25,-60.25,7106:100:1,1.00
+Cynoscion,similis,10.25,-60.75,7106:100:2,1.00
+Cynoscion,similis,10.75,-60.25,7106:100:3,1.00
+Cynoscion,similis,10.75,-60.75,7106:100:4,1.00
+Cynoscion,similis,10.25,-61.25,7106:101:1,1.00
+Cynoscion,similis,10.25,-61.75,7106:101:2,0.89
+Cynoscion,similis,10.75,-61.25,7106:101:3,1.00
+Cynoscion,similis,10.75,-61.75,7106:101:4,1.00
+Cynoscion,similis,10.25,-62.25,7106:102:1,1.00
+Cynoscion,similis,10.25,-62.75,7106:102:2,1.00
+Cynoscion,similis,10.75,-62.25,7106:102:3,1.00
+Cynoscion,similis,10.75,-62.75,7106:102:4,1.00
+Cynoscion,similis,10.75,-63.25,7106:103:3,0.84
+Cynoscion,similis,10.75,-63.75,7106:103:4,0.84
+Cynoscion,similis,11.25,-60.25,7106:110:1,1.00
+Cynoscion,similis,11.25,-60.75,7106:110:2,1.00
+Cynoscion,similis,11.75,-61.75,7106:111:4,1.00
+Cynoscion,similis,11.25,-62.75,7106:112:2,1.00
+Cynoscion,similis,11.25,-63.25,7106:113:1,1.00
+Cynoscion,similis,11.25,-63.75,7106:113:2,1.00
+Cynoscion,similis,11.75,-63.25,7106:113:3,1.00
+Cynoscion,similis,11.25,-64.25,7106:114:1,0.82
+Cynoscion,similis,11.25,-64.75,7106:114:2,0.82
+Cynoscion,similis,11.75,-64.25,7106:114:3,0.82
+Cynoscion,similis,11.75,-64.75,7106:114:4,0.82
+Cynoscion,similis,11.25,-68.75,7106:218:2,0.85
+Cynoscion,similis,11.75,-69.75,7106:219:4,0.82
+Cynoscion,similis,10.25,-71.75,7107:101:2,0.80
+Cynoscion,similis,10.75,-71.75,7107:101:4,0.80
+Cynoscion,similis,10.75,-74.25,7107:104:3,1.00
+Cynoscion,similis,11.25,-73.25,7107:113:1,0.84
+Cynoscion,similis,11.25,-73.75,7107:113:2,0.98
+Cynoscion,similis,11.25,-74.25,7107:114:1,1.00
+Cynoscion,similis,11.25,-74.75,7107:114:2,1.00
+Cynoscion,similis,10.25,-75.75,7107:205:2,0.90
+Cynoscion,similis,10.75,-75.25,7107:205:3,0.94
+Cynoscion,similis,11.25,-75.25,7107:215:1,0.94
+Cynoscion,similis,10.25,-83.25,7108:103:1,0.81
+Cynoscion,similis,10.75,-83.75,7108:103:4,0.85
+Cynoscion,similis,11.25,-83.75,7108:113:2,0.84
+
+
+Occurrence cells used for creating environmental envelope (n = 17)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Cynoscion,similis,4.25,-51.25,7005:141:1,6,27.87,32.66,2865,0,19
+Cynoscion,similis,4.25,-50.75,7005:140:2,55,27.86,32.66,3007,0,96
+Cynoscion,similis,4.25,-50.25,7005:140:1,117,27.86,32.66,1787,0,148
+Cynoscion,similis,4.75,-51.75,7005:141:4,49,27.87,32.27,3145,0,26
+Cynoscion,similis,5.25,-52.75,7005:352:2,17,27.63,31.28,2490,0,12
+Cynoscion,similis,5.75,-52.75,7005:352:4,54,27.63,31.28,2376,0,84
+Cynoscion,similis,6.25,-55.25,7005:465:1,37,27.33,34.31,1462,0,27
+Cynoscion,similis,6.75,-57.75,7005:467:4,5,27.32,35.02,1664,0,22
+Cynoscion,similis,7.25,-58.25,7005:478:1,29,27.54,35.02,1269,0,26
+Cynoscion,similis,7.25,-54.25,7005:374:1,158,27.57,33.9,993,0,179
+Cynoscion,similis,8.75,-60.25,7006:380:3,10,27.65,31.87,3013,0,21
+Cynoscion,similis,9.75,-75.75,7007:495:4,32,28.42,35.24,803,0,23
+Cynoscion,similis,10.25,-65.25,7106:205:1,73,26.73,36.11,763,0,20
+Cynoscion,similis,10.25,-61.25,7106:101:1,15,27.46,33.33,2801,0,9
+Cynoscion,similis,10.75,-74.25,7107:104:3,12,27.7,35.22,910,0,4
+Cynoscion,similis,10.75,-61.75,7106:101:4,73,27.46,34.2,2837,0,26
+Cynoscion,similis,11.25,-60.75,7106:110:2,137,27.64,34.13,1216,0,26

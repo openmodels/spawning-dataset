@@ -1,0 +1,127 @@
+Mapping parameters for Diplodus argenteus argenteus (South American silver porgy)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 31 |  41,
+Bounding Box (NSWE): ,-20,-35,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,0,15,15
+Temperature (°C),1,16.84,17.34,25.52,29.72
+Salinity (psu),1,31.57,32.27,37.07,37.57
+Primary Production,1,154,155,2418,2870
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,1,5,104,204.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 73): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Diplodus,argenteus argenteus,-34.25,-53.75,5305:143:2,0.56
+Diplodus,argenteus argenteus,-20.75,-29.75,5202:209:4,1.00
+Diplodus,argenteus argenteus,-20.25,-30.75,5203:100:2,0.98
+Diplodus,argenteus argenteus,-20.75,-34.75,5203:104:4,0.92
+Diplodus,argenteus argenteus,-20.25,-36.25,5203:206:1,0.91
+Diplodus,argenteus argenteus,-20.25,-36.75,5203:206:2,0.91
+Diplodus,argenteus argenteus,-20.75,-37.25,5203:207:3,0.93
+Diplodus,argenteus argenteus,-20.75,-37.75,5203:207:4,0.93
+Diplodus,argenteus argenteus,-20.25,-39.75,5203:209:2,1.00
+Diplodus,argenteus argenteus,-20.25,-40.25,5204:100:1,1.00
+Diplodus,argenteus argenteus,-20.75,-40.25,5204:100:3,1.00
+Diplodus,argenteus argenteus,-20.75,-40.75,5204:100:4,1.00
+Diplodus,argenteus argenteus,-21.25,-40.25,5204:110:1,1.00
+Diplodus,argenteus argenteus,-21.25,-40.75,5204:110:2,1.00
+Diplodus,argenteus argenteus,-21.75,-40.25,5204:110:3,1.00
+Diplodus,argenteus argenteus,-21.75,-40.75,5204:110:4,1.00
+Diplodus,argenteus argenteus,-21.25,-41.25,5204:111:1,1.00
+Diplodus,argenteus argenteus,-21.75,-41.25,5204:111:3,1.00
+Diplodus,argenteus argenteus,-22.25,-40.25,5204:120:1,1.00
+Diplodus,argenteus argenteus,-22.25,-40.75,5204:120:2,1.00
+Diplodus,argenteus argenteus,-22.25,-41.25,5204:121:1,1.00
+Diplodus,argenteus argenteus,-22.25,-41.75,5204:121:2,1.00
+Diplodus,argenteus argenteus,-22.75,-41.75,5204:121:4,1.00
+Diplodus,argenteus argenteus,-22.75,-42.25,5204:122:3,1.00
+Diplodus,argenteus argenteus,-22.75,-42.75,5204:122:4,1.00
+Diplodus,argenteus argenteus,-22.75,-43.25,5204:123:3,1.00
+Diplodus,argenteus argenteus,-22.75,-43.75,5204:123:4,1.00
+Diplodus,argenteus argenteus,-22.75,-44.25,5204:124:3,1.00
+Diplodus,argenteus argenteus,-23.25,-43.25,5204:133:1,1.00
+Diplodus,argenteus argenteus,-23.25,-43.75,5204:133:2,1.00
+Diplodus,argenteus argenteus,-23.25,-44.25,5204:134:1,1.00
+Diplodus,argenteus argenteus,-23.25,-44.75,5204:134:2,1.00
+Diplodus,argenteus argenteus,-23.75,-44.75,5204:134:4,1.00
+Diplodus,argenteus argenteus,-23.25,-45.25,5204:235:1,1.00
+Diplodus,argenteus argenteus,-23.75,-45.25,5204:235:3,1.00
+Diplodus,argenteus argenteus,-23.75,-45.75,5204:235:4,1.00
+Diplodus,argenteus argenteus,-23.75,-46.25,5204:236:3,1.00
+Diplodus,argenteus argenteus,-24.25,-45.75,5204:245:2,1.00
+Diplodus,argenteus argenteus,-24.25,-46.25,5204:246:1,1.00
+Diplodus,argenteus argenteus,-24.25,-46.75,5204:246:2,1.00
+Diplodus,argenteus argenteus,-24.25,-47.25,5204:247:1,1.00
+Diplodus,argenteus argenteus,-24.75,-47.25,5204:247:3,1.00
+Diplodus,argenteus argenteus,-24.75,-47.75,5204:247:4,1.00
+Diplodus,argenteus argenteus,-25.75,-45.75,5204:455:4,1.00
+Diplodus,argenteus argenteus,-25.25,-47.75,5204:457:2,1.00
+Diplodus,argenteus argenteus,-25.25,-48.25,5204:458:1,1.00
+Diplodus,argenteus argenteus,-25.25,-48.75,5204:458:2,1.00
+Diplodus,argenteus argenteus,-25.75,-48.25,5204:458:3,1.00
+Diplodus,argenteus argenteus,-25.75,-48.75,5204:458:4,1.00
+Diplodus,argenteus argenteus,-26.25,-48.25,5204:468:1,1.00
+Diplodus,argenteus argenteus,-26.25,-48.75,5204:468:2,1.00
+Diplodus,argenteus argenteus,-26.75,-48.25,5204:468:3,1.00
+Diplodus,argenteus argenteus,-26.75,-48.75,5204:468:4,1.00
+Diplodus,argenteus argenteus,-27.25,-48.25,5204:478:1,1.00
+Diplodus,argenteus argenteus,-27.25,-48.75,5204:478:2,1.00
+Diplodus,argenteus argenteus,-27.75,-48.25,5204:478:3,1.00
+Diplodus,argenteus argenteus,-27.75,-48.75,5204:478:4,1.00
+Diplodus,argenteus argenteus,-28.25,-48.75,5204:488:2,1.00
+Diplodus,argenteus argenteus,-28.75,-48.75,5204:488:4,1.00
+Diplodus,argenteus argenteus,-28.75,-49.25,5204:489:3,1.00
+Diplodus,argenteus argenteus,-29.25,-49.25,5204:499:1,1.00
+Diplodus,argenteus argenteus,-29.25,-49.75,5204:499:2,1.00
+Diplodus,argenteus argenteus,-29.75,-49.75,5204:499:4,1.00
+Diplodus,argenteus argenteus,-29.75,-50.25,5205:390:3,1.00
+Diplodus,argenteus argenteus,-30.25,-49.75,5304:209:2,1.00
+Diplodus,argenteus argenteus,-30.25,-50.25,5305:100:1,1.00
+Diplodus,argenteus argenteus,-30.25,-50.75,5305:100:2,1.00
+Diplodus,argenteus argenteus,-30.75,-50.25,5305:100:3,1.00
+Diplodus,argenteus argenteus,-33.75,-53.75,5305:133:4,1.00
+Diplodus,argenteus argenteus,-34.25,-51.75,5305:141:2,1.00
+Diplodus,argenteus argenteus,-34.25,-53.25,5305:143:1,1.00
+Diplodus,argenteus argenteus,-34.75,-53.25,5305:143:3,1.00
+Diplodus,argenteus argenteus,-34.75,-53.75,5305:143:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 18)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Diplodus,argenteus argenteus,-34.75,-54.75,5305:144:4,17,17.34,31.57,2418,0,7
+Diplodus,argenteus argenteus,-34.75,-54.25,5305:144:3,28,17.34,32.27,2870,0,16
+Diplodus,argenteus argenteus,-27.75,-48.75,5204:478:4,15,22.57,35.66,1261,0,6
+Diplodus,argenteus argenteus,-27.75,-48.25,5204:478:3,50,22.57,35.66,1389,0,24
+Diplodus,argenteus argenteus,-27.25,-48.25,5204:478:1,39,22.57,35.66,1293,0,24
+Diplodus,argenteus argenteus,-24.75,-46.25,5204:246:3,69,23.16,35.81,916,0,97
+Diplodus,argenteus argenteus,-24.25,-46.25,5204:246:1,38,23.16,35.81,1163,0,50
+Diplodus,argenteus argenteus,-23.75,-46.25,5204:236:3,43,23.25,35.81,648,0,5
+Diplodus,argenteus argenteus,-23.25,-45.25,5204:235:1,4,23.35,35.81,528,0,1
+Diplodus,argenteus argenteus,-23.25,-44.25,5204:134:1,45,23.59,35.9,863,0,25
+Diplodus,argenteus argenteus,-23.25,-43.25,5204:133:1,74,23.94,35.9,842,0,86
+Diplodus,argenteus argenteus,-23.25,-42.25,5204:132:1,117,24.26,36.2,600,0,86
+Diplodus,argenteus argenteus,-22.75,-43.25,5204:123:3,8,24.01,35.9,1235,0,8
+Diplodus,argenteus argenteus,-22.75,-42.25,5204:122:3,40,24.41,36.2,775,0,5
+Diplodus,argenteus argenteus,-20.75,-29.25,5202:209:3,3991,25.52,37.07,155,0,104
+Diplodus,argenteus argenteus,-20.75,-40.25,5204:100:3,86,25.03,36.83,594,0,25
+Diplodus,argenteus argenteus,-20.25,-40.25,5204:100:1,24,25.03,36.83,615,0,14
+Diplodus,argenteus argenteus,-20.25,-29.25,5202:209:1,4250,25.52,37.07,155,0,128

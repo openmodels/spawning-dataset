@@ -1,0 +1,137 @@
+Mapping parameters for Gymnammodytes capensis (Cape sandlance)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 34 |  47 |  51,
+Bounding Box (NSWE): ,-22,-36,17,36
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,59,63,80,100
+Temperature (°C),1,7.76,17.06,24.73,25.23
+Salinity (psu),1,34.66,35.16,35.47,35.97
+Primary Production,1,502,1175,2409,2718
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,5,8,49,88
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 88): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Gymnammodytes,capensis,-25.25,33.25,3203:353:1,0.13
+Gymnammodytes,capensis,-25.25,33.75,3203:353:2,0.09
+Gymnammodytes,capensis,-25.75,33.25,3203:353:3,0.08
+Gymnammodytes,capensis,-25.25,34.25,3203:354:1,0.05
+Gymnammodytes,capensis,-25.25,34.75,3203:354:2,0.05
+Gymnammodytes,capensis,-25.75,34.75,3203:354:4,0.04
+Gymnammodytes,capensis,-26.25,33.25,3203:363:1,0.16
+Gymnammodytes,capensis,-26.75,33.25,3203:363:3,0.06
+Gymnammodytes,capensis,-27.75,32.75,3203:372:4,0.19
+Gymnammodytes,capensis,-28.75,31.75,3203:381:4,0.14
+Gymnammodytes,capensis,-28.25,32.75,3203:382:2,0.16
+Gymnammodytes,capensis,-34.25,26.75,3302:246:2,0.02
+Gymnammodytes,capensis,-26.75,32.75,3203:362:4,0.22
+Gymnammodytes,capensis,-27.25,32.75,3203:372:2,0.22
+Gymnammodytes,capensis,-28.25,32.25,3203:382:1,0.23
+Gymnammodytes,capensis,-28.75,32.25,3203:382:3,0.38
+Gymnammodytes,capensis,-33.75,27.75,3302:237:4,0.34
+Gymnammodytes,capensis,-29.75,31.25,3203:391:3,0.55
+Gymnammodytes,capensis,-35.25,19.75,3301:459:2,0.40
+Gymnammodytes,capensis,-34.75,22.75,3302:142:4,0.45
+Gymnammodytes,capensis,-31.75,29.75,3302:219:4,0.48
+Gymnammodytes,capensis,-32.25,29.25,3302:229:1,0.48
+Gymnammodytes,capensis,-35.75,20.75,3302:350:4,0.47
+Gymnammodytes,capensis,-35.75,21.25,3302:351:3,0.47
+Gymnammodytes,capensis,-30.75,30.75,3303:100:4,0.47
+Gymnammodytes,capensis,-30.25,31.25,3303:101:1,0.50
+Gymnammodytes,capensis,-31.25,30.25,3303:110:1,0.48
+Gymnammodytes,capensis,-25.75,32.75,3203:352:4,0.70
+Gymnammodytes,capensis,-32.25,18.25,3301:228:1,0.70
+Gymnammodytes,capensis,-32.75,18.25,3301:228:3,0.70
+Gymnammodytes,capensis,-33.75,18.25,3301:238:3,0.64
+Gymnammodytes,capensis,-31.25,29.75,3302:219:2,0.64
+Gymnammodytes,capensis,-32.75,28.75,3302:228:4,0.60
+Gymnammodytes,capensis,-33.75,27.25,3302:237:3,0.67
+Gymnammodytes,capensis,-35.25,20.25,3302:350:1,0.63
+Gymnammodytes,capensis,-35.75,21.75,3302:351:4,0.68
+Gymnammodytes,capensis,-35.75,22.25,3302:352:3,0.71
+Gymnammodytes,capensis,-30.25,30.75,3303:100:2,0.70
+Gymnammodytes,capensis,-30.75,30.25,3303:100:3,0.60
+Gymnammodytes,capensis,-26.25,32.75,3203:362:2,1.00
+Gymnammodytes,capensis,-29.25,31.75,3203:391:2,1.00
+Gymnammodytes,capensis,-29.75,31.75,3203:391:4,1.00
+Gymnammodytes,capensis,-29.25,32.25,3203:392:1,1.00
+Gymnammodytes,capensis,-33.25,17.75,3301:237:2,1.00
+Gymnammodytes,capensis,-33.25,18.25,3301:238:1,1.00
+Gymnammodytes,capensis,-34.25,18.25,3301:248:1,1.00
+Gymnammodytes,capensis,-34.25,18.75,3301:248:2,1.00
+Gymnammodytes,capensis,-34.25,19.25,3301:249:1,1.00
+Gymnammodytes,capensis,-34.75,19.25,3301:249:3,1.00
+Gymnammodytes,capensis,-34.75,19.75,3301:249:4,1.00
+Gymnammodytes,capensis,-33.75,23.75,3302:133:4,1.00
+Gymnammodytes,capensis,-33.75,24.75,3302:134:4,1.00
+Gymnammodytes,capensis,-34.25,20.25,3302:140:1,1.00
+Gymnammodytes,capensis,-34.25,20.75,3302:140:2,1.00
+Gymnammodytes,capensis,-34.75,20.25,3302:140:3,1.00
+Gymnammodytes,capensis,-34.75,20.75,3302:140:4,0.96
+Gymnammodytes,capensis,-34.25,21.25,3302:141:1,1.00
+Gymnammodytes,capensis,-34.25,21.75,3302:141:2,1.00
+Gymnammodytes,capensis,-34.75,21.25,3302:141:3,0.89
+Gymnammodytes,capensis,-34.75,21.75,3302:141:4,1.00
+Gymnammodytes,capensis,-34.25,22.25,3302:142:1,1.00
+Gymnammodytes,capensis,-34.25,22.75,3302:142:2,1.00
+Gymnammodytes,capensis,-34.75,22.25,3302:142:3,1.00
+Gymnammodytes,capensis,-34.25,23.25,3302:143:1,1.00
+Gymnammodytes,capensis,-34.25,23.75,3302:143:2,1.00
+Gymnammodytes,capensis,-34.75,23.25,3302:143:3,1.00
+Gymnammodytes,capensis,-34.75,23.75,3302:143:4,1.00
+Gymnammodytes,capensis,-34.25,24.25,3302:144:1,1.00
+Gymnammodytes,capensis,-34.25,24.75,3302:144:2,1.00
+Gymnammodytes,capensis,-34.75,24.75,3302:144:4,0.87
+Gymnammodytes,capensis,-31.75,29.25,3302:219:3,1.00
+Gymnammodytes,capensis,-32.25,28.75,3302:228:2,1.00
+Gymnammodytes,capensis,-32.75,28.25,3302:228:3,1.00
+Gymnammodytes,capensis,-33.75,25.25,3302:235:3,1.00
+Gymnammodytes,capensis,-33.75,25.75,3302:235:4,1.00
+Gymnammodytes,capensis,-33.75,26.25,3302:236:3,1.00
+Gymnammodytes,capensis,-33.75,26.75,3302:236:4,1.00
+Gymnammodytes,capensis,-33.25,27.25,3302:237:1,1.00
+Gymnammodytes,capensis,-33.25,27.75,3302:237:2,1.00
+Gymnammodytes,capensis,-33.25,28.25,3302:238:1,1.00
+Gymnammodytes,capensis,-34.25,25.25,3302:245:1,1.00
+Gymnammodytes,capensis,-34.25,25.75,3302:245:2,1.00
+Gymnammodytes,capensis,-34.25,26.25,3302:246:1,1.00
+Gymnammodytes,capensis,-35.25,20.75,3302:350:2,0.90
+Gymnammodytes,capensis,-35.25,21.25,3302:351:1,1.00
+Gymnammodytes,capensis,-35.25,21.75,3302:351:2,1.00
+Gymnammodytes,capensis,-35.25,22.25,3302:352:1,1.00
+Gymnammodytes,capensis,-35.25,22.75,3302:352:2,0.99
+
+
+Occurrence cells used for creating environmental envelope (n = 13)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Gymnammodytes,capensis,-34.75,20.25,3302:140:3,52,18.01,35.34,1362,0,17
+Gymnammodytes,capensis,-34.25,25.75,3302:245:2,187,21.31,35.36,1333,0,88
+Gymnammodytes,capensis,-34.25,23.75,3302:143:2,138,20.11,35.38,1538,0,49
+Gymnammodytes,capensis,-34.25,23.25,3302:143:1,114,20.11,35.38,1739,0,22
+Gymnammodytes,capensis,-34.25,18.75,3301:248:2,66,17.47,35.47,2409,0,18
+Gymnammodytes,capensis,-34.25,18.25,3301:248:1,202,17.47,35.47,1887,0,21
+Gymnammodytes,capensis,-33.75,26.75,3302:236:4,66,21.88,35.38,1596,0,17
+Gymnammodytes,capensis,-33.75,18.25,3301:238:3,96,17.06,35.4,2521,0,21
+Gymnammodytes,capensis,-32.25,18.25,3301:228:1,84,16.82,35.02,1891,0,17
+Gymnammodytes,capensis,-29.25,31.75,3203:391:2,74,23.94,35.34,1236,0,22
+Gymnammodytes,capensis,-26.75,32.75,3203:362:4,73,24.73,35.16,651,0,5
+Gymnammodytes,capensis,-26.25,32.75,3203:362:2,15,24.73,35.16,1491,0,8
+Gymnammodytes,capensis,-25.75,32.75,3203:352:4,23,24.88,35.16,1175,0,14

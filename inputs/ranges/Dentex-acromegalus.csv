@@ -1,0 +1,55 @@
+Mapping parameters for Virididentex acromegalus (Bulldog dentex)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 34,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,40,42,51,60
+Temperature (°C),1,23.05,23.78,24.78,25.29
+Salinity (psu),1,35.4,35.9,36.11,36.61
+Primary Production,1,586,682,935.6,1046
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,16,21.4,26,32
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 14): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Virididentex,acromegalus,16.75,-24.75,7102:364:4,0.27
+Virididentex,acromegalus,16.75,-24.25,7102:364:3,0.52
+Virididentex,acromegalus,14.75,-24.25,7102:144:3,0.63
+Virididentex,acromegalus,14.75,-24.75,7102:144:4,0.63
+Virididentex,acromegalus,14.75,-23.25,7102:143:3,0.85
+Virididentex,acromegalus,14.75,-23.75,7102:143:4,0.85
+Virididentex,acromegalus,15.75,-22.75,7102:352:4,0.96
+Virididentex,acromegalus,15.25,-23.25,7102:353:1,1.00
+Virididentex,acromegalus,15.25,-23.75,7102:353:2,1.00
+Virididentex,acromegalus,15.75,-23.25,7102:353:3,1.00
+Virididentex,acromegalus,15.25,-24.25,7102:354:1,1.00
+Virididentex,acromegalus,16.25,-22.75,7102:362:2,0.87
+Virididentex,acromegalus,16.75,-22.75,7102:362:4,1.00
+Virididentex,acromegalus,16.75,-23.75,7102:363:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 5)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Virididentex,acromegalus,14.75,-23.75,7102:143:4,3306,24.82,35.86,856,0,26
+Virididentex,acromegalus,15.25,-23.75,7102:353:2,1760,24.45,35.95,914,0,21
+Virididentex,acromegalus,16.25,-22.75,7102:362:2,765,23.89,36,950,0,22
+Virididentex,acromegalus,16.75,-25.25,7102:465:3,2301,24.35,36.18,586,0,26
+Virididentex,acromegalus,16.75,-22.75,7102:362:4,1538,23.89,36,826,0,26

@@ -1,0 +1,131 @@
+Mapping parameters for Gaidropsarus capensis (Cape rockling)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 47,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,12.21,17.47,21.88,27.68
+Salinity (psu),1,34.86,35.36,35.4,35.9
+Primary Production,1,777,1333,1887,2521
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,2,10,49,88
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 83): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Gaidropsarus,capensis,-10.25,13.25,3101:103:1,0.17
+Gaidropsarus,capensis,-10.25,13.75,3101:103:2,0.14
+Gaidropsarus,capensis,-10.75,13.75,3101:103:4,0.17
+Gaidropsarus,capensis,-15.75,11.75,3101:351:4,0.07
+Gaidropsarus,capensis,-15.25,12.25,3101:352:1,0.19
+Gaidropsarus,capensis,-15.75,12.25,3101:352:3,0.15
+Gaidropsarus,capensis,-16.25,11.75,3101:361:2,0.03
+Gaidropsarus,capensis,-16.75,11.75,3101:361:4,0.12
+Gaidropsarus,capensis,-18.25,11.75,3101:381:2,0.04
+Gaidropsarus,capensis,-22.25,14.25,3201:124:1,0.01
+Gaidropsarus,capensis,-26.75,15.25,3201:465:3,0.09
+Gaidropsarus,capensis,-27.25,15.25,3201:475:1,0.04
+Gaidropsarus,capensis,-27.75,15.75,3201:475:4,0.05
+Gaidropsarus,capensis,-29.75,15.25,3201:495:3,0.05
+Gaidropsarus,capensis,-34.25,18.75,3301:248:2,0.15
+Gaidropsarus,capensis,-31.75,29.75,3302:219:4,0.06
+Gaidropsarus,capensis,-32.25,29.25,3302:229:1,0.07
+Gaidropsarus,capensis,-35.75,21.25,3302:351:3,0.07
+Gaidropsarus,capensis,-35.25,22.25,3302:352:1,0.03
+Gaidropsarus,capensis,-36.25,21.75,3302:361:2,0.15
+Gaidropsarus,capensis,-11.25,13.75,3101:113:2,0.36
+Gaidropsarus,capensis,-11.75,13.75,3101:113:4,0.36
+Gaidropsarus,capensis,-13.75,12.25,3101:132:3,0.26
+Gaidropsarus,capensis,-14.25,12.25,3101:142:1,0.25
+Gaidropsarus,capensis,-14.75,12.25,3101:142:3,0.23
+Gaidropsarus,capensis,-18.75,12.25,3101:382:3,0.32
+Gaidropsarus,capensis,-19.75,12.25,3101:392:3,0.25
+Gaidropsarus,capensis,-32.25,18.25,3301:228:1,0.28
+Gaidropsarus,capensis,-32.75,18.25,3301:228:3,0.28
+Gaidropsarus,capensis,-33.75,23.25,3302:133:3,0.20
+Gaidropsarus,capensis,-31.25,29.75,3302:219:2,0.20
+Gaidropsarus,capensis,-32.75,28.75,3302:228:4,0.20
+Gaidropsarus,capensis,-33.75,27.25,3302:237:3,0.31
+Gaidropsarus,capensis,-35.25,20.25,3302:350:1,0.24
+Gaidropsarus,capensis,-35.25,21.25,3302:351:1,0.39
+Gaidropsarus,capensis,-12.75,12.75,3101:122:4,0.51
+Gaidropsarus,capensis,-12.25,13.25,3101:123:1,0.45
+Gaidropsarus,capensis,-12.25,13.75,3101:123:2,0.45
+Gaidropsarus,capensis,-12.75,13.25,3101:123:3,0.45
+Gaidropsarus,capensis,-13.25,12.75,3101:132:2,0.44
+Gaidropsarus,capensis,-13.75,12.75,3101:132:4,0.43
+Gaidropsarus,capensis,-28.25,14.75,3201:384:2,0.51
+Gaidropsarus,capensis,-33.25,17.75,3301:237:2,0.46
+Gaidropsarus,capensis,-34.25,19.25,3301:249:1,0.47
+Gaidropsarus,capensis,-33.75,22.75,3302:132:4,0.40
+Gaidropsarus,capensis,-34.75,21.25,3302:141:3,0.59
+Gaidropsarus,capensis,-35.25,20.75,3302:350:2,0.57
+Gaidropsarus,capensis,-34.75,20.75,3302:140:4,0.64
+Gaidropsarus,capensis,-31.75,29.25,3302:219:3,0.72
+Gaidropsarus,capensis,-33.25,18.25,3301:238:1,0.80
+Gaidropsarus,capensis,-33.75,18.75,3301:238:4,0.89
+Gaidropsarus,capensis,-34.25,18.25,3301:248:1,0.86
+Gaidropsarus,capensis,-34.75,19.25,3301:249:3,0.90
+Gaidropsarus,capensis,-34.75,19.75,3301:249:4,0.90
+Gaidropsarus,capensis,-33.75,23.75,3302:133:4,1.00
+Gaidropsarus,capensis,-33.75,24.75,3302:134:4,1.00
+Gaidropsarus,capensis,-34.25,20.25,3302:140:1,0.96
+Gaidropsarus,capensis,-34.25,20.75,3302:140:2,0.96
+Gaidropsarus,capensis,-34.75,20.25,3302:140:3,0.96
+Gaidropsarus,capensis,-34.25,21.25,3302:141:1,1.00
+Gaidropsarus,capensis,-34.25,21.75,3302:141:2,1.00
+Gaidropsarus,capensis,-34.75,21.75,3302:141:4,1.00
+Gaidropsarus,capensis,-34.25,22.25,3302:142:1,1.00
+Gaidropsarus,capensis,-34.25,22.75,3302:142:2,1.00
+Gaidropsarus,capensis,-34.75,22.25,3302:142:3,1.00
+Gaidropsarus,capensis,-34.25,23.25,3302:143:1,1.00
+Gaidropsarus,capensis,-34.25,23.75,3302:143:2,1.00
+Gaidropsarus,capensis,-34.25,24.25,3302:144:1,0.88
+Gaidropsarus,capensis,-34.25,24.75,3302:144:2,1.00
+Gaidropsarus,capensis,-32.75,27.75,3302:227:4,0.95
+Gaidropsarus,capensis,-32.25,28.75,3302:228:2,0.89
+Gaidropsarus,capensis,-32.75,28.25,3302:228:3,0.89
+Gaidropsarus,capensis,-33.75,25.25,3302:235:3,1.00
+Gaidropsarus,capensis,-33.75,25.75,3302:235:4,1.00
+Gaidropsarus,capensis,-33.75,26.25,3302:236:3,1.00
+Gaidropsarus,capensis,-33.75,26.75,3302:236:4,1.00
+Gaidropsarus,capensis,-33.25,27.25,3302:237:1,0.99
+Gaidropsarus,capensis,-33.25,27.75,3302:237:2,0.99
+Gaidropsarus,capensis,-33.25,28.25,3302:238:1,0.94
+Gaidropsarus,capensis,-34.25,25.25,3302:245:1,1.00
+Gaidropsarus,capensis,-34.25,25.75,3302:245:2,1.00
+Gaidropsarus,capensis,-34.25,26.25,3302:246:1,0.83
+Gaidropsarus,capensis,-35.25,21.75,3302:351:2,0.89
+
+
+Occurrence cells used for creating environmental envelope (n = 12)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Gaidropsarus,capensis,-34.75,20.25,3302:140:3,52,18.01,35.34,1362,0,17
+Gaidropsarus,capensis,-34.25,18.25,3301:248:1,202,17.47,35.47,1887,0,21
+Gaidropsarus,capensis,-34.25,25.75,3302:245:2,187,21.31,35.36,1333,0,88
+Gaidropsarus,capensis,-34.25,24.25,3302:144:1,115,20.97,35.36,1264,0,21
+Gaidropsarus,capensis,-34.25,23.75,3302:143:2,138,20.11,35.38,1538,0,49
+Gaidropsarus,capensis,-34.25,23.25,3302:143:1,114,20.11,35.38,1739,0,22
+Gaidropsarus,capensis,-33.75,18.25,3301:238:3,96,17.06,35.4,2521,0,21
+Gaidropsarus,capensis,-33.75,26.75,3302:236:4,66,21.88,35.38,1596,0,17
+Gaidropsarus,capensis,-33.75,26.25,3302:236:3,47,21.88,35.38,1752,0,14
+Gaidropsarus,capensis,-33.75,25.75,3302:235:4,11,21.46,35.36,1526,0,10
+Gaidropsarus,capensis,-33.75,25.25,3302:235:3,141,21.46,35.36,1452,0,2
+Gaidropsarus,capensis,-33.25,27.75,3302:237:2,386,21.94,35.36,1681,0,19

@@ -1,0 +1,169 @@
+Mapping parameters for Lycodes ocellatus ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 61,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,200,246,383,600
+Temperature (°C),1,11.98,14.74,18.66,19.4
+Salinity (psu),1,32.91,33.41,34.17,34.67
+Primary Production,1,492,548.5,784,926
+Sea Ice Concentration,1,-0.998333333333333,0,0.00499999988824129,0.01
+Distance to Land (km),0,52.125,88.5,183.5,252
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 127): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Lycodes,ocellatus,36.25,130.25,1313:360:1,0.09
+Lycodes,ocellatus,37.25,134.75,1313:374:2,0.10
+Lycodes,ocellatus,39.75,134.75,1313:394:4,0.19
+Lycodes,ocellatus,35.25,136.75,1313:456:2,0.03
+Lycodes,ocellatus,38.25,139.25,1313:489:1,0.11
+Lycodes,ocellatus,38.25,141.25,1314:381:1,0.07
+Lycodes,ocellatus,42.25,139.25,1413:229:1,0.03
+Lycodes,ocellatus,40.25,142.25,1414:102:1,0.18
+Lycodes,ocellatus,41.25,141.75,1414:111:2,0.09
+Lycodes,ocellatus,41.75,141.75,1414:111:4,0.07
+Lycodes,ocellatus,36.25,129.75,1312:469:2,0.36
+Lycodes,ocellatus,38.75,128.25,1312:488:3,0.35
+Lycodes,ocellatus,35.75,134.25,1313:354:3,0.30
+Lycodes,ocellatus,35.75,134.75,1313:354:4,0.36
+Lycodes,ocellatus,37.75,133.75,1313:373:4,0.36
+Lycodes,ocellatus,35.75,135.25,1313:455:3,0.32
+Lycodes,ocellatus,35.75,135.75,1313:455:4,0.32
+Lycodes,ocellatus,37.25,135.25,1313:475:1,0.34
+Lycodes,ocellatus,38.25,136.75,1313:486:2,0.21
+Lycodes,ocellatus,38.75,136.75,1313:486:4,0.28
+Lycodes,ocellatus,38.25,137.25,1313:487:1,0.25
+Lycodes,ocellatus,38.75,137.25,1313:487:3,0.30
+Lycodes,ocellatus,39.75,135.75,1313:495:4,0.24
+Lycodes,ocellatus,39.75,138.75,1313:498:4,0.37
+Lycodes,ocellatus,37.25,142.25,1314:372:1,0.20
+Lycodes,ocellatus,41.25,139.75,1413:219:2,0.39
+Lycodes,ocellatus,40.75,142.25,1414:102:3,0.20
+Lycodes,ocellatus,39.25,127.75,1312:497:2,0.53
+Lycodes,ocellatus,39.25,128.25,1312:498:1,0.55
+Lycodes,ocellatus,39.75,128.25,1312:498:3,0.55
+Lycodes,ocellatus,39.75,128.75,1312:498:4,0.53
+Lycodes,ocellatus,35.75,133.25,1313:353:3,0.49
+Lycodes,ocellatus,35.75,133.75,1313:353:4,0.49
+Lycodes,ocellatus,37.25,133.75,1313:373:2,0.58
+Lycodes,ocellatus,38.25,133.75,1313:383:2,0.49
+Lycodes,ocellatus,39.25,133.75,1313:393:2,0.54
+Lycodes,ocellatus,39.75,134.25,1313:394:3,0.46
+Lycodes,ocellatus,36.75,136.75,1313:466:4,0.49
+Lycodes,ocellatus,37.25,135.75,1313:475:2,0.52
+Lycodes,ocellatus,37.75,136.25,1313:476:3,0.58
+Lycodes,ocellatus,39.75,139.25,1313:499:3,0.52
+Lycodes,ocellatus,39.75,141.75,1314:391:4,0.51
+Lycodes,ocellatus,41.75,139.25,1413:219:3,0.40
+Lycodes,ocellatus,38.25,128.75,1312:488:2,0.75
+Lycodes,ocellatus,38.75,128.75,1312:488:4,0.75
+Lycodes,ocellatus,35.75,132.25,1313:352:3,0.65
+Lycodes,ocellatus,35.75,132.75,1313:352:4,0.68
+Lycodes,ocellatus,36.25,133.25,1313:363:1,0.67
+Lycodes,ocellatus,37.25,131.75,1313:371:2,0.69
+Lycodes,ocellatus,37.25,132.25,1313:372:1,0.78
+Lycodes,ocellatus,37.75,132.75,1313:372:4,0.79
+Lycodes,ocellatus,37.75,133.25,1313:373:3,0.63
+Lycodes,ocellatus,39.75,133.75,1313:393:4,0.72
+Lycodes,ocellatus,39.25,134.25,1313:394:1,0.67
+Lycodes,ocellatus,39.25,134.75,1313:394:2,0.67
+Lycodes,ocellatus,39.25,135.25,1313:495:1,0.69
+Lycodes,ocellatus,39.25,135.75,1313:495:2,0.69
+Lycodes,ocellatus,39.75,135.25,1313:495:3,0.69
+Lycodes,ocellatus,39.25,142.25,1314:392:1,0.79
+Lycodes,ocellatus,39.75,142.25,1314:392:3,0.79
+Lycodes,ocellatus,35.75,129.75,1312:459:4,0.99
+Lycodes,ocellatus,36.75,129.75,1312:469:4,1.00
+Lycodes,ocellatus,37.75,128.75,1312:478:4,1.00
+Lycodes,ocellatus,37.25,129.25,1312:479:1,1.00
+Lycodes,ocellatus,37.25,129.75,1312:479:2,1.00
+Lycodes,ocellatus,37.75,129.25,1312:479:3,1.00
+Lycodes,ocellatus,37.75,129.75,1312:479:4,1.00
+Lycodes,ocellatus,35.25,130.75,1313:350:2,0.80
+Lycodes,ocellatus,35.75,130.25,1313:350:3,1.00
+Lycodes,ocellatus,35.75,130.75,1313:350:4,0.99
+Lycodes,ocellatus,35.75,131.25,1313:351:3,0.92
+Lycodes,ocellatus,35.75,131.75,1313:351:4,0.83
+Lycodes,ocellatus,36.25,132.25,1313:362:1,0.88
+Lycodes,ocellatus,36.25,132.75,1313:362:2,0.99
+Lycodes,ocellatus,36.75,132.75,1313:362:4,1.00
+Lycodes,ocellatus,36.25,133.75,1313:363:2,0.92
+Lycodes,ocellatus,36.75,133.25,1313:363:3,0.90
+Lycodes,ocellatus,36.75,133.75,1313:363:4,1.00
+Lycodes,ocellatus,36.25,134.25,1313:364:1,0.90
+Lycodes,ocellatus,36.25,134.75,1313:364:2,1.00
+Lycodes,ocellatus,36.75,134.25,1313:364:3,1.00
+Lycodes,ocellatus,36.75,134.75,1313:364:4,1.00
+Lycodes,ocellatus,37.25,130.75,1313:370:2,1.00
+Lycodes,ocellatus,37.75,130.75,1313:370:4,1.00
+Lycodes,ocellatus,37.25,132.75,1313:372:2,1.00
+Lycodes,ocellatus,37.25,133.25,1313:373:1,1.00
+Lycodes,ocellatus,37.75,134.25,1313:374:3,0.80
+Lycodes,ocellatus,38.25,134.25,1313:384:1,0.82
+Lycodes,ocellatus,38.75,134.25,1313:384:3,1.00
+Lycodes,ocellatus,36.25,135.25,1313:465:1,1.00
+Lycodes,ocellatus,36.25,135.75,1313:465:2,1.00
+Lycodes,ocellatus,36.75,135.75,1313:465:4,1.00
+Lycodes,ocellatus,36.25,136.25,1313:466:1,1.00
+Lycodes,ocellatus,36.75,136.25,1313:466:3,1.00
+Lycodes,ocellatus,36.75,137.25,1313:467:3,1.00
+Lycodes,ocellatus,37.25,136.25,1313:476:1,1.00
+Lycodes,ocellatus,37.25,136.75,1313:476:2,1.00
+Lycodes,ocellatus,37.75,136.75,1313:476:4,1.00
+Lycodes,ocellatus,37.25,137.25,1313:477:1,1.00
+Lycodes,ocellatus,37.25,137.75,1313:477:2,1.00
+Lycodes,ocellatus,37.75,137.25,1313:477:3,1.00
+Lycodes,ocellatus,37.75,137.75,1313:477:4,1.00
+Lycodes,ocellatus,37.25,138.25,1313:478:1,0.80
+Lycodes,ocellatus,37.75,138.25,1313:478:3,1.00
+Lycodes,ocellatus,37.75,138.75,1313:478:4,1.00
+Lycodes,ocellatus,38.25,138.25,1313:488:1,1.00
+Lycodes,ocellatus,38.25,138.75,1313:488:2,1.00
+Lycodes,ocellatus,38.75,138.25,1313:488:3,1.00
+Lycodes,ocellatus,38.75,138.75,1313:488:4,1.00
+Lycodes,ocellatus,38.75,139.25,1313:489:3,1.00
+Lycodes,ocellatus,38.75,139.75,1313:489:4,0.89
+Lycodes,ocellatus,39.25,138.75,1313:498:2,1.00
+Lycodes,ocellatus,39.25,139.25,1313:499:1,1.00
+Lycodes,ocellatus,39.25,139.75,1313:499:2,1.00
+Lycodes,ocellatus,39.75,139.75,1313:499:4,1.00
+Lycodes,ocellatus,37.25,141.25,1314:371:1,1.00
+Lycodes,ocellatus,37.25,141.75,1314:371:2,1.00
+Lycodes,ocellatus,37.75,141.25,1314:371:3,1.00
+Lycodes,ocellatus,37.75,141.75,1314:371:4,1.00
+Lycodes,ocellatus,37.75,142.25,1314:372:3,0.92
+Lycodes,ocellatus,38.25,141.75,1314:381:2,1.00
+Lycodes,ocellatus,38.75,141.75,1314:381:4,1.00
+Lycodes,ocellatus,38.25,142.25,1314:382:1,1.00
+Lycodes,ocellatus,38.75,142.25,1314:382:3,1.00
+Lycodes,ocellatus,39.25,141.75,1314:391:2,0.95
+Lycodes,ocellatus,40.25,139.75,1413:209:2,0.80
+Lycodes,ocellatus,40.75,139.75,1413:209:4,0.80
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Lycodes,ocellatus,36.75,141.75,1314:361:4,1446,19.4,34.2,569,0,111
+Lycodes,ocellatus,37.25,141.75,1314:371:2,455,17.91,34.02,609,0,89
+Lycodes,ocellatus,37.25,143.75,1314:373:2,7119,17.51,34.14,528,0,252
+Lycodes,ocellatus,37.75,141.75,1314:371:4,303,17.91,34.02,642,0,88
+Lycodes,ocellatus,37.75,142.25,1314:372:3,786,17.61,34.06,622,0,115
+Lycodes,ocellatus,41.75,142.75,1414:112:4,800,11.98,33.29,926,0.01,90

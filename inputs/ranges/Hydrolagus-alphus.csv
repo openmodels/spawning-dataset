@@ -1,0 +1,141 @@
+Mapping parameters for Hydrolagus alphus ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 87,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,600,634,740,900
+Temperature (°C),1,-0.96,2.6,7.67,11.7
+Salinity (psu),1,34.08,34.58,34.67,35.17
+Primary Production,1,274.25,476,700.8,836.25
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,16,18.4,248.800003051758,382
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 102): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Hydrolagus,alphus,-1.25,-87.75,5008:217:2,0.09
+Hydrolagus,alphus,-0.75,-91.25,5009:101:3,0.04
+Hydrolagus,alphus,-19.25,-70.75,5107:390:2,0.01
+Hydrolagus,alphus,-20.25,-70.75,5207:100:2,0.11
+Hydrolagus,alphus,-26.25,-79.75,5207:469:2,0.11
+Hydrolagus,alphus,-20.75,-80.75,5208:100:4,0.13
+Hydrolagus,alphus,-26.25,-80.25,5208:360:1,0.01
+Hydrolagus,alphus,-33.25,-77.25,5307:237:1,0.13
+Hydrolagus,alphus,-46.25,-83.75,5408:363:2,0.02
+Hydrolagus,alphus,-55.25,-66.25,5506:456:1,0.01
+Hydrolagus,alphus,-55.75,-66.25,5506:456:3,0.18
+Hydrolagus,alphus,-55.75,-66.75,5506:456:4,0.18
+Hydrolagus,alphus,-56.25,-66.75,5506:466:2,0.15
+Hydrolagus,alphus,-56.75,-67.75,5506:467:4,0.06
+Hydrolagus,alphus,-56.25,-69.25,5506:469:1,0.09
+Hydrolagus,alphus,-56.25,-69.75,5506:469:2,0.15
+Hydrolagus,alphus,-53.25,-74.75,5507:134:2,0.02
+Hydrolagus,alphus,-53.75,-74.25,5507:134:3,0.16
+Hydrolagus,alphus,-54.75,-72.75,5507:142:4,0.05
+Hydrolagus,alphus,-52.75,-75.25,5507:225:3,0.06
+Hydrolagus,alphus,-55.75,-70.25,5507:350:3,0.18
+Hydrolagus,alphus,3.25,-78.75,7007:238:2,0.15
+Hydrolagus,alphus,0.25,-88.75,7008:208:2,0.08
+Hydrolagus,alphus,3.25,-87.75,7008:237:2,0.14
+Hydrolagus,alphus,4.75,-86.75,7008:246:4,0.09
+Hydrolagus,alphus,-1.25,-81.25,5008:111:1,0.20
+Hydrolagus,alphus,-1.25,-87.25,5008:217:1,0.34
+Hydrolagus,alphus,-0.25,-91.75,5009:101:2,0.27
+Hydrolagus,alphus,-19.75,-70.75,5107:390:4,0.38
+Hydrolagus,alphus,-10.25,-94.75,5109:104:2,0.21
+Hydrolagus,alphus,-20.75,-70.75,5207:100:4,0.25
+Hydrolagus,alphus,-33.75,-79.75,5307:239:4,0.36
+Hydrolagus,alphus,-33.75,-80.75,5308:130:4,0.33
+Hydrolagus,alphus,-56.25,-66.25,5506:466:1,0.24
+Hydrolagus,alphus,-56.75,-69.25,5506:469:3,0.28
+Hydrolagus,alphus,-54.25,-73.75,5507:143:2,0.35
+Hydrolagus,alphus,-52.25,-75.75,5507:225:2,0.23
+Hydrolagus,alphus,-55.25,-71.25,5507:351:1,0.21
+Hydrolagus,alphus,-55.25,-71.75,5507:351:2,0.35
+Hydrolagus,alphus,2.75,-87.75,7008:227:4,0.21
+Hydrolagus,alphus,2.75,-88.25,7008:228:3,0.27
+Hydrolagus,alphus,3.25,-88.25,7008:238:1,0.33
+Hydrolagus,alphus,4.75,-87.25,7008:247:3,0.25
+Hydrolagus,alphus,3.25,-90.75,7009:130:2,0.24
+Hydrolagus,alphus,-0.75,-89.75,5008:209:4,0.47
+Hydrolagus,alphus,-1.25,-89.75,5008:219:2,0.47
+Hydrolagus,alphus,-0.25,-91.25,5009:101:1,0.56
+Hydrolagus,alphus,-22.75,-70.75,5207:120:4,0.43
+Hydrolagus,alphus,-33.75,-79.25,5307:239:3,0.51
+Hydrolagus,alphus,-56.75,-68.25,5506:468:3,0.43
+Hydrolagus,alphus,-56.75,-68.75,5506:468:4,0.40
+Hydrolagus,alphus,-54.75,-73.25,5507:143:3,0.43
+Hydrolagus,alphus,-56.25,-70.25,5507:360:1,0.49
+Hydrolagus,alphus,0.75,-80.25,7008:100:3,0.48
+Hydrolagus,alphus,1.25,-80.25,7008:110:1,0.41
+Hydrolagus,alphus,4.25,-80.75,7008:140:2,0.42
+Hydrolagus,alphus,1.75,-91.75,7009:111:4,0.53
+Hydrolagus,alphus,-1.25,-91.25,5009:111:1,0.77
+Hydrolagus,alphus,-33.25,-76.75,5307:236:2,0.72
+Hydrolagus,alphus,-33.25,-77.75,5307:237:2,0.72
+Hydrolagus,alphus,-33.75,-77.75,5307:237:4,0.72
+Hydrolagus,alphus,-33.75,-78.25,5307:238:3,0.76
+Hydrolagus,alphus,-52.75,-75.75,5507:225:4,0.79
+Hydrolagus,alphus,-55.75,-70.75,5507:350:4,0.70
+Hydrolagus,alphus,1.25,-91.75,7009:111:2,0.69
+Hydrolagus,alphus,-0.25,-80.75,5008:100:2,1.00
+Hydrolagus,alphus,-0.25,-81.75,5008:101:2,1.00
+Hydrolagus,alphus,-0.75,-81.25,5008:101:3,0.92
+Hydrolagus,alphus,-0.25,-88.25,5008:208:1,0.92
+Hydrolagus,alphus,-0.25,-88.75,5008:208:2,0.95
+Hydrolagus,alphus,-0.75,-88.25,5008:208:3,1.00
+Hydrolagus,alphus,-0.75,-88.75,5008:208:4,1.00
+Hydrolagus,alphus,-0.25,-89.25,5008:209:1,0.97
+Hydrolagus,alphus,-0.25,-89.75,5008:209:2,0.94
+Hydrolagus,alphus,-0.75,-89.25,5008:209:3,0.85
+Hydrolagus,alphus,-1.25,-88.25,5008:218:1,1.00
+Hydrolagus,alphus,-1.25,-88.75,5008:218:2,1.00
+Hydrolagus,alphus,-1.25,-89.25,5008:219:1,0.99
+Hydrolagus,alphus,-1.75,-89.75,5008:219:4,0.81
+Hydrolagus,alphus,-0.25,-90.25,5009:100:1,0.95
+Hydrolagus,alphus,-0.25,-90.75,5009:100:2,1.00
+Hydrolagus,alphus,-1.25,-90.75,5009:110:2,1.00
+Hydrolagus,alphus,-1.75,-90.25,5009:110:3,0.81
+Hydrolagus,alphus,-33.75,-78.75,5307:238:4,0.91
+Hydrolagus,alphus,-54.75,-73.75,5507:143:4,0.96
+Hydrolagus,alphus,-54.25,-74.25,5507:144:1,0.87
+Hydrolagus,alphus,-53.25,-75.25,5507:235:1,0.96
+Hydrolagus,alphus,-55.25,-72.25,5507:352:1,0.80
+Hydrolagus,alphus,0.25,-80.75,7008:100:2,0.85
+Hydrolagus,alphus,3.75,-81.75,7008:131:4,0.92
+Hydrolagus,alphus,4.75,-80.25,7008:140:3,0.80
+Hydrolagus,alphus,4.75,-80.75,7008:140:4,0.80
+Hydrolagus,alphus,4.25,-81.25,7008:141:1,1.00
+Hydrolagus,alphus,4.25,-81.75,7008:141:2,0.85
+Hydrolagus,alphus,0.25,-89.75,7008:209:2,0.88
+Hydrolagus,alphus,0.25,-90.25,7009:100:1,0.90
+Hydrolagus,alphus,0.25,-90.75,7009:100:2,0.91
+Hydrolagus,alphus,0.75,-90.25,7009:100:3,0.80
+Hydrolagus,alphus,0.75,-90.75,7009:100:4,0.84
+Hydrolagus,alphus,0.25,-91.25,7009:101:1,0.81
+Hydrolagus,alphus,0.25,-91.75,7009:101:2,0.81
+Hydrolagus,alphus,0.75,-91.25,7009:101:3,0.89
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Hydrolagus,alphus,-3.25,-91.25,5009:131:1,3589,24.21,34.74,500,0,304
+Hydrolagus,alphus,-0.25,-91.25,5009:101:1,480,23.55,34.11,751,0,16
+Hydrolagus,alphus,-0.25,-90.25,5009:100:1,832,23.73,34.45,470,0,28

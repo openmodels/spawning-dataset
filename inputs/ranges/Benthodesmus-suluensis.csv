@@ -1,0 +1,153 @@
+Mapping parameters for Benthodesmus suluensis (Philippine frostfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 71,
+Bounding Box (NSWE): ,15,3,115,126
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,200,234,340,500
+Temperature (°C),1,28.17,28.67,28.8,33.01
+Salinity (psu),1,32.98,33.48,33.96,34.46
+Primary Production,1,407.75,480.2,645.2,689.75
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,22.3,23.3,110.699996948242,240
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 113): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Benthodesmus,suluensis,7.75,117.75,1011:477:4,0.19
+Benthodesmus,suluensis,8.75,116.75,1011:486:4,0.02
+Benthodesmus,suluensis,7.25,122.75,1012:372:2,0.10
+Benthodesmus,suluensis,7.75,123.25,1012:373:3,0.04
+Benthodesmus,suluensis,8.75,124.75,1012:384:4,0.16
+Benthodesmus,suluensis,9.25,123.75,1012:393:2,0.09
+Benthodesmus,suluensis,9.25,124.75,1012:394:2,0.16
+Benthodesmus,suluensis,9.75,124.75,1012:394:4,0.03
+Benthodesmus,suluensis,9.75,125.25,1012:495:3,0.03
+Benthodesmus,suluensis,10.75,124.25,1112:104:3,0.07
+Benthodesmus,suluensis,11.75,122.25,1112:112:3,0.17
+Benthodesmus,suluensis,11.75,124.25,1112:114:3,0.18
+Benthodesmus,suluensis,12.75,124.25,1112:124:3,0.08
+Benthodesmus,suluensis,13.75,122.75,1112:132:4,0.06
+Benthodesmus,suluensis,13.25,123.75,1112:133:2,0.05
+Benthodesmus,suluensis,14.75,121.75,1112:141:4,0.07
+Benthodesmus,suluensis,14.75,122.25,1112:142:3,0.03
+Benthodesmus,suluensis,14.75,122.75,1112:142:4,0.11
+Benthodesmus,suluensis,6.25,115.25,1011:465:1,0.22
+Benthodesmus,suluensis,6.75,115.25,1011:465:3,0.22
+Benthodesmus,suluensis,6.75,115.75,1011:465:4,0.22
+Benthodesmus,suluensis,7.25,115.75,1011:475:2,0.35
+Benthodesmus,suluensis,7.75,116.25,1011:476:3,0.38
+Benthodesmus,suluensis,8.75,122.75,1012:382:4,0.26
+Benthodesmus,suluensis,10.75,118.75,1111:208:4,0.28
+Benthodesmus,suluensis,10.25,121.25,1112:101:1,0.31
+Benthodesmus,suluensis,11.25,122.25,1112:112:1,0.38
+Benthodesmus,suluensis,12.25,122.25,1112:122:1,0.20
+Benthodesmus,suluensis,14.25,121.75,1112:141:2,0.34
+Benthodesmus,suluensis,6.25,118.75,1011:468:2,0.51
+Benthodesmus,suluensis,7.25,116.75,1011:476:2,0.48
+Benthodesmus,suluensis,7.75,116.75,1011:476:4,0.48
+Benthodesmus,suluensis,8.25,116.75,1011:486:2,0.43
+Benthodesmus,suluensis,9.75,117.75,1011:497:4,0.52
+Benthodesmus,suluensis,7.75,122.75,1012:372:4,0.51
+Benthodesmus,suluensis,6.75,125.75,1012:465:4,0.43
+Benthodesmus,suluensis,11.25,119.25,1111:219:1,0.51
+Benthodesmus,suluensis,11.25,124.25,1112:114:1,0.46
+Benthodesmus,suluensis,12.25,120.25,1112:120:1,0.48
+Benthodesmus,suluensis,12.25,121.75,1112:121:2,0.44
+Benthodesmus,suluensis,12.75,122.25,1112:122:3,0.49
+Benthodesmus,suluensis,12.75,122.75,1112:122:4,0.49
+Benthodesmus,suluensis,13.75,122.25,1112:132:3,0.49
+Benthodesmus,suluensis,8.75,117.75,1011:487:4,0.63
+Benthodesmus,suluensis,9.25,117.25,1011:497:1,0.69
+Benthodesmus,suluensis,4.75,120.25,1012:140:3,0.71
+Benthodesmus,suluensis,9.75,121.25,1012:391:3,0.75
+Benthodesmus,suluensis,9.75,122.25,1012:392:3,0.70
+Benthodesmus,suluensis,10.25,121.75,1112:101:2,0.76
+Benthodesmus,suluensis,10.75,121.75,1112:101:4,0.76
+Benthodesmus,suluensis,11.25,121.25,1112:111:1,0.70
+Benthodesmus,suluensis,11.25,121.75,1112:111:2,0.70
+Benthodesmus,suluensis,11.75,121.25,1112:111:3,0.70
+Benthodesmus,suluensis,11.75,121.75,1112:111:4,0.70
+Benthodesmus,suluensis,12.25,121.25,1112:121:1,0.70
+Benthodesmus,suluensis,12.75,121.75,1112:121:4,0.69
+Benthodesmus,suluensis,13.25,122.25,1112:132:1,0.61
+Benthodesmus,suluensis,13.25,122.75,1112:132:2,0.61
+Benthodesmus,suluensis,4.75,119.75,1011:249:4,0.96
+Benthodesmus,suluensis,6.75,118.75,1011:468:4,1.00
+Benthodesmus,suluensis,6.25,119.25,1011:469:1,0.99
+Benthodesmus,suluensis,7.25,118.25,1011:478:1,0.99
+Benthodesmus,suluensis,7.25,118.75,1011:478:2,0.99
+Benthodesmus,suluensis,7.75,118.25,1011:478:3,0.99
+Benthodesmus,suluensis,7.75,118.75,1011:478:4,0.99
+Benthodesmus,suluensis,8.25,117.75,1011:487:2,0.98
+Benthodesmus,suluensis,8.75,117.25,1011:487:3,0.80
+Benthodesmus,suluensis,8.25,118.25,1011:488:1,0.98
+Benthodesmus,suluensis,8.75,118.25,1011:488:3,0.98
+Benthodesmus,suluensis,8.75,119.75,1011:489:4,1.00
+Benthodesmus,suluensis,9.25,117.75,1011:497:2,0.98
+Benthodesmus,suluensis,9.25,118.25,1011:498:1,0.98
+Benthodesmus,suluensis,9.25,118.75,1011:498:2,0.98
+Benthodesmus,suluensis,9.75,118.75,1011:498:4,0.98
+Benthodesmus,suluensis,9.25,119.75,1011:499:2,1.00
+Benthodesmus,suluensis,9.75,119.25,1011:499:3,1.00
+Benthodesmus,suluensis,9.75,119.75,1011:499:4,1.00
+Benthodesmus,suluensis,5.25,120.75,1012:350:2,0.97
+Benthodesmus,suluensis,5.75,121.25,1012:351:3,0.96
+Benthodesmus,suluensis,5.75,121.75,1012:351:4,0.96
+Benthodesmus,suluensis,6.25,120.25,1012:360:1,0.98
+Benthodesmus,suluensis,6.75,120.75,1012:360:4,0.98
+Benthodesmus,suluensis,6.25,121.75,1012:361:2,0.98
+Benthodesmus,suluensis,6.25,122.25,1012:362:1,0.99
+Benthodesmus,suluensis,6.75,122.75,1012:362:4,0.99
+Benthodesmus,suluensis,6.75,123.75,1012:363:4,0.99
+Benthodesmus,suluensis,7.25,123.25,1012:373:1,1.00
+Benthodesmus,suluensis,8.75,120.25,1012:380:3,1.00
+Benthodesmus,suluensis,8.75,123.75,1012:383:4,0.96
+Benthodesmus,suluensis,8.25,124.25,1012:384:1,1.00
+Benthodesmus,suluensis,8.75,124.25,1012:384:3,1.00
+Benthodesmus,suluensis,9.25,120.25,1012:390:1,1.00
+Benthodesmus,suluensis,9.25,120.75,1012:390:2,1.00
+Benthodesmus,suluensis,9.25,122.75,1012:392:2,0.82
+Benthodesmus,suluensis,9.75,123.25,1012:393:3,0.86
+Benthodesmus,suluensis,10.25,118.75,1111:208:2,0.82
+Benthodesmus,suluensis,10.25,119.75,1111:209:2,1.00
+Benthodesmus,suluensis,11.75,119.25,1111:219:3,1.00
+Benthodesmus,suluensis,12.75,119.75,1111:229:4,0.90
+Benthodesmus,suluensis,10.25,120.25,1112:100:1,0.98
+Benthodesmus,suluensis,10.25,120.75,1112:100:2,0.98
+Benthodesmus,suluensis,11.75,120.75,1112:110:4,0.96
+Benthodesmus,suluensis,12.25,120.75,1112:120:2,0.98
+Benthodesmus,suluensis,12.75,120.25,1112:120:3,0.96
+Benthodesmus,suluensis,12.75,120.75,1112:120:4,0.96
+Benthodesmus,suluensis,13.25,120.25,1112:130:1,0.81
+Benthodesmus,suluensis,13.25,120.75,1112:130:2,0.84
+Benthodesmus,suluensis,13.75,120.25,1112:130:3,0.84
+Benthodesmus,suluensis,13.75,120.75,1112:130:4,0.84
+Benthodesmus,suluensis,13.25,121.25,1112:131:1,0.84
+Benthodesmus,suluensis,13.25,121.75,1112:131:2,0.84
+Benthodesmus,suluensis,13.75,121.25,1112:131:3,0.84
+Benthodesmus,suluensis,13.75,121.75,1112:131:4,0.84
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Benthodesmus,suluensis,8.25,120.25,1012:380:1,3626,28.77,33.79,458,0,111
+Benthodesmus,suluensis,8.75,119.75,1011:489:4,1435,28.82,33.68,550,0,110
+Benthodesmus,suluensis,10.75,124.25,1112:104:3,273,28.65,34.04,686,0,24
+Benthodesmus,suluensis,13.75,120.75,1112:130:4,319,28.73,33.4,532,0,23

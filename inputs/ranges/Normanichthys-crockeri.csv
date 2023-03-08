@@ -1,0 +1,161 @@
+Mapping parameters for Normanichthys crockeri (Mote sculpin)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas:  87 ,
+Bounding Box (NSWE): ,-9,-38,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,37,200,200
+Temperature (°C),1,7.27,12.77,19.48,25.29
+Salinity (psu),1,32.39,32.98,35.17,36.5
+Primary Production (mgC·m-3·day-1) ,1,6.2,9.79,86.4,134.75
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,40.82,45.1,181.7,270.67
+Distance to Land (km),0,1,2,292,642
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 112): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Normanichthys,crockeri,-16.25,-72.75,5107:362:2,0.10
+Normanichthys,crockeri,-15.75,-73.75,5107:353:4,0.37
+Normanichthys,crockeri,-31.75,-71.25,5307:111:3,0.30
+Normanichthys,crockeri,-17.25,-71.75,5107:371:2,0.49
+Normanichthys,crockeri,-36.75,-73.25,5307:363:3,0.40
+Normanichthys,crockeri,-16.75,-72.25,5107:362:3,0.65
+Normanichthys,crockeri,-26.25,-70.75,5207:360:2,1.00
+Normanichthys,crockeri,-26.75,-70.75,5207:360:4,1.00
+Normanichthys,crockeri,-27.25,-70.75,5207:370:2,1.00
+Normanichthys,crockeri,-27.75,-70.75,5207:370:4,1.00
+Normanichthys,crockeri,-27.75,-71.25,5207:371:3,1.00
+Normanichthys,crockeri,-9.25,-78.25,5007:498:1,1.00
+Normanichthys,crockeri,-9.25,-78.75,5007:498:2,1.00
+Normanichthys,crockeri,-9.75,-78.25,5007:498:3,1.00
+Normanichthys,crockeri,-9.75,-78.75,5007:498:4,1.00
+Normanichthys,crockeri,-9.25,-79.25,5007:499:1,0.98
+Normanichthys,crockeri,-9.25,-79.75,5007:499:2,0.85
+Normanichthys,crockeri,-9.75,-79.25,5007:499:3,0.90
+Normanichthys,crockeri,-10.25,-77.75,5107:207:2,1.00
+Normanichthys,crockeri,-10.75,-77.75,5107:207:4,1.00
+Normanichthys,crockeri,-10.25,-78.25,5107:208:1,1.00
+Normanichthys,crockeri,-10.25,-78.75,5107:208:2,0.97
+Normanichthys,crockeri,-10.75,-78.25,5107:208:3,1.00
+Normanichthys,crockeri,-11.25,-77.25,5107:217:1,1.00
+Normanichthys,crockeri,-11.25,-77.75,5107:217:2,1.00
+Normanichthys,crockeri,-11.75,-77.25,5107:217:3,0.84
+Normanichthys,crockeri,-11.75,-77.75,5107:217:4,1.00
+Normanichthys,crockeri,-12.25,-76.75,5107:226:2,1.00
+Normanichthys,crockeri,-12.75,-76.25,5107:226:3,1.00
+Normanichthys,crockeri,-12.75,-76.75,5107:226:4,1.00
+Normanichthys,crockeri,-12.25,-77.25,5107:227:1,1.00
+Normanichthys,crockeri,-12.25,-77.75,5107:227:2,1.00
+Normanichthys,crockeri,-12.75,-77.25,5107:227:3,1.00
+Normanichthys,crockeri,-13.25,-76.25,5107:236:1,1.00
+Normanichthys,crockeri,-13.25,-76.75,5107:236:2,1.00
+Normanichthys,crockeri,-13.75,-76.25,5107:236:3,1.00
+Normanichthys,crockeri,-13.75,-76.75,5107:236:4,1.00
+Normanichthys,crockeri,-14.25,-75.75,5107:245:2,1.00
+Normanichthys,crockeri,-14.75,-75.25,5107:245:3,1.00
+Normanichthys,crockeri,-14.75,-75.75,5107:245:4,1.00
+Normanichthys,crockeri,-14.25,-76.25,5107:246:1,1.00
+Normanichthys,crockeri,-14.75,-76.25,5107:246:3,1.00
+Normanichthys,crockeri,-15.25,-74.75,5107:354:2,1.00
+Normanichthys,crockeri,-15.75,-74.25,5107:354:3,1.00
+Normanichthys,crockeri,-15.75,-74.75,5107:354:4,1.00
+Normanichthys,crockeri,-16.75,-72.75,5107:362:4,1.00
+Normanichthys,crockeri,-16.25,-73.25,5107:363:1,0.92
+Normanichthys,crockeri,-16.25,-73.75,5107:363:2,1.00
+Normanichthys,crockeri,-16.75,-73.25,5107:363:3,1.00
+Normanichthys,crockeri,-16.25,-74.25,5107:364:1,1.00
+Normanichthys,crockeri,-17.75,-70.75,5107:370:4,1.00
+Normanichthys,crockeri,-17.25,-71.25,5107:371:1,0.88
+Normanichthys,crockeri,-17.75,-71.25,5107:371:3,1.00
+Normanichthys,crockeri,-17.25,-72.25,5107:372:1,0.99
+Normanichthys,crockeri,-18.25,-70.25,5107:380:1,1.00
+Normanichthys,crockeri,-18.25,-70.75,5107:380:2,1.00
+Normanichthys,crockeri,-18.75,-70.25,5107:380:3,1.00
+Normanichthys,crockeri,-19.25,-70.25,5107:390:1,1.00
+Normanichthys,crockeri,-19.75,-70.25,5107:390:3,1.00
+Normanichthys,crockeri,-15.25,-75.25,5107:455:1,1.00
+Normanichthys,crockeri,-15.25,-75.75,5107:455:2,1.00
+Normanichthys,crockeri,-20.25,-70.25,5207:100:1,1.00
+Normanichthys,crockeri,-20.75,-70.25,5207:100:3,1.00
+Normanichthys,crockeri,-21.25,-70.25,5207:110:1,1.00
+Normanichthys,crockeri,-21.75,-70.25,5207:110:3,1.00
+Normanichthys,crockeri,-22.25,-70.25,5207:120:1,1.00
+Normanichthys,crockeri,-22.75,-70.25,5207:120:3,1.00
+Normanichthys,crockeri,-23.25,-70.25,5207:130:1,1.00
+Normanichthys,crockeri,-23.25,-70.75,5207:130:2,1.00
+Normanichthys,crockeri,-23.75,-70.25,5207:130:3,1.00
+Normanichthys,crockeri,-23.75,-70.75,5207:130:4,1.00
+Normanichthys,crockeri,-24.25,-70.25,5207:140:1,1.00
+Normanichthys,crockeri,-24.25,-70.75,5207:140:2,1.00
+Normanichthys,crockeri,-24.75,-70.25,5207:140:3,1.00
+Normanichthys,crockeri,-24.75,-70.75,5207:140:4,1.00
+Normanichthys,crockeri,-25.25,-70.25,5207:350:1,1.00
+Normanichthys,crockeri,-25.25,-70.75,5207:350:2,1.00
+Normanichthys,crockeri,-25.75,-70.75,5207:350:4,1.00
+Normanichthys,crockeri,-28.25,-71.25,5207:381:1,1.00
+Normanichthys,crockeri,-28.75,-71.25,5207:381:3,1.00
+Normanichthys,crockeri,-28.75,-71.75,5207:381:4,1.00
+Normanichthys,crockeri,-29.25,-71.25,5207:391:1,1.00
+Normanichthys,crockeri,-29.25,-71.75,5207:391:2,1.00
+Normanichthys,crockeri,-29.75,-71.25,5207:391:3,1.00
+Normanichthys,crockeri,-29.75,-71.75,5207:391:4,1.00
+Normanichthys,crockeri,-30.25,-71.25,5307:101:1,1.00
+Normanichthys,crockeri,-30.25,-71.75,5307:101:2,1.00
+Normanichthys,crockeri,-30.75,-71.75,5307:101:4,1.00
+Normanichthys,crockeri,-31.25,-71.75,5307:111:2,1.00
+Normanichthys,crockeri,-31.75,-71.75,5307:111:4,1.00
+Normanichthys,crockeri,-32.25,-71.25,5307:121:1,1.00
+Normanichthys,crockeri,-32.25,-71.75,5307:121:2,1.00
+Normanichthys,crockeri,-32.75,-71.25,5307:121:3,1.00
+Normanichthys,crockeri,-32.75,-71.75,5307:121:4,1.00
+Normanichthys,crockeri,-33.25,-71.75,5307:131:2,1.00
+Normanichthys,crockeri,-33.75,-71.75,5307:131:4,1.00
+Normanichthys,crockeri,-33.75,-72.25,5307:132:3,1.00
+Normanichthys,crockeri,-34.25,-71.75,5307:141:2,1.00
+Normanichthys,crockeri,-34.25,-72.25,5307:142:1,1.00
+Normanichthys,crockeri,-34.75,-72.25,5307:142:3,1.00
+Normanichthys,crockeri,-35.25,-72.25,5307:352:1,1.00
+Normanichthys,crockeri,-35.25,-72.75,5307:352:2,1.00
+Normanichthys,crockeri,-35.75,-72.75,5307:352:4,1.00
+Normanichthys,crockeri,-35.75,-73.25,5307:353:3,1.00
+Normanichthys,crockeri,-36.25,-72.75,5307:362:2,1.00
+Normanichthys,crockeri,-36.75,-72.75,5307:362:4,1.00
+Normanichthys,crockeri,-36.25,-73.25,5307:363:1,1.00
+Normanichthys,crockeri,-36.75,-73.75,5307:363:4,1.00
+Normanichthys,crockeri,-37.25,-73.25,5307:373:1,1.00
+Normanichthys,crockeri,-37.25,-73.75,5307:373:2,1.00
+Normanichthys,crockeri,-37.75,-73.25,5307:373:3,0.87
+Normanichthys,crockeri,-37.75,-73.75,5307:373:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 13)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Normanichthys,crockeri,-37.25,-73.25,5307:373:1,81,12.7695646286011,11.4114322662354,32.9849166870117,34.1450462341309,73.17812740802759,0,81.3471908569336,7
+Normanichthys,crockeri,-36.75,-72.75,5307:362:4,46,12.9339752197266,11.3986511230469,33.2956314086914,34.1406707763672,70.2575892210007,0,86.0385589599609,1
+Normanichthys,crockeri,-36.75,-73.25,5307:363:3,139,12.7341899871826,11.696400642395,32.6299171447754,34.0956649780273,84.696002304554,0,83.1979827880859,19
+Normanichthys,crockeri,-36.25,-75.25,5307:465:1,4124,14.4325914382935,1.30343496799469,33.9293785095215,34.6951599121094,9.793000295758251,0,167.888412475586,219
+Normanichthys,crockeri,-33.25,-71.75,5307:131:2,509,14.0279026031494,12.1824169158936,34.0795745849609,34.2473335266113,55.8260008692741,0,88.5015258789063,17
+Normanichthys,crockeri,-24.25,-70.75,5207:140:2,1882,17.4943866729736,2.49540495872498,34.6341743469238,34.5752334594727,46.6260015964508,0,113.695510864258,76
+Normanichthys,crockeri,-23.25,-70.25,5207:130:1,138,17.8090858459473,8.908935546875,34.1494827270508,34.5949096679688,53.8072474300861,0,70.6635589599609,2
+Normanichthys,crockeri,-20.25,-77.75,5207:207:2,4534,19.4808235168457,1.36237394809723,35.1990356445313,34.7008590698242,6.20200019329786,0,157.075332641602,642
+Normanichthys,crockeri,-17.75,-70.75,5107:370:4,69,19.3950080871582,13.6957340240479,34.4689331054688,34.8620643615723,81.8769857287407,0,40.8180847167969,2
+Normanichthys,crockeri,-15.25,-75.25,5107:455:1,426,17.2725811004639,17.7507591247559,34.9425811767578,34.9931297302246,53.1059987843037,0,216.2265625,18
+Normanichthys,crockeri,-12.25,-79.75,5107:229:2,4739,20.8563785552979,1.42138600349426,35.1689987182617,34.6941719055176,15.107000246643999,0,139.674530029297,292
+Normanichthys,crockeri,-11.75,-77.25,5107:217:3,87,18.2189998626709,17.7786464691162,34.9571685791016,35.1131286621094,93.9470008015633,0,181.702758789063,19
+Normanichthys,crockeri,-11.25,-77.75,5107:217:2,137,18.5337257385254,15.1847133636475,34.9672966003418,35.0749588012695,86.4040032029152,0,45.1016273498535,25

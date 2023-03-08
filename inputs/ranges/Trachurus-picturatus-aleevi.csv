@@ -1,0 +1,105 @@
+Mapping parameters for Trachurus longimanus (Crozet scad)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 47 |  51 |  58,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,75,80,101,125
+Temperature (°C),1,10.2,15.12,21.34,26.37
+Salinity (psu),1,34.31,34.81,35.81,36.31
+Primary Production,1,163.5,300.8,490.8,622
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,17,20.2,957.599975585938,2112
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 60): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Trachurus,longimanus,-19.25,49.25,3104:499:1,0.01
+Trachurus,longimanus,-19.75,49.25,3104:499:3,0.01
+Trachurus,longimanus,-16.25,59.25,3105:469:1,0.02
+Trachurus,longimanus,-16.75,59.25,3105:469:3,0.02
+Trachurus,longimanus,-16.75,59.75,3105:469:4,0.02
+Trachurus,longimanus,-17.25,59.25,3105:479:1,0.04
+Trachurus,longimanus,-17.75,59.25,3105:479:3,0.03
+Trachurus,longimanus,-17.75,59.75,3105:479:4,0.01
+Trachurus,longimanus,-18.25,58.75,3105:488:2,0.05
+Trachurus,longimanus,-18.75,58.75,3105:488:4,0.05
+Trachurus,longimanus,-19.75,57.75,3105:497:4,0.06
+Trachurus,longimanus,-16.25,60.25,3106:360:1,0.01
+Trachurus,longimanus,-16.75,60.25,3106:360:3,0.01
+Trachurus,longimanus,-19.25,61.75,3106:391:2,0.06
+Trachurus,longimanus,-19.75,61.75,3106:391:4,0.06
+Trachurus,longimanus,-19.75,62.25,3106:392:3,0.06
+Trachurus,longimanus,-19.75,63.25,3106:393:3,0.19
+Trachurus,longimanus,-19.75,63.75,3106:393:4,0.10
+Trachurus,longimanus,-19.75,64.25,3106:394:3,0.06
+Trachurus,longimanus,-23.75,35.75,3203:235:4,0.01
+Trachurus,longimanus,-28.25,32.75,3203:382:2,0.03
+Trachurus,longimanus,-22.25,40.25,3204:120:1,0.02
+Trachurus,longimanus,-24.25,43.75,3204:143:2,0.06
+Trachurus,longimanus,-24.75,44.25,3204:144:3,0.05
+Trachurus,longimanus,-20.75,48.75,3204:208:4,0.04
+Trachurus,longimanus,-21.25,48.75,3204:218:2,0.07
+Trachurus,longimanus,-22.75,48.25,3204:228:3,0.07
+Trachurus,longimanus,-23.75,47.75,3204:237:4,0.06
+Trachurus,longimanus,-25.25,45.25,3204:455:1,0.08
+Trachurus,longimanus,-25.25,45.75,3204:455:2,0.06
+Trachurus,longimanus,-20.75,55.25,3205:205:3,0.07
+Trachurus,longimanus,-20.75,55.75,3205:205:4,0.06
+Trachurus,longimanus,-20.25,57.25,3205:207:1,0.08
+Trachurus,longimanus,-20.25,57.75,3205:207:2,0.10
+Trachurus,longimanus,-21.25,55.25,3205:215:1,0.10
+Trachurus,longimanus,-21.25,55.75,3205:215:2,0.10
+Trachurus,longimanus,-41.75,0.25,3400:110:3,0.03
+Trachurus,longimanus,-7.75,-14.25,5001:374:3,0.04
+Trachurus,longimanus,-39.25,-6.75,5300:496:2,0.18
+Trachurus,longimanus,-39.25,-7.75,5300:497:2,0.19
+Trachurus,longimanus,-39.25,-8.25,5300:498:1,0.17
+Trachurus,longimanus,-41.75,-0.25,5400:110:3,0.04
+Trachurus,longimanus,-40.25,-9.75,5400:209:2,0.04
+Trachurus,longimanus,-24.25,47.75,3204:247:2,0.20
+Trachurus,longimanus,-24.75,47.75,3204:247:4,0.20
+Trachurus,longimanus,-25.75,45.25,3204:455:3,0.28
+Trachurus,longimanus,-34.25,-4.75,5300:144:2,0.39
+Trachurus,longimanus,-39.25,-6.25,5300:496:1,0.20
+Trachurus,longimanus,-39.75,-6.25,5300:496:3,0.26
+Trachurus,longimanus,-39.75,-6.75,5300:496:4,0.29
+Trachurus,longimanus,-31.75,8.25,3300:218:3,0.82
+Trachurus,longimanus,-35.75,20.25,3302:350:3,0.97
+Trachurus,longimanus,-36.25,20.75,3302:360:2,0.80
+Trachurus,longimanus,-36.25,21.25,3302:361:1,0.96
+Trachurus,longimanus,-33.25,43.75,3304:133:2,1.00
+Trachurus,longimanus,-35.75,53.25,3305:353:3,1.00
+Trachurus,longimanus,-37.75,77.75,3307:477:4,0.92
+Trachurus,longimanus,-38.75,77.75,3307:487:4,0.94
+Trachurus,longimanus,-37.25,-12.25,5301:372:1,1.00
+Trachurus,longimanus,-37.25,-12.75,5301:372:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 9)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Trachurus,longimanus,-38.75,77.75,3307:487:4,1107,14.82,35.2,458,0,21
+Trachurus,longimanus,-37.25,12.75,3301:372:2,5059,16.82,35.24,389,0,642
+Trachurus,longimanus,-37.25,-12.75,5301:372:2,2418,15.2,35.08,410,0,89
+Trachurus,longimanus,-37.25,-12.25,5301:372:1,2082,15.2,35.08,426,0,22
+Trachurus,longimanus,-36.75,-12.25,5301:362:3,3505,16.24,35.18,333,0,100
+Trachurus,longimanus,-35.75,53.25,3305:353:3,2586,18.02,35.5,307,0,1216
+Trachurus,longimanus,-33.25,43.75,3304:133:2,915,20.08,35.57,321,0,893
+Trachurus,longimanus,-31.75,8.25,3300:218:3,4026,18.53,35.62,276,0,858
+Trachurus,longimanus,-18.75,49.25,3104:489:3,385,26.37,34.91,622,0,17

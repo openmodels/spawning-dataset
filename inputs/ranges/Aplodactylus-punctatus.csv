@@ -1,0 +1,157 @@
+Mapping parameters for Aplodactylus punctatus ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,-5,-37,-82,-70
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,2,11,20
+Temperature (°C),1,9.55,14.22,18.92,23.92
+Salinity (psu),1,32.63,33.53,34.96,36.18
+Primary Production (mgC·m-3·day-1) ,1,3.81,40.71,86.4,133.23
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,18.54,29.38,216.23,315.13
+Distance to Land (km),0,1,2,73,192
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 106): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Aplodactylus,punctatus,-26.25,-79.75,5207:469:2,0.01
+Aplodactylus,punctatus,-26.25,-80.25,5208:360:1,0.01
+Aplodactylus,punctatus,-33.75,-78.75,5307:238:4,0.01
+Aplodactylus,punctatus,-33.75,-80.75,5308:130:4,0.01
+Aplodactylus,punctatus,-17.25,-71.75,5107:371:2,0.45
+Aplodactylus,punctatus,-36.75,-72.75,5307:362:4,0.54
+Aplodactylus,punctatus,-8.75,-79.75,5007:489:4,0.71
+Aplodactylus,punctatus,-5.25,-80.75,5008:350:2,0.68
+Aplodactylus,punctatus,-6.25,-80.75,5008:360:2,0.65
+Aplodactylus,punctatus,-7.75,-80.25,5008:370:3,0.71
+Aplodactylus,punctatus,-16.25,-72.75,5107:362:2,0.73
+Aplodactylus,punctatus,-16.75,-72.25,5107:362:3,0.62
+Aplodactylus,punctatus,-35.75,-72.75,5307:352:4,0.74
+Aplodactylus,punctatus,-36.25,-72.75,5307:362:2,0.70
+Aplodactylus,punctatus,-26.25,-70.75,5207:360:2,1.00
+Aplodactylus,punctatus,-26.75,-70.75,5207:360:4,1.00
+Aplodactylus,punctatus,-27.25,-70.75,5207:370:2,1.00
+Aplodactylus,punctatus,-27.75,-70.75,5207:370:4,1.00
+Aplodactylus,punctatus,-27.75,-71.25,5207:371:3,1.00
+Aplodactylus,punctatus,-6.75,-79.75,5007:469:4,0.84
+Aplodactylus,punctatus,-7.25,-79.75,5007:479:2,1.00
+Aplodactylus,punctatus,-7.75,-79.25,5007:479:3,0.93
+Aplodactylus,punctatus,-7.75,-79.75,5007:479:4,1.00
+Aplodactylus,punctatus,-8.25,-78.75,5007:488:2,0.90
+Aplodactylus,punctatus,-8.75,-78.75,5007:488:4,0.97
+Aplodactylus,punctatus,-8.25,-79.25,5007:489:1,1.00
+Aplodactylus,punctatus,-9.25,-78.25,5007:498:1,0.97
+Aplodactylus,punctatus,-9.25,-78.75,5007:498:2,1.00
+Aplodactylus,punctatus,-9.75,-78.25,5007:498:3,1.00
+Aplodactylus,punctatus,-5.75,-80.75,5008:350:4,0.81
+Aplodactylus,punctatus,-5.25,-81.25,5008:351:1,0.86
+Aplodactylus,punctatus,-5.75,-81.25,5008:351:3,0.87
+Aplodactylus,punctatus,-6.25,-80.25,5008:360:1,0.85
+Aplodactylus,punctatus,-6.75,-80.25,5008:360:3,0.95
+Aplodactylus,punctatus,-6.75,-80.75,5008:360:4,0.90
+Aplodactylus,punctatus,-6.25,-81.25,5008:361:1,0.83
+Aplodactylus,punctatus,-7.25,-80.25,5008:370:1,0.94
+Aplodactylus,punctatus,-10.25,-77.75,5107:207:2,1.00
+Aplodactylus,punctatus,-10.75,-77.75,5107:207:4,1.00
+Aplodactylus,punctatus,-10.25,-78.25,5107:208:1,0.99
+Aplodactylus,punctatus,-11.25,-77.25,5107:217:1,1.00
+Aplodactylus,punctatus,-11.25,-77.75,5107:217:2,0.99
+Aplodactylus,punctatus,-11.75,-77.25,5107:217:3,0.84
+Aplodactylus,punctatus,-12.25,-76.75,5107:226:2,1.00
+Aplodactylus,punctatus,-12.75,-76.25,5107:226:3,1.00
+Aplodactylus,punctatus,-12.75,-76.75,5107:226:4,1.00
+Aplodactylus,punctatus,-12.25,-77.25,5107:227:1,0.98
+Aplodactylus,punctatus,-13.25,-76.25,5107:236:1,1.00
+Aplodactylus,punctatus,-13.75,-76.25,5107:236:3,1.00
+Aplodactylus,punctatus,-14.25,-75.75,5107:245:2,1.00
+Aplodactylus,punctatus,-14.75,-75.25,5107:245:3,1.00
+Aplodactylus,punctatus,-14.75,-75.75,5107:245:4,1.00
+Aplodactylus,punctatus,-14.25,-76.25,5107:246:1,0.98
+Aplodactylus,punctatus,-15.75,-73.75,5107:353:4,0.98
+Aplodactylus,punctatus,-15.25,-74.75,5107:354:2,1.00
+Aplodactylus,punctatus,-15.75,-74.25,5107:354:3,1.00
+Aplodactylus,punctatus,-15.75,-74.75,5107:354:4,1.00
+Aplodactylus,punctatus,-16.75,-72.75,5107:362:4,1.00
+Aplodactylus,punctatus,-16.25,-73.25,5107:363:1,0.91
+Aplodactylus,punctatus,-16.25,-73.75,5107:363:2,1.00
+Aplodactylus,punctatus,-17.75,-70.75,5107:370:4,0.90
+Aplodactylus,punctatus,-17.25,-71.25,5107:371:1,0.81
+Aplodactylus,punctatus,-17.75,-71.25,5107:371:3,0.90
+Aplodactylus,punctatus,-18.25,-70.25,5107:380:1,0.91
+Aplodactylus,punctatus,-18.25,-70.75,5107:380:2,0.92
+Aplodactylus,punctatus,-18.75,-70.25,5107:380:3,0.94
+Aplodactylus,punctatus,-19.25,-70.25,5107:390:1,0.98
+Aplodactylus,punctatus,-19.75,-70.25,5107:390:3,1.00
+Aplodactylus,punctatus,-15.25,-75.25,5107:455:1,1.00
+Aplodactylus,punctatus,-20.25,-70.25,5207:100:1,1.00
+Aplodactylus,punctatus,-20.75,-70.25,5207:100:3,1.00
+Aplodactylus,punctatus,-21.25,-70.25,5207:110:1,1.00
+Aplodactylus,punctatus,-21.75,-70.25,5207:110:3,1.00
+Aplodactylus,punctatus,-22.25,-70.25,5207:120:1,1.00
+Aplodactylus,punctatus,-22.75,-70.25,5207:120:3,1.00
+Aplodactylus,punctatus,-23.25,-70.25,5207:130:1,1.00
+Aplodactylus,punctatus,-23.25,-70.75,5207:130:2,1.00
+Aplodactylus,punctatus,-23.75,-70.25,5207:130:3,1.00
+Aplodactylus,punctatus,-24.25,-70.25,5207:140:1,1.00
+Aplodactylus,punctatus,-24.25,-70.75,5207:140:2,1.00
+Aplodactylus,punctatus,-24.75,-70.25,5207:140:3,1.00
+Aplodactylus,punctatus,-24.75,-70.75,5207:140:4,1.00
+Aplodactylus,punctatus,-25.25,-70.25,5207:350:1,0.95
+Aplodactylus,punctatus,-25.25,-70.75,5207:350:2,1.00
+Aplodactylus,punctatus,-25.75,-70.75,5207:350:4,1.00
+Aplodactylus,punctatus,-28.25,-71.25,5207:381:1,1.00
+Aplodactylus,punctatus,-28.75,-71.25,5207:381:3,1.00
+Aplodactylus,punctatus,-29.25,-71.25,5207:391:1,1.00
+Aplodactylus,punctatus,-29.25,-71.75,5207:391:2,1.00
+Aplodactylus,punctatus,-29.75,-71.25,5207:391:3,1.00
+Aplodactylus,punctatus,-30.25,-71.25,5307:101:1,1.00
+Aplodactylus,punctatus,-30.25,-71.75,5307:101:2,1.00
+Aplodactylus,punctatus,-30.75,-71.75,5307:101:4,1.00
+Aplodactylus,punctatus,-31.25,-71.75,5307:111:2,1.00
+Aplodactylus,punctatus,-31.75,-71.25,5307:111:3,0.80
+Aplodactylus,punctatus,-31.75,-71.75,5307:111:4,1.00
+Aplodactylus,punctatus,-32.25,-71.25,5307:121:1,0.87
+Aplodactylus,punctatus,-32.25,-71.75,5307:121:2,1.00
+Aplodactylus,punctatus,-32.75,-71.25,5307:121:3,1.00
+Aplodactylus,punctatus,-32.75,-71.75,5307:121:4,1.00
+Aplodactylus,punctatus,-33.25,-71.75,5307:131:2,0.96
+Aplodactylus,punctatus,-33.75,-71.75,5307:131:4,0.94
+Aplodactylus,punctatus,-34.25,-71.75,5307:141:2,0.91
+Aplodactylus,punctatus,-34.75,-72.25,5307:142:3,0.86
+Aplodactylus,punctatus,-35.25,-72.25,5307:352:1,0.82
+Aplodactylus,punctatus,-35.25,-72.75,5307:352:2,0.80
+
+
+Occurrence cells used for creating environmental envelope (n = 15)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Aplodactylus,punctatus,-36.75,-73.25,5307:363:3,139,12.7341899871826,11.696400642395,32.6299171447754,34.0956649780273,84.696002304554,0,83.1979827880859,19
+Aplodactylus,punctatus,-32.75,-71.75,5307:121:4,1210,14.2182397842407,5.81501007080078,34.1778182983398,34.3138809204102,51.731001585722,0,98.8412017822266,23
+Aplodactylus,punctatus,-32.75,-77.75,5307:227:4,4195,16.7874164581299,1.30472600460052,34.3099403381348,34.6896324157715,4.36800019815564,0,168.449981689453,192
+Aplodactylus,punctatus,-32.75,-71.25,5307:121:3,39,14.4264144897461,9.40999794006348,33.5287475585938,34.173282623291,52.8765320777893,0,100.134544372559,2
+Aplodactylus,punctatus,-29.25,-71.75,5207:391:2,2236,14.94105052948,3.00685691833496,34.5065002441406,34.562744140625,40.7119989395142,0,107.752075195313,73
+Aplodactylus,punctatus,-27.25,-70.75,5207:370:2,262,15.9734497070313,12.5804443359375,33.9630699157715,34.3030738830566,52.3407533764839,0,109.198280334473,7
+Aplodactylus,punctatus,-23.75,-70.25,5207:130:3,135,17.6213150024414,8.84118556976318,33.9579811096191,34.5312309265137,53.5389743745327,0,83.5275726318359,4
+Aplodactylus,punctatus,-23.25,-70.25,5207:130:1,138,17.8090858459473,8.908935546875,34.1494827270508,34.5949096679688,53.8072474300861,0,70.6635589599609,2
+Aplodactylus,punctatus,-23.25,-70.75,5207:130:2,2532,17.5889472961426,2.78435492515564,34.6276435852051,34.5805931091309,52.8189986944199,0,104.503341674805,24
+Aplodactylus,punctatus,-20.25,-70.25,5207:100:1,614,18.5972442626953,12.6888027191162,34.7680511474609,34.8502044677734,65.7939985394478,0,18.5415649414063,21
+Aplodactylus,punctatus,-17.75,-71.25,5107:371:3,471,19.3970279693604,19.3074588775635,34.7934646606445,35.0859298706055,80.4890021681786,0,224.781539916992,18
+Aplodactylus,punctatus,-16.75,-72.75,5107:362:4,490,18.9245052337646,13.4061994552612,34.8480911254883,34.8495559692383,85.76700091362,0,29.3760986328125,23
+Aplodactylus,punctatus,-15.25,-75.25,5107:455:1,426,17.2725811004639,17.7507591247559,34.9425811767578,34.9931297302246,53.1059987843037,0,216.2265625,18
+Aplodactylus,punctatus,-11.75,-77.25,5107:217:3,87,18.2189998626709,17.7786464691162,34.9571685791016,35.1131286621094,93.9470008015633,0,181.702758789063,19
+Aplodactylus,punctatus,-11.25,-77.75,5107:217:2,137,18.5337257385254,15.1847133636475,34.9672966003418,35.0749588012695,86.4040032029152,0,45.1016273498535,25

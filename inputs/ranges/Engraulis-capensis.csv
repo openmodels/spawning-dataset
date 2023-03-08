@@ -1,0 +1,170 @@
+Mapping parameters for Engraulis capensis (Southern African anchovy)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 47,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,53,205,450
+Temperature (°C),1,16.2,17.23,19.82,21.06
+Salinity (psu),1,34.54,35.04,36.04,36.54
+Primary Production (mgC·m-3·day-1) ,1,11.05,18.16,96.18,172.22
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,23.91,124.73,220.83,250.7
+Distance to Land (km),0,10,13.6,287.4,336
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 127): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Engraulis,capensis,-19.75,12.75,3101:392:4,0.09
+Engraulis,capensis,-22.75,13.25,3201:123:3,0.15
+Engraulis,capensis,-23.25,13.25,3201:133:1,0.01
+Engraulis,capensis,-27.75,14.75,3201:374:4,0.17
+Engraulis,capensis,-28.75,15.25,3201:485:3,0.10
+Engraulis,capensis,-29.75,15.75,3201:495:4,0.04
+Engraulis,capensis,-30.25,15.25,3301:205:1,0.14
+Engraulis,capensis,-30.75,15.75,3301:205:4,0.16
+Engraulis,capensis,-30.25,16.25,3301:206:1,0.07
+Engraulis,capensis,-31.75,16.25,3301:216:3,0.13
+Engraulis,capensis,-32.25,16.25,3301:226:1,0.07
+Engraulis,capensis,-33.75,18.75,3301:238:4,0.01
+Engraulis,capensis,-35.25,19.25,3301:459:1,0.11
+Engraulis,capensis,-35.75,19.75,3301:459:4,0.12
+Engraulis,capensis,-36.25,19.75,3301:469:2,0.07
+Engraulis,capensis,-33.75,22.75,3302:132:4,0.04
+Engraulis,capensis,-33.75,23.25,3302:133:3,0.02
+Engraulis,capensis,-35.75,20.25,3302:350:3,0.18
+Engraulis,capensis,-35.75,22.25,3302:352:3,0.04
+Engraulis,capensis,-36.75,20.25,3302:360:3,0.16
+Engraulis,capensis,-36.75,21.25,3302:361:3,0.14
+Engraulis,capensis,-15.75,11.75,3101:351:4,0.20
+Engraulis,capensis,-15.75,12.25,3101:352:3,0.39
+Engraulis,capensis,-20.25,12.75,3201:102:2,0.28
+Engraulis,capensis,-20.25,13.25,3201:103:1,0.30
+Engraulis,capensis,-20.75,13.75,3201:103:4,0.27
+Engraulis,capensis,-21.25,13.25,3201:113:1,0.22
+Engraulis,capensis,-22.25,13.25,3201:123:1,0.34
+Engraulis,capensis,-26.75,13.75,3201:363:4,0.28
+Engraulis,capensis,-27.25,14.25,3201:374:1,0.23
+Engraulis,capensis,-28.25,14.75,3201:384:2,0.33
+Engraulis,capensis,-29.25,14.75,3201:394:2,0.23
+Engraulis,capensis,-29.25,15.25,3201:495:1,0.23
+Engraulis,capensis,-29.75,15.25,3201:495:3,0.27
+Engraulis,capensis,-31.25,16.25,3301:216:1,0.27
+Engraulis,capensis,-31.25,16.75,3301:216:2,0.37
+Engraulis,capensis,-31.75,16.75,3301:216:4,0.36
+Engraulis,capensis,-33.75,26.75,3302:236:4,0.31
+Engraulis,capensis,-35.25,22.75,3302:352:2,0.32
+Engraulis,capensis,-36.25,20.25,3302:360:1,0.29
+Engraulis,capensis,-36.75,20.75,3302:360:4,0.27
+Engraulis,capensis,-36.25,21.75,3302:361:2,0.20
+Engraulis,capensis,-16.25,11.25,3101:361:1,0.48
+Engraulis,capensis,-18.75,11.25,3101:381:3,0.49
+Engraulis,capensis,-18.75,12.25,3101:382:3,0.42
+Engraulis,capensis,-19.25,12.25,3101:392:1,0.51
+Engraulis,capensis,-19.75,13.25,3101:393:3,0.57
+Engraulis,capensis,-20.25,11.75,3201:101:2,0.42
+Engraulis,capensis,-21.75,13.25,3201:113:3,0.43
+Engraulis,capensis,-22.25,12.75,3201:122:2,0.59
+Engraulis,capensis,-22.75,12.75,3201:122:4,0.53
+Engraulis,capensis,-28.25,14.25,3201:384:1,0.46
+Engraulis,capensis,-28.75,14.25,3201:384:3,0.59
+Engraulis,capensis,-28.75,14.75,3201:384:4,0.55
+Engraulis,capensis,-30.25,15.75,3301:205:2,0.40
+Engraulis,capensis,-32.25,16.75,3301:226:2,0.48
+Engraulis,capensis,-32.75,16.75,3301:226:4,0.55
+Engraulis,capensis,-32.75,17.25,3301:227:3,0.41
+Engraulis,capensis,-33.25,17.25,3301:237:1,0.59
+Engraulis,capensis,-33.75,17.75,3301:237:4,0.59
+Engraulis,capensis,-35.25,19.75,3301:459:2,0.54
+Engraulis,capensis,-34.75,24.25,3302:144:3,0.42
+Engraulis,capensis,-35.25,20.75,3302:350:2,0.49
+Engraulis,capensis,-35.75,20.75,3302:350:4,0.41
+Engraulis,capensis,-36.25,20.75,3302:360:2,0.42
+Engraulis,capensis,-36.25,21.25,3302:361:1,0.51
+Engraulis,capensis,-18.75,12.75,3101:382:4,0.75
+Engraulis,capensis,-19.75,11.75,3101:391:4,0.74
+Engraulis,capensis,-19.25,12.75,3101:392:2,0.65
+Engraulis,capensis,-20.75,12.75,3201:102:4,0.67
+Engraulis,capensis,-21.25,12.75,3201:112:2,0.78
+Engraulis,capensis,-30.75,16.25,3301:206:3,0.62
+Engraulis,capensis,-34.25,18.75,3301:248:2,0.63
+Engraulis,capensis,-34.75,18.25,3301:248:3,0.72
+Engraulis,capensis,-34.25,25.75,3302:245:2,0.78
+Engraulis,capensis,-35.25,20.25,3302:350:1,0.61
+Engraulis,capensis,-35.75,21.25,3302:351:3,0.71
+Engraulis,capensis,-16.25,11.75,3101:361:2,1.00
+Engraulis,capensis,-16.75,11.25,3101:361:3,1.00
+Engraulis,capensis,-16.75,11.75,3101:361:4,1.00
+Engraulis,capensis,-17.25,11.25,3101:371:1,1.00
+Engraulis,capensis,-17.25,11.75,3101:371:2,1.00
+Engraulis,capensis,-17.75,11.25,3101:371:3,0.99
+Engraulis,capensis,-17.75,11.75,3101:371:4,1.00
+Engraulis,capensis,-18.25,11.75,3101:381:2,0.84
+Engraulis,capensis,-18.75,11.75,3101:381:4,1.00
+Engraulis,capensis,-18.25,12.25,3101:382:1,1.00
+Engraulis,capensis,-19.25,11.75,3101:391:2,0.94
+Engraulis,capensis,-19.75,12.25,3101:392:3,0.80
+Engraulis,capensis,-20.75,8.75,3200:208:4,1.00
+Engraulis,capensis,-20.25,12.25,3201:102:1,1.00
+Engraulis,capensis,-20.75,12.25,3201:102:3,0.80
+Engraulis,capensis,-21.75,12.75,3201:112:4,0.88
+Engraulis,capensis,-34.25,17.75,3301:247:2,0.92
+Engraulis,capensis,-34.25,18.25,3301:248:1,1.00
+Engraulis,capensis,-34.75,18.75,3301:248:4,1.00
+Engraulis,capensis,-34.25,19.25,3301:249:1,0.84
+Engraulis,capensis,-34.75,19.25,3301:249:3,1.00
+Engraulis,capensis,-34.75,19.75,3301:249:4,1.00
+Engraulis,capensis,-33.75,23.75,3302:133:4,1.00
+Engraulis,capensis,-33.75,24.75,3302:134:4,1.00
+Engraulis,capensis,-34.25,20.25,3302:140:1,1.00
+Engraulis,capensis,-34.25,20.75,3302:140:2,1.00
+Engraulis,capensis,-34.75,20.25,3302:140:3,1.00
+Engraulis,capensis,-34.75,20.75,3302:140:4,1.00
+Engraulis,capensis,-34.25,21.25,3302:141:1,1.00
+Engraulis,capensis,-34.25,21.75,3302:141:2,1.00
+Engraulis,capensis,-34.75,21.25,3302:141:3,1.00
+Engraulis,capensis,-34.75,21.75,3302:141:4,1.00
+Engraulis,capensis,-34.25,22.25,3302:142:1,1.00
+Engraulis,capensis,-34.25,22.75,3302:142:2,1.00
+Engraulis,capensis,-34.75,22.25,3302:142:3,1.00
+Engraulis,capensis,-34.75,22.75,3302:142:4,1.00
+Engraulis,capensis,-34.25,23.25,3302:143:1,1.00
+Engraulis,capensis,-34.25,23.75,3302:143:2,1.00
+Engraulis,capensis,-34.75,23.25,3302:143:3,1.00
+Engraulis,capensis,-34.75,23.75,3302:143:4,0.85
+Engraulis,capensis,-34.25,24.25,3302:144:1,1.00
+Engraulis,capensis,-34.25,24.75,3302:144:2,1.00
+Engraulis,capensis,-33.75,25.25,3302:235:3,1.00
+Engraulis,capensis,-33.75,25.75,3302:235:4,1.00
+Engraulis,capensis,-33.75,26.25,3302:236:3,1.00
+Engraulis,capensis,-34.25,25.25,3302:245:1,1.00
+Engraulis,capensis,-35.25,21.25,3302:351:1,0.89
+Engraulis,capensis,-35.25,21.75,3302:351:2,1.00
+Engraulis,capensis,-35.75,21.75,3302:351:4,0.83
+Engraulis,capensis,-35.25,22.25,3302:352:1,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 7)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Engraulis,capensis,-37.25,21.25,3302:371:1,3832,21.060266494751,0.815436005592346,35.467845916748,34.7631301879883,11.0499998554587,0,219.49626159668,336
+Engraulis,capensis,-34.75,20.25,3302:140:3,52,17.9208240509033,15.4163007736206,35.5106086730957,35.2265510559082,26.1540003120899,0,191.946914672852,17
+Engraulis,capensis,-33.75,25.75,3302:235:4,11,18.9903545379639,19.5476131439209,35.4030494689941,35.4139671325684,48.0439998209476,0,217.993179321289,10
+Engraulis,capensis,-22.25,11.75,3201:121:2,2607,18.1903457641602,2.62650203704834,35.3420181274414,34.8962287902832,22.902999073267,0,222.824111938477,255
+Engraulis,capensis,-21.75,13.75,3201:113:4,101,16.2039661407471,15.0836448669434,35.222095489502,35.2170867919922,103.366002440453,0,23.9148406982422,25
+Engraulis,capensis,-17.25,11.75,3101:371:2,123,18.052318572998,19.1247787475586,35.7944030761719,35.630256652832,75.8208632469177,0,202.937149047852,16
+Engraulis,capensis,-16.75,11.75,3101:361:4,75,18.7098369598389,20.4209251403809,35.766544342041,35.7468109130859,91.3859978318214,0,213.814559936523,18

@@ -1,0 +1,268 @@
+Mapping parameters for Paralabrax nebulifer (Barred sand bass)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,34,17,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,20,30,183
+Temperature (°C),1,12.32,17.21,25.18,29.38
+Salinity (psu),1,32.44,33.5,35.04,35.54
+Primary Production,1,293,727,1489,1885
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,3,6,98,161
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 198): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Paralabrax,nebulifer,17.25,-100.25,7110:370:1,0.17
+Paralabrax,nebulifer,17.25,-100.75,7110:370:2,0.17
+Paralabrax,nebulifer,17.75,-102.75,7110:372:4,0.05
+Paralabrax,nebulifer,18.75,-110.75,7111:380:4,0.08
+Paralabrax,nebulifer,18.75,-111.25,7111:381:3,0.08
+Paralabrax,nebulifer,19.25,-110.75,7111:390:2,0.10
+Paralabrax,nebulifer,22.75,-105.75,7210:225:4,0.12
+Paralabrax,nebulifer,25.75,-108.75,7210:458:4,0.04
+Paralabrax,nebulifer,27.25,-109.75,7210:479:2,0.13
+Paralabrax,nebulifer,23.75,-111.25,7211:131:3,0.14
+Paralabrax,nebulifer,24.75,-115.75,7211:245:4,0.18
+Paralabrax,nebulifer,27.75,-113.75,7211:373:4,0.03
+Paralabrax,nebulifer,28.25,-111.25,7211:381:1,0.16
+Paralabrax,nebulifer,28.25,-111.75,7211:381:2,0.07
+Paralabrax,nebulifer,28.75,-112.25,7211:382:3,0.04
+Paralabrax,nebulifer,28.75,-112.75,7211:382:4,0.14
+Paralabrax,nebulifer,28.75,-113.75,7211:383:4,0.03
+Paralabrax,nebulifer,27.75,-115.75,7211:475:4,0.01
+Paralabrax,nebulifer,23.75,-166.25,7216:236:3,0.13
+Paralabrax,nebulifer,25.25,-170.75,7217:350:2,0.05
+Paralabrax,nebulifer,26.25,-174.25,7217:364:1,0.02
+Paralabrax,nebulifer,31.25,-114.75,7311:114:2,0.04
+Paralabrax,nebulifer,17.25,-101.25,7110:371:1,0.20
+Paralabrax,nebulifer,17.75,-101.25,7110:371:3,0.20
+Paralabrax,nebulifer,17.75,-101.75,7110:371:4,0.20
+Paralabrax,nebulifer,17.75,-102.25,7110:372:3,0.23
+Paralabrax,nebulifer,18.25,-102.25,7110:382:1,0.29
+Paralabrax,nebulifer,18.25,-102.75,7110:382:2,0.29
+Paralabrax,nebulifer,18.25,-103.25,7110:383:1,0.33
+Paralabrax,nebulifer,18.25,-103.75,7110:383:2,0.33
+Paralabrax,nebulifer,18.75,-103.75,7110:383:4,0.33
+Paralabrax,nebulifer,18.75,-104.25,7110:384:3,0.36
+Paralabrax,nebulifer,19.75,-105.75,7110:495:4,0.22
+Paralabrax,nebulifer,18.25,-114.75,7111:384:2,0.25
+Paralabrax,nebulifer,24.75,-108.75,7210:248:4,0.37
+Paralabrax,nebulifer,25.25,-108.75,7210:458:2,0.35
+Paralabrax,nebulifer,26.75,-109.25,7210:469:3,0.28
+Paralabrax,nebulifer,23.25,-110.75,7211:130:2,0.38
+Paralabrax,nebulifer,25.25,-110.25,7211:350:1,0.24
+Paralabrax,nebulifer,25.25,-113.25,7211:353:1,0.35
+Paralabrax,nebulifer,26.25,-110.75,7211:360:2,0.25
+Paralabrax,nebulifer,27.25,-110.25,7211:370:1,0.29
+Paralabrax,nebulifer,27.75,-110.75,7211:370:4,0.38
+Paralabrax,nebulifer,28.75,-111.75,7211:381:4,0.21
+Paralabrax,nebulifer,28.25,-112.25,7211:382:1,0.25
+Paralabrax,nebulifer,28.25,-112.75,7211:382:2,0.27
+Paralabrax,nebulifer,29.25,-112.25,7211:392:1,0.34
+Paralabrax,nebulifer,29.75,-112.75,7211:392:4,0.34
+Paralabrax,nebulifer,29.25,-113.25,7211:393:1,0.32
+Paralabrax,nebulifer,29.25,-113.75,7211:393:2,0.36
+Paralabrax,nebulifer,29.25,-118.25,7211:498:1,0.37
+Paralabrax,nebulifer,30.25,-112.75,7311:102:2,0.30
+Paralabrax,nebulifer,30.75,-112.75,7311:102:4,0.35
+Paralabrax,nebulifer,30.25,-113.75,7311:103:2,0.21
+Paralabrax,nebulifer,30.75,-113.75,7311:103:4,0.33
+Paralabrax,nebulifer,30.25,-114.25,7311:104:1,0.37
+Paralabrax,nebulifer,30.75,-114.25,7311:104:3,0.35
+Paralabrax,nebulifer,30.75,-114.75,7311:104:4,0.28
+Paralabrax,nebulifer,31.75,-113.75,7311:113:4,0.23
+Paralabrax,nebulifer,31.25,-114.25,7311:114:1,0.27
+Paralabrax,nebulifer,31.75,-114.25,7311:114:3,0.31
+Paralabrax,nebulifer,31.75,-114.75,7311:114:4,0.37
+Paralabrax,nebulifer,19.25,-104.25,7110:394:1,0.45
+Paralabrax,nebulifer,19.25,-104.75,7110:394:2,0.45
+Paralabrax,nebulifer,19.25,-105.25,7110:495:1,0.53
+Paralabrax,nebulifer,19.75,-105.25,7110:495:3,0.53
+Paralabrax,nebulifer,20.25,-105.25,7210:205:1,0.57
+Paralabrax,nebulifer,20.25,-105.75,7210:205:2,0.57
+Paralabrax,nebulifer,20.75,-105.25,7210:205:3,0.57
+Paralabrax,nebulifer,20.75,-105.75,7210:205:4,0.57
+Paralabrax,nebulifer,21.25,-105.25,7210:215:1,0.59
+Paralabrax,nebulifer,21.25,-105.75,7210:215:2,0.49
+Paralabrax,nebulifer,21.75,-105.25,7210:215:3,0.59
+Paralabrax,nebulifer,21.75,-105.75,7210:215:4,0.59
+Paralabrax,nebulifer,23.75,-106.75,7210:236:4,0.51
+Paralabrax,nebulifer,23.75,-107.75,7210:237:4,0.54
+Paralabrax,nebulifer,25.25,-108.25,7210:458:1,0.44
+Paralabrax,nebulifer,25.75,-109.25,7210:459:3,0.51
+Paralabrax,nebulifer,26.25,-109.25,7210:469:1,0.40
+Paralabrax,nebulifer,26.25,-109.75,7210:469:2,0.40
+Paralabrax,nebulifer,26.75,-109.75,7210:469:4,0.40
+Paralabrax,nebulifer,24.25,-112.25,7211:142:1,0.58
+Paralabrax,nebulifer,24.75,-112.75,7211:142:4,0.50
+Paralabrax,nebulifer,26.75,-110.25,7211:360:3,0.40
+Paralabrax,nebulifer,26.25,-111.25,7211:361:1,0.40
+Paralabrax,nebulifer,26.75,-111.25,7211:361:3,0.46
+Paralabrax,nebulifer,26.75,-111.75,7211:361:4,0.46
+Paralabrax,nebulifer,27.25,-110.75,7211:370:2,0.46
+Paralabrax,nebulifer,27.25,-111.75,7211:371:2,0.46
+Paralabrax,nebulifer,27.75,-111.25,7211:371:3,0.46
+Paralabrax,nebulifer,27.25,-112.25,7211:372:1,0.46
+Paralabrax,nebulifer,28.75,-113.25,7211:383:3,0.45
+Paralabrax,nebulifer,29.75,-112.25,7211:392:3,0.54
+Paralabrax,nebulifer,29.75,-113.25,7211:393:3,0.40
+Paralabrax,nebulifer,29.75,-113.75,7211:393:4,0.40
+Paralabrax,nebulifer,29.75,-114.25,7211:394:3,0.40
+Paralabrax,nebulifer,28.25,-115.25,7211:485:1,0.52
+Paralabrax,nebulifer,28.75,-118.25,7211:488:3,0.40
+Paralabrax,nebulifer,29.25,-115.75,7211:495:2,0.59
+Paralabrax,nebulifer,29.75,-115.75,7211:495:4,0.43
+Paralabrax,nebulifer,30.25,-113.25,7311:103:1,0.40
+Paralabrax,nebulifer,30.75,-113.25,7311:103:3,0.40
+Paralabrax,nebulifer,30.25,-114.75,7311:104:2,0.40
+Paralabrax,nebulifer,31.25,-113.25,7311:113:1,0.40
+Paralabrax,nebulifer,31.25,-113.75,7311:113:2,0.40
+Paralabrax,nebulifer,30.75,-115.75,7311:205:4,0.59
+Paralabrax,nebulifer,30.75,-116.25,7311:206:3,0.44
+Paralabrax,nebulifer,32.25,-119.25,7311:229:1,0.56
+Paralabrax,nebulifer,21.25,-106.25,7210:216:1,0.64
+Paralabrax,nebulifer,21.75,-106.25,7210:216:3,0.64
+Paralabrax,nebulifer,21.75,-106.75,7210:216:4,0.61
+Paralabrax,nebulifer,22.25,-105.75,7210:225:2,0.61
+Paralabrax,nebulifer,22.25,-106.25,7210:226:1,0.67
+Paralabrax,nebulifer,22.75,-106.25,7210:226:3,0.67
+Paralabrax,nebulifer,23.25,-106.25,7210:236:1,0.72
+Paralabrax,nebulifer,23.25,-106.75,7210:236:2,0.72
+Paralabrax,nebulifer,23.75,-107.25,7210:237:3,0.79
+Paralabrax,nebulifer,24.25,-107.25,7210:247:1,0.70
+Paralabrax,nebulifer,24.25,-107.75,7210:247:2,0.71
+Paralabrax,nebulifer,24.75,-107.75,7210:247:4,0.71
+Paralabrax,nebulifer,24.25,-108.25,7210:248:1,0.70
+Paralabrax,nebulifer,24.75,-108.25,7210:248:3,0.73
+Paralabrax,nebulifer,25.75,-109.75,7210:459:4,0.79
+Paralabrax,nebulifer,22.75,-110.25,7211:120:3,0.79
+Paralabrax,nebulifer,25.75,-113.25,7211:353:3,0.68
+Paralabrax,nebulifer,27.75,-112.25,7211:372:3,0.64
+Paralabrax,nebulifer,27.75,-112.75,7211:372:4,0.64
+Paralabrax,nebulifer,28.75,-115.25,7211:485:3,0.63
+Paralabrax,nebulifer,32.75,-119.25,7311:229:3,0.70
+Paralabrax,nebulifer,33.25,-119.25,7311:239:1,0.72
+Paralabrax,nebulifer,33.25,-119.75,7311:239:2,0.72
+Paralabrax,nebulifer,33.75,-119.25,7311:239:3,0.70
+Paralabrax,nebulifer,33.75,-119.75,7311:239:4,0.72
+Paralabrax,nebulifer,33.75,-120.25,7312:130:3,0.60
+Paralabrax,nebulifer,22.75,-109.75,7210:229:4,0.84
+Paralabrax,nebulifer,23.25,-109.25,7210:239:1,0.86
+Paralabrax,nebulifer,23.25,-109.75,7210:239:2,0.83
+Paralabrax,nebulifer,23.75,-109.25,7210:239:3,0.98
+Paralabrax,nebulifer,23.75,-109.75,7210:239:4,1.00
+Paralabrax,nebulifer,24.25,-109.75,7210:249:2,1.00
+Paralabrax,nebulifer,25.25,-109.25,7210:459:1,0.99
+Paralabrax,nebulifer,23.25,-110.25,7211:130:1,1.00
+Paralabrax,nebulifer,23.75,-110.25,7211:130:3,1.00
+Paralabrax,nebulifer,23.75,-110.75,7211:130:4,1.00
+Paralabrax,nebulifer,23.75,-111.75,7211:131:4,0.87
+Paralabrax,nebulifer,24.25,-110.25,7211:140:1,1.00
+Paralabrax,nebulifer,24.25,-110.75,7211:140:2,1.00
+Paralabrax,nebulifer,24.75,-110.25,7211:140:3,0.96
+Paralabrax,nebulifer,24.75,-110.75,7211:140:4,0.96
+Paralabrax,nebulifer,24.25,-111.25,7211:141:1,1.00
+Paralabrax,nebulifer,24.25,-111.75,7211:141:2,1.00
+Paralabrax,nebulifer,24.75,-111.75,7211:141:4,1.00
+Paralabrax,nebulifer,24.75,-112.25,7211:142:3,1.00
+Paralabrax,nebulifer,25.25,-110.75,7211:350:2,0.96
+Paralabrax,nebulifer,25.75,-110.75,7211:350:4,0.96
+Paralabrax,nebulifer,25.75,-111.25,7211:351:3,0.96
+Paralabrax,nebulifer,25.25,-112.25,7211:352:1,1.00
+Paralabrax,nebulifer,25.25,-112.75,7211:352:2,0.99
+Paralabrax,nebulifer,25.75,-112.25,7211:352:3,1.00
+Paralabrax,nebulifer,25.75,-112.75,7211:352:4,1.00
+Paralabrax,nebulifer,26.25,-112.25,7211:362:1,1.00
+Paralabrax,nebulifer,26.25,-112.75,7211:362:2,1.00
+Paralabrax,nebulifer,26.75,-112.75,7211:362:4,1.00
+Paralabrax,nebulifer,26.25,-113.25,7211:363:1,0.96
+Paralabrax,nebulifer,26.25,-113.75,7211:363:2,0.98
+Paralabrax,nebulifer,26.75,-113.25,7211:363:3,1.00
+Paralabrax,nebulifer,26.75,-113.75,7211:363:4,1.00
+Paralabrax,nebulifer,26.75,-114.25,7211:364:3,0.99
+Paralabrax,nebulifer,27.25,-113.75,7211:373:2,1.00
+Paralabrax,nebulifer,27.25,-114.25,7211:374:1,1.00
+Paralabrax,nebulifer,27.25,-114.75,7211:374:2,1.00
+Paralabrax,nebulifer,27.75,-114.25,7211:374:3,1.00
+Paralabrax,nebulifer,27.75,-114.75,7211:374:4,1.00
+Paralabrax,nebulifer,28.25,-114.25,7211:384:1,1.00
+Paralabrax,nebulifer,28.75,-114.25,7211:384:3,1.00
+Paralabrax,nebulifer,28.75,-114.75,7211:384:4,1.00
+Paralabrax,nebulifer,29.25,-114.75,7211:394:2,1.00
+Paralabrax,nebulifer,27.75,-115.25,7211:475:3,1.00
+Paralabrax,nebulifer,28.25,-115.75,7211:485:2,1.00
+Paralabrax,nebulifer,29.25,-115.25,7211:495:1,0.92
+Paralabrax,nebulifer,29.75,-115.25,7211:495:3,1.00
+Paralabrax,nebulifer,30.25,-115.75,7311:205:2,1.00
+Paralabrax,nebulifer,30.25,-116.25,7311:206:1,1.00
+Paralabrax,nebulifer,31.25,-116.25,7311:216:1,0.92
+Paralabrax,nebulifer,31.25,-116.75,7311:216:2,0.95
+Paralabrax,nebulifer,31.75,-116.75,7311:216:4,0.95
+Paralabrax,nebulifer,32.25,-116.75,7311:226:2,0.95
+Paralabrax,nebulifer,32.25,-117.25,7311:227:1,0.95
+Paralabrax,nebulifer,32.75,-117.25,7311:227:3,1.00
+Paralabrax,nebulifer,32.75,-118.25,7311:228:3,0.95
+Paralabrax,nebulifer,32.75,-118.75,7311:228:4,0.95
+Paralabrax,nebulifer,33.25,-117.25,7311:237:1,1.00
+Paralabrax,nebulifer,33.25,-117.75,7311:237:2,1.00
+Paralabrax,nebulifer,33.75,-117.75,7311:237:4,1.00
+Paralabrax,nebulifer,33.25,-118.25,7311:238:1,0.90
+Paralabrax,nebulifer,33.25,-118.75,7311:238:2,0.87
+Paralabrax,nebulifer,33.75,-118.25,7311:238:3,0.87
+Paralabrax,nebulifer,33.75,-118.75,7311:238:4,0.87
+
+
+Occurrence cells used for creating environmental envelope (n = 34)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Paralabrax,nebulifer,22.25,-105.75,7210:225:2,52,26.81,34.79,1399,0,19
+Paralabrax,nebulifer,22.75,-109.75,7210:229:4,1826,25.18,34.68,656,0,24
+Paralabrax,nebulifer,23.25,-110.25,7211:130:1,646,24.27,34.59,727,0,20
+Paralabrax,nebulifer,24.25,-112.25,7211:142:1,650,22.47,34.27,833,0,90
+Paralabrax,nebulifer,24.25,-111.75,7211:141:2,146,23.23,34.27,997,0,24
+Paralabrax,nebulifer,24.25,-110.75,7211:140:2,78,24.24,34.45,890,0,5
+Paralabrax,nebulifer,24.25,-110.25,7211:140:1,189,24.24,35.04,809,0,13
+Paralabrax,nebulifer,24.75,-112.25,7211:142:3,123,22.47,34.27,968,0,24
+Paralabrax,nebulifer,25.75,-109.25,7210:459:3,158,25.23,35.06,1673,0,16
+Paralabrax,nebulifer,26.25,-114.75,7211:364:2,3066,19.91,33.77,648,0,161
+Paralabrax,nebulifer,26.25,-113.25,7211:363:1,128,21.08,34.08,935,0,86
+Paralabrax,nebulifer,26.25,-112.75,7211:362:2,62,22.33,34.27,1274,0,22
+Paralabrax,nebulifer,26.25,-112.25,7211:362:1,5,22.33,34.27,1228,0,6
+Paralabrax,nebulifer,26.75,-113.75,7211:363:4,194,21.08,33.77,1286,0,20
+Paralabrax,nebulifer,26.75,-113.25,7211:363:3,46,21.08,33.77,1444,0,18
+Paralabrax,nebulifer,27.25,-114.75,7211:374:2,1416,18.96,33.63,1004,0,24
+Paralabrax,nebulifer,27.25,-114.25,7211:374:1,234,18.96,33.77,1288,0,10
+Paralabrax,nebulifer,27.75,-115.25,7211:475:3,1001,18.85,33.63,947,0,98
+Paralabrax,nebulifer,27.75,-114.75,7211:374:4,119,18.96,33.63,1087,0,15
+Paralabrax,nebulifer,27.75,-114.25,7211:374:3,4,18.96,33.63,1117,0,10
+Paralabrax,nebulifer,28.25,-115.75,7211:485:2,2142,18.41,33.65,807,0,98
+Paralabrax,nebulifer,28.25,-115.25,7211:485:1,124,18.41,33.65,519,0,22
+Paralabrax,nebulifer,28.25,-114.25,7211:384:1,54,18.57,33.65,782,0,23
+Paralabrax,nebulifer,28.25,-112.25,7211:382:1,618,23.08,35.22,1733,0,73
+Paralabrax,nebulifer,28.75,-114.25,7211:384:3,92,18.57,33.65,1224,0,12
+Paralabrax,nebulifer,30.25,-115.75,7311:205:2,89,19.47,33.54,1398,0,11
+Paralabrax,nebulifer,31.75,-116.75,7311:216:4,570,17.82,33.45,1189,0,18
+Paralabrax,nebulifer,32.75,-117.25,7311:227:3,417,17.36,33.5,1056,0,17
+Paralabrax,nebulifer,33.25,-118.25,7311:238:1,783,16.72,33.5,896,0,22
+Paralabrax,nebulifer,33.25,-117.75,7311:237:2,707,17.21,33.5,1014,0,22
+Paralabrax,nebulifer,33.25,-117.25,7311:237:1,346,17.21,33.5,1294,0,6
+Paralabrax,nebulifer,33.75,-118.75,7311:238:4,709,16.72,33.47,1121,0,85
+Paralabrax,nebulifer,33.75,-118.25,7311:238:3,435,16.72,33.47,1489,0,15
+Paralabrax,nebulifer,33.75,-117.75,7311:237:4,279,17.21,33.5,1438,0,3

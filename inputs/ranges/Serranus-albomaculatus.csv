@@ -1,0 +1,76 @@
+Mapping parameters for Paralabrax albomaculatus (Camotillo)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 87,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,10,16,43,75
+Temperature (°C),1,22.04,23.53,25.59,29.79
+Salinity (psu),1,33.2,33.7,34.7,35.2
+Primary Production,1,264,429,791,826
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,14,16,111,241.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 20): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Paralabrax,albomaculatus,-0.75,-80.75,5008:100:4,0.34
+Paralabrax,albomaculatus,-1.25,-81.25,5008:111:1,0.49
+Paralabrax,albomaculatus,1.75,-91.75,7009:111:4,0.78
+Paralabrax,albomaculatus,-0.75,-89.25,5008:209:3,1.00
+Paralabrax,albomaculatus,-0.75,-89.75,5008:209:4,1.00
+Paralabrax,albomaculatus,-1.25,-89.75,5008:219:2,1.00
+Paralabrax,albomaculatus,-0.25,-90.25,5009:100:1,1.00
+Paralabrax,albomaculatus,-0.25,-90.75,5009:100:2,1.00
+Paralabrax,albomaculatus,-0.75,-90.25,5009:100:3,1.00
+Paralabrax,albomaculatus,-0.75,-90.75,5009:100:4,1.00
+Paralabrax,albomaculatus,-0.25,-91.25,5009:101:1,1.00
+Paralabrax,albomaculatus,-0.25,-91.75,5009:101:2,1.00
+Paralabrax,albomaculatus,-1.25,-90.25,5009:110:1,1.00
+Paralabrax,albomaculatus,-1.25,-90.75,5009:110:2,1.00
+Paralabrax,albomaculatus,-1.25,-91.25,5009:111:1,0.90
+Paralabrax,albomaculatus,0.25,-89.75,7008:209:2,1.00
+Paralabrax,albomaculatus,0.25,-90.25,7009:100:1,1.00
+Paralabrax,albomaculatus,0.75,-90.75,7009:100:4,1.00
+Paralabrax,albomaculatus,0.25,-91.25,7009:101:1,1.00
+Paralabrax,albomaculatus,0.25,-91.75,7009:101:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 20)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Paralabrax,albomaculatus,-1.25,-91.25,5009:111:1,3013,23.38,34.65,652,0,111
+Paralabrax,albomaculatus,-1.25,-90.75,5009:110:2,1842,23.53,34.58,583,0,111
+Paralabrax,albomaculatus,-1.25,-90.25,5009:110:1,342,23.53,34.58,538,0,28
+Paralabrax,albomaculatus,-1.25,-89.75,5008:219:2,437,23.66,34.5,510,0,28
+Paralabrax,albomaculatus,-0.75,-89.75,5008:209:4,357,23.91,34.31,522,0,28
+Paralabrax,albomaculatus,-0.75,-89.25,5008:209:3,518,23.91,34.31,489,0,26
+Paralabrax,albomaculatus,-0.75,-88.25,5008:208:3,1466,24.03,34.25,501,0,167
+Paralabrax,albomaculatus,-0.75,-91.25,5009:101:3,400,23.55,34.45,826,0,14
+Paralabrax,albomaculatus,-0.75,-90.75,5009:100:4,138,23.73,34.45,584,0,22
+Paralabrax,albomaculatus,-0.75,-90.25,5009:100:3,129,23.73,34.45,510,0,22
+Paralabrax,albomaculatus,-0.25,-91.75,5009:101:2,2692,23.55,34.11,791,0,26
+Paralabrax,albomaculatus,-0.25,-91.25,5009:101:1,480,23.55,34.11,751,0,16
+Paralabrax,albomaculatus,-0.25,-90.75,5009:100:2,680,23.73,34.45,515,0,24
+Paralabrax,albomaculatus,-0.25,-90.25,5009:100:1,832,23.73,34.45,470,0,28
+Paralabrax,albomaculatus,0.25,-91.25,7009:101:1,2311,24.39,34.11,543,0,25
+Paralabrax,albomaculatus,0.25,-90.25,7009:100:1,1115,24.56,34.09,456,0,28
+Paralabrax,albomaculatus,0.25,-89.75,7008:209:2,1605,24.73,34.02,451,0,111
+Paralabrax,albomaculatus,0.75,-90.75,7009:100:4,1643,24.56,34.09,445,0,28
+Paralabrax,albomaculatus,1.25,-91.75,7009:111:2,2079,25.59,33.81,429,0,111
+Paralabrax,albomaculatus,1.75,-91.75,7009:111:4,2100,25.59,33.81,392,0,27

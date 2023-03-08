@@ -1,0 +1,184 @@
+Mapping parameters for Scorpaena guttata (California scorpionfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,37,27,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,20,30,183
+Temperature (°C),1,8.38,15.94,23.08,23.95
+Salinity (psu),1,30.84,33.45,35.31,37.84
+Primary Production,1,179,465,1710,2281.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,0,7,88,559
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 102): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Scorpaena,guttata,27.75,-113.75,7211:373:4,0.05
+Scorpaena,guttata,28.75,-113.75,7211:383:4,0.05
+Scorpaena,guttata,27.75,-115.75,7211:475:4,0.01
+Scorpaena,guttata,28.25,-111.75,7211:381:2,0.55
+Scorpaena,guttata,29.25,-112.75,7211:392:2,0.48
+Scorpaena,guttata,29.25,-115.75,7211:495:2,0.59
+Scorpaena,guttata,30.25,-113.75,7311:103:2,0.51
+Scorpaena,guttata,34.25,-120.75,7312:140:2,0.49
+Scorpaena,guttata,35.25,-121.25,7312:351:1,0.42
+Scorpaena,guttata,27.25,-111.75,7211:371:2,0.74
+Scorpaena,guttata,27.75,-111.25,7211:371:3,0.74
+Scorpaena,guttata,28.25,-111.25,7211:381:1,0.66
+Scorpaena,guttata,28.75,-111.75,7211:381:4,0.66
+Scorpaena,guttata,28.75,-112.25,7211:382:3,0.74
+Scorpaena,guttata,28.75,-115.25,7211:485:3,0.63
+Scorpaena,guttata,31.25,-114.75,7311:114:2,0.75
+Scorpaena,guttata,32.25,-119.25,7311:229:1,0.70
+Scorpaena,guttata,34.25,-118.25,7311:248:1,0.79
+Scorpaena,guttata,35.75,-121.25,7312:351:3,0.75
+Scorpaena,guttata,36.25,-121.25,7312:361:1,0.69
+Scorpaena,guttata,36.25,-121.75,7312:361:2,0.69
+Scorpaena,guttata,36.75,-121.75,7312:361:4,0.69
+Scorpaena,guttata,36.75,-122.25,7312:362:3,0.63
+Scorpaena,guttata,27.25,-112.25,7211:372:1,1.00
+Scorpaena,guttata,27.75,-112.25,7211:372:3,1.00
+Scorpaena,guttata,27.75,-112.75,7211:372:4,1.00
+Scorpaena,guttata,27.25,-113.75,7211:373:2,1.00
+Scorpaena,guttata,27.25,-114.25,7211:374:1,1.00
+Scorpaena,guttata,27.25,-114.75,7211:374:2,1.00
+Scorpaena,guttata,27.75,-114.25,7211:374:3,1.00
+Scorpaena,guttata,27.75,-114.75,7211:374:4,1.00
+Scorpaena,guttata,28.25,-112.25,7211:382:1,0.96
+Scorpaena,guttata,28.25,-112.75,7211:382:2,0.99
+Scorpaena,guttata,28.75,-112.75,7211:382:4,0.84
+Scorpaena,guttata,28.75,-113.25,7211:383:3,1.00
+Scorpaena,guttata,28.25,-114.25,7211:384:1,1.00
+Scorpaena,guttata,28.75,-114.25,7211:384:3,1.00
+Scorpaena,guttata,28.75,-114.75,7211:384:4,1.00
+Scorpaena,guttata,29.25,-112.25,7211:392:1,1.00
+Scorpaena,guttata,29.75,-112.25,7211:392:3,1.00
+Scorpaena,guttata,29.75,-112.75,7211:392:4,0.99
+Scorpaena,guttata,29.25,-113.25,7211:393:1,1.00
+Scorpaena,guttata,29.25,-113.75,7211:393:2,0.99
+Scorpaena,guttata,29.75,-113.25,7211:393:3,0.99
+Scorpaena,guttata,29.75,-113.75,7211:393:4,0.99
+Scorpaena,guttata,29.25,-114.75,7211:394:2,1.00
+Scorpaena,guttata,29.75,-114.25,7211:394:3,0.99
+Scorpaena,guttata,27.75,-115.25,7211:475:3,1.00
+Scorpaena,guttata,28.25,-115.25,7211:485:1,1.00
+Scorpaena,guttata,28.25,-115.75,7211:485:2,1.00
+Scorpaena,guttata,28.75,-118.25,7211:488:3,1.00
+Scorpaena,guttata,29.25,-115.25,7211:495:1,1.00
+Scorpaena,guttata,29.75,-115.25,7211:495:3,1.00
+Scorpaena,guttata,29.75,-115.75,7211:495:4,0.99
+Scorpaena,guttata,29.25,-118.25,7211:498:1,0.96
+Scorpaena,guttata,30.25,-112.75,7311:102:2,0.99
+Scorpaena,guttata,30.75,-112.75,7311:102:4,0.99
+Scorpaena,guttata,30.25,-113.25,7311:103:1,0.99
+Scorpaena,guttata,30.75,-113.25,7311:103:3,0.99
+Scorpaena,guttata,30.75,-113.75,7311:103:4,0.83
+Scorpaena,guttata,30.25,-114.25,7311:104:1,0.99
+Scorpaena,guttata,30.25,-114.75,7311:104:2,0.99
+Scorpaena,guttata,30.75,-114.25,7311:104:3,0.99
+Scorpaena,guttata,30.75,-114.75,7311:104:4,0.99
+Scorpaena,guttata,31.25,-113.25,7311:113:1,0.99
+Scorpaena,guttata,31.25,-113.75,7311:113:2,0.99
+Scorpaena,guttata,31.75,-113.75,7311:113:4,0.99
+Scorpaena,guttata,31.25,-114.25,7311:114:1,0.99
+Scorpaena,guttata,31.75,-114.25,7311:114:3,0.99
+Scorpaena,guttata,31.75,-114.75,7311:114:4,0.99
+Scorpaena,guttata,30.25,-115.75,7311:205:2,1.00
+Scorpaena,guttata,30.75,-115.75,7311:205:4,0.89
+Scorpaena,guttata,30.25,-116.25,7311:206:1,1.00
+Scorpaena,guttata,30.75,-116.25,7311:206:3,1.00
+Scorpaena,guttata,31.25,-116.25,7311:216:1,1.00
+Scorpaena,guttata,31.25,-116.75,7311:216:2,1.00
+Scorpaena,guttata,31.75,-116.75,7311:216:4,1.00
+Scorpaena,guttata,32.25,-116.75,7311:226:2,1.00
+Scorpaena,guttata,32.25,-117.25,7311:227:1,1.00
+Scorpaena,guttata,32.75,-117.25,7311:227:3,1.00
+Scorpaena,guttata,32.75,-118.25,7311:228:3,1.00
+Scorpaena,guttata,32.75,-118.75,7311:228:4,1.00
+Scorpaena,guttata,32.75,-119.25,7311:229:3,0.87
+Scorpaena,guttata,33.25,-117.25,7311:237:1,1.00
+Scorpaena,guttata,33.25,-117.75,7311:237:2,1.00
+Scorpaena,guttata,33.75,-117.75,7311:237:4,1.00
+Scorpaena,guttata,33.25,-118.25,7311:238:1,1.00
+Scorpaena,guttata,33.25,-118.75,7311:238:2,1.00
+Scorpaena,guttata,33.75,-118.25,7311:238:3,1.00
+Scorpaena,guttata,33.75,-118.75,7311:238:4,1.00
+Scorpaena,guttata,33.25,-119.25,7311:239:1,1.00
+Scorpaena,guttata,33.25,-119.75,7311:239:2,1.00
+Scorpaena,guttata,33.75,-119.25,7311:239:3,0.97
+Scorpaena,guttata,33.75,-119.75,7311:239:4,1.00
+Scorpaena,guttata,34.25,-118.75,7311:248:2,1.00
+Scorpaena,guttata,34.25,-119.25,7311:249:1,0.93
+Scorpaena,guttata,34.25,-119.75,7311:249:2,0.93
+Scorpaena,guttata,33.75,-120.25,7312:130:3,0.93
+Scorpaena,guttata,34.25,-120.25,7312:140:1,0.89
+Scorpaena,guttata,34.75,-120.25,7312:140:3,0.86
+Scorpaena,guttata,34.75,-120.75,7312:140:4,0.86
+Scorpaena,guttata,35.25,-120.75,7312:350:2,0.81
+
+
+Occurrence cells used for creating environmental envelope (n = 46)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Scorpaena,guttata,27.25,-114.25,7211:374:1,234,18.96,33.77,1288,0,10
+Scorpaena,guttata,27.75,-112.75,7211:372:4,221,22.89,35.22,1158,0,7
+Scorpaena,guttata,27.75,-111.25,7211:371:3,863,23.31,35.31,1137,0,50
+Scorpaena,guttata,27.75,-110.75,7211:370:4,371,23.95,35.31,1556,0,21
+Scorpaena,guttata,27.75,-115.25,7211:475:3,1001,18.85,33.63,947,0,98
+Scorpaena,guttata,27.75,-114.75,7211:374:4,119,18.96,33.63,1087,0,15
+Scorpaena,guttata,28.25,-115.25,7211:485:1,124,18.41,33.65,519,0,22
+Scorpaena,guttata,28.25,-114.75,7211:384:2,99,18.57,33.65,179,0,73
+Scorpaena,guttata,28.25,-114.25,7211:384:1,54,18.57,33.65,782,0,23
+Scorpaena,guttata,28.25,-112.75,7211:382:2,183,23.08,35.22,1717,0,16
+Scorpaena,guttata,28.25,-111.75,7211:381:2,220,23.33,35.22,1841,0,24
+Scorpaena,guttata,28.75,-118.25,7211:488:3,2987,18.49,33.61,465,0,24
+Scorpaena,guttata,28.75,-115.25,7211:485:3,383,18.41,33.65,1201,0,88
+Scorpaena,guttata,28.75,-114.25,7211:384:3,92,18.57,33.65,1224,0,12
+Scorpaena,guttata,28.75,-112.75,7211:382:4,376,23.08,35.22,1800,0,24
+Scorpaena,guttata,28.75,-112.25,7211:382:3,154,23.08,35.22,1860,0,20
+Scorpaena,guttata,29.25,-118.75,7211:498:2,3347,18.02,33.54,432,0,97
+Scorpaena,guttata,29.25,-118.25,7211:498:1,2358,18.02,33.54,453,0,24
+Scorpaena,guttata,29.25,-113.25,7211:393:1,282,22.58,35.22,1684,0,18
+Scorpaena,guttata,29.25,-112.25,7211:392:1,31,22.88,35.22,1674,0,9
+Scorpaena,guttata,29.75,-113.75,7211:393:4,428,22.58,35.34,1479,0,23
+Scorpaena,guttata,30.25,-116.25,7311:206:1,1443,17.88,33.54,1456,0,72
+Scorpaena,guttata,30.25,-115.75,7311:205:2,89,19.47,33.54,1398,0,11
+Scorpaena,guttata,30.75,-116.25,7311:206:3,416,17.88,33.54,1710,0,22
+Scorpaena,guttata,30.75,-114.75,7311:104:4,19,22.28,35.34,1606,0,9
+Scorpaena,guttata,31.25,-116.25,7311:216:1,175,17.82,33.54,1521,0,7
+Scorpaena,guttata,31.25,-113.75,7311:113:2,40,22.35,35.34,1360,0,23
+Scorpaena,guttata,31.75,-116.75,7311:216:4,570,17.82,33.45,1189,0,18
+Scorpaena,guttata,32.25,-117.25,7311:227:1,942,17.36,33.45,1049,0,23
+Scorpaena,guttata,32.75,-118.25,7311:228:3,979,16.97,33.5,750,0,23
+Scorpaena,guttata,32.75,-117.25,7311:227:3,417,17.36,33.5,1056,0,17
+Scorpaena,guttata,33.25,-118.25,7311:238:1,783,16.72,33.5,896,0,22
+Scorpaena,guttata,33.25,-117.75,7311:237:2,707,17.21,33.5,1014,0,22
+Scorpaena,guttata,33.25,-117.25,7311:237:1,346,17.21,33.5,1294,0,6
+Scorpaena,guttata,33.25,-119.25,7311:239:1,848,15.94,33.47,1105,0,23
+Scorpaena,guttata,33.25,-118.75,7311:238:2,1053,16.72,33.47,917,0,93
+Scorpaena,guttata,33.75,-117.75,7311:237:4,279,17.21,33.5,1438,0,3
+Scorpaena,guttata,33.75,-118.75,7311:238:4,709,16.72,33.47,1121,0,85
+Scorpaena,guttata,33.75,-118.25,7311:238:3,435,16.72,33.47,1489,0,15
+Scorpaena,guttata,34.25,-120.25,7312:140:1,253,15.27,33.38,1617,0,22
+Scorpaena,guttata,34.25,-119.75,7311:249:2,236,15.43,33.47,1617,0,19
+Scorpaena,guttata,34.25,-119.25,7311:249:1,157,15.43,33.47,1403,0,12
+Scorpaena,guttata,34.25,-118.75,7311:248:2,167,16.08,33.47,1505,0,3
+Scorpaena,guttata,34.25,-118.25,7311:248:1,6,16.08,33.47,1457,0,0
+Scorpaena,guttata,35.25,-127.75,7312:457:2,4779,15.97,33.05,405,0,559
+Scorpaena,guttata,35.25,-120.75,7312:350:2,150,14.93,33.29,1249,0,12

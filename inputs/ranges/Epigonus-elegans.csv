@@ -1,0 +1,87 @@
+Mapping parameters for Epigonus elegans ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,230,260,356,500
+Temperature (°C),1,1.29,1.79,2.18,2.68
+Salinity (psu),1,34.13,34.63,34.68,35.18
+Primary Production,1,151.5,204.4,253,311.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,439.25,514.4,687.200012207031,753.25
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 44): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Epigonus,elegans,-26.25,-79.75,5207:469:2,0.15
+Epigonus,elegans,-25.25,-82.25,5208:352:1,0.19
+Epigonus,elegans,-25.25,-85.25,5208:455:1,0.14
+Epigonus,elegans,-25.75,-87.25,5208:457:3,0.04
+Epigonus,elegans,-25.25,-90.25,5209:350:1,0.03
+Epigonus,elegans,-25.75,-92.75,5209:352:4,0.12
+Epigonus,elegans,-34.75,-119.25,5311:249:3,0.04
+Epigonus,elegans,-36.25,-114.25,5311:364:1,0.03
+Epigonus,elegans,-37.25,-114.75,5311:374:2,0.01
+Epigonus,elegans,-35.25,-117.25,5311:457:1,0.14
+Epigonus,elegans,-43.25,-98.25,5409:238:1,0.02
+Epigonus,elegans,-21.75,-81.75,5208:111:4,0.31
+Epigonus,elegans,-24.75,-82.25,5208:142:3,0.22
+Epigonus,elegans,-24.75,-88.25,5208:248:3,0.26
+Epigonus,elegans,-25.25,-88.25,5208:458:1,0.28
+Epigonus,elegans,-24.75,-91.25,5209:141:3,0.38
+Epigonus,elegans,-25.75,-90.75,5209:350:4,0.32
+Epigonus,elegans,-25.25,-91.25,5209:351:1,0.39
+Epigonus,elegans,-35.75,-116.25,5311:456:3,0.28
+Epigonus,elegans,-24.75,-88.75,5208:248:4,0.51
+Epigonus,elegans,-26.25,-80.25,5208:360:1,0.58
+Epigonus,elegans,-36.75,-113.25,5311:363:3,0.45
+Epigonus,elegans,-46.25,-83.75,5408:363:2,0.50
+Epigonus,elegans,-23.25,-83.25,5208:133:1,0.65
+Epigonus,elegans,-23.75,-84.75,5208:134:4,0.63
+Epigonus,elegans,-25.25,-89.25,5208:459:1,0.63
+Epigonus,elegans,-25.75,-89.25,5208:459:3,0.70
+Epigonus,elegans,-36.25,-113.75,5311:363:2,0.72
+Epigonus,elegans,-23.25,-82.25,5208:132:1,0.98
+Epigonus,elegans,-21.25,-81.75,5208:111:2,0.90
+Epigonus,elegans,-22.25,-81.25,5208:121:1,0.99
+Epigonus,elegans,-24.75,-85.25,5208:245:3,1.00
+Epigonus,elegans,-25.25,-81.75,5208:351:2,1.00
+Epigonus,elegans,-25.75,-82.25,5208:352:3,0.86
+Epigonus,elegans,-25.75,-82.75,5208:352:4,0.96
+Epigonus,elegans,-25.75,-83.75,5208:353:4,1.00
+Epigonus,elegans,-25.75,-84.25,5208:354:3,1.00
+Epigonus,elegans,-25.75,-84.75,5208:354:4,0.98
+Epigonus,elegans,-25.75,-85.25,5208:455:3,1.00
+Epigonus,elegans,-25.75,-86.25,5208:456:3,0.95
+Epigonus,elegans,-25.75,-86.75,5208:456:4,0.84
+Epigonus,elegans,-25.25,-87.25,5208:457:1,0.92
+Epigonus,elegans,-35.75,-115.75,5311:455:4,1.00
+Epigonus,elegans,-43.25,-97.75,5409:237:2,0.99
+
+
+Occurrence cells used for creating environmental envelope (n = 7)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Epigonus,elegans,-25.75,-86.75,5208:456:4,2178,20.05,35.18,196,0,752
+Epigonus,elegans,-25.75,-84.25,5208:354:3,2458,19.72,35.02,219,0,503
+Epigonus,elegans,-25.25,-85.25,5208:455:1,2565,19.89,35.11,210,0,612
+Epigonus,elegans,-24.75,-85.25,5208:245:3,3080,19.98,35.17,213,0,627
+Epigonus,elegans,-22.25,-81.25,5208:121:1,2788,19.67,35.08,253,0,522
+Epigonus,elegans,-21.75,-81.75,5208:111:4,2263,19.79,35.17,250,0,592
+Epigonus,elegans,-21.25,-81.75,5208:111:2,1931,19.79,35.17,253,0,644

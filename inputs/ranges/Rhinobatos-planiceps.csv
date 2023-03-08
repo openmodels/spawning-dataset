@@ -1,0 +1,268 @@
+Mapping parameters for Pseudobatos planiceps (Pacific guitarfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77 |  87,
+Bounding Box (NSWE): ,16,-20,-95,-71
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,7.77,18.3,28.15,32.35
+Salinity (psu),1,27.14,30.33,34.93,39.03
+Primary Production (mgC·m-3·day-1) ,1,9.79,25.47,86.13,121.36
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,7.27,57.05,208.62,346.48
+Distance to Land (km),0,1,7,111,180
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 205): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Pseudobatos,planiceps,10.75,-86.25,7108:206:3,0.12
+Pseudobatos,planiceps,0.75,-90.75,7009:100:4,0.19
+Pseudobatos,planiceps,5.75,-86.75,7008:456:4,0.02
+Pseudobatos,planiceps,4.25,-81.75,7008:141:2,0.16
+Pseudobatos,planiceps,8.25,-77.75,7007:487:2,0.08
+Pseudobatos,planiceps,-8.25,-79.75,5007:489:2,0.08
+Pseudobatos,planiceps,15.25,-93.75,7109:353:2,0.25
+Pseudobatos,planiceps,11.25,-86.75,7108:216:2,0.21
+Pseudobatos,planiceps,0.25,-90.25,7009:100:1,0.31
+Pseudobatos,planiceps,8.75,-82.25,7008:382:3,0.27
+Pseudobatos,planiceps,0.25,-89.75,7008:209:2,0.21
+Pseudobatos,planiceps,2.25,-78.25,7007:228:1,0.20
+Pseudobatos,planiceps,1.75,-78.25,7007:218:3,0.20
+Pseudobatos,planiceps,0.25,-79.75,7007:209:2,0.20
+Pseudobatos,planiceps,-17.25,-71.75,5107:371:2,0.29
+Pseudobatos,planiceps,-3.75,-80.25,5008:130:3,0.20
+Pseudobatos,planiceps,-2.25,-79.75,5007:229:2,0.20
+Pseudobatos,planiceps,14.75,-93.25,7109:143:3,0.55
+Pseudobatos,planiceps,8.75,-83.25,7008:383:3,0.58
+Pseudobatos,planiceps,7.75,-78.75,7007:478:4,0.50
+Pseudobatos,planiceps,3.75,-77.75,7007:237:4,0.46
+Pseudobatos,planiceps,-16.75,-72.25,5107:362:3,0.51
+Pseudobatos,planiceps,-2.25,-80.25,5008:120:1,0.40
+Pseudobatos,planiceps,15.75,-93.75,7109:353:4,0.73
+Pseudobatos,planiceps,15.75,-93.25,7109:353:3,0.76
+Pseudobatos,planiceps,15.25,-93.25,7109:353:1,0.69
+Pseudobatos,planiceps,15.25,-92.75,7109:352:2,0.73
+Pseudobatos,planiceps,14.75,-92.75,7109:142:4,0.69
+Pseudobatos,planiceps,14.75,-92.25,7109:142:3,0.72
+Pseudobatos,planiceps,14.25,-92.25,7109:142:1,0.69
+Pseudobatos,planiceps,14.25,-91.75,7109:141:2,0.72
+Pseudobatos,planiceps,14.25,-91.25,7109:141:1,0.60
+Pseudobatos,planiceps,13.75,-91.75,7109:131:4,0.71
+Pseudobatos,planiceps,13.75,-91.25,7109:131:3,0.73
+Pseudobatos,planiceps,13.75,-90.75,7109:130:4,0.75
+Pseudobatos,planiceps,13.75,-90.25,7109:130:3,0.76
+Pseudobatos,planiceps,13.75,-89.75,7108:239:4,0.79
+Pseudobatos,planiceps,13.25,-89.75,7108:239:2,0.79
+Pseudobatos,planiceps,13.25,-88.75,7108:238:2,0.79
+Pseudobatos,planiceps,13.25,-87.75,7108:237:2,0.79
+Pseudobatos,planiceps,9.75,-84.25,7008:394:3,0.77
+Pseudobatos,planiceps,9.25,-84.75,7008:394:2,0.78
+Pseudobatos,planiceps,9.25,-83.75,7008:393:2,0.60
+Pseudobatos,planiceps,8.75,-83.75,7008:383:4,0.78
+Pseudobatos,planiceps,8.25,-82.75,7008:382:2,0.72
+Pseudobatos,planiceps,8.25,-81.75,7008:381:2,0.75
+Pseudobatos,planiceps,7.75,-82.25,7008:372:3,0.75
+Pseudobatos,planiceps,7.75,-79.75,7007:479:4,0.76
+Pseudobatos,planiceps,7.25,-79.75,7007:479:2,0.71
+Pseudobatos,planiceps,7.75,-78.25,7007:478:3,0.77
+Pseudobatos,planiceps,7.25,-78.25,7007:478:1,0.79
+Pseudobatos,planiceps,7.25,-77.75,7007:477:2,0.63
+Pseudobatos,planiceps,6.75,-77.75,7007:467:4,0.79
+Pseudobatos,planiceps,6.75,-77.25,7007:467:3,0.75
+Pseudobatos,planiceps,2.25,-78.75,7007:228:2,0.77
+Pseudobatos,planiceps,-16.25,-72.75,5107:362:2,0.64
+Pseudobatos,planiceps,-11.75,-77.25,5107:217:3,0.77
+Pseudobatos,planiceps,-6.25,-80.75,5008:360:2,0.61
+Pseudobatos,planiceps,-1.25,-89.75,5008:219:2,0.62
+Pseudobatos,planiceps,-0.75,-89.25,5008:209:3,0.70
+Pseudobatos,planiceps,-9.75,-78.75,5007:498:4,0.66
+Pseudobatos,planiceps,15.75,-94.25,7109:354:3,0.83
+Pseudobatos,planiceps,13.75,-89.25,7108:239:3,0.81
+Pseudobatos,planiceps,13.25,-89.25,7108:239:1,0.80
+Pseudobatos,planiceps,13.25,-88.25,7108:238:1,0.80
+Pseudobatos,planiceps,13.25,-87.25,7108:237:1,0.86
+Pseudobatos,planiceps,12.75,-88.75,7108:228:4,0.84
+Pseudobatos,planiceps,12.75,-88.25,7108:228:3,0.83
+Pseudobatos,planiceps,12.25,-88.25,7108:228:1,0.80
+Pseudobatos,planiceps,12.75,-87.75,7108:227:4,0.83
+Pseudobatos,planiceps,12.75,-87.25,7108:227:3,0.88
+Pseudobatos,planiceps,12.25,-87.75,7108:227:2,0.86
+Pseudobatos,planiceps,12.25,-87.25,7108:227:1,0.92
+Pseudobatos,planiceps,12.25,-86.75,7108:226:2,0.96
+Pseudobatos,planiceps,11.75,-86.75,7108:216:4,1.00
+Pseudobatos,planiceps,11.75,-86.25,7108:216:3,1.00
+Pseudobatos,planiceps,11.25,-86.25,7108:216:1,1.00
+Pseudobatos,planiceps,11.25,-85.75,7108:215:2,1.00
+Pseudobatos,planiceps,10.75,-85.75,7108:205:4,1.00
+Pseudobatos,planiceps,10.25,-85.75,7108:205:2,0.93
+Pseudobatos,planiceps,10.25,-85.25,7108:205:1,0.90
+Pseudobatos,planiceps,10.25,-84.75,7108:104:2,0.91
+Pseudobatos,planiceps,0.25,-91.75,7009:101:2,1.00
+Pseudobatos,planiceps,0.25,-91.25,7009:101:1,0.97
+Pseudobatos,planiceps,9.75,-85.75,7008:495:4,0.89
+Pseudobatos,planiceps,9.75,-85.25,7008:495:3,0.88
+Pseudobatos,planiceps,9.75,-84.75,7008:394:4,0.88
+Pseudobatos,planiceps,9.25,-84.25,7008:394:1,0.82
+Pseudobatos,planiceps,8.25,-83.75,7008:383:2,0.89
+Pseudobatos,planiceps,8.25,-83.25,7008:383:1,0.83
+Pseudobatos,planiceps,8.25,-82.25,7008:382:1,0.88
+Pseudobatos,planiceps,8.25,-80.25,7008:380:1,1.00
+Pseudobatos,planiceps,7.75,-81.75,7008:371:4,0.93
+Pseudobatos,planiceps,7.75,-81.25,7008:371:3,0.98
+Pseudobatos,planiceps,7.25,-81.75,7008:371:2,0.97
+Pseudobatos,planiceps,7.25,-81.25,7008:371:1,1.00
+Pseudobatos,planiceps,7.75,-80.75,7008:370:4,1.00
+Pseudobatos,planiceps,7.75,-80.25,7008:370:3,1.00
+Pseudobatos,planiceps,7.25,-80.75,7008:370:2,1.00
+Pseudobatos,planiceps,7.25,-80.25,7008:370:1,1.00
+Pseudobatos,planiceps,0.75,-80.25,7008:100:3,1.00
+Pseudobatos,planiceps,0.25,-80.25,7008:100:1,1.00
+Pseudobatos,planiceps,8.75,-79.75,7007:489:4,1.00
+Pseudobatos,planiceps,8.75,-79.25,7007:489:3,1.00
+Pseudobatos,planiceps,8.25,-79.75,7007:489:2,0.98
+Pseudobatos,planiceps,8.25,-79.25,7007:489:1,1.00
+Pseudobatos,planiceps,8.75,-78.75,7007:488:4,1.00
+Pseudobatos,planiceps,8.75,-78.25,7007:488:3,0.93
+Pseudobatos,planiceps,8.25,-78.75,7007:488:2,1.00
+Pseudobatos,planiceps,8.25,-78.25,7007:488:1,0.86
+Pseudobatos,planiceps,6.25,-77.25,7007:467:1,0.87
+Pseudobatos,planiceps,5.75,-77.25,7007:457:3,0.96
+Pseudobatos,planiceps,5.25,-77.25,7007:457:1,1.00
+Pseudobatos,planiceps,4.75,-77.25,7007:247:3,0.96
+Pseudobatos,planiceps,4.25,-77.25,7007:247:1,0.90
+Pseudobatos,planiceps,3.25,-78.25,7007:238:1,0.94
+Pseudobatos,planiceps,3.75,-77.25,7007:237:3,0.84
+Pseudobatos,planiceps,3.25,-77.75,7007:237:2,0.91
+Pseudobatos,planiceps,3.25,-77.25,7007:237:1,0.96
+Pseudobatos,planiceps,2.75,-78.75,7007:228:4,1.00
+Pseudobatos,planiceps,2.75,-78.25,7007:228:3,0.87
+Pseudobatos,planiceps,2.75,-77.75,7007:227:4,1.00
+Pseudobatos,planiceps,1.25,-79.75,7007:219:2,1.00
+Pseudobatos,planiceps,1.25,-79.25,7007:219:1,1.00
+Pseudobatos,planiceps,1.75,-78.75,7007:218:4,1.00
+Pseudobatos,planiceps,1.25,-78.75,7007:218:2,1.00
+Pseudobatos,planiceps,0.75,-79.75,7007:209:4,1.00
+Pseudobatos,planiceps,-15.25,-75.25,5107:455:1,0.90
+Pseudobatos,planiceps,-17.75,-71.25,5107:371:3,1.00
+Pseudobatos,planiceps,-17.25,-71.25,5107:371:1,0.83
+Pseudobatos,planiceps,-16.25,-73.75,5107:363:2,0.99
+Pseudobatos,planiceps,-16.25,-73.25,5107:363:1,0.88
+Pseudobatos,planiceps,-16.75,-72.75,5107:362:4,1.00
+Pseudobatos,planiceps,-15.75,-74.75,5107:354:4,0.94
+Pseudobatos,planiceps,-15.75,-74.25,5107:354:3,0.99
+Pseudobatos,planiceps,-15.25,-74.75,5107:354:2,0.97
+Pseudobatos,planiceps,-15.75,-73.75,5107:353:4,0.97
+Pseudobatos,planiceps,-14.25,-76.25,5107:246:1,0.88
+Pseudobatos,planiceps,-14.75,-75.75,5107:245:4,0.88
+Pseudobatos,planiceps,-14.75,-75.25,5107:245:3,0.96
+Pseudobatos,planiceps,-14.25,-75.75,5107:245:2,0.95
+Pseudobatos,planiceps,-13.75,-76.25,5107:236:3,0.94
+Pseudobatos,planiceps,-13.25,-76.25,5107:236:1,0.98
+Pseudobatos,planiceps,-12.25,-77.25,5107:227:1,0.98
+Pseudobatos,planiceps,-12.75,-76.75,5107:226:4,0.98
+Pseudobatos,planiceps,-12.75,-76.25,5107:226:3,1.00
+Pseudobatos,planiceps,-12.25,-76.75,5107:226:2,1.00
+Pseudobatos,planiceps,-11.75,-77.75,5107:217:4,0.99
+Pseudobatos,planiceps,-11.25,-77.75,5107:217:2,0.98
+Pseudobatos,planiceps,-11.25,-77.25,5107:217:1,1.00
+Pseudobatos,planiceps,-10.25,-78.25,5107:208:1,0.99
+Pseudobatos,planiceps,-10.75,-77.75,5107:207:4,1.00
+Pseudobatos,planiceps,-10.25,-77.75,5107:207:2,1.00
+Pseudobatos,planiceps,-1.25,-91.25,5009:111:1,1.00
+Pseudobatos,planiceps,-1.25,-90.75,5009:110:2,1.00
+Pseudobatos,planiceps,-1.25,-90.25,5009:110:1,0.92
+Pseudobatos,planiceps,-0.75,-91.25,5009:101:3,1.00
+Pseudobatos,planiceps,-0.25,-91.75,5009:101:2,1.00
+Pseudobatos,planiceps,-0.25,-91.25,5009:101:1,1.00
+Pseudobatos,planiceps,-0.75,-90.75,5009:100:4,1.00
+Pseudobatos,planiceps,-0.75,-90.25,5009:100:3,1.00
+Pseudobatos,planiceps,-0.25,-90.75,5009:100:2,1.00
+Pseudobatos,planiceps,-0.25,-90.25,5009:100:1,0.84
+Pseudobatos,planiceps,-7.75,-80.25,5008:370:3,1.00
+Pseudobatos,planiceps,-7.25,-80.75,5008:370:2,1.00
+Pseudobatos,planiceps,-7.25,-80.25,5008:370:1,1.00
+Pseudobatos,planiceps,-6.25,-81.25,5008:361:1,1.00
+Pseudobatos,planiceps,-6.75,-80.75,5008:360:4,1.00
+Pseudobatos,planiceps,-6.75,-80.25,5008:360:3,0.93
+Pseudobatos,planiceps,-6.25,-80.25,5008:360:1,1.00
+Pseudobatos,planiceps,-5.75,-81.25,5008:351:3,1.00
+Pseudobatos,planiceps,-5.25,-81.25,5008:351:1,1.00
+Pseudobatos,planiceps,-5.75,-80.75,5008:350:4,1.00
+Pseudobatos,planiceps,-5.25,-80.75,5008:350:2,1.00
+Pseudobatos,planiceps,-0.75,-89.75,5008:209:4,1.00
+Pseudobatos,planiceps,-4.75,-81.25,5008:141:3,1.00
+Pseudobatos,planiceps,-4.25,-81.25,5008:141:1,1.00
+Pseudobatos,planiceps,-3.75,-80.75,5008:130:4,1.00
+Pseudobatos,planiceps,-3.25,-80.75,5008:130:2,1.00
+Pseudobatos,planiceps,-3.25,-80.25,5008:130:1,1.00
+Pseudobatos,planiceps,-2.25,-81.25,5008:121:1,1.00
+Pseudobatos,planiceps,-2.75,-80.75,5008:120:4,1.00
+Pseudobatos,planiceps,-2.75,-80.25,5008:120:3,1.00
+Pseudobatos,planiceps,-2.25,-80.75,5008:120:2,1.00
+Pseudobatos,planiceps,-1.75,-81.25,5008:111:3,1.00
+Pseudobatos,planiceps,-1.25,-81.25,5008:111:1,1.00
+Pseudobatos,planiceps,-1.75,-80.75,5008:110:4,1.00
+Pseudobatos,planiceps,-1.25,-80.75,5008:110:2,1.00
+Pseudobatos,planiceps,-0.75,-80.75,5008:100:4,1.00
+Pseudobatos,planiceps,-0.75,-80.25,5008:100:3,1.00
+Pseudobatos,planiceps,-0.25,-80.75,5008:100:2,1.00
+Pseudobatos,planiceps,-0.25,-80.25,5008:100:1,1.00
+Pseudobatos,planiceps,-9.75,-78.25,5007:498:3,1.00
+Pseudobatos,planiceps,-9.25,-78.75,5007:498:2,1.00
+Pseudobatos,planiceps,-9.25,-78.25,5007:498:1,1.00
+Pseudobatos,planiceps,-8.75,-79.75,5007:489:4,1.00
+Pseudobatos,planiceps,-8.25,-79.25,5007:489:1,1.00
+Pseudobatos,planiceps,-8.75,-78.75,5007:488:4,1.00
+Pseudobatos,planiceps,-8.25,-78.75,5007:488:2,1.00
+Pseudobatos,planiceps,-7.75,-79.75,5007:479:4,1.00
+Pseudobatos,planiceps,-7.75,-79.25,5007:479:3,1.00
+Pseudobatos,planiceps,-7.25,-79.75,5007:479:2,1.00
+Pseudobatos,planiceps,-6.75,-79.75,5007:469:4,1.00
+Pseudobatos,planiceps,-3.25,-79.75,5007:239:2,1.00
+Pseudobatos,planiceps,-2.75,-79.75,5007:229:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 27)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Pseudobatos,planiceps,-12.25,-76.75,5107:226:2,95,18.3044910430908,16.3991241455078,34.9317169189453,35.034236907959,86.1272215843201,0,121.422309875488,7
+Pseudobatos,planiceps,-12.25,-77.25,5107:227:1,173,18.2420444488525,13.7115068435669,34.9794998168945,34.9337692260742,65.3809979557991,0,7.27287292480469,26
+Pseudobatos,planiceps,-11.75,-77.25,5107:217:3,87,18.2189998626709,17.7786464691162,34.9571685791016,35.1131286621094,93.9470008015633,0,181.702758789063,19
+Pseudobatos,planiceps,-6.75,-80.75,5008:360:4,436,19.4374828338623,15.5827522277832,34.7377052307129,34.988338470459,70.471003651619,0,61.7130241394043,96
+Pseudobatos,planiceps,-6.25,-80.75,5008:360:2,112,19.3272113800049,19.7034778594971,34.720573425293,34.9753723144531,100.03600269556,0,205.779190063477,15
+Pseudobatos,planiceps,-5.75,-80.75,5008:350:4,95,19.8492031097412,19.0765819549561,34.5271415710449,34.9416236877441,81.0780227184296,0,166.191787719727,6
+Pseudobatos,planiceps,-5.75,-81.25,5008:351:3,902,19.5495090484619,15.1103162765503,34.5730247497559,35.0061378479004,54.8169985413551,0,57.0484924316406,25
+Pseudobatos,planiceps,-5.25,-81.25,5008:351:1,543,19.6362857818604,16.0670337677002,34.4325866699219,35.0261764526367,53.3230006694794,0,84.6623382568359,25
+Pseudobatos,planiceps,-4.75,-81.25,5008:141:3,462,20.1257457733154,21.1447200775146,34.484058380127,34.8156661987305,49.7220009565353,0,207.677337646484,19
+Pseudobatos,planiceps,-4.25,-81.25,5008:141:1,1015,21.4521026611328,14.601939201355,34.356330871582,34.7249450683594,47.0229983329773,0,124.207214355469,19
+Pseudobatos,planiceps,-3.75,-80.25,5008:130:3,1,23.6523628234863,22.7623558044434,33.9176864624023,34.612003326416,78.6159709095955,0,205.167526245117,1
+Pseudobatos,planiceps,-2.25,-80.75,5008:120:2,36,24.3868751525879,16.1138591766357,33.2839622497559,34.8600196838379,58.7274245917797,0,112.693374633789,16
+Pseudobatos,planiceps,-0.75,-90.75,5009:100:4,138,23.5606651306152,14.0146741867065,34.2012634277344,34.9972610473633,38.7089997529984,0,63.4854316711426,22
+Pseudobatos,planiceps,-0.75,-80.75,5008:100:4,216,25.2663993835449,16.6329441070557,32.7602233886719,35.073974609375,37.1610000729561,0,103.642486572266,25
+Pseudobatos,planiceps,-0.25,-91.25,5009:101:1,480,23.5148735046387,5.37886762619019,34.3066291809082,34.7446022033691,37.7853885293007,0,95.6650848388672,16
+Pseudobatos,planiceps,-0.25,-91.75,5009:101:2,2692,22.8343372344971,2.90076088905334,34.6513023376465,34.6067733764648,53.9430007338524,0,84.3202972412109,26
+Pseudobatos,planiceps,2.75,-78.25,7007:228:3,164,27.0742244720459,27.1576385498047,29.9138317108154,32.8021087646484,32.6489992439747,0,216.787094116211,26
+Pseudobatos,planiceps,3.25,-81.25,7008:131:1,2421,26.834264755249,1.91505694389343,32.9708251953125,34.6670684814453,11.9709996506572,0,94.3700408935547,180
+Pseudobatos,planiceps,3.75,-77.25,7007:237:3,22,27.3233089447021,27.2010517120361,29.8263092041016,31.9925498962402,29.3199997395277,0,213.71989440918,20
+Pseudobatos,planiceps,5.25,-77.25,7007:457:1,145,27.5484561920166,13.6218128204346,30.3253440856934,33.7795829772949,26.3014975935221,0,141.529815673828,9
+Pseudobatos,planiceps,5.75,-87.25,7008:457:3,2149,28.0800132751465,1.85599994659424,32.5615539550781,34.6643981933594,9.7850002348423,0,103.16658782959,27
+Pseudobatos,planiceps,6.75,-81.25,7008:361:3,1995,27.9979724884033,1.91692495346069,31.5899887084961,34.6698188781738,29.598999768495602,0,91.3381423950195,134
+Pseudobatos,planiceps,6.75,-81.75,7008:361:4,1664,28.1479816436768,3.65283799171448,31.667179107666,34.6090087890625,28.0620008707047,0,60.2086448669434,111
+Pseudobatos,planiceps,7.25,-80.25,7008:370:1,985,27.5491886138916,12.3021011352539,31.1428985595703,34.8710708618164,26.1720009148121,0,7.28313398361206,23
+Pseudobatos,planiceps,8.25,-82.25,7008:382:1,40,28.6727027893066,28.4346179962158,31.3123779296875,32.1225090026855,25.4689995199442,0,208.616485595703,18
+Pseudobatos,planiceps,9.75,-84.75,7008:394:4,104,28.6631088256836,17.361572265625,31.6010837554932,34.7450103759766,27.667000889778098,0,74.7026824951172,20
+Pseudobatos,planiceps,11.75,-86.75,7108:216:4,83,28.0203247070313,17.5767192840576,31.6087055206299,34.8369560241699,37.3900011181831,0,71.8538208007813,26

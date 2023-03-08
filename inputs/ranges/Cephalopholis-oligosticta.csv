@@ -1,0 +1,163 @@
+Mapping parameters for Cephalopholis oligosticta (Vermilion hind)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 51,
+Bounding Box (NSWE): ,31,16,33,43
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,15,15,50,50
+Temperature (°C),1,21.63,24.42,29.27,33.47
+Salinity (psu),1,35.97,37.72,39.27,39.77
+Primary Production,1,61.125,457.5,1105.5,1480
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,9.7,10.7,26,44.375
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 119): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Cephalopholis,oligosticta,23.75,37.75,1203:237:4,0.18
+Cephalopholis,oligosticta,23.25,38.25,1203:238:1,0.18
+Cephalopholis,oligosticta,23.75,38.25,1203:238:3,0.18
+Cephalopholis,oligosticta,23.75,38.75,1203:238:4,0.18
+Cephalopholis,oligosticta,24.25,35.75,1203:245:2,0.04
+Cephalopholis,oligosticta,24.25,37.25,1203:247:1,0.04
+Cephalopholis,oligosticta,24.25,37.75,1203:247:2,0.18
+Cephalopholis,oligosticta,24.75,37.25,1203:247:3,0.04
+Cephalopholis,oligosticta,24.25,38.25,1203:248:1,0.18
+Cephalopholis,oligosticta,25.25,36.75,1203:456:2,0.04
+Cephalopholis,oligosticta,25.25,37.25,1203:457:1,0.04
+Cephalopholis,oligosticta,16.25,42.25,1104:362:1,0.22
+Cephalopholis,oligosticta,18.25,41.75,1104:381:2,0.58
+Cephalopholis,oligosticta,22.75,35.75,1203:225:4,0.42
+Cephalopholis,oligosticta,22.75,36.25,1203:226:3,0.42
+Cephalopholis,oligosticta,22.75,36.75,1203:226:4,0.42
+Cephalopholis,oligosticta,23.25,35.75,1203:235:2,0.42
+Cephalopholis,oligosticta,23.75,35.75,1203:235:4,0.42
+Cephalopholis,oligosticta,23.25,36.25,1203:236:1,0.42
+Cephalopholis,oligosticta,23.75,36.25,1203:236:3,0.42
+Cephalopholis,oligosticta,24.25,35.25,1203:245:1,0.56
+Cephalopholis,oligosticta,24.75,35.25,1203:245:3,0.56
+Cephalopholis,oligosticta,25.25,34.75,1203:354:2,0.56
+Cephalopholis,oligosticta,28.25,33.25,1203:383:1,0.50
+Cephalopholis,oligosticta,25.25,35.25,1203:455:1,0.56
+Cephalopholis,oligosticta,25.75,36.25,1203:456:3,0.55
+Cephalopholis,oligosticta,25.75,36.75,1203:456:4,0.56
+Cephalopholis,oligosticta,16.25,39.75,1103:469:2,0.68
+Cephalopholis,oligosticta,16.25,40.75,1104:360:2,0.64
+Cephalopholis,oligosticta,16.75,40.25,1104:360:3,0.79
+Cephalopholis,oligosticta,19.75,40.75,1104:390:4,0.76
+Cephalopholis,oligosticta,19.25,41.25,1104:391:1,0.76
+Cephalopholis,oligosticta,20.75,39.75,1203:209:4,0.66
+Cephalopholis,oligosticta,28.25,34.25,1203:384:1,0.68
+Cephalopholis,oligosticta,28.25,34.75,1203:384:2,0.76
+Cephalopholis,oligosticta,28.75,34.75,1203:384:4,0.62
+Cephalopholis,oligosticta,29.25,34.75,1203:394:2,0.66
+Cephalopholis,oligosticta,29.75,34.75,1203:394:4,0.79
+Cephalopholis,oligosticta,16.25,39.25,1103:469:1,0.98
+Cephalopholis,oligosticta,16.75,39.25,1103:469:3,0.98
+Cephalopholis,oligosticta,17.25,38.75,1103:478:2,0.98
+Cephalopholis,oligosticta,17.75,38.75,1103:478:4,0.98
+Cephalopholis,oligosticta,17.25,39.25,1103:479:1,0.98
+Cephalopholis,oligosticta,17.75,39.25,1103:479:3,0.98
+Cephalopholis,oligosticta,18.75,37.25,1103:487:3,1.00
+Cephalopholis,oligosticta,18.75,37.75,1103:487:4,0.96
+Cephalopholis,oligosticta,18.25,38.25,1103:488:1,1.00
+Cephalopholis,oligosticta,18.25,38.75,1103:488:2,0.89
+Cephalopholis,oligosticta,18.75,38.25,1103:488:3,1.00
+Cephalopholis,oligosticta,18.75,38.75,1103:488:4,1.00
+Cephalopholis,oligosticta,19.25,37.25,1103:497:1,1.00
+Cephalopholis,oligosticta,19.25,37.75,1103:497:2,1.00
+Cephalopholis,oligosticta,19.75,37.25,1103:497:3,1.00
+Cephalopholis,oligosticta,19.75,37.75,1103:497:4,1.00
+Cephalopholis,oligosticta,19.25,38.25,1103:498:1,1.00
+Cephalopholis,oligosticta,19.75,39.75,1103:499:4,1.00
+Cephalopholis,oligosticta,16.75,40.75,1104:360:4,1.00
+Cephalopholis,oligosticta,16.25,41.25,1104:361:1,1.00
+Cephalopholis,oligosticta,16.25,41.75,1104:361:2,1.00
+Cephalopholis,oligosticta,16.75,41.25,1104:361:3,1.00
+Cephalopholis,oligosticta,16.75,41.75,1104:361:4,1.00
+Cephalopholis,oligosticta,16.25,42.75,1104:362:2,1.00
+Cephalopholis,oligosticta,16.75,42.75,1104:362:4,1.00
+Cephalopholis,oligosticta,17.75,40.75,1104:370:4,1.00
+Cephalopholis,oligosticta,17.25,41.25,1104:371:1,0.98
+Cephalopholis,oligosticta,17.25,41.75,1104:371:2,0.84
+Cephalopholis,oligosticta,17.75,41.25,1104:371:3,0.98
+Cephalopholis,oligosticta,17.75,41.75,1104:371:4,0.98
+Cephalopholis,oligosticta,17.25,42.25,1104:372:1,0.98
+Cephalopholis,oligosticta,17.75,42.25,1104:372:3,0.98
+Cephalopholis,oligosticta,18.25,40.75,1104:380:2,0.96
+Cephalopholis,oligosticta,18.75,40.75,1104:380:4,0.96
+Cephalopholis,oligosticta,18.25,41.25,1104:381:1,0.93
+Cephalopholis,oligosticta,18.75,41.25,1104:381:3,0.93
+Cephalopholis,oligosticta,19.25,40.25,1104:390:1,1.00
+Cephalopholis,oligosticta,19.25,40.75,1104:390:2,0.96
+Cephalopholis,oligosticta,19.75,40.25,1104:390:3,1.00
+Cephalopholis,oligosticta,20.25,37.25,1203:207:1,1.00
+Cephalopholis,oligosticta,20.25,37.75,1203:207:2,1.00
+Cephalopholis,oligosticta,20.75,37.25,1203:207:3,1.00
+Cephalopholis,oligosticta,20.75,37.75,1203:207:4,1.00
+Cephalopholis,oligosticta,20.25,39.25,1203:209:1,1.00
+Cephalopholis,oligosticta,20.25,39.75,1203:209:2,1.00
+Cephalopholis,oligosticta,20.75,39.25,1203:209:3,1.00
+Cephalopholis,oligosticta,21.75,36.75,1203:216:4,1.00
+Cephalopholis,oligosticta,21.25,37.25,1203:217:1,1.00
+Cephalopholis,oligosticta,21.25,37.75,1203:217:2,1.00
+Cephalopholis,oligosticta,21.75,37.25,1203:217:3,1.00
+Cephalopholis,oligosticta,21.75,38.75,1203:218:4,1.00
+Cephalopholis,oligosticta,21.25,39.25,1203:219:1,1.00
+Cephalopholis,oligosticta,21.75,39.25,1203:219:3,1.00
+Cephalopholis,oligosticta,22.25,36.75,1203:226:2,1.00
+Cephalopholis,oligosticta,22.25,37.25,1203:227:1,1.00
+Cephalopholis,oligosticta,22.25,38.75,1203:228:2,1.00
+Cephalopholis,oligosticta,22.75,38.75,1203:228:4,1.00
+Cephalopholis,oligosticta,22.25,39.25,1203:229:1,1.00
+Cephalopholis,oligosticta,22.75,39.25,1203:229:3,1.00
+Cephalopholis,oligosticta,23.25,38.75,1203:238:2,1.00
+Cephalopholis,oligosticta,25.75,34.25,1203:354:3,1.00
+Cephalopholis,oligosticta,25.75,34.75,1203:354:4,1.00
+Cephalopholis,oligosticta,26.75,33.75,1203:363:4,1.00
+Cephalopholis,oligosticta,26.25,34.25,1203:364:1,1.00
+Cephalopholis,oligosticta,26.75,34.25,1203:364:3,1.00
+Cephalopholis,oligosticta,27.25,33.75,1203:373:2,1.00
+Cephalopholis,oligosticta,27.75,33.75,1203:373:4,1.00
+Cephalopholis,oligosticta,27.25,34.25,1203:374:1,1.00
+Cephalopholis,oligosticta,27.75,34.25,1203:374:3,1.00
+Cephalopholis,oligosticta,27.75,34.75,1203:374:4,1.00
+Cephalopholis,oligosticta,28.25,33.75,1203:383:2,0.96
+Cephalopholis,oligosticta,28.75,33.25,1203:383:3,0.95
+Cephalopholis,oligosticta,29.25,33.25,1203:393:1,0.88
+Cephalopholis,oligosticta,26.75,35.75,1203:465:4,0.98
+Cephalopholis,oligosticta,26.25,36.25,1203:466:1,0.82
+Cephalopholis,oligosticta,26.75,36.25,1203:466:3,1.00
+Cephalopholis,oligosticta,27.25,35.75,1203:475:2,1.00
+Cephalopholis,oligosticta,27.75,35.25,1203:475:3,1.00
+Cephalopholis,oligosticta,27.75,35.75,1203:475:4,1.00
+Cephalopholis,oligosticta,28.25,35.25,1203:485:1,0.90
+Cephalopholis,oligosticta,20.25,40.25,1204:100:1,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 8)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Cephalopholis,oligosticta,16.75,42.25,1104:362:3,6,29.22,37.75,1480,0,26
+Cephalopholis,oligosticta,18.25,41.25,1104:381:1,24,29.38,37.65,924,0,26
+Cephalopholis,oligosticta,19.75,37.25,1103:497:3,146,28.61,37.86,885,0,13
+Cephalopholis,oligosticta,20.75,37.25,1203:207:3,82,28.36,39.18,945,0,16
+Cephalopholis,oligosticta,22.75,38.75,1203:228:4,227,27.75,39.04,606,0,25
+Cephalopholis,oligosticta,24.75,35.25,1203:245:3,188,26.39,39.49,510,0,21
+Cephalopholis,oligosticta,27.25,33.75,1203:373:2,40,24.47,38.63,720,0,10
+Cephalopholis,oligosticta,29.25,34.75,1203:394:2,416,24.3,38.63,335,0,11

@@ -1,0 +1,150 @@
+Mapping parameters for Hippocampus subelongatus (West Australian seahorse)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 57,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,3,14,25
+Temperature (°C),1,17.99,19.56,22.15,24.09
+Salinity (psu),1,34.98,35.48,35.74,36.24
+Primary Production,1,64.75,195.8,589.8,850.75
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,12.6,13.6,108.199996948242,161
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 107): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Hippocampus,subelongatus,-24.75,112.75,3211:142:4,0.01
+Hippocampus,subelongatus,-25.25,112.75,3211:352:2,0.10
+Hippocampus,subelongatus,-25.75,112.75,3211:352:4,0.14
+Hippocampus,subelongatus,-25.25,113.25,3211:353:1,0.15
+Hippocampus,subelongatus,-25.25,113.75,3211:353:2,0.15
+Hippocampus,subelongatus,-25.75,113.25,3211:353:3,0.15
+Hippocampus,subelongatus,-25.75,113.75,3211:353:4,0.15
+Hippocampus,subelongatus,-25.75,114.25,3211:354:3,0.03
+Hippocampus,subelongatus,-28.25,113.25,3211:383:1,0.13
+Hippocampus,subelongatus,-34.75,117.75,3311:247:4,0.14
+Hippocampus,subelongatus,-34.25,119.25,3311:249:1,0.18
+Hippocampus,subelongatus,-34.25,119.75,3311:249:2,0.17
+Hippocampus,subelongatus,-34.75,119.25,3311:249:3,0.19
+Hippocampus,subelongatus,-34.75,119.75,3311:249:4,0.18
+Hippocampus,subelongatus,-35.25,115.75,3311:455:2,0.19
+Hippocampus,subelongatus,-31.75,128.25,3312:218:3,0.12
+Hippocampus,subelongatus,-31.75,128.75,3312:218:4,0.12
+Hippocampus,subelongatus,-32.75,124.25,3312:124:3,0.13
+Hippocampus,subelongatus,-32.75,124.75,3312:124:4,0.13
+Hippocampus,subelongatus,-33.75,121.25,3312:131:3,0.09
+Hippocampus,subelongatus,-33.75,121.75,3312:131:4,0.09
+Hippocampus,subelongatus,-34.25,120.25,3312:140:1,0.05
+Hippocampus,subelongatus,-34.25,120.75,3312:140:2,0.05
+Hippocampus,subelongatus,-31.75,129.25,3312:219:3,0.16
+Hippocampus,subelongatus,-31.75,129.75,3312:219:4,0.13
+Hippocampus,subelongatus,-32.25,125.75,3312:225:2,0.17
+Hippocampus,subelongatus,-32.75,125.25,3312:225:3,0.17
+Hippocampus,subelongatus,-32.75,125.75,3312:225:4,0.17
+Hippocampus,subelongatus,-32.25,126.25,3312:226:1,0.15
+Hippocampus,subelongatus,-32.25,126.75,3312:226:2,0.15
+Hippocampus,subelongatus,-32.75,126.25,3312:226:3,0.08
+Hippocampus,subelongatus,-32.75,126.75,3312:226:4,0.03
+Hippocampus,subelongatus,-32.25,127.25,3312:227:1,0.05
+Hippocampus,subelongatus,-32.25,127.75,3312:227:2,0.05
+Hippocampus,subelongatus,-32.75,127.25,3312:227:3,0.03
+Hippocampus,subelongatus,-32.75,127.75,3312:227:4,0.01
+Hippocampus,subelongatus,-32.25,128.25,3312:228:1,0.04
+Hippocampus,subelongatus,-32.75,129.25,3312:229:3,0.02
+Hippocampus,subelongatus,-33.25,125.25,3312:235:1,0.03
+Hippocampus,subelongatus,-33.25,125.75,3312:235:2,0.03
+Hippocampus,subelongatus,-33.75,125.25,3312:235:3,0.03
+Hippocampus,subelongatus,-33.75,125.75,3312:235:4,0.03
+Hippocampus,subelongatus,-31.75,130.75,3313:110:4,0.02
+Hippocampus,subelongatus,-31.25,131.25,3313:111:1,0.12
+Hippocampus,subelongatus,-31.75,131.75,3313:111:4,0.03
+Hippocampus,subelongatus,-31.75,132.25,3313:112:3,0.03
+Hippocampus,subelongatus,-31.75,132.75,3313:112:4,0.02
+Hippocampus,subelongatus,-32.25,130.25,3313:120:1,0.01
+Hippocampus,subelongatus,-32.25,131.75,3313:121:2,0.01
+Hippocampus,subelongatus,-32.75,132.75,3313:122:4,0.01
+Hippocampus,subelongatus,-32.25,133.75,3313:123:2,0.01
+Hippocampus,subelongatus,-32.25,134.25,3313:124:1,0.01
+Hippocampus,subelongatus,-32.75,134.25,3313:124:3,0.01
+Hippocampus,subelongatus,-32.75,137.75,3313:227:4,0.05
+Hippocampus,subelongatus,-26.25,113.25,3211:363:1,0.27
+Hippocampus,subelongatus,-26.25,113.75,3211:363:2,0.26
+Hippocampus,subelongatus,-26.75,113.25,3211:363:3,0.23
+Hippocampus,subelongatus,-26.75,113.75,3211:363:4,0.36
+Hippocampus,subelongatus,-26.25,114.25,3211:364:1,0.37
+Hippocampus,subelongatus,-27.25,113.25,3211:373:1,0.35
+Hippocampus,subelongatus,-27.75,113.25,3211:373:3,0.35
+Hippocampus,subelongatus,-33.25,114.75,3311:134:2,0.23
+Hippocampus,subelongatus,-33.75,119.75,3311:239:4,0.27
+Hippocampus,subelongatus,-34.75,117.25,3311:247:3,0.35
+Hippocampus,subelongatus,-34.25,118.75,3311:248:2,0.25
+Hippocampus,subelongatus,-34.75,118.25,3311:248:3,0.25
+Hippocampus,subelongatus,-34.75,118.75,3311:248:4,0.25
+Hippocampus,subelongatus,-33.75,120.25,3312:130:3,0.20
+Hippocampus,subelongatus,-33.75,120.75,3312:130:4,0.20
+Hippocampus,subelongatus,-27.25,113.75,3211:373:2,0.58
+Hippocampus,subelongatus,-27.75,113.75,3211:373:4,0.42
+Hippocampus,subelongatus,-31.75,115.25,3311:215:3,0.51
+Hippocampus,subelongatus,-34.75,116.25,3311:246:3,0.46
+Hippocampus,subelongatus,-34.75,116.75,3311:246:4,0.46
+Hippocampus,subelongatus,-27.25,114.25,3211:374:1,0.69
+Hippocampus,subelongatus,-27.75,114.25,3211:374:3,0.69
+Hippocampus,subelongatus,-28.75,113.75,3211:383:4,0.76
+Hippocampus,subelongatus,-28.75,114.25,3211:384:3,0.62
+Hippocampus,subelongatus,-30.25,114.75,3311:104:2,0.71
+Hippocampus,subelongatus,-34.25,114.75,3311:144:2,0.61
+Hippocampus,subelongatus,-34.25,115.25,3311:245:1,0.75
+Hippocampus,subelongatus,-34.75,115.75,3311:245:4,0.79
+Hippocampus,subelongatus,-28.25,113.75,3211:383:2,0.91
+Hippocampus,subelongatus,-28.25,114.25,3211:384:1,0.97
+Hippocampus,subelongatus,-28.25,114.75,3211:384:2,0.87
+Hippocampus,subelongatus,-28.75,114.75,3211:384:4,0.99
+Hippocampus,subelongatus,-29.25,114.25,3211:394:1,1.00
+Hippocampus,subelongatus,-29.25,114.75,3211:394:2,1.00
+Hippocampus,subelongatus,-29.75,114.75,3211:394:4,0.95
+Hippocampus,subelongatus,-29.25,115.25,3211:495:1,1.00
+Hippocampus,subelongatus,-29.75,115.25,3211:495:3,1.00
+Hippocampus,subelongatus,-30.75,114.75,3311:104:4,1.00
+Hippocampus,subelongatus,-33.75,114.75,3311:134:4,0.84
+Hippocampus,subelongatus,-30.25,115.25,3311:205:1,1.00
+Hippocampus,subelongatus,-30.75,115.25,3311:205:3,1.00
+Hippocampus,subelongatus,-31.25,115.25,3311:215:1,0.80
+Hippocampus,subelongatus,-31.25,115.75,3311:215:2,1.00
+Hippocampus,subelongatus,-31.75,115.75,3311:215:4,1.00
+Hippocampus,subelongatus,-32.25,115.25,3311:225:1,0.96
+Hippocampus,subelongatus,-32.25,115.75,3311:225:2,1.00
+Hippocampus,subelongatus,-32.75,115.25,3311:225:3,0.85
+Hippocampus,subelongatus,-32.75,115.75,3311:225:4,1.00
+Hippocampus,subelongatus,-33.25,115.25,3311:235:1,1.00
+Hippocampus,subelongatus,-33.25,115.75,3311:235:2,1.00
+Hippocampus,subelongatus,-33.75,115.25,3311:235:3,1.00
+Hippocampus,subelongatus,-34.25,115.75,3311:245:2,0.83
+Hippocampus,subelongatus,-34.75,115.25,3311:245:3,0.83
+
+
+Occurrence cells used for creating environmental envelope (n = 7)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Hippocampus,subelongatus,-33.25,124.25,3312:134:1,39,17.99,35.88,506,0,20
+Hippocampus,subelongatus,-32.25,115.75,3311:225:2,14,20.6,35.65,583,0,14
+Hippocampus,subelongatus,-32.25,115.25,3311:225:1,199,20.6,35.65,600,0,71
+Hippocampus,subelongatus,-31.75,115.75,3311:215:4,18,20.84,35.5,492,0,13
+Hippocampus,subelongatus,-29.25,114.75,3211:394:2,29,21.86,35.49,227,0,22
+Hippocampus,subelongatus,-28.75,114.25,3211:384:3,40,22.17,35.47,149,0,73
+Hippocampus,subelongatus,-28.75,112.75,3211:382:4,2833,22.13,35.52,529,0,161

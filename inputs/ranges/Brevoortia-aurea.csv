@@ -1,0 +1,189 @@
+Mapping parameters for Brevoortia aurea (Brazilian menhaden)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas:  41 ,
+Bounding Box (NSWE): ,-22,-38,-60,-42
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,13.56,15.52,23.46,23.96
+Salinity (psu),1,7.26,10.36,36.33,36.83
+Primary Production (mgC·m-3·day-1) ,1,5.84,18.07,34.58,45.51
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,204.55,215.64,281.16,321.15
+Distance to Land (km),0,0,1,89,203
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 133): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Brevoortia,aurea,-24.75,-45.25,5204:245:3,0.15
+Brevoortia,aurea,-24.75,-46.25,5204:246:3,0.05
+Brevoortia,aurea,-24.75,-46.75,5204:246:4,0.04
+Brevoortia,aurea,-25.25,-45.25,5204:455:1,0.09
+Brevoortia,aurea,-25.75,-45.75,5204:455:4,0.09
+Brevoortia,aurea,-25.25,-48.75,5204:458:2,0.07
+Brevoortia,aurea,-25.75,-48.25,5204:458:3,0.04
+Brevoortia,aurea,-27.75,-48.25,5204:478:3,0.06
+Brevoortia,aurea,-28.25,-48.25,5204:488:1,0.03
+Brevoortia,aurea,-29.25,-48.75,5204:498:2,0.02
+Brevoortia,aurea,-29.75,-49.25,5204:499:3,0.15
+Brevoortia,aurea,-30.75,-49.25,5304:209:3,0.03
+Brevoortia,aurea,-31.25,-49.75,5304:219:2,0.17
+Brevoortia,aurea,-31.25,-50.75,5305:110:2,0.05
+Brevoortia,aurea,-31.75,-51.25,5305:111:3,0.11
+Brevoortia,aurea,-32.25,-50.75,5305:120:2,0.12
+Brevoortia,aurea,-36.25,-54.75,5305:364:2,0.04
+Brevoortia,aurea,-37.25,-54.25,5305:374:1,0.09
+Brevoortia,aurea,-36.75,-55.25,5305:465:3,0.02
+Brevoortia,aurea,-37.75,-55.75,5305:475:4,0.02
+Brevoortia,aurea,-23.25,-42.75,5204:132:2,0.36
+Brevoortia,aurea,-24.25,-47.25,5204:247:1,0.28
+Brevoortia,aurea,-26.75,-48.25,5204:468:3,0.30
+Brevoortia,aurea,-28.25,-48.75,5204:488:2,0.39
+Brevoortia,aurea,-28.75,-48.75,5204:488:4,0.39
+Brevoortia,aurea,-30.75,-49.75,5304:209:4,0.23
+Brevoortia,aurea,-30.75,-50.25,5305:100:3,0.23
+Brevoortia,aurea,-32.75,-50.75,5305:120:4,0.29
+Brevoortia,aurea,-32.75,-51.25,5305:121:3,0.25
+Brevoortia,aurea,-34.75,-53.75,5305:143:4,0.21
+Brevoortia,aurea,-34.75,-54.25,5305:144:3,0.37
+Brevoortia,aurea,-35.75,-54.25,5305:354:3,0.30
+Brevoortia,aurea,-36.25,-54.25,5305:364:1,0.26
+Brevoortia,aurea,-37.25,-55.75,5305:475:2,0.21
+Brevoortia,aurea,-37.75,-56.25,5305:476:3,0.28
+Brevoortia,aurea,-22.75,-43.75,5204:123:4,0.58
+Brevoortia,aurea,-22.75,-44.25,5204:124:3,0.41
+Brevoortia,aurea,-24.25,-45.25,5204:245:1,0.46
+Brevoortia,aurea,-24.75,-45.75,5204:245:4,0.49
+Brevoortia,aurea,-24.25,-46.75,5204:246:2,0.41
+Brevoortia,aurea,-25.75,-48.75,5204:458:4,0.52
+Brevoortia,aurea,-27.25,-48.25,5204:478:1,0.43
+Brevoortia,aurea,-27.75,-48.75,5204:478:4,0.52
+Brevoortia,aurea,-29.25,-49.25,5204:499:1,0.54
+Brevoortia,aurea,-30.25,-50.25,5305:100:1,0.55
+Brevoortia,aurea,-31.75,-51.75,5305:111:4,0.41
+Brevoortia,aurea,-34.25,-52.75,5305:142:2,0.41
+Brevoortia,aurea,-34.75,-53.25,5305:143:3,0.40
+Brevoortia,aurea,-35.25,-53.25,5305:353:1,0.53
+Brevoortia,aurea,-35.25,-53.75,5305:353:2,0.44
+Brevoortia,aurea,-35.75,-53.75,5305:353:4,0.48
+Brevoortia,aurea,-35.25,-54.25,5305:354:1,0.51
+Brevoortia,aurea,-35.75,-54.75,5305:354:4,0.58
+Brevoortia,aurea,-36.75,-54.25,5305:364:3,0.55
+Brevoortia,aurea,-36.25,-55.25,5305:465:1,0.46
+Brevoortia,aurea,-23.25,-43.25,5204:133:1,0.77
+Brevoortia,aurea,-23.25,-43.75,5204:133:2,0.65
+Brevoortia,aurea,-23.25,-44.75,5204:134:2,0.71
+Brevoortia,aurea,-23.25,-45.25,5204:235:1,0.67
+Brevoortia,aurea,-24.25,-46.25,5204:246:1,0.62
+Brevoortia,aurea,-26.75,-48.75,5204:468:4,0.76
+Brevoortia,aurea,-27.25,-48.75,5204:478:2,0.64
+Brevoortia,aurea,-28.75,-49.25,5204:489:3,0.63
+Brevoortia,aurea,-29.25,-49.75,5204:499:2,0.69
+Brevoortia,aurea,-29.75,-49.75,5204:499:4,0.71
+Brevoortia,aurea,-30.25,-49.75,5304:209:2,0.74
+Brevoortia,aurea,-32.25,-50.25,5305:120:1,0.78
+Brevoortia,aurea,-33.75,-52.25,5305:132:3,0.67
+Brevoortia,aurea,-34.25,-52.25,5305:142:1,0.75
+Brevoortia,aurea,-35.25,-54.75,5305:354:2,0.76
+Brevoortia,aurea,-22.75,-42.25,5204:122:3,0.97
+Brevoortia,aurea,-22.75,-42.75,5204:122:4,0.99
+Brevoortia,aurea,-22.75,-43.25,5204:123:3,0.96
+Brevoortia,aurea,-23.25,-44.25,5204:134:1,0.81
+Brevoortia,aurea,-23.75,-44.75,5204:134:4,1.00
+Brevoortia,aurea,-23.75,-45.25,5204:235:3,1.00
+Brevoortia,aurea,-23.75,-45.75,5204:235:4,0.90
+Brevoortia,aurea,-23.75,-46.25,5204:236:3,0.88
+Brevoortia,aurea,-24.25,-45.75,5204:245:2,1.00
+Brevoortia,aurea,-26.25,-48.75,5204:468:2,0.87
+Brevoortia,aurea,-29.75,-50.25,5205:390:3,1.00
+Brevoortia,aurea,-31.25,-50.25,5305:110:1,1.00
+Brevoortia,aurea,-31.75,-50.75,5305:110:4,1.00
+Brevoortia,aurea,-31.75,-52.25,5305:112:3,1.00
+Brevoortia,aurea,-32.25,-51.25,5305:121:1,1.00
+Brevoortia,aurea,-32.25,-51.75,5305:121:2,1.00
+Brevoortia,aurea,-32.75,-51.75,5305:121:4,1.00
+Brevoortia,aurea,-32.25,-52.25,5305:122:1,1.00
+Brevoortia,aurea,-32.75,-52.25,5305:122:3,1.00
+Brevoortia,aurea,-32.75,-52.75,5305:122:4,1.00
+Brevoortia,aurea,-33.25,-51.75,5305:131:2,1.00
+Brevoortia,aurea,-33.75,-51.75,5305:131:4,1.00
+Brevoortia,aurea,-33.25,-52.25,5305:132:1,1.00
+Brevoortia,aurea,-33.25,-52.75,5305:132:2,1.00
+Brevoortia,aurea,-33.75,-52.75,5305:132:4,1.00
+Brevoortia,aurea,-33.25,-53.25,5305:133:1,1.00
+Brevoortia,aurea,-33.75,-53.25,5305:133:3,1.00
+Brevoortia,aurea,-33.75,-53.75,5305:133:4,1.00
+Brevoortia,aurea,-34.25,-51.75,5305:141:2,1.00
+Brevoortia,aurea,-34.75,-52.75,5305:142:4,1.00
+Brevoortia,aurea,-34.25,-53.25,5305:143:1,0.99
+Brevoortia,aurea,-34.25,-53.75,5305:143:2,0.98
+Brevoortia,aurea,-34.75,-54.75,5305:144:4,0.89
+Brevoortia,aurea,-34.75,-55.25,5305:245:3,1.00
+Brevoortia,aurea,-34.75,-55.75,5305:245:4,1.00
+Brevoortia,aurea,-34.75,-56.25,5305:246:3,1.00
+Brevoortia,aurea,-35.25,-52.75,5305:352:2,0.83
+Brevoortia,aurea,-35.75,-53.25,5305:353:3,1.00
+Brevoortia,aurea,-36.25,-53.25,5305:363:1,0.92
+Brevoortia,aurea,-36.25,-53.75,5305:363:2,1.00
+Brevoortia,aurea,-36.75,-53.75,5305:363:4,0.93
+Brevoortia,aurea,-35.25,-55.25,5305:455:1,1.00
+Brevoortia,aurea,-35.25,-55.75,5305:455:2,1.00
+Brevoortia,aurea,-35.75,-55.25,5305:455:3,0.97
+Brevoortia,aurea,-35.75,-55.75,5305:455:4,1.00
+Brevoortia,aurea,-35.25,-56.25,5305:456:1,1.00
+Brevoortia,aurea,-35.25,-56.75,5305:456:2,1.00
+Brevoortia,aurea,-35.75,-56.25,5305:456:3,1.00
+Brevoortia,aurea,-35.75,-56.75,5305:456:4,1.00
+Brevoortia,aurea,-35.75,-57.25,5305:457:3,1.00
+Brevoortia,aurea,-36.25,-55.75,5305:465:2,1.00
+Brevoortia,aurea,-36.75,-55.75,5305:465:4,0.94
+Brevoortia,aurea,-36.25,-56.25,5305:466:1,1.00
+Brevoortia,aurea,-36.25,-56.75,5305:466:2,1.00
+Brevoortia,aurea,-36.75,-56.25,5305:466:3,1.00
+Brevoortia,aurea,-36.75,-56.75,5305:466:4,1.00
+Brevoortia,aurea,-36.25,-57.25,5305:467:1,1.00
+Brevoortia,aurea,-37.25,-56.25,5305:476:1,1.00
+Brevoortia,aurea,-37.25,-56.75,5305:476:2,1.00
+Brevoortia,aurea,-37.75,-56.75,5305:476:4,0.83
+Brevoortia,aurea,-37.25,-57.25,5305:477:1,1.00
+Brevoortia,aurea,-37.75,-57.25,5305:477:3,0.91
+Brevoortia,aurea,-37.75,-57.75,5305:477:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 20)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Brevoortia,aurea,-37.75,-57.25,5305:477:3,16,15.3453779220581,14.2989826202393,31.7409114837646,33.5564842224121,21.2319996207952,0,269.540252685547,18
+Brevoortia,aurea,-37.75,-57.75,5305:477:4,17,15.5189456939697,14.9270334243774,29.3838768005371,32.9894866943359,18.0728603154421,0,267.921966552734,0
+Brevoortia,aurea,-37.25,-57.25,5305:477:1,4,15.7914152145386,15.2536201477051,26.5949268341064,32.6630172729492,22.3148018121719,0,270.740966796875,1
+Brevoortia,aurea,-37.25,-56.75,5305:476:2,11,15.6758136749268,14.8904047012329,28.0504417419434,33.5366668701172,30.629999935627,0,270.962554931641,20
+Brevoortia,aurea,-36.25,-56.75,5305:466:2,12,16.7053642272949,16.7728328704834,16.1682987213135,31.8229351043701,23.6549992114305,0,276.130645751953,17
+Brevoortia,aurea,-35.75,-56.25,5305:456:3,14,17.0714950561523,17.2550773620605,22.0552711486816,31.5366821289063,22.7540004998446,0,274.773376464844,113
+Brevoortia,aurea,-35.75,-57.25,5305:457:3,15,17.051155090332,17.0774631500244,13.0269756317139,31.1050319671631,23.0490006506443,0,281.902160644531,15
+Brevoortia,aurea,-35.25,-55.25,5305:455:1,22,16.9881649017334,16.857536315918,26.800085067749,33.2472953796387,30.109999701380698,0,264.324127197266,89
+Brevoortia,aurea,-35.25,-55.75,5305:455:2,12,17.0997905731201,17.1310901641846,22.5268421173096,31.6376724243164,25.1499991863966,0,272.485992431641,89
+Brevoortia,aurea,-35.25,-56.25,5305:456:1,10,17.2557735443115,17.3931140899658,17.3382759094238,31.1883983612061,20.4300004988909,0,281.158905029297,89
+Brevoortia,aurea,-35.25,-56.75,5305:456:2,9,17.3713493347168,17.3116207122803,10.3551225662231,29.6841659545898,20.712999626994097,0,280.026214599609,68
+Brevoortia,aurea,-35.25,-57.25,5305:457:1,9,17.5107517242432,17.4188919067383,7.2642970085144,28.5208740234375,22.5349999964237,0,281.034484863281,11
+Brevoortia,aurea,-34.75,-55.25,5305:245:3,16,17.133674621582,16.5248756408691,23.6596832275391,31.21409034729,32.059796154499104,0,267.798217773438,9
+Brevoortia,aurea,-34.75,-56.25,5305:246:3,10,17.3701267242432,17.3003711700439,13.5246591567993,30.3671436309814,28.920264914631797,0,277.425567626953,9
+Brevoortia,aurea,-34.75,-54.25,5305:144:3,28,17.0333423614502,14.3929090499878,30.0413799285889,33.8714141845703,41.5120013058186,0,264.93505859375,16
+Brevoortia,aurea,-32.25,-52.25,5305:122:1,11,18.8053188323975,18.5789241790771,32.3393249511719,31.9208087921143,18.0830005556345,0,248.275573730469,12
+Brevoortia,aurea,-23.75,-46.25,5204:236:3,43,23.4588222503662,22.953369140625,35.5482521057129,35.6995391845703,16.5595673024654,0,224.577667236328,5
+Brevoortia,aurea,-23.25,-43.25,5204:133:1,74,23.290828704834,18.6904163360596,36.445182800293,36.3862953186035,32.2460010647774,0,208.602355957031,86
+Brevoortia,aurea,-22.75,-42.75,5204:122:4,26,23.3871173858643,22.3986721038818,36.3341064453125,36.3336524963379,27.4006891995668,0,215.636795043945,4
+Brevoortia,aurea,-22.75,-43.25,5204:123:3,8,23.478328704834,23.6685886383057,36.3115234375,36.185131072998,34.5759987831116,0,218.437240600586,8

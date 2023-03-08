@@ -1,0 +1,277 @@
+Mapping parameters for Liza falcipinnis (Sicklefin mullet)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 34 |  47,
+Bounding Box (NSWE): ,14,-8,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,6,26,50
+Temperature (°C),1,23.29,25.51,27.94,32.14
+Salinity (psu),1,24.4,29.54,35.09,35.59
+Primary Production,1,719,1006,3279,3894
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,1,3,27,195
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 188): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Liza,falcipinnis,4.75,4.75,1000:144:4,0.07
+Liza,falcipinnis,4.25,5.75,1000:245:2,0.12
+Liza,falcipinnis,-5.75,12.25,3001:352:3,0.10
+Liza,falcipinnis,4.75,-0.75,7000:140:4,0.15
+Liza,falcipinnis,4.75,-9.25,7000:249:3,0.11
+Liza,falcipinnis,4.25,5.25,1000:245:1,0.37
+Liza,falcipinnis,4.25,9.75,1000:249:2,0.20
+Liza,falcipinnis,6.75,3.25,1000:363:3,0.20
+Liza,falcipinnis,-4.25,10.75,3001:140:2,0.25
+Liza,falcipinnis,4.25,-6.75,7000:246:2,0.38
+Liza,falcipinnis,1.25,7.25,1000:217:1,0.52
+Liza,falcipinnis,1.75,7.25,1000:217:3,0.40
+Liza,falcipinnis,3.75,5.75,1000:235:4,0.40
+Liza,falcipinnis,6.25,1.75,1000:361:2,0.45
+Liza,falcipinnis,-5.25,12.25,3001:352:1,0.55
+Liza,falcipinnis,4.75,-1.25,7000:141:3,0.44
+Liza,falcipinnis,5.25,-1.25,7000:351:1,0.52
+Liza,falcipinnis,7.75,-14.25,7001:374:3,0.53
+Liza,falcipinnis,8.25,-14.25,7001:384:1,0.46
+Liza,falcipinnis,9.25,-15.75,7001:495:2,0.43
+Liza,falcipinnis,3.75,7.75,1000:237:4,0.71
+Liza,falcipinnis,5.75,1.25,1000:351:3,0.79
+Liza,falcipinnis,4.25,-1.75,7000:141:2,0.62
+Liza,falcipinnis,4.75,-7.25,7000:247:3,0.60
+Liza,falcipinnis,4.25,-8.25,7000:248:1,0.61
+Liza,falcipinnis,5.25,-0.25,7000:350:1,0.75
+Liza,falcipinnis,5.25,-5.75,7000:455:2,0.60
+Liza,falcipinnis,5.25,-9.75,7000:459:2,0.74
+Liza,falcipinnis,9.25,-15.25,7001:495:1,0.70
+Liza,falcipinnis,13.25,-17.25,7101:237:1,0.78
+Liza,falcipinnis,13.75,-17.25,7101:237:3,0.78
+Liza,falcipinnis,0.25,9.25,1000:209:1,1.00
+Liza,falcipinnis,0.25,9.75,1000:209:2,1.00
+Liza,falcipinnis,0.75,9.25,1000:209:3,1.00
+Liza,falcipinnis,0.75,9.75,1000:209:4,1.00
+Liza,falcipinnis,1.75,7.75,1000:217:4,0.99
+Liza,falcipinnis,1.25,9.25,1000:219:1,1.00
+Liza,falcipinnis,1.25,9.75,1000:219:2,1.00
+Liza,falcipinnis,1.75,9.75,1000:219:4,1.00
+Liza,falcipinnis,2.25,9.75,1000:229:2,1.00
+Liza,falcipinnis,2.75,9.75,1000:229:4,1.00
+Liza,falcipinnis,3.75,6.25,1000:236:3,0.98
+Liza,falcipinnis,3.75,6.75,1000:236:4,1.00
+Liza,falcipinnis,3.25,8.25,1000:238:1,1.00
+Liza,falcipinnis,3.25,8.75,1000:238:2,1.00
+Liza,falcipinnis,3.75,8.25,1000:238:3,1.00
+Liza,falcipinnis,3.75,8.75,1000:238:4,1.00
+Liza,falcipinnis,3.25,9.25,1000:239:1,1.00
+Liza,falcipinnis,3.25,9.75,1000:239:2,1.00
+Liza,falcipinnis,3.75,9.25,1000:239:3,1.00
+Liza,falcipinnis,3.75,9.75,1000:239:4,1.00
+Liza,falcipinnis,4.75,5.25,1000:245:3,1.00
+Liza,falcipinnis,4.75,5.75,1000:245:4,0.82
+Liza,falcipinnis,4.25,6.25,1000:246:1,1.00
+Liza,falcipinnis,4.25,6.75,1000:246:2,1.00
+Liza,falcipinnis,4.25,7.25,1000:247:1,1.00
+Liza,falcipinnis,4.25,7.75,1000:247:2,1.00
+Liza,falcipinnis,4.75,7.75,1000:247:4,1.00
+Liza,falcipinnis,4.25,8.25,1000:248:1,1.00
+Liza,falcipinnis,4.25,8.75,1000:248:2,1.00
+Liza,falcipinnis,4.75,8.25,1000:248:3,1.00
+Liza,falcipinnis,4.75,8.75,1000:248:4,1.00
+Liza,falcipinnis,4.25,9.25,1000:249:1,1.00
+Liza,falcipinnis,5.75,0.25,1000:350:3,1.00
+Liza,falcipinnis,5.75,0.75,1000:350:4,1.00
+Liza,falcipinnis,5.25,4.75,1000:354:2,0.92
+Liza,falcipinnis,5.75,4.75,1000:354:4,1.00
+Liza,falcipinnis,6.25,2.25,1000:362:1,0.86
+Liza,falcipinnis,6.25,2.75,1000:362:2,1.00
+Liza,falcipinnis,6.25,3.25,1000:363:1,1.00
+Liza,falcipinnis,6.25,3.75,1000:363:2,1.00
+Liza,falcipinnis,6.25,4.25,1000:364:1,1.00
+Liza,falcipinnis,6.25,4.75,1000:364:2,1.00
+Liza,falcipinnis,5.25,5.25,1000:455:1,1.00
+Liza,falcipinnis,5.75,5.25,1000:455:3,1.00
+Liza,falcipinnis,-0.25,8.75,3000:208:2,1.00
+Liza,falcipinnis,-0.75,8.75,3000:208:4,1.00
+Liza,falcipinnis,-0.25,9.25,3000:209:1,1.00
+Liza,falcipinnis,-0.75,9.25,3000:209:3,1.00
+Liza,falcipinnis,-1.25,8.75,3000:218:2,1.00
+Liza,falcipinnis,-1.25,9.25,3000:219:1,1.00
+Liza,falcipinnis,-1.75,9.25,3000:219:3,1.00
+Liza,falcipinnis,-2.25,9.25,3000:229:1,1.00
+Liza,falcipinnis,-2.25,9.75,3000:229:2,1.00
+Liza,falcipinnis,-2.75,9.25,3000:229:3,1.00
+Liza,falcipinnis,-2.75,9.75,3000:229:4,1.00
+Liza,falcipinnis,-3.25,9.75,3000:239:2,1.00
+Liza,falcipinnis,-2.75,10.25,3001:120:3,1.00
+Liza,falcipinnis,-3.25,10.25,3001:130:1,1.00
+Liza,falcipinnis,-3.25,10.75,3001:130:2,1.00
+Liza,falcipinnis,-3.75,10.75,3001:130:4,1.00
+Liza,falcipinnis,-3.75,11.25,3001:131:3,1.00
+Liza,falcipinnis,-4.25,11.25,3001:141:1,1.00
+Liza,falcipinnis,-4.25,11.75,3001:141:2,1.00
+Liza,falcipinnis,-4.75,11.75,3001:141:4,1.00
+Liza,falcipinnis,-4.75,12.25,3001:142:3,1.00
+Liza,falcipinnis,-6.25,11.75,3001:361:2,1.00
+Liza,falcipinnis,-6.75,11.75,3001:361:4,1.00
+Liza,falcipinnis,-6.25,12.25,3001:362:1,1.00
+Liza,falcipinnis,-6.25,12.75,3001:362:2,1.00
+Liza,falcipinnis,-6.75,12.25,3001:362:3,1.00
+Liza,falcipinnis,-6.75,12.75,3001:362:4,1.00
+Liza,falcipinnis,-7.25,12.25,3001:372:1,1.00
+Liza,falcipinnis,-7.25,12.75,3001:372:2,1.00
+Liza,falcipinnis,-7.75,12.75,3001:372:4,1.00
+Liza,falcipinnis,-7.75,13.25,3001:373:3,1.00
+Liza,falcipinnis,4.75,-1.75,7000:141:4,1.00
+Liza,falcipinnis,4.75,-2.25,7000:142:3,1.00
+Liza,falcipinnis,4.75,-2.75,7000:142:4,1.00
+Liza,falcipinnis,4.75,-3.25,7000:143:3,1.00
+Liza,falcipinnis,4.75,-5.25,7000:245:3,1.00
+Liza,falcipinnis,4.75,-5.75,7000:245:4,1.00
+Liza,falcipinnis,4.75,-6.25,7000:246:3,1.00
+Liza,falcipinnis,4.75,-6.75,7000:246:4,1.00
+Liza,falcipinnis,4.25,-7.25,7000:247:1,1.00
+Liza,falcipinnis,4.25,-7.75,7000:247:2,1.00
+Liza,falcipinnis,4.75,-7.75,7000:247:4,0.89
+Liza,falcipinnis,4.75,-8.25,7000:248:3,1.00
+Liza,falcipinnis,4.75,-8.75,7000:248:4,1.00
+Liza,falcipinnis,5.75,-0.25,7000:350:3,1.00
+Liza,falcipinnis,5.25,-1.75,7000:351:2,1.00
+Liza,falcipinnis,5.25,-2.75,7000:352:2,1.00
+Liza,falcipinnis,5.25,-3.25,7000:353:1,1.00
+Liza,falcipinnis,5.25,-3.75,7000:353:2,1.00
+Liza,falcipinnis,5.25,-4.25,7000:354:1,1.00
+Liza,falcipinnis,5.25,-4.75,7000:354:2,1.00
+Liza,falcipinnis,5.25,-5.25,7000:455:1,1.00
+Liza,falcipinnis,5.25,-9.25,7000:459:1,1.00
+Liza,falcipinnis,5.75,-9.75,7000:459:4,1.00
+Liza,falcipinnis,5.75,-10.25,7001:350:3,0.98
+Liza,falcipinnis,6.25,-10.25,7001:360:1,1.00
+Liza,falcipinnis,6.25,-10.75,7001:360:2,1.00
+Liza,falcipinnis,6.75,-10.75,7001:360:4,1.00
+Liza,falcipinnis,6.25,-11.25,7001:361:1,1.00
+Liza,falcipinnis,6.75,-11.25,7001:361:3,1.00
+Liza,falcipinnis,6.75,-11.75,7001:361:4,1.00
+Liza,falcipinnis,7.25,-11.75,7001:371:2,1.00
+Liza,falcipinnis,7.25,-12.25,7001:372:1,1.00
+Liza,falcipinnis,7.25,-12.75,7001:372:2,1.00
+Liza,falcipinnis,7.75,-12.75,7001:372:4,1.00
+Liza,falcipinnis,7.25,-13.25,7001:373:1,1.00
+Liza,falcipinnis,7.75,-13.25,7001:373:3,1.00
+Liza,falcipinnis,7.75,-13.75,7001:373:4,1.00
+Liza,falcipinnis,8.25,-12.75,7001:382:2,1.00
+Liza,falcipinnis,8.25,-13.25,7001:383:1,1.00
+Liza,falcipinnis,8.75,-13.25,7001:383:3,1.00
+Liza,falcipinnis,8.75,-13.75,7001:383:4,1.00
+Liza,falcipinnis,8.75,-14.75,7001:384:4,0.86
+Liza,falcipinnis,9.25,-13.25,7001:393:1,1.00
+Liza,falcipinnis,9.25,-13.75,7001:393:2,1.00
+Liza,falcipinnis,9.75,-13.25,7001:393:3,1.00
+Liza,falcipinnis,9.75,-13.75,7001:393:4,1.00
+Liza,falcipinnis,9.25,-14.75,7001:394:2,1.00
+Liza,falcipinnis,9.75,-14.25,7001:394:3,1.00
+Liza,falcipinnis,9.75,-14.75,7001:394:4,1.00
+Liza,falcipinnis,9.75,-15.25,7001:495:3,1.00
+Liza,falcipinnis,9.75,-15.75,7001:495:4,1.00
+Liza,falcipinnis,9.75,-16.25,7001:496:3,0.93
+Liza,falcipinnis,10.25,-14.25,7101:104:1,1.00
+Liza,falcipinnis,10.25,-14.75,7101:104:2,1.00
+Liza,falcipinnis,10.75,-14.75,7101:104:4,1.00
+Liza,falcipinnis,10.25,-15.25,7101:205:1,1.00
+Liza,falcipinnis,10.25,-15.75,7101:205:2,1.00
+Liza,falcipinnis,10.75,-15.25,7101:205:3,1.00
+Liza,falcipinnis,10.75,-15.75,7101:205:4,1.00
+Liza,falcipinnis,10.25,-16.25,7101:206:1,1.00
+Liza,falcipinnis,10.25,-16.75,7101:206:2,1.00
+Liza,falcipinnis,10.75,-16.25,7101:206:3,1.00
+Liza,falcipinnis,10.75,-16.75,7101:206:4,1.00
+Liza,falcipinnis,11.25,-15.25,7101:215:1,1.00
+Liza,falcipinnis,11.25,-15.75,7101:215:2,1.00
+Liza,falcipinnis,11.75,-15.25,7101:215:3,1.00
+Liza,falcipinnis,11.75,-15.75,7101:215:4,1.00
+Liza,falcipinnis,11.25,-16.25,7101:216:1,1.00
+Liza,falcipinnis,11.25,-16.75,7101:216:2,1.00
+Liza,falcipinnis,11.75,-16.25,7101:216:3,1.00
+Liza,falcipinnis,11.75,-16.75,7101:216:4,1.00
+Liza,falcipinnis,11.25,-17.25,7101:217:1,1.00
+Liza,falcipinnis,11.75,-17.25,7101:217:3,1.00
+Liza,falcipinnis,12.25,-16.25,7101:226:1,1.00
+Liza,falcipinnis,12.25,-16.75,7101:226:2,0.96
+Liza,falcipinnis,12.75,-16.75,7101:226:4,0.96
+Liza,falcipinnis,12.25,-17.25,7101:227:1,0.96
+Liza,falcipinnis,12.75,-17.25,7101:227:3,0.96
+Liza,falcipinnis,12.75,-17.75,7101:227:4,0.96
+Liza,falcipinnis,13.25,-16.25,7101:236:1,0.85
+Liza,falcipinnis,13.25,-16.75,7101:236:2,0.85
+Liza,falcipinnis,13.75,-16.75,7101:236:4,0.85
+
+
+Occurrence cells used for creating environmental envelope (n = 53)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Liza,falcipinnis,-6.25,12.25,3001:362:1,33,25.65,31.02,2962,0,25
+Liza,falcipinnis,-5.75,12.75,3001:352:4,1,25.78,29.54,3699,0,3
+Liza,falcipinnis,-5.75,12.25,3001:352:3,36,25.78,29.54,3830,0,17
+Liza,falcipinnis,-5.25,12.25,3001:352:1,15,25.78,29.54,3558,0,11
+Liza,falcipinnis,-5.25,11.75,3001:351:2,137,25.87,29.54,3894,0,83
+Liza,falcipinnis,-4.75,11.75,3001:141:4,51,25.82,29.54,3279,0,23
+Liza,falcipinnis,-4.25,11.75,3001:141:2,39,25.82,31.57,2524,0,5
+Liza,falcipinnis,-4.25,11.25,3001:141:1,89,25.82,31.57,2771,0,26
+Liza,falcipinnis,-2.25,9.75,3000:229:2,55,26.08,34.61,1630,0,8
+Liza,falcipinnis,-1.25,8.75,3000:218:2,155,26.36,34.13,1635,0,28
+Liza,falcipinnis,-0.75,9.25,3000:209:3,3,26.75,33.45,2188,0,4
+Liza,falcipinnis,-0.75,8.75,3000:208:4,233,26.78,33.45,2241,0,25
+Liza,falcipinnis,-0.25,9.25,3000:209:1,31,26.75,33.45,1752,0,19
+Liza,falcipinnis,0.25,9.25,1000:209:1,34,27.3,31.62,1624,0,25
+Liza,falcipinnis,0.75,9.75,1000:209:4,17,27.3,31.62,1642,0,8
+Liza,falcipinnis,1.25,9.25,1000:219:1,377,27.66,31.11,1690,0,27
+Liza,falcipinnis,1.75,9.75,1000:219:4,247,27.66,31.11,1752,0,13
+Liza,falcipinnis,2.25,9.75,1000:229:2,444,27.83,30.2,1922,0,19
+Liza,falcipinnis,2.75,9.75,1000:229:4,350,27.83,30.2,1919,0,23
+Liza,falcipinnis,3.25,9.75,1000:239:2,61,27.89,30.2,2485,0,26
+Liza,falcipinnis,3.25,8.75,1000:238:2,833,27.9,30.2,1763,0,21
+Liza,falcipinnis,3.75,9.75,1000:239:4,7,27.89,30.2,2288,0,16
+Liza,falcipinnis,3.75,8.75,1000:238:4,62,27.9,30.54,1860,0,21
+Liza,falcipinnis,4.25,8.75,1000:248:2,110,27.89,30.54,2447,0,27
+Liza,falcipinnis,4.25,6.75,1000:246:2,17,27.94,31.48,1173,0,23
+Liza,falcipinnis,4.75,8.25,1000:248:3,5,27.89,30.54,2206,0,10
+Liza,falcipinnis,4.75,7.25,1000:247:3,1,27.92,30.54,1655,0,4
+Liza,falcipinnis,4.75,6.75,1000:246:4,1,27.94,31.48,1160,0,1
+Liza,falcipinnis,4.75,-6.75,7000:246:4,124,27.56,34.58,1469,0,13
+Liza,falcipinnis,4.75,-6.25,7000:246:3,630,27.56,34.58,1598,0,23
+Liza,falcipinnis,4.75,-1.75,7000:141:4,43,27.38,34.68,1087,0,24
+Liza,falcipinnis,4.75,-1.25,7000:141:3,34,27.38,34.68,845,0,84
+Liza,falcipinnis,4.75,2.25,1000:142:3,3813,27.75,34.46,719,0,195
+Liza,falcipinnis,5.25,-4.25,7000:354:1,292,27.46,34.63,1251,0,14
+Liza,falcipinnis,5.25,-2.75,7000:352:2,4,27.39,34.68,1104,0,3
+Liza,falcipinnis,5.25,5.75,1000:455:2,1,27.95,33.25,1171,0,2
+Liza,falcipinnis,5.75,-10.25,7001:350:3,310,28.01,34.2,1069,0,27
+Liza,falcipinnis,5.75,-9.75,7000:459:4,33,27.96,34.2,1236,0,8
+Liza,falcipinnis,6.25,1.75,1000:361:2,193,27.48,35.09,848,0,16
+Liza,falcipinnis,6.25,3.25,1000:363:1,597,27.69,34.15,1197,0,25
+Liza,falcipinnis,6.25,2.75,1000:362:2,373,27.58,34.77,1064,0,23
+Liza,falcipinnis,6.25,2.25,1000:362:1,449,27.58,34.77,965,0,20
+Liza,falcipinnis,6.75,-11.25,7001:361:3,101,27.96,33.88,1295,0,15
+Liza,falcipinnis,7.75,-12.75,7001:372:4,13,27.91,33.83,1077,0,14
+Liza,falcipinnis,8.25,-13.25,7001:383:1,135,27.6,33.83,1006,0,23
+Liza,falcipinnis,9.75,-13.75,7001:393:4,43,27.39,33.75,1630,0,19
+Liza,falcipinnis,11.25,-16.25,7101:216:1,4,26.05,34.66,1543,0,25
+Liza,falcipinnis,11.75,-15.25,7101:215:3,7,26.21,34.66,1203,0,14
+Liza,falcipinnis,12.25,-16.25,7101:226:1,3,25.51,34.66,1191,0,8
+Liza,falcipinnis,12.75,-16.25,7101:226:3,1,25.51,35.11,1074,0,2
+Liza,falcipinnis,13.25,-16.75,7101:236:2,24,25.17,35.09,1603,0,16
+Liza,falcipinnis,13.75,-16.75,7101:236:4,43,25.17,35.09,2536,0,22
+Liza,falcipinnis,13.75,-16.25,7101:236:3,1,25.17,35.09,2017,0,1

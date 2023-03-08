@@ -1,0 +1,90 @@
+Mapping parameters for Gaidropsarus granti (Azores rockling)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 27 |  34,
+Bounding Box (NSWE): ,40,27,-32,-13
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,20,45,129,250
+Temperature (°C),1,17.9,19.01,20.58,22.08
+Salinity (psu),1,35.37,35.87,36.87,37.37
+Primary Production,1,199.625,344.6,544.3,636.625
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,20,21,183.800003051758,299.75
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 50): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Gaidropsarus,granti,36.75,-14.25,7301:364:3,0.16
+Gaidropsarus,granti,36.75,-24.75,7302:364:4,0.07
+Gaidropsarus,granti,37.75,-29.25,7302:479:3,0.09
+Gaidropsarus,granti,38.25,-28.75,7302:488:2,0.18
+Gaidropsarus,granti,34.25,-30.25,7303:140:1,0.11
+Gaidropsarus,granti,27.75,-18.25,7201:478:3,0.33
+Gaidropsarus,granti,33.75,-14.25,7301:134:3,0.34
+Gaidropsarus,granti,39.25,-27.75,7302:497:2,0.33
+Gaidropsarus,granti,28.25,-14.25,7201:384:1,0.48
+Gaidropsarus,granti,27.75,-17.75,7201:477:4,0.45
+Gaidropsarus,granti,28.25,-17.25,7201:487:1,0.59
+Gaidropsarus,granti,28.25,-17.75,7201:487:2,0.59
+Gaidropsarus,granti,28.75,-17.75,7201:487:4,0.59
+Gaidropsarus,granti,39.25,-28.25,7302:498:1,0.41
+Gaidropsarus,granti,28.25,-16.25,7201:486:1,0.71
+Gaidropsarus,granti,28.25,-16.75,7201:486:2,0.71
+Gaidropsarus,granti,28.75,-16.25,7201:486:3,0.69
+Gaidropsarus,granti,32.75,-17.25,7301:227:3,0.77
+Gaidropsarus,granti,33.25,-16.25,7301:236:1,0.75
+Gaidropsarus,granti,38.75,-26.75,7302:486:4,0.68
+Gaidropsarus,granti,38.25,-27.75,7302:487:2,0.72
+Gaidropsarus,granti,38.75,-27.25,7302:487:3,0.72
+Gaidropsarus,granti,38.75,-27.75,7302:487:4,0.72
+Gaidropsarus,granti,39.25,-31.25,7303:391:1,0.75
+Gaidropsarus,granti,39.75,-31.25,7303:391:3,0.75
+Gaidropsarus,granti,27.75,-14.75,7201:374:4,0.86
+Gaidropsarus,granti,28.25,-13.75,7201:383:2,1.00
+Gaidropsarus,granti,28.75,-13.25,7201:383:3,1.00
+Gaidropsarus,granti,28.75,-13.75,7201:383:4,1.00
+Gaidropsarus,granti,28.25,-14.75,7201:384:2,1.00
+Gaidropsarus,granti,28.75,-14.25,7201:384:3,1.00
+Gaidropsarus,granti,29.25,-13.25,7201:393:1,1.00
+Gaidropsarus,granti,29.25,-13.75,7201:393:2,1.00
+Gaidropsarus,granti,27.75,-15.25,7201:475:3,0.87
+Gaidropsarus,granti,27.75,-15.75,7201:475:4,0.87
+Gaidropsarus,granti,28.25,-15.25,7201:485:1,0.88
+Gaidropsarus,granti,28.25,-15.75,7201:485:2,0.88
+Gaidropsarus,granti,31.25,-13.75,7301:113:2,0.95
+Gaidropsarus,granti,30.25,-15.75,7301:205:2,0.93
+Gaidropsarus,granti,32.25,-16.25,7301:226:1,0.89
+Gaidropsarus,granti,32.75,-16.25,7301:226:3,0.86
+Gaidropsarus,granti,32.75,-16.75,7301:226:4,0.85
+Gaidropsarus,granti,37.25,-24.75,7302:374:2,1.00
+Gaidropsarus,granti,36.75,-25.25,7302:465:3,1.00
+Gaidropsarus,granti,37.25,-25.25,7302:475:1,1.00
+Gaidropsarus,granti,37.75,-25.25,7302:475:3,1.00
+Gaidropsarus,granti,37.75,-25.75,7302:475:4,1.00
+Gaidropsarus,granti,38.25,-28.25,7302:488:1,0.81
+Gaidropsarus,granti,38.75,-28.25,7302:488:3,0.81
+Gaidropsarus,granti,38.75,-28.75,7302:488:4,0.81
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Gaidropsarus,granti,28.25,-14.25,7201:384:1,874,20.47,36.54,592,0,21
+Gaidropsarus,granti,29.75,-15.75,7201:495:4,3516,20.63,36.63,332,0,104
+Gaidropsarus,granti,36.75,-27.25,7302:467:3,3216,19.72,36.25,374,0,218
+Gaidropsarus,granti,38.75,-27.75,7302:487:4,1246,18.7,36.09,433,0,21

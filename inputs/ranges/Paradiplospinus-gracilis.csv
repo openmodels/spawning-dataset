@@ -1,0 +1,74 @@
+Mapping parameters for Paradiplospinus gracilis (Slender escolar)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 47 |  58,
+Bounding Box (NSWE): ,-16,-30,3,15
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,368,397,489,626
+Temperature (°C),1,-1.77,2.48,9.35,12.61
+Salinity (psu),1,33.67,34.17,35.17,35.67
+Primary Production (mgC·m-3·day-1) ,1,9.61,17.59,57.27,77.84
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),1,75.2,85.96,226.14,323.85
+Distance to Land (km),0,46,110,433.4,701
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 31): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Paradiplospinus,gracilis,-17.25,11.25,3101:371:1,0.15
+Paradiplospinus,gracilis,-23.25,12.75,3201:132:2,0.18
+Paradiplospinus,gracilis,-27.25,13.75,3201:373:2,0.15
+Paradiplospinus,gracilis,-29.25,14.25,3201:394:1,0.13
+Paradiplospinus,gracilis,-29.75,14.75,3201:394:4,0.14
+Paradiplospinus,gracilis,-22.25,12.75,3201:122:2,0.25
+Paradiplospinus,gracilis,-23.25,13.25,3201:133:1,0.23
+Paradiplospinus,gracilis,-26.25,14.25,3201:364:1,0.29
+Paradiplospinus,gracilis,-29.25,14.75,3201:394:2,0.29
+Paradiplospinus,gracilis,-16.75,11.25,3101:361:3,0.57
+Paradiplospinus,gracilis,-27.25,14.75,3201:374:2,0.41
+Paradiplospinus,gracilis,-27.75,14.25,3201:374:3,0.45
+Paradiplospinus,gracilis,-21.25,12.25,3201:112:1,0.66
+Paradiplospinus,gracilis,-28.75,14.25,3201:384:3,0.78
+Paradiplospinus,gracilis,-16.25,11.25,3101:361:1,1.00
+Paradiplospinus,gracilis,-17.75,11.25,3101:371:3,1.00
+Paradiplospinus,gracilis,-18.75,11.25,3101:381:3,1.00
+Paradiplospinus,gracilis,-19.25,11.25,3101:391:1,1.00
+Paradiplospinus,gracilis,-20.75,8.75,3200:208:4,1.00
+Paradiplospinus,gracilis,-20.25,11.75,3201:101:2,1.00
+Paradiplospinus,gracilis,-20.75,12.25,3201:102:3,0.92
+Paradiplospinus,gracilis,-22.75,12.75,3201:122:4,1.00
+Paradiplospinus,gracilis,-24.25,13.25,3201:143:1,1.00
+Paradiplospinus,gracilis,-24.75,13.25,3201:143:3,0.88
+Paradiplospinus,gracilis,-25.75,13.75,3201:353:4,0.96
+Paradiplospinus,gracilis,-26.25,13.75,3201:363:2,1.00
+Paradiplospinus,gracilis,-26.75,13.75,3201:363:4,1.00
+Paradiplospinus,gracilis,-26.75,14.25,3201:364:3,0.81
+Paradiplospinus,gracilis,-27.25,14.25,3201:374:1,1.00
+Paradiplospinus,gracilis,-27.75,14.75,3201:374:4,1.00
+Paradiplospinus,gracilis,-28.25,14.25,3201:384:1,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 7)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Paradiplospinus,gracilis,-27.25,14.25,3201:374:1,643,16.7467212677002,5.14640188217163,35.0850677490234,34.3917541503906,48.0160005390644,0,155.916290283203,124
+Paradiplospinus,gracilis,-26.25,14.25,3201:364:1,302,15.030553817749,9.56925773620605,35.0662422180176,34.7779655456543,71.16299867629999,0,93.1282730102539,89
+Paradiplospinus,gracilis,-23.75,13.25,3201:133:3,500,16.1962909698486,9.20180320739746,35.102123260498,34.7935600280762,47.3619997501373,0,75.2037658691406,167
+Paradiplospinus,gracilis,-22.25,11.75,3201:121:2,2607,18.1903457641602,2.62650203704834,35.3420181274414,34.8962287902832,22.902999073267,0,222.824111938477,255
+Paradiplospinus,gracilis,-21.75,6.75,3200:216:4,3117,20.0942363739014,2.24778890609741,35.644229888916,34.8839111328125,9.61299985647202,0,231.104461669922,701
+Paradiplospinus,gracilis,-20.25,11.75,3201:101:2,760,18.0320301055908,4.61955690383911,35.5747566223145,34.4918174743652,33.4619991481304,0,117.278343200684,166
+Paradiplospinus,gracilis,-19.25,11.25,3101:391:1,890,18.2453517913818,5.2363109588623,35.7569885253906,34.5071029663086,32.2769992053509,0,106.300216674805,167

@@ -1,0 +1,235 @@
+Mapping parameters for Torpedo californica (Pacific electric ray)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 61 |  67 |  77,
+Bounding Box (NSWE): ,48,23,-126,-110
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,3,200,906
+Temperature (°C),1,6.28,12.54,18.96,24.24
+Salinity (psu),1,31.32,31.82,33.63,35.06
+Primary Production,1,453,747,1830,2954
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,2,3,111,193.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 167): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Torpedo,californica,23.25,-111.25,7211:131:1,0.04
+Torpedo,californica,23.25,-111.75,7211:131:2,0.02
+Torpedo,californica,23.75,-111.25,7211:131:3,0.06
+Torpedo,californica,23.75,-111.75,7211:131:4,0.05
+Torpedo,californica,23.75,-112.25,7211:132:3,0.07
+Torpedo,californica,24.25,-111.25,7211:141:1,0.08
+Torpedo,californica,24.25,-111.75,7211:141:2,0.11
+Torpedo,californica,24.75,-111.75,7211:141:4,0.11
+Torpedo,californica,24.25,-112.25,7211:142:1,0.19
+Torpedo,californica,24.25,-112.75,7211:142:2,0.04
+Torpedo,californica,24.75,-112.25,7211:142:3,0.19
+Torpedo,californica,24.75,-112.75,7211:142:4,0.19
+Torpedo,californica,24.75,-115.75,7211:245:4,0.11
+Torpedo,californica,25.75,-113.75,7211:353:4,0.15
+Torpedo,californica,25.25,-115.75,7211:455:2,0.06
+Torpedo,californica,28.75,-116.25,7211:486:3,0.02
+Torpedo,californica,28.75,-118.25,7211:488:3,0.04
+Torpedo,californica,30.25,-117.75,7311:207:2,0.01
+Torpedo,californica,30.75,-117.25,7311:207:3,0.16
+Torpedo,californica,31.25,-118.25,7311:218:1,0.17
+Torpedo,californica,31.25,-118.75,7311:218:2,0.12
+Torpedo,californica,31.75,-118.25,7311:218:3,0.03
+Torpedo,californica,31.75,-118.75,7311:218:4,0.04
+Torpedo,californica,31.25,-119.25,7311:219:1,0.13
+Torpedo,californica,33.75,-120.75,7312:130:4,0.03
+Torpedo,californica,38.75,-124.25,7312:384:3,0.08
+Torpedo,californica,47.25,-124.75,7412:374:2,0.14
+Torpedo,californica,47.75,-124.25,7412:374:3,0.10
+Torpedo,californica,47.75,-124.75,7412:374:4,0.10
+Torpedo,californica,45.75,-125.25,7412:455:3,0.02
+Torpedo,californica,47.25,-125.25,7412:475:1,0.05
+Torpedo,californica,47.75,-125.25,7412:475:3,0.14
+Torpedo,californica,47.75,-125.75,7412:475:4,0.13
+Torpedo,californica,25.25,-112.25,7211:352:1,0.21
+Torpedo,californica,25.25,-112.75,7211:352:2,0.21
+Torpedo,californica,25.75,-112.25,7211:352:3,0.21
+Torpedo,californica,25.75,-112.75,7211:352:4,0.21
+Torpedo,californica,25.25,-113.25,7211:353:1,0.30
+Torpedo,californica,25.75,-113.25,7211:353:3,0.38
+Torpedo,californica,26.25,-112.25,7211:362:1,0.20
+Torpedo,californica,26.25,-112.75,7211:362:2,0.20
+Torpedo,californica,26.75,-112.75,7211:362:4,0.20
+Torpedo,californica,28.25,-115.25,7211:485:1,0.22
+Torpedo,californica,29.25,-116.75,7211:496:2,0.21
+Torpedo,californica,29.75,-116.75,7211:496:4,0.36
+Torpedo,californica,29.75,-117.25,7211:497:3,0.21
+Torpedo,californica,31.75,-117.75,7311:217:4,0.31
+Torpedo,californica,31.75,-119.25,7311:219:3,0.23
+Torpedo,californica,32.25,-117.75,7311:227:2,0.24
+Torpedo,californica,32.75,-120.25,7312:120:3,0.38
+Torpedo,californica,43.25,-124.25,7412:134:1,0.30
+Torpedo,californica,43.75,-124.25,7412:134:3,0.30
+Torpedo,californica,43.75,-124.75,7412:134:4,0.30
+Torpedo,californica,44.25,-124.25,7412:144:1,0.31
+Torpedo,californica,44.25,-124.75,7412:144:2,0.31
+Torpedo,californica,44.75,-124.25,7412:144:3,0.31
+Torpedo,californica,44.75,-124.75,7412:144:4,0.31
+Torpedo,californica,44.75,-125.25,7412:245:3,0.28
+Torpedo,californica,26.25,-113.25,7211:363:1,0.41
+Torpedo,californica,26.25,-113.75,7211:363:2,0.54
+Torpedo,californica,26.75,-113.25,7211:363:3,0.54
+Torpedo,californica,26.75,-113.75,7211:363:4,0.54
+Torpedo,californica,27.25,-113.75,7211:373:2,0.55
+Torpedo,californica,31.75,-117.25,7311:217:3,0.49
+Torpedo,californica,34.25,-121.25,7312:141:1,0.59
+Torpedo,californica,36.75,-122.75,7312:362:4,0.43
+Torpedo,californica,37.25,-123.25,7312:373:1,0.42
+Torpedo,californica,39.25,-124.25,7312:394:1,0.42
+Torpedo,californica,40.75,-124.25,7412:104:3,0.58
+Torpedo,californica,26.75,-114.25,7211:364:3,0.74
+Torpedo,californica,29.25,-114.75,7211:394:2,0.72
+Torpedo,californica,29.25,-116.25,7211:496:1,0.65
+Torpedo,californica,29.75,-116.25,7211:496:3,0.69
+Torpedo,californica,30.75,-115.75,7311:205:4,0.72
+Torpedo,californica,32.25,-118.25,7311:228:1,0.75
+Torpedo,californica,32.25,-119.75,7311:229:2,0.66
+Torpedo,californica,33.25,-120.25,7312:130:1,0.69
+Torpedo,californica,35.75,-121.75,7312:351:4,0.74
+Torpedo,californica,38.25,-123.25,7312:383:1,0.75
+Torpedo,californica,27.25,-114.25,7211:374:1,0.90
+Torpedo,californica,27.25,-114.75,7211:374:2,1.00
+Torpedo,californica,27.75,-114.25,7211:374:3,1.00
+Torpedo,californica,27.75,-114.75,7211:374:4,1.00
+Torpedo,californica,28.25,-114.25,7211:384:1,0.99
+Torpedo,californica,28.75,-114.25,7211:384:3,0.99
+Torpedo,californica,28.75,-114.75,7211:384:4,0.99
+Torpedo,californica,27.75,-115.25,7211:475:3,1.00
+Torpedo,californica,27.75,-115.75,7211:475:4,1.00
+Torpedo,californica,28.25,-115.75,7211:485:2,0.99
+Torpedo,californica,28.75,-115.25,7211:485:3,0.99
+Torpedo,californica,28.75,-115.75,7211:485:4,0.88
+Torpedo,californica,29.25,-115.25,7211:495:1,0.99
+Torpedo,californica,29.25,-115.75,7211:495:2,1.00
+Torpedo,californica,29.75,-115.25,7211:495:3,1.00
+Torpedo,californica,29.75,-115.75,7211:495:4,1.00
+Torpedo,californica,30.25,-115.75,7311:205:2,0.90
+Torpedo,californica,30.25,-116.25,7311:206:1,1.00
+Torpedo,californica,30.75,-116.25,7311:206:3,1.00
+Torpedo,californica,31.25,-116.25,7311:216:1,1.00
+Torpedo,californica,31.25,-116.75,7311:216:2,1.00
+Torpedo,californica,31.75,-116.75,7311:216:4,1.00
+Torpedo,californica,32.25,-116.75,7311:226:2,1.00
+Torpedo,californica,32.25,-117.25,7311:227:1,1.00
+Torpedo,californica,32.75,-117.25,7311:227:3,1.00
+Torpedo,californica,32.75,-117.75,7311:227:4,0.90
+Torpedo,californica,32.25,-118.75,7311:228:2,1.00
+Torpedo,californica,32.75,-118.25,7311:228:3,1.00
+Torpedo,californica,32.75,-118.75,7311:228:4,1.00
+Torpedo,californica,32.25,-119.25,7311:229:1,1.00
+Torpedo,californica,32.75,-119.25,7311:229:3,1.00
+Torpedo,californica,32.75,-119.75,7311:229:4,0.93
+Torpedo,californica,33.25,-117.25,7311:237:1,1.00
+Torpedo,californica,33.25,-117.75,7311:237:2,1.00
+Torpedo,californica,33.75,-117.75,7311:237:4,1.00
+Torpedo,californica,33.25,-118.25,7311:238:1,1.00
+Torpedo,californica,33.25,-118.75,7311:238:2,1.00
+Torpedo,californica,33.75,-118.25,7311:238:3,1.00
+Torpedo,californica,33.75,-118.75,7311:238:4,1.00
+Torpedo,californica,33.25,-119.25,7311:239:1,1.00
+Torpedo,californica,33.25,-119.75,7311:239:2,1.00
+Torpedo,californica,33.75,-119.25,7311:239:3,1.00
+Torpedo,californica,33.75,-119.75,7311:239:4,1.00
+Torpedo,californica,34.25,-118.25,7311:248:1,1.00
+Torpedo,californica,34.25,-118.75,7311:248:2,1.00
+Torpedo,californica,34.25,-119.25,7311:249:1,1.00
+Torpedo,californica,34.25,-119.75,7311:249:2,1.00
+Torpedo,californica,33.75,-120.25,7312:130:3,1.00
+Torpedo,californica,34.25,-120.25,7312:140:1,1.00
+Torpedo,californica,34.25,-120.75,7312:140:2,1.00
+Torpedo,californica,34.75,-120.25,7312:140:3,1.00
+Torpedo,californica,34.75,-120.75,7312:140:4,1.00
+Torpedo,californica,34.75,-121.25,7312:141:3,0.93
+Torpedo,californica,34.75,-121.75,7312:141:4,0.91
+Torpedo,californica,35.25,-120.75,7312:350:2,1.00
+Torpedo,californica,35.25,-121.25,7312:351:1,1.00
+Torpedo,californica,35.25,-121.75,7312:351:2,0.87
+Torpedo,californica,35.75,-121.25,7312:351:3,1.00
+Torpedo,californica,36.25,-121.25,7312:361:1,1.00
+Torpedo,californica,36.25,-121.75,7312:361:2,1.00
+Torpedo,californica,36.75,-121.75,7312:361:4,1.00
+Torpedo,californica,36.25,-122.25,7312:362:1,0.98
+Torpedo,californica,36.75,-122.25,7312:362:3,1.00
+Torpedo,californica,37.25,-122.25,7312:372:1,1.00
+Torpedo,californica,37.25,-122.75,7312:372:2,1.00
+Torpedo,californica,37.75,-122.25,7312:372:3,1.00
+Torpedo,californica,37.75,-122.75,7312:372:4,0.85
+Torpedo,californica,37.75,-123.25,7312:373:3,1.00
+Torpedo,californica,38.25,-122.25,7312:382:1,1.00
+Torpedo,californica,38.25,-122.75,7312:382:2,0.90
+Torpedo,californica,38.25,-123.75,7312:383:2,1.00
+Torpedo,californica,38.75,-123.25,7312:383:3,1.00
+Torpedo,californica,38.75,-123.75,7312:383:4,1.00
+Torpedo,californica,39.25,-123.75,7312:393:2,0.98
+Torpedo,californica,39.75,-123.75,7312:393:4,0.98
+Torpedo,californica,39.75,-124.25,7312:394:3,1.00
+Torpedo,californica,40.25,-124.25,7412:104:1,0.94
+Torpedo,californica,40.25,-124.75,7412:104:2,0.98
+Torpedo,californica,40.75,-124.75,7412:104:4,0.98
+Torpedo,californica,41.25,-124.25,7412:114:1,0.94
+Torpedo,californica,41.25,-124.75,7412:114:2,0.94
+Torpedo,californica,41.75,-124.25,7412:114:3,0.83
+Torpedo,californica,41.75,-124.75,7412:114:4,0.82
+Torpedo,californica,42.25,-124.25,7412:124:1,0.94
+Torpedo,californica,42.25,-124.75,7412:124:2,0.94
+Torpedo,californica,42.75,-124.25,7412:124:3,0.94
+Torpedo,californica,42.75,-124.75,7412:124:4,0.94
+Torpedo,californica,43.25,-124.75,7412:134:2,0.95
+
+
+Occurrence cells used for creating environmental envelope (n = 32)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Torpedo,californica,24.75,-110.75,7211:140:4,104,24.24,35.06,934,0,10
+Torpedo,californica,27.75,-114.75,7211:374:4,119,18.96,33.63,1087,0,15
+Torpedo,californica,28.75,-115.25,7211:485:3,383,18.41,33.65,1201,0,88
+Torpedo,californica,29.25,-118.25,7211:498:1,2358,18.02,33.54,453,0,24
+Torpedo,californica,30.25,-115.75,7311:205:2,89,19.47,33.54,1398,0,11
+Torpedo,californica,30.75,-116.75,7311:206:4,1860,17.88,33.54,852,0,86
+Torpedo,californica,31.25,-116.75,7311:216:2,1013,17.82,33.45,912,0,49
+Torpedo,californica,32.75,-117.25,7311:227:3,417,17.36,33.5,1056,0,17
+Torpedo,californica,33.25,-118.75,7311:238:2,1053,16.72,33.47,917,0,93
+Torpedo,californica,33.75,-118.25,7311:238:3,435,16.72,33.47,1489,0,15
+Torpedo,californica,33.75,-117.75,7311:237:4,279,17.21,33.5,1438,0,3
+Torpedo,californica,34.25,-122.25,7312:142:1,3985,14.98,33.24,727,0,191
+Torpedo,californica,34.25,-120.75,7312:140:2,804,15.27,33.29,1267,0,84
+Torpedo,californica,34.25,-120.25,7312:140:1,253,15.27,33.38,1617,0,22
+Torpedo,californica,34.25,-119.75,7311:249:2,236,15.43,33.47,1617,0,19
+Torpedo,californica,34.25,-119.25,7311:249:1,157,15.43,33.47,1403,0,12
+Torpedo,californica,34.25,-118.75,7311:248:2,167,16.08,33.47,1505,0,3
+Torpedo,californica,35.25,-121.75,7312:351:2,1697,14.6,33.22,1120,0,84
+Torpedo,californica,35.25,-121.25,7312:351:1,569,14.6,33.29,1387,0,49
+Torpedo,californica,35.25,-120.75,7312:350:2,150,14.93,33.29,1249,0,12
+Torpedo,californica,36.75,-122.25,7312:362:3,1365,13.43,33.29,1573,0,22
+Torpedo,californica,36.75,-121.75,7312:361:4,200,13.96,33.29,1465,0,8
+Torpedo,californica,37.25,-122.75,7312:372:2,445,12.93,33.18,1803,0,66
+Torpedo,californica,37.75,-123.25,7312:373:3,1164,13.19,33.18,1802,0,88
+Torpedo,californica,37.75,-122.75,7312:372:4,71,12.93,33.18,2002,0,20
+Torpedo,californica,37.75,-122.25,7312:372:3,37,12.93,33.18,1827,0,9
+Torpedo,californica,38.25,-123.25,7312:383:1,157,12.75,33.18,2114,0,21
+Torpedo,californica,38.25,-122.25,7312:382:1,15,12.83,33.18,1824,0,3
+Torpedo,californica,38.75,-123.25,7312:383:3,87,12.75,32.81,1742,0,5
+Torpedo,californica,44.25,-125.75,7412:245:2,2971,12.54,31.82,747,0,139
+Torpedo,californica,44.25,-124.25,7412:144:1,85,12.36,31.48,1830,0,18
+Torpedo,californica,45.25,-125.25,7412:455:1,1942,12.44,31.4,878,0,111

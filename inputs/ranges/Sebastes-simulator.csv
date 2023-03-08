@@ -1,0 +1,81 @@
+Mapping parameters for Sebastes simulator (Pinkrose rockfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,,29,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,99,120,200,293
+Temperature (°C),1,14.27,15.3,17.26,18.39
+Salinity (psu),1,32.89,33.39,33.5,34
+Primary Production,1,727,927.9,1527.4,1617
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,15,16.4,123.099998474121,196
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 37): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Sebastes,simulator,29.25,-115.25,7211:495:1,0.15
+Sebastes,simulator,32.75,-117.75,7311:227:4,0.03
+Sebastes,simulator,32.25,-118.75,7311:228:2,0.10
+Sebastes,simulator,32.75,-118.25,7311:228:3,0.11
+Sebastes,simulator,34.75,-121.75,7312:141:4,0.16
+Sebastes,simulator,29.25,-115.75,7211:495:2,0.20
+Sebastes,simulator,34.75,-121.25,7312:141:3,0.27
+Sebastes,simulator,35.25,-121.25,7312:351:1,0.26
+Sebastes,simulator,35.75,-121.25,7312:351:3,0.21
+Sebastes,simulator,30.25,-116.25,7311:206:1,0.42
+Sebastes,simulator,31.25,-116.25,7311:216:1,0.46
+Sebastes,simulator,31.25,-116.75,7311:216:2,0.46
+Sebastes,simulator,31.75,-116.75,7311:216:4,0.50
+Sebastes,simulator,32.25,-119.25,7311:229:1,0.46
+Sebastes,simulator,32.75,-119.75,7311:229:4,0.45
+Sebastes,simulator,34.75,-120.75,7312:140:4,0.47
+Sebastes,simulator,35.25,-120.75,7312:350:2,0.51
+Sebastes,simulator,32.25,-116.75,7311:226:2,0.62
+Sebastes,simulator,34.25,-120.75,7312:140:2,0.78
+Sebastes,simulator,32.25,-117.25,7311:227:1,0.91
+Sebastes,simulator,32.75,-117.25,7311:227:3,0.91
+Sebastes,simulator,32.75,-118.75,7311:228:4,0.85
+Sebastes,simulator,32.75,-119.25,7311:229:3,1.00
+Sebastes,simulator,33.25,-117.25,7311:237:1,1.00
+Sebastes,simulator,33.25,-117.75,7311:237:2,1.00
+Sebastes,simulator,33.75,-117.75,7311:237:4,1.00
+Sebastes,simulator,33.25,-118.25,7311:238:1,0.84
+Sebastes,simulator,33.25,-118.75,7311:238:2,0.95
+Sebastes,simulator,33.75,-118.25,7311:238:3,1.00
+Sebastes,simulator,33.75,-118.75,7311:238:4,1.00
+Sebastes,simulator,33.25,-119.25,7311:239:1,1.00
+Sebastes,simulator,33.25,-119.75,7311:239:2,1.00
+Sebastes,simulator,33.75,-119.25,7311:239:3,1.00
+Sebastes,simulator,33.75,-119.75,7311:239:4,1.00
+Sebastes,simulator,34.25,-118.75,7311:248:2,1.00
+Sebastes,simulator,34.25,-119.25,7311:249:1,1.00
+Sebastes,simulator,33.75,-120.25,7312:130:3,0.98
+
+
+Occurrence cells used for creating environmental envelope (n = 8)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Sebastes,simulator,32.75,-119.25,7311:229:3,633,16.43,33.45,1026,0,94
+Sebastes,simulator,32.75,-117.25,7311:227:3,417,17.36,33.5,1056,0,17
+Sebastes,simulator,33.25,-117.75,7311:237:2,707,17.21,33.5,1014,0,22
+Sebastes,simulator,33.75,-119.25,7311:239:3,958,15.94,33.47,1047,0,88
+Sebastes,simulator,33.75,-118.25,7311:238:3,435,16.72,33.47,1489,0,15
+Sebastes,simulator,33.75,-119.75,7311:239:4,626,15.94,33.47,1110,0,23
+Sebastes,simulator,34.25,-122.25,7312:142:1,3985,14.98,33.24,727,0,191
+Sebastes,simulator,34.25,-119.75,7311:249:2,236,15.43,33.47,1617,0,19

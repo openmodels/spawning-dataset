@@ -1,0 +1,231 @@
+Mapping parameters for Pennahia ovata ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 57,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,23,27,43,62
+Temperature (°C),1,26.18,27.62,28.62,32.82
+Salinity (psu),1,27,27.5,30.62,33.65
+Primary Production,1,940,1366,2944,3980
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,7,11,109,238
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 182): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Pennahia,ovata,0.25,99.25,1009:209:1,0.01
+Pennahia,ovata,0.25,99.75,1009:209:2,0.01
+Pennahia,ovata,0.75,99.25,1009:209:3,0.01
+Pennahia,ovata,1.25,98.75,1009:218:2,0.01
+Pennahia,ovata,2.25,97.75,1009:227:2,0.04
+Pennahia,ovata,4.25,98.75,1009:248:2,0.07
+Pennahia,ovata,4.75,98.25,1009:248:3,0.13
+Pennahia,ovata,4.25,99.25,1009:249:1,0.13
+Pennahia,ovata,4.75,99.25,1009:249:3,0.05
+Pennahia,ovata,4.75,99.75,1009:249:4,0.17
+Pennahia,ovata,5.25,97.75,1009:457:2,0.08
+Pennahia,ovata,5.25,99.25,1009:459:1,0.04
+Pennahia,ovata,5.75,99.25,1009:459:3,0.03
+Pennahia,ovata,7.25,99.75,1009:479:2,0.03
+Pennahia,ovata,10.25,79.75,1107:209:2,0.17
+Pennahia,ovata,10.75,79.75,1107:209:4,0.17
+Pennahia,ovata,10.25,80.25,1108:100:1,0.05
+Pennahia,ovata,10.75,80.25,1108:100:3,0.02
+Pennahia,ovata,12.75,80.25,1108:120:3,0.04
+Pennahia,ovata,13.25,80.25,1108:130:1,0.19
+Pennahia,ovata,15.75,80.25,1108:350:3,0.18
+Pennahia,ovata,17.25,83.75,1108:373:2,0.16
+Pennahia,ovata,14.75,94.25,1109:144:3,0.18
+Pennahia,ovata,10.25,97.75,1109:207:2,0.10
+Pennahia,ovata,10.75,97.75,1109:207:4,0.09
+Pennahia,ovata,10.25,98.25,1109:208:1,0.18
+Pennahia,ovata,11.25,98.25,1109:218:1,0.08
+Pennahia,ovata,11.75,98.25,1109:218:3,0.09
+Pennahia,ovata,12.25,98.25,1109:228:1,0.03
+Pennahia,ovata,13.25,97.75,1109:237:2,0.13
+Pennahia,ovata,14.25,97.75,1109:247:2,0.11
+Pennahia,ovata,15.75,93.75,1109:353:4,0.10
+Pennahia,ovata,19.25,92.75,1109:392:2,0.06
+Pennahia,ovata,19.75,92.25,1109:392:3,0.18
+Pennahia,ovata,16.25,97.25,1109:467:1,0.10
+Pennahia,ovata,20.25,86.25,1208:206:1,0.18
+Pennahia,ovata,20.25,90.75,1209:100:2,0.08
+Pennahia,ovata,4.75,97.75,1009:247:4,0.33
+Pennahia,ovata,4.25,98.25,1009:248:1,0.39
+Pennahia,ovata,5.25,99.75,1009:459:2,0.30
+Pennahia,ovata,5.75,99.75,1009:459:4,0.28
+Pennahia,ovata,6.25,99.25,1009:469:1,0.21
+Pennahia,ovata,6.75,99.25,1009:469:3,0.30
+Pennahia,ovata,6.25,100.25,1010:360:1,0.24
+Pennahia,ovata,6.75,100.25,1010:360:3,0.32
+Pennahia,ovata,15.25,80.25,1108:350:1,0.39
+Pennahia,ovata,15.25,80.75,1108:350:2,0.22
+Pennahia,ovata,17.75,84.25,1108:374:3,0.20
+Pennahia,ovata,11.25,97.75,1109:217:2,0.34
+Pennahia,ovata,11.75,97.75,1109:217:4,0.31
+Pennahia,ovata,11.75,98.75,1109:218:4,0.26
+Pennahia,ovata,12.75,98.25,1109:228:3,0.34
+Pennahia,ovata,14.75,95.25,1109:245:3,0.34
+Pennahia,ovata,18.75,93.25,1109:383:3,0.20
+Pennahia,ovata,3.75,98.75,1009:238:4,0.55
+Pennahia,ovata,3.25,99.75,1009:239:2,0.55
+Pennahia,ovata,3.75,99.25,1009:239:3,0.55
+Pennahia,ovata,3.75,99.75,1009:239:4,0.55
+Pennahia,ovata,4.25,99.75,1009:249:2,0.45
+Pennahia,ovata,2.75,100.25,1010:120:3,0.56
+Pennahia,ovata,2.75,100.75,1010:120:4,0.56
+Pennahia,ovata,2.75,101.25,1010:121:3,0.57
+Pennahia,ovata,2.75,101.75,1010:121:4,0.57
+Pennahia,ovata,3.25,100.25,1010:130:1,0.55
+Pennahia,ovata,3.25,100.75,1010:130:2,0.55
+Pennahia,ovata,3.75,100.25,1010:130:3,0.55
+Pennahia,ovata,3.75,100.75,1010:130:4,0.55
+Pennahia,ovata,3.25,101.25,1010:131:1,0.57
+Pennahia,ovata,3.75,101.25,1010:131:3,0.57
+Pennahia,ovata,4.25,100.25,1010:140:1,0.55
+Pennahia,ovata,4.25,100.75,1010:140:2,0.55
+Pennahia,ovata,4.75,100.25,1010:140:3,0.55
+Pennahia,ovata,4.75,100.75,1010:140:4,0.55
+Pennahia,ovata,5.25,100.25,1010:350:1,0.50
+Pennahia,ovata,5.75,100.25,1010:350:3,0.50
+Pennahia,ovata,13.75,80.25,1108:130:3,0.56
+Pennahia,ovata,14.75,80.25,1108:140:3,0.55
+Pennahia,ovata,14.75,94.75,1109:144:4,0.40
+Pennahia,ovata,10.25,98.75,1109:208:2,0.55
+Pennahia,ovata,12.25,97.75,1109:227:2,0.43
+Pennahia,ovata,12.75,97.75,1109:227:4,0.44
+Pennahia,ovata,14.75,96.25,1109:246:3,0.40
+Pennahia,ovata,18.25,94.75,1109:384:2,0.52
+Pennahia,ovata,15.25,96.75,1109:456:2,0.46
+Pennahia,ovata,15.75,96.75,1109:456:4,0.51
+Pennahia,ovata,20.25,91.25,1209:101:1,0.48
+Pennahia,ovata,14.25,80.25,1108:140:1,0.66
+Pennahia,ovata,17.25,82.25,1108:372:1,0.75
+Pennahia,ovata,17.25,83.25,1108:373:1,0.77
+Pennahia,ovata,19.75,86.75,1108:496:4,0.66
+Pennahia,ovata,16.25,94.25,1109:364:1,0.76
+Pennahia,ovata,16.75,94.25,1109:364:3,0.76
+Pennahia,ovata,18.75,94.25,1109:384:3,0.71
+Pennahia,ovata,16.25,95.75,1109:465:2,0.72
+Pennahia,ovata,20.25,91.75,1209:101:2,0.66
+Pennahia,ovata,22.75,91.75,1209:121:4,0.61
+Pennahia,ovata,15.75,80.75,1108:350:4,1.00
+Pennahia,ovata,15.75,81.25,1108:351:3,1.00
+Pennahia,ovata,16.25,81.25,1108:361:1,1.00
+Pennahia,ovata,16.25,81.75,1108:361:2,1.00
+Pennahia,ovata,16.25,82.25,1108:362:1,1.00
+Pennahia,ovata,16.75,82.25,1108:362:3,1.00
+Pennahia,ovata,16.75,82.75,1108:362:4,1.00
+Pennahia,ovata,17.25,82.75,1108:372:2,1.00
+Pennahia,ovata,17.75,83.25,1108:373:3,1.00
+Pennahia,ovata,17.75,83.75,1108:373:4,0.92
+Pennahia,ovata,18.25,83.75,1108:383:2,1.00
+Pennahia,ovata,18.25,84.25,1108:384:1,1.00
+Pennahia,ovata,18.75,84.25,1108:384:3,0.86
+Pennahia,ovata,18.75,84.75,1108:384:4,0.86
+Pennahia,ovata,19.25,84.75,1108:394:2,0.86
+Pennahia,ovata,19.25,85.25,1108:495:1,0.86
+Pennahia,ovata,19.75,85.25,1108:495:3,1.00
+Pennahia,ovata,19.75,85.75,1108:495:4,1.00
+Pennahia,ovata,19.75,86.25,1108:496:3,1.00
+Pennahia,ovata,13.25,98.25,1109:238:1,0.88
+Pennahia,ovata,17.25,94.25,1109:374:1,1.00
+Pennahia,ovata,17.25,94.75,1109:374:2,1.00
+Pennahia,ovata,17.75,94.25,1109:374:3,1.00
+Pennahia,ovata,17.75,94.75,1109:374:4,1.00
+Pennahia,ovata,14.75,97.25,1109:247:3,0.96
+Pennahia,ovata,14.75,97.75,1109:247:4,0.96
+Pennahia,ovata,14.25,98.25,1109:248:1,0.89
+Pennahia,ovata,15.25,94.25,1109:354:1,1.00
+Pennahia,ovata,15.25,94.75,1109:354:2,1.00
+Pennahia,ovata,15.75,94.25,1109:354:3,1.00
+Pennahia,ovata,15.75,94.75,1109:354:4,1.00
+Pennahia,ovata,18.75,93.75,1109:383:4,0.96
+Pennahia,ovata,18.25,94.25,1109:384:1,1.00
+Pennahia,ovata,19.75,92.75,1109:392:4,0.82
+Pennahia,ovata,19.25,93.25,1109:393:1,1.00
+Pennahia,ovata,19.25,93.75,1109:393:2,1.00
+Pennahia,ovata,19.75,93.25,1109:393:3,1.00
+Pennahia,ovata,19.75,93.75,1109:393:4,1.00
+Pennahia,ovata,19.25,94.25,1109:394:1,1.00
+Pennahia,ovata,15.25,95.25,1109:455:1,1.00
+Pennahia,ovata,15.25,95.75,1109:455:2,1.00
+Pennahia,ovata,15.75,95.25,1109:455:3,1.00
+Pennahia,ovata,15.75,95.75,1109:455:4,1.00
+Pennahia,ovata,15.25,96.25,1109:456:1,0.98
+Pennahia,ovata,15.75,96.25,1109:456:3,0.98
+Pennahia,ovata,15.25,97.25,1109:457:1,0.97
+Pennahia,ovata,15.25,97.75,1109:457:2,0.97
+Pennahia,ovata,15.75,97.25,1109:457:3,0.97
+Pennahia,ovata,15.75,97.75,1109:457:4,0.97
+Pennahia,ovata,16.25,96.25,1109:466:1,0.97
+Pennahia,ovata,16.25,96.75,1109:466:2,0.97
+Pennahia,ovata,16.75,96.75,1109:466:4,0.97
+Pennahia,ovata,16.75,97.25,1109:467:3,0.97
+Pennahia,ovata,17.25,96.75,1109:476:2,1.00
+Pennahia,ovata,17.25,97.25,1109:477:1,1.00
+Pennahia,ovata,20.25,86.75,1208:206:2,1.00
+Pennahia,ovata,20.75,86.75,1208:206:4,1.00
+Pennahia,ovata,20.75,87.25,1208:207:3,1.00
+Pennahia,ovata,20.75,87.75,1208:207:4,1.00
+Pennahia,ovata,20.25,88.25,1208:208:1,1.00
+Pennahia,ovata,20.75,88.25,1208:208:3,1.00
+Pennahia,ovata,20.75,88.75,1208:208:4,1.00
+Pennahia,ovata,20.75,89.75,1208:209:4,1.00
+Pennahia,ovata,21.25,87.25,1208:217:1,1.00
+Pennahia,ovata,20.75,90.25,1209:100:3,1.00
+Pennahia,ovata,20.75,90.75,1209:100:4,1.00
+Pennahia,ovata,20.75,91.25,1209:101:3,1.00
+Pennahia,ovata,20.75,91.75,1209:101:4,1.00
+Pennahia,ovata,20.25,92.25,1209:102:1,1.00
+Pennahia,ovata,20.25,92.75,1209:102:2,1.00
+Pennahia,ovata,20.75,92.25,1209:102:3,1.00
+Pennahia,ovata,20.75,92.75,1209:102:4,1.00
+Pennahia,ovata,21.25,90.25,1209:110:1,1.00
+Pennahia,ovata,21.25,90.75,1209:110:2,1.00
+Pennahia,ovata,21.75,90.25,1209:110:3,1.00
+Pennahia,ovata,21.75,90.75,1209:110:4,1.00
+Pennahia,ovata,21.25,91.25,1209:111:1,0.97
+Pennahia,ovata,21.25,91.75,1209:111:2,1.00
+Pennahia,ovata,21.75,91.25,1209:111:3,1.00
+Pennahia,ovata,21.75,91.75,1209:111:4,1.00
+Pennahia,ovata,21.25,92.25,1209:112:1,1.00
+Pennahia,ovata,22.25,90.75,1209:120:2,0.90
+Pennahia,ovata,22.75,90.75,1209:120:4,0.90
+Pennahia,ovata,22.25,91.25,1209:121:1,0.90
+Pennahia,ovata,22.25,91.75,1209:121:2,0.90
+Pennahia,ovata,22.75,91.25,1209:121:3,0.90
+
+
+Occurrence cells used for creating environmental envelope (n = 13)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Pennahia,ovata,11.75,79.75,1107:219:4,17,28.54,33.65,1366,0,11
+Pennahia,ovata,14.25,97.25,1109:247:1,49,28.77,29.42,940,0,94
+Pennahia,ovata,15.25,95.75,1109:455:2,54,28.61,28.81,2133,0,109
+Pennahia,ovata,15.25,95.25,1109:455:1,35,28.61,28.81,2254,0,109
+Pennahia,ovata,15.25,94.75,1109:354:2,48,28.46,29.77,1891,0,109
+Pennahia,ovata,15.25,94.25,1109:354:1,50,28.46,29.77,1384,0,109
+Pennahia,ovata,15.75,95.75,1109:455:4,23,28.61,28.81,1577,0,25
+Pennahia,ovata,18.25,84.25,1108:384:1,237,28.25,30.62,1586,0,23
+Pennahia,ovata,21.25,92.25,1209:112:1,20,27.69,29.79,2471,0,7
+Pennahia,ovata,21.25,91.75,1209:111:2,92,27.63,29.79,2944,0,78
+Pennahia,ovata,21.25,91.25,1209:111:1,93,27.63,27.5,2972,0,126
+Pennahia,ovata,21.25,90.75,1209:110:2,48,27.64,27.5,2757,0,107
+Pennahia,ovata,21.75,90.25,1209:110:3,25,27.64,27.5,1465,0,23

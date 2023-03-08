@@ -1,0 +1,213 @@
+Mapping parameters for Paralabrax auroguttatus (Goldspotted sand bass)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,32,23,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,40,46,74,107
+Temperature (°C),1,18.07,18.57,25.23,29.43
+Salinity (psu),1,32.71,33.65,35.34,36.87
+Primary Production,1,83.5,749,1717,2519.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,6,8,75,124
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 144): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Paralabrax,auroguttatus,24.75,-108.75,7210:248:4,0.03
+Paralabrax,auroguttatus,28.25,-114.75,7211:384:2,0.14
+Paralabrax,auroguttatus,29.25,-115.25,7211:495:1,0.16
+Paralabrax,auroguttatus,29.25,-115.75,7211:495:2,0.06
+Paralabrax,auroguttatus,29.75,-115.25,7211:495:3,0.14
+Paralabrax,auroguttatus,29.75,-115.75,7211:495:4,0.14
+Paralabrax,auroguttatus,24.75,-167.75,7216:247:4,0.17
+Paralabrax,auroguttatus,25.25,-172.25,7217:352:1,0.19
+Paralabrax,auroguttatus,30.25,-113.75,7311:103:2,0.09
+Paralabrax,auroguttatus,24.25,-112.25,7211:142:1,0.39
+Paralabrax,auroguttatus,23.25,-161.75,7216:131:2,0.21
+Paralabrax,auroguttatus,23.25,-162.25,7216:132:1,0.22
+Paralabrax,auroguttatus,23.25,-162.75,7216:132:2,0.22
+Paralabrax,auroguttatus,23.25,-163.25,7216:133:1,0.21
+Paralabrax,auroguttatus,23.25,-164.25,7216:134:1,0.24
+Paralabrax,auroguttatus,23.25,-164.75,7216:134:2,0.23
+Paralabrax,auroguttatus,23.75,-164.25,7216:134:3,0.29
+Paralabrax,auroguttatus,23.75,-164.75,7216:134:4,0.25
+Paralabrax,auroguttatus,23.75,-165.75,7216:235:4,0.24
+Paralabrax,auroguttatus,24.25,-166.75,7216:246:2,0.24
+Paralabrax,auroguttatus,24.25,-167.25,7216:247:1,0.23
+Paralabrax,auroguttatus,24.75,-168.25,7216:248:3,0.22
+Paralabrax,auroguttatus,25.25,-167.75,7216:457:2,0.23
+Paralabrax,auroguttatus,25.25,-168.25,7216:458:1,0.23
+Paralabrax,auroguttatus,25.75,-169.25,7216:459:3,0.22
+Paralabrax,auroguttatus,25.25,-170.25,7217:350:1,0.21
+Paralabrax,auroguttatus,25.25,-170.75,7217:350:2,0.37
+Paralabrax,auroguttatus,25.75,-170.75,7217:350:4,0.23
+Paralabrax,auroguttatus,25.25,-171.25,7217:351:1,0.20
+Paralabrax,auroguttatus,25.75,-171.25,7217:351:3,0.21
+Paralabrax,auroguttatus,25.75,-171.75,7217:351:4,0.25
+Paralabrax,auroguttatus,25.75,-173.25,7217:353:3,0.21
+Paralabrax,auroguttatus,25.75,-173.75,7217:353:4,0.23
+Paralabrax,auroguttatus,26.25,-173.25,7217:363:1,0.21
+Paralabrax,auroguttatus,26.25,-173.75,7217:363:2,0.22
+Paralabrax,auroguttatus,26.25,-174.25,7217:364:1,0.34
+Paralabrax,auroguttatus,26.25,-174.75,7217:364:2,0.21
+Paralabrax,auroguttatus,26.25,-110.75,7211:360:2,0.55
+Paralabrax,auroguttatus,28.25,-115.25,7211:485:1,0.44
+Paralabrax,auroguttatus,28.75,-115.25,7211:485:3,0.43
+Paralabrax,auroguttatus,28.75,-118.25,7211:488:3,0.46
+Paralabrax,auroguttatus,23.75,-166.25,7216:236:3,0.41
+Paralabrax,auroguttatus,23.25,-106.25,7210:236:1,0.74
+Paralabrax,auroguttatus,23.25,-106.75,7210:236:2,0.74
+Paralabrax,auroguttatus,23.75,-106.75,7210:236:4,0.74
+Paralabrax,auroguttatus,23.75,-107.75,7210:237:4,0.68
+Paralabrax,auroguttatus,28.75,-111.75,7211:381:4,0.64
+Paralabrax,auroguttatus,29.25,-112.75,7211:392:2,0.77
+Paralabrax,auroguttatus,28.25,-115.75,7211:485:2,0.68
+Paralabrax,auroguttatus,23.75,-107.25,7210:237:3,0.80
+Paralabrax,auroguttatus,23.25,-109.25,7210:239:1,0.88
+Paralabrax,auroguttatus,23.25,-109.75,7210:239:2,0.86
+Paralabrax,auroguttatus,23.75,-109.25,7210:239:3,0.95
+Paralabrax,auroguttatus,23.75,-109.75,7210:239:4,0.97
+Paralabrax,auroguttatus,24.25,-107.25,7210:247:1,0.84
+Paralabrax,auroguttatus,24.25,-107.75,7210:247:2,0.84
+Paralabrax,auroguttatus,24.75,-107.75,7210:247:4,0.84
+Paralabrax,auroguttatus,24.25,-108.25,7210:248:1,0.86
+Paralabrax,auroguttatus,24.75,-108.25,7210:248:3,0.86
+Paralabrax,auroguttatus,24.25,-109.75,7210:249:2,1.00
+Paralabrax,auroguttatus,25.25,-108.25,7210:458:1,0.85
+Paralabrax,auroguttatus,25.25,-108.75,7210:458:2,0.85
+Paralabrax,auroguttatus,25.25,-109.25,7210:459:1,1.00
+Paralabrax,auroguttatus,25.75,-109.25,7210:459:3,1.00
+Paralabrax,auroguttatus,25.75,-109.75,7210:459:4,1.00
+Paralabrax,auroguttatus,26.25,-109.25,7210:469:1,1.00
+Paralabrax,auroguttatus,26.25,-109.75,7210:469:2,1.00
+Paralabrax,auroguttatus,26.75,-109.25,7210:469:3,1.00
+Paralabrax,auroguttatus,26.75,-109.75,7210:469:4,1.00
+Paralabrax,auroguttatus,23.25,-110.25,7211:130:1,0.97
+Paralabrax,auroguttatus,23.75,-110.25,7211:130:3,1.00
+Paralabrax,auroguttatus,23.75,-110.75,7211:130:4,1.00
+Paralabrax,auroguttatus,23.75,-111.75,7211:131:4,0.92
+Paralabrax,auroguttatus,24.25,-110.25,7211:140:1,1.00
+Paralabrax,auroguttatus,24.25,-110.75,7211:140:2,1.00
+Paralabrax,auroguttatus,24.75,-110.25,7211:140:3,1.00
+Paralabrax,auroguttatus,24.75,-110.75,7211:140:4,1.00
+Paralabrax,auroguttatus,24.25,-111.25,7211:141:1,1.00
+Paralabrax,auroguttatus,24.25,-111.75,7211:141:2,1.00
+Paralabrax,auroguttatus,24.75,-111.75,7211:141:4,1.00
+Paralabrax,auroguttatus,24.75,-112.25,7211:142:3,1.00
+Paralabrax,auroguttatus,25.25,-110.75,7211:350:2,1.00
+Paralabrax,auroguttatus,25.75,-110.75,7211:350:4,1.00
+Paralabrax,auroguttatus,25.75,-111.25,7211:351:3,1.00
+Paralabrax,auroguttatus,25.25,-112.25,7211:352:1,1.00
+Paralabrax,auroguttatus,25.25,-112.75,7211:352:2,1.00
+Paralabrax,auroguttatus,25.75,-112.25,7211:352:3,1.00
+Paralabrax,auroguttatus,25.75,-112.75,7211:352:4,1.00
+Paralabrax,auroguttatus,25.75,-113.25,7211:353:3,0.85
+Paralabrax,auroguttatus,26.75,-110.25,7211:360:3,1.00
+Paralabrax,auroguttatus,26.25,-111.25,7211:361:1,1.00
+Paralabrax,auroguttatus,26.75,-111.25,7211:361:3,1.00
+Paralabrax,auroguttatus,26.75,-111.75,7211:361:4,1.00
+Paralabrax,auroguttatus,26.25,-112.75,7211:362:2,1.00
+Paralabrax,auroguttatus,26.25,-113.25,7211:363:1,1.00
+Paralabrax,auroguttatus,26.25,-113.75,7211:363:2,1.00
+Paralabrax,auroguttatus,26.75,-113.25,7211:363:3,1.00
+Paralabrax,auroguttatus,26.75,-113.75,7211:363:4,1.00
+Paralabrax,auroguttatus,26.75,-114.25,7211:364:3,1.00
+Paralabrax,auroguttatus,27.25,-110.25,7211:370:1,1.00
+Paralabrax,auroguttatus,27.25,-110.75,7211:370:2,1.00
+Paralabrax,auroguttatus,27.75,-110.75,7211:370:4,1.00
+Paralabrax,auroguttatus,27.25,-111.75,7211:371:2,1.00
+Paralabrax,auroguttatus,27.75,-111.25,7211:371:3,1.00
+Paralabrax,auroguttatus,27.25,-112.25,7211:372:1,1.00
+Paralabrax,auroguttatus,27.75,-112.25,7211:372:3,1.00
+Paralabrax,auroguttatus,27.75,-112.75,7211:372:4,1.00
+Paralabrax,auroguttatus,27.25,-114.25,7211:374:1,1.00
+Paralabrax,auroguttatus,27.25,-114.75,7211:374:2,0.98
+Paralabrax,auroguttatus,27.75,-114.75,7211:374:4,0.98
+Paralabrax,auroguttatus,28.25,-111.25,7211:381:1,0.96
+Paralabrax,auroguttatus,28.25,-111.75,7211:381:2,0.85
+Paralabrax,auroguttatus,28.25,-112.25,7211:382:1,0.98
+Paralabrax,auroguttatus,28.25,-112.75,7211:382:2,1.00
+Paralabrax,auroguttatus,28.75,-112.25,7211:382:3,0.82
+Paralabrax,auroguttatus,28.75,-112.75,7211:382:4,0.90
+Paralabrax,auroguttatus,28.75,-113.25,7211:383:3,1.00
+Paralabrax,auroguttatus,28.25,-114.25,7211:384:1,1.00
+Paralabrax,auroguttatus,28.75,-114.25,7211:384:3,1.00
+Paralabrax,auroguttatus,28.75,-114.75,7211:384:4,1.00
+Paralabrax,auroguttatus,29.25,-112.25,7211:392:1,1.00
+Paralabrax,auroguttatus,29.75,-112.25,7211:392:3,1.00
+Paralabrax,auroguttatus,29.75,-112.75,7211:392:4,1.00
+Paralabrax,auroguttatus,29.25,-113.25,7211:393:1,1.00
+Paralabrax,auroguttatus,29.25,-113.75,7211:393:2,1.00
+Paralabrax,auroguttatus,29.75,-113.25,7211:393:3,1.00
+Paralabrax,auroguttatus,29.75,-113.75,7211:393:4,1.00
+Paralabrax,auroguttatus,29.25,-114.75,7211:394:2,1.00
+Paralabrax,auroguttatus,29.75,-114.25,7211:394:3,1.00
+Paralabrax,auroguttatus,27.75,-115.25,7211:475:3,0.98
+Paralabrax,auroguttatus,30.25,-112.75,7311:102:2,1.00
+Paralabrax,auroguttatus,30.25,-113.25,7311:103:1,1.00
+Paralabrax,auroguttatus,30.75,-113.25,7311:103:3,1.00
+Paralabrax,auroguttatus,30.75,-113.75,7311:103:4,1.00
+Paralabrax,auroguttatus,30.25,-114.25,7311:104:1,1.00
+Paralabrax,auroguttatus,30.25,-114.75,7311:104:2,1.00
+Paralabrax,auroguttatus,30.75,-114.25,7311:104:3,1.00
+Paralabrax,auroguttatus,30.75,-114.75,7311:104:4,1.00
+Paralabrax,auroguttatus,31.25,-113.25,7311:113:1,1.00
+Paralabrax,auroguttatus,31.25,-113.75,7311:113:2,1.00
+Paralabrax,auroguttatus,31.75,-113.75,7311:113:4,1.00
+Paralabrax,auroguttatus,31.25,-114.25,7311:114:1,1.00
+Paralabrax,auroguttatus,31.25,-114.75,7311:114:2,0.84
+Paralabrax,auroguttatus,30.25,-115.75,7311:205:2,0.88
+
+
+Occurrence cells used for creating environmental envelope (n = 33)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Paralabrax,auroguttatus,23.25,-109.25,7210:239:1,1425,25.06,34.9,668,0,24
+Paralabrax,auroguttatus,23.25,-106.25,7210:236:1,63,26.34,34.79,1429,0,8
+Paralabrax,auroguttatus,24.25,-111.75,7211:141:2,146,23.23,34.27,997,0,24
+Paralabrax,auroguttatus,24.25,-110.25,7211:140:1,189,24.24,35.04,809,0,13
+Paralabrax,auroguttatus,24.25,-109.75,7210:249:2,617,25.18,35.04,997,0,24
+Paralabrax,auroguttatus,25.25,-110.75,7211:350:2,479,24.24,35.06,980,0,20
+Paralabrax,auroguttatus,25.25,-108.75,7210:458:2,80,25.86,35.11,1693,0,23
+Paralabrax,auroguttatus,25.75,-113.25,7211:353:3,429,21.31,34.08,749,0,124
+Paralabrax,auroguttatus,25.75,-112.75,7211:352:4,126,22.27,34.27,1131,0,75
+Paralabrax,auroguttatus,25.75,-109.25,7210:459:3,158,25.23,35.06,1673,0,16
+Paralabrax,auroguttatus,26.25,-112.25,7211:362:1,5,22.33,34.27,1228,0,6
+Paralabrax,auroguttatus,26.75,-111.75,7211:361:4,219,23.17,35.31,1171,0,12
+Paralabrax,auroguttatus,27.25,-112.25,7211:372:1,314,22.89,35.31,1267,0,8
+Paralabrax,auroguttatus,27.25,-111.75,7211:371:2,1129,23.31,35.31,1073,0,24
+Paralabrax,auroguttatus,27.25,-111.25,7211:371:1,1834,23.31,35.31,1042,0,89
+Paralabrax,auroguttatus,27.75,-111.25,7211:371:3,863,23.31,35.31,1137,0,50
+Paralabrax,auroguttatus,27.75,-110.75,7211:370:4,371,23.95,35.31,1556,0,21
+Paralabrax,auroguttatus,27.75,-114.25,7211:374:3,4,18.96,33.63,1117,0,10
+Paralabrax,auroguttatus,27.75,-112.75,7211:372:4,221,22.89,35.22,1158,0,7
+Paralabrax,auroguttatus,28.25,-115.25,7211:485:1,124,18.41,33.65,519,0,22
+Paralabrax,auroguttatus,28.25,-114.25,7211:384:1,54,18.57,33.65,782,0,23
+Paralabrax,auroguttatus,28.25,-112.75,7211:382:2,183,23.08,35.22,1717,0,16
+Paralabrax,auroguttatus,28.25,-112.25,7211:382:1,618,23.08,35.22,1733,0,73
+Paralabrax,auroguttatus,28.75,-114.25,7211:384:3,92,18.57,33.65,1224,0,12
+Paralabrax,auroguttatus,28.75,-113.25,7211:383:3,440,21.39,35.22,1606,0,11
+Paralabrax,auroguttatus,28.75,-112.75,7211:382:4,376,23.08,35.22,1800,0,24
+Paralabrax,auroguttatus,29.25,-113.25,7211:393:1,282,22.58,35.22,1684,0,18
+Paralabrax,auroguttatus,29.75,-113.75,7211:393:4,428,22.58,35.34,1479,0,23
+Paralabrax,auroguttatus,30.25,-112.75,7311:102:2,65,22.54,35.34,1586,0,12
+Paralabrax,auroguttatus,30.75,-113.25,7311:103:3,60,22.38,35.34,1326,0,22
+Paralabrax,auroguttatus,31.25,-114.25,7311:114:1,50,22.31,35.34,1620,0,71
+Paralabrax,auroguttatus,31.25,-113.75,7311:113:2,40,22.35,35.34,1360,0,23
+Paralabrax,auroguttatus,31.75,-114.75,7311:114:4,8,22.31,35.34,1514,0,10

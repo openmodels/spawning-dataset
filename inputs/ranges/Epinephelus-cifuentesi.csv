@@ -1,0 +1,106 @@
+Mapping parameters for Epinephelus cifuentesi (Olive grouper)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77 |  87,
+Bounding Box (NSWE): ,10,-4,-92,-81
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,40,48,80,120
+Temperature (°C),1,18.6,23.53,28.16,32.36
+Salinity (psu),1,30.6,32.38,34.58,36.76
+Primary Production,1,193,392,791,1274
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,14,22,111,240
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 45): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Epinephelus,cifuentesi,8.25,-82.75,7008:382:2,0.21
+Epinephelus,cifuentesi,-2.25,-81.25,5008:121:1,0.51
+Epinephelus,cifuentesi,8.25,-82.25,7008:382:1,0.56
+Epinephelus,cifuentesi,9.75,-85.25,7008:495:3,0.56
+Epinephelus,cifuentesi,7.25,-81.25,7008:371:1,0.67
+Epinephelus,cifuentesi,7.25,-81.75,7008:371:2,0.67
+Epinephelus,cifuentesi,7.75,-81.25,7008:371:3,0.67
+Epinephelus,cifuentesi,7.75,-81.75,7008:371:4,0.67
+Epinephelus,cifuentesi,7.75,-82.25,7008:372:3,0.62
+Epinephelus,cifuentesi,8.25,-81.75,7008:381:2,0.65
+Epinephelus,cifuentesi,8.25,-83.25,7008:383:1,0.72
+Epinephelus,cifuentesi,9.75,-84.25,7008:394:3,0.75
+Epinephelus,cifuentesi,5.75,-86.75,7008:456:4,0.64
+Epinephelus,cifuentesi,5.25,-87.25,7008:457:1,0.68
+Epinephelus,cifuentesi,5.75,-87.25,7008:457:3,0.64
+Epinephelus,cifuentesi,-1.25,-81.25,5008:111:1,0.96
+Epinephelus,cifuentesi,-1.75,-81.25,5008:111:3,0.89
+Epinephelus,cifuentesi,-0.75,-89.25,5008:209:3,1.00
+Epinephelus,cifuentesi,-0.75,-89.75,5008:209:4,1.00
+Epinephelus,cifuentesi,-1.25,-89.75,5008:219:2,1.00
+Epinephelus,cifuentesi,-0.25,-90.25,5009:100:1,1.00
+Epinephelus,cifuentesi,-0.25,-90.75,5009:100:2,1.00
+Epinephelus,cifuentesi,-0.75,-90.25,5009:100:3,1.00
+Epinephelus,cifuentesi,-0.75,-90.75,5009:100:4,1.00
+Epinephelus,cifuentesi,-0.25,-91.25,5009:101:1,1.00
+Epinephelus,cifuentesi,-0.25,-91.75,5009:101:2,1.00
+Epinephelus,cifuentesi,-0.75,-91.25,5009:101:3,0.93
+Epinephelus,cifuentesi,-1.25,-90.25,5009:110:1,1.00
+Epinephelus,cifuentesi,-1.25,-90.75,5009:110:2,1.00
+Epinephelus,cifuentesi,-1.25,-91.25,5009:111:1,0.94
+Epinephelus,cifuentesi,4.25,-81.75,7008:141:2,0.92
+Epinephelus,cifuentesi,0.25,-89.75,7008:209:2,1.00
+Epinephelus,cifuentesi,8.25,-83.75,7008:383:2,0.88
+Epinephelus,cifuentesi,8.75,-83.25,7008:383:3,0.88
+Epinephelus,cifuentesi,8.75,-83.75,7008:383:4,0.88
+Epinephelus,cifuentesi,8.75,-84.25,7008:384:3,0.88
+Epinephelus,cifuentesi,9.25,-83.75,7008:393:2,0.90
+Epinephelus,cifuentesi,9.25,-84.25,7008:394:1,0.90
+Epinephelus,cifuentesi,9.25,-84.75,7008:394:2,0.90
+Epinephelus,cifuentesi,9.75,-85.75,7008:495:4,0.97
+Epinephelus,cifuentesi,0.25,-90.25,7009:100:1,1.00
+Epinephelus,cifuentesi,0.75,-90.75,7009:100:4,1.00
+Epinephelus,cifuentesi,0.25,-91.25,7009:101:1,1.00
+Epinephelus,cifuentesi,0.25,-91.75,7009:101:2,1.00
+Epinephelus,cifuentesi,1.75,-91.75,7009:111:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 25)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Epinephelus,cifuentesi,-1.25,-89.75,5008:219:2,437,23.66,34.5,510,0,28
+Epinephelus,cifuentesi,-1.25,-91.25,5009:111:1,3013,23.38,34.65,652,0,111
+Epinephelus,cifuentesi,-1.25,-90.75,5009:110:2,1842,23.53,34.58,583,0,111
+Epinephelus,cifuentesi,-1.25,-90.25,5009:110:1,342,23.53,34.58,538,0,28
+Epinephelus,cifuentesi,-0.75,-89.75,5008:209:4,357,23.91,34.31,522,0,28
+Epinephelus,cifuentesi,-0.75,-89.25,5008:209:3,518,23.91,34.31,489,0,26
+Epinephelus,cifuentesi,-0.75,-91.25,5009:101:3,400,23.55,34.45,826,0,14
+Epinephelus,cifuentesi,-0.75,-90.75,5009:100:4,138,23.73,34.45,584,0,22
+Epinephelus,cifuentesi,-0.75,-90.25,5009:100:3,129,23.73,34.45,510,0,22
+Epinephelus,cifuentesi,-0.25,-91.75,5009:101:2,2692,23.55,34.11,791,0,26
+Epinephelus,cifuentesi,-0.25,-90.75,5009:100:2,680,23.73,34.45,515,0,24
+Epinephelus,cifuentesi,-0.25,-90.25,5009:100:1,832,23.73,34.45,470,0,28
+Epinephelus,cifuentesi,0.25,-91.25,7009:101:1,2311,24.39,34.11,543,0,25
+Epinephelus,cifuentesi,0.25,-90.75,7009:100:2,2210,24.56,34.09,494,0,111
+Epinephelus,cifuentesi,0.25,-90.25,7009:100:1,1115,24.56,34.09,456,0,28
+Epinephelus,cifuentesi,0.25,-89.75,7008:209:2,1605,24.73,34.02,451,0,111
+Epinephelus,cifuentesi,0.75,-90.75,7009:100:4,1643,24.56,34.09,445,0,28
+Epinephelus,cifuentesi,1.25,-91.75,7009:111:2,2079,25.59,33.81,429,0,111
+Epinephelus,cifuentesi,1.75,-91.75,7009:111:4,2100,25.59,33.81,392,0,27
+Epinephelus,cifuentesi,3.75,-81.75,7008:131:4,1973,27.03,32.45,497,0,111
+Epinephelus,cifuentesi,5.75,-87.25,7008:457:3,2149,28.06,32.91,321,0,27
+Epinephelus,cifuentesi,5.75,-86.75,7008:456:4,1719,28.11,32.76,321,0,111
+Epinephelus,cifuentesi,7.25,-81.75,7008:371:2,827,28.16,31.79,623,0,26
+Epinephelus,cifuentesi,9.25,-84.25,7008:394:1,397,28.56,32.38,772,0,26
+Epinephelus,cifuentesi,9.75,-84.75,7008:394:4,104,28.56,32.38,1274,0,20

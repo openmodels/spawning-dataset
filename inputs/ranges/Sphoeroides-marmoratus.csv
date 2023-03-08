@@ -1,0 +1,142 @@
+Mapping parameters for Sphoeroides marmoratus (Guinean puffer)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 27 |  34 |  37,
+Bounding Box (NSWE): ,42,-17,-10,14
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,11,50,100
+Temperature (°C),1,16.03,21.74,27.93,32.13
+Salinity (psu),1,16.29,22.23,34.44,34.94
+Primary Production (mgC·m-3·day-1) ,1,4.82,5.82,25.67,34.79
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,52.65,91.54,245.41,344.95
+Distance to Land (km),0,14,18.8,247.6,344.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 99): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Sphoeroides,marmoratus,0.25,6.75,1000:206:2,0.10
+Sphoeroides,marmoratus,4.25,9.75,1000:249:2,0.10
+Sphoeroides,marmoratus,6.75,3.25,1000:363:3,0.10
+Sphoeroides,marmoratus,-6.75,11.75,3001:361:4,0.18
+Sphoeroides,marmoratus,-10.75,13.25,3101:103:3,0.04
+Sphoeroides,marmoratus,-11.25,13.25,3101:113:1,0.14
+Sphoeroides,marmoratus,4.75,-0.25,7000:140:3,0.19
+Sphoeroides,marmoratus,4.75,-2.25,7000:142:3,0.14
+Sphoeroides,marmoratus,4.75,-2.75,7000:142:4,0.15
+Sphoeroides,marmoratus,4.75,-3.25,7000:143:3,0.08
+Sphoeroides,marmoratus,3.75,5.75,1000:235:4,0.33
+Sphoeroides,marmoratus,-6.75,12.75,3001:362:4,0.20
+Sphoeroides,marmoratus,4.25,-0.75,7000:140:2,0.31
+Sphoeroides,marmoratus,4.25,-1.25,7000:141:1,0.37
+Sphoeroides,marmoratus,4.25,-1.75,7000:141:2,0.38
+Sphoeroides,marmoratus,4.75,-7.75,7000:247:4,0.32
+Sphoeroides,marmoratus,5.25,0.25,1000:350:1,0.52
+Sphoeroides,marmoratus,-5.75,12.25,3001:352:3,0.54
+Sphoeroides,marmoratus,-6.25,12.75,3001:362:2,0.48
+Sphoeroides,marmoratus,-9.75,12.75,3001:392:4,0.40
+Sphoeroides,marmoratus,0.25,8.75,1000:208:2,0.66
+Sphoeroides,marmoratus,4.75,8.25,1000:248:3,0.72
+Sphoeroides,marmoratus,-2.25,8.75,3000:228:2,0.70
+Sphoeroides,marmoratus,4.25,-2.25,7000:142:1,0.64
+Sphoeroides,marmoratus,4.75,4.75,1000:144:4,0.96
+Sphoeroides,marmoratus,0.25,9.25,1000:209:1,1.00
+Sphoeroides,marmoratus,0.25,9.75,1000:209:2,1.00
+Sphoeroides,marmoratus,0.75,9.25,1000:209:3,1.00
+Sphoeroides,marmoratus,0.75,9.75,1000:209:4,1.00
+Sphoeroides,marmoratus,1.25,9.25,1000:219:1,1.00
+Sphoeroides,marmoratus,1.25,9.75,1000:219:2,1.00
+Sphoeroides,marmoratus,1.75,9.75,1000:219:4,1.00
+Sphoeroides,marmoratus,2.25,9.75,1000:229:2,1.00
+Sphoeroides,marmoratus,2.75,9.75,1000:229:4,1.00
+Sphoeroides,marmoratus,3.75,6.25,1000:236:3,0.98
+Sphoeroides,marmoratus,3.25,9.75,1000:239:2,1.00
+Sphoeroides,marmoratus,3.75,9.25,1000:239:3,0.99
+Sphoeroides,marmoratus,3.75,9.75,1000:239:4,1.00
+Sphoeroides,marmoratus,4.25,5.25,1000:245:1,0.97
+Sphoeroides,marmoratus,4.25,5.75,1000:245:2,0.98
+Sphoeroides,marmoratus,4.75,5.25,1000:245:3,0.97
+Sphoeroides,marmoratus,4.75,5.75,1000:245:4,0.99
+Sphoeroides,marmoratus,4.25,6.25,1000:246:1,1.00
+Sphoeroides,marmoratus,4.25,6.75,1000:246:2,1.00
+Sphoeroides,marmoratus,4.25,7.25,1000:247:1,1.00
+Sphoeroides,marmoratus,4.75,7.75,1000:247:4,1.00
+Sphoeroides,marmoratus,4.75,8.75,1000:248:4,1.00
+Sphoeroides,marmoratus,4.25,9.25,1000:249:1,1.00
+Sphoeroides,marmoratus,5.75,1.25,1000:351:3,1.00
+Sphoeroides,marmoratus,5.25,4.75,1000:354:2,0.96
+Sphoeroides,marmoratus,5.75,4.75,1000:354:4,0.97
+Sphoeroides,marmoratus,6.25,1.25,1000:361:1,1.00
+Sphoeroides,marmoratus,6.25,1.75,1000:361:2,1.00
+Sphoeroides,marmoratus,6.25,2.25,1000:362:1,1.00
+Sphoeroides,marmoratus,6.25,2.75,1000:362:2,1.00
+Sphoeroides,marmoratus,6.25,3.25,1000:363:1,1.00
+Sphoeroides,marmoratus,6.25,3.75,1000:363:2,0.99
+Sphoeroides,marmoratus,6.25,4.25,1000:364:1,0.98
+Sphoeroides,marmoratus,6.25,4.75,1000:364:2,0.99
+Sphoeroides,marmoratus,5.25,5.25,1000:455:1,0.99
+Sphoeroides,marmoratus,5.75,5.25,1000:455:3,1.00
+Sphoeroides,marmoratus,-0.25,8.75,3000:208:2,1.00
+Sphoeroides,marmoratus,-0.75,8.75,3000:208:4,1.00
+Sphoeroides,marmoratus,-0.25,9.25,3000:209:1,1.00
+Sphoeroides,marmoratus,-0.75,9.25,3000:209:3,1.00
+Sphoeroides,marmoratus,-1.25,5.75,3000:215:2,1.00
+Sphoeroides,marmoratus,-1.25,8.75,3000:218:2,1.00
+Sphoeroides,marmoratus,-1.25,9.25,3000:219:1,1.00
+Sphoeroides,marmoratus,-1.75,9.25,3000:219:3,1.00
+Sphoeroides,marmoratus,-2.25,9.25,3000:229:1,1.00
+Sphoeroides,marmoratus,-2.25,9.75,3000:229:2,1.00
+Sphoeroides,marmoratus,-2.75,9.25,3000:229:3,1.00
+Sphoeroides,marmoratus,-2.75,9.75,3000:229:4,1.00
+Sphoeroides,marmoratus,-3.25,9.75,3000:239:2,1.00
+Sphoeroides,marmoratus,-2.75,10.25,3001:120:3,1.00
+Sphoeroides,marmoratus,-3.25,10.25,3001:130:1,1.00
+Sphoeroides,marmoratus,-3.25,10.75,3001:130:2,1.00
+Sphoeroides,marmoratus,-3.75,10.75,3001:130:4,1.00
+Sphoeroides,marmoratus,-3.75,11.25,3001:131:3,1.00
+Sphoeroides,marmoratus,-4.25,10.75,3001:140:2,1.00
+Sphoeroides,marmoratus,-4.25,11.25,3001:141:1,1.00
+Sphoeroides,marmoratus,-4.25,11.75,3001:141:2,1.00
+Sphoeroides,marmoratus,-4.75,11.25,3001:141:3,0.84
+Sphoeroides,marmoratus,-4.75,11.75,3001:141:4,1.00
+Sphoeroides,marmoratus,-4.75,12.25,3001:142:3,0.80
+Sphoeroides,marmoratus,-5.25,11.75,3001:351:2,0.80
+Sphoeroides,marmoratus,-5.25,12.25,3001:352:1,0.98
+Sphoeroides,marmoratus,-7.25,12.25,3001:372:1,1.00
+Sphoeroides,marmoratus,-7.25,12.75,3001:372:2,0.83
+Sphoeroides,marmoratus,-7.75,12.75,3001:372:4,0.93
+Sphoeroides,marmoratus,4.25,-7.25,7000:247:1,1.00
+Sphoeroides,marmoratus,4.25,-7.75,7000:247:2,1.00
+Sphoeroides,marmoratus,4.25,-8.25,7000:248:1,1.00
+Sphoeroides,marmoratus,4.75,-8.25,7000:248:3,1.00
+Sphoeroides,marmoratus,4.75,-8.75,7000:248:4,1.00
+Sphoeroides,marmoratus,4.75,-9.25,7000:249:3,1.00
+Sphoeroides,marmoratus,5.25,-9.25,7000:459:1,1.00
+Sphoeroides,marmoratus,5.25,-9.75,7000:459:2,1.00
+Sphoeroides,marmoratus,5.75,-9.75,7000:459:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 7)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Sphoeroides,marmoratus,-5.25,11.75,3001:351:2,137,25.5379009246826,19.1050338745117,21.0254745483398,35.8229904174805,23.7830001860857,0,107.420944213867,83
+Sphoeroides,marmoratus,-1.25,8.75,3000:218:2,155,26.3769931793213,25.1726169586182,30.8442726135254,35.5874176025391,12.047000229358702,0,217.10285949707,28
+Sphoeroides,marmoratus,0.25,5.25,1000:205:1,3711,27.2612838745117,2.09875392913818,33.8173027038574,34.8990097045898,6.41100015491247,0,235.402618408203,222
+Sphoeroides,marmoratus,0.25,6.75,1000:206:2,1148,27.275634765625,8.01034164428711,32.8478736877441,34.6581802368164,4.92200022563338,0,67.7270584106445,22
+Sphoeroides,marmoratus,2.75,4.25,1000:124:3,3805,27.9206047058105,2.09542393684387,34.2501106262207,34.8863868713379,6.9140000268816895,0,235.269561767578,286
+Sphoeroides,marmoratus,3.75,9.25,1000:239:3,102,27.9542140960693,28.7030715942383,23.0295600891113,33.338996887207,11.5820001810789,0,220.281890869141,27
+Sphoeroides,marmoratus,40.75,-8.75,7400:208:4,29,16.0321769714355,15.6673717498779,34.7134132385254,35.8604202270508,28.5090003162622,0,260.429168701172,14

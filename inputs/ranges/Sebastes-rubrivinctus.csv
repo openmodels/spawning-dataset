@@ -1,0 +1,191 @@
+Mapping parameters for Sebastes rubrivinctus (Flag rockfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,34,140,302
+Temperature (°C),1,12.36,13.43,18.85,26.81
+Salinity (psu),1,32.79,33.29,33.96,34.79
+Primary Production,1,107,750,1617,2267
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,0,6,120,219
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 128): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Sebastes,rubrivinctus,0.25,-89.75,7008:209:2,0.13
+Sebastes,rubrivinctus,0.25,-90.25,7009:100:1,0.13
+Sebastes,rubrivinctus,0.25,-90.75,7009:100:2,0.02
+Sebastes,rubrivinctus,0.75,-90.75,7009:100:4,0.13
+Sebastes,rubrivinctus,0.25,-91.25,7009:101:1,0.17
+Sebastes,rubrivinctus,0.25,-91.75,7009:101:2,0.18
+Sebastes,rubrivinctus,1.25,-91.75,7009:111:2,0.08
+Sebastes,rubrivinctus,1.75,-91.75,7009:111:4,0.07
+Sebastes,rubrivinctus,18.75,-110.75,7111:380:4,0.01
+Sebastes,rubrivinctus,18.75,-111.25,7111:381:3,0.02
+Sebastes,rubrivinctus,18.25,-114.75,7111:384:2,0.04
+Sebastes,rubrivinctus,19.25,-110.75,7111:390:2,0.02
+Sebastes,rubrivinctus,18.75,-155.75,7115:485:4,0.01
+Sebastes,rubrivinctus,22.75,-109.75,7210:229:4,0.02
+Sebastes,rubrivinctus,23.25,-109.75,7210:239:2,0.02
+Sebastes,rubrivinctus,22.75,-110.25,7211:120:3,0.06
+Sebastes,rubrivinctus,23.25,-110.25,7211:130:1,0.07
+Sebastes,rubrivinctus,23.25,-110.75,7211:130:2,0.12
+Sebastes,rubrivinctus,23.75,-110.75,7211:130:4,0.13
+Sebastes,rubrivinctus,23.75,-111.25,7211:131:3,0.15
+Sebastes,rubrivinctus,23.75,-111.75,7211:131:4,0.16
+Sebastes,rubrivinctus,23.75,-112.25,7211:132:3,0.15
+Sebastes,rubrivinctus,24.25,-110.75,7211:140:2,0.13
+Sebastes,rubrivinctus,24.25,-111.25,7211:141:1,0.18
+Sebastes,rubrivinctus,28.25,-114.75,7211:384:2,0.11
+Sebastes,rubrivinctus,28.75,-115.75,7211:485:4,0.17
+Sebastes,rubrivinctus,35.25,-121.75,7312:351:2,0.04
+Sebastes,rubrivinctus,37.75,-122.75,7312:372:4,0.17
+Sebastes,rubrivinctus,38.25,-122.75,7312:382:2,0.17
+Sebastes,rubrivinctus,38.25,-123.25,7312:383:1,0.07
+Sebastes,rubrivinctus,38.25,-123.75,7312:383:2,0.01
+Sebastes,rubrivinctus,38.75,-123.25,7312:383:3,0.01
+Sebastes,rubrivinctus,38.75,-123.75,7312:383:4,0.01
+Sebastes,rubrivinctus,39.25,-123.75,7312:393:2,0.01
+Sebastes,rubrivinctus,39.75,-123.75,7312:393:4,0.01
+Sebastes,rubrivinctus,39.75,-124.25,7312:394:3,0.06
+Sebastes,rubrivinctus,24.25,-111.75,7211:141:2,0.28
+Sebastes,rubrivinctus,24.75,-111.75,7211:141:4,0.28
+Sebastes,rubrivinctus,24.25,-112.25,7211:142:1,0.34
+Sebastes,rubrivinctus,24.75,-112.25,7211:142:3,0.34
+Sebastes,rubrivinctus,24.75,-112.75,7211:142:4,0.34
+Sebastes,rubrivinctus,25.25,-112.25,7211:352:1,0.36
+Sebastes,rubrivinctus,25.25,-112.75,7211:352:2,0.36
+Sebastes,rubrivinctus,25.75,-112.25,7211:352:3,0.36
+Sebastes,rubrivinctus,25.75,-112.75,7211:352:4,0.36
+Sebastes,rubrivinctus,26.25,-112.25,7211:362:1,0.21
+Sebastes,rubrivinctus,26.25,-112.75,7211:362:2,0.35
+Sebastes,rubrivinctus,26.75,-112.75,7211:362:4,0.21
+Sebastes,rubrivinctus,32.75,-117.75,7311:227:4,0.20
+Sebastes,rubrivinctus,32.75,-119.75,7311:229:4,0.32
+Sebastes,rubrivinctus,34.75,-121.25,7312:141:3,0.32
+Sebastes,rubrivinctus,34.75,-121.75,7312:141:4,0.24
+Sebastes,rubrivinctus,37.25,-122.75,7312:372:2,0.30
+Sebastes,rubrivinctus,37.75,-122.25,7312:372:3,0.28
+Sebastes,rubrivinctus,38.25,-122.25,7312:382:1,0.23
+Sebastes,rubrivinctus,24.75,-115.75,7211:245:4,0.43
+Sebastes,rubrivinctus,25.25,-113.25,7211:353:1,0.53
+Sebastes,rubrivinctus,25.75,-113.25,7211:353:3,0.59
+Sebastes,rubrivinctus,28.75,-118.25,7211:488:3,0.56
+Sebastes,rubrivinctus,29.25,-118.25,7211:498:1,0.54
+Sebastes,rubrivinctus,30.75,-115.75,7311:205:4,0.49
+Sebastes,rubrivinctus,34.25,-118.25,7311:248:1,0.47
+Sebastes,rubrivinctus,36.25,-122.25,7312:362:1,0.54
+Sebastes,rubrivinctus,37.25,-122.25,7312:372:1,0.53
+Sebastes,rubrivinctus,37.75,-123.25,7312:373:3,0.43
+Sebastes,rubrivinctus,26.25,-113.25,7211:363:1,0.62
+Sebastes,rubrivinctus,26.25,-113.75,7211:363:2,0.72
+Sebastes,rubrivinctus,26.75,-113.25,7211:363:3,0.72
+Sebastes,rubrivinctus,26.75,-113.75,7211:363:4,0.72
+Sebastes,rubrivinctus,27.25,-113.75,7211:373:2,0.73
+Sebastes,rubrivinctus,27.75,-115.75,7211:475:4,0.75
+Sebastes,rubrivinctus,28.25,-115.25,7211:485:1,0.64
+Sebastes,rubrivinctus,32.25,-118.75,7311:228:2,0.61
+Sebastes,rubrivinctus,34.75,-120.25,7312:140:3,0.62
+Sebastes,rubrivinctus,26.75,-114.25,7211:364:3,0.87
+Sebastes,rubrivinctus,27.25,-114.25,7211:374:1,0.99
+Sebastes,rubrivinctus,27.25,-114.75,7211:374:2,0.99
+Sebastes,rubrivinctus,27.75,-114.25,7211:374:3,0.96
+Sebastes,rubrivinctus,27.75,-114.75,7211:374:4,0.99
+Sebastes,rubrivinctus,28.25,-114.25,7211:384:1,1.00
+Sebastes,rubrivinctus,28.75,-114.25,7211:384:3,1.00
+Sebastes,rubrivinctus,28.75,-114.75,7211:384:4,1.00
+Sebastes,rubrivinctus,29.25,-114.75,7211:394:2,0.81
+Sebastes,rubrivinctus,27.75,-115.25,7211:475:3,1.00
+Sebastes,rubrivinctus,28.25,-115.75,7211:485:2,1.00
+Sebastes,rubrivinctus,28.75,-115.25,7211:485:3,1.00
+Sebastes,rubrivinctus,29.25,-115.25,7211:495:1,1.00
+Sebastes,rubrivinctus,29.25,-115.75,7211:495:2,1.00
+Sebastes,rubrivinctus,29.75,-115.25,7211:495:3,1.00
+Sebastes,rubrivinctus,29.75,-115.75,7211:495:4,0.85
+Sebastes,rubrivinctus,30.25,-115.75,7311:205:2,0.92
+Sebastes,rubrivinctus,30.25,-116.25,7311:206:1,1.00
+Sebastes,rubrivinctus,30.75,-116.25,7311:206:3,0.86
+Sebastes,rubrivinctus,31.25,-116.25,7311:216:1,1.00
+Sebastes,rubrivinctus,31.25,-116.75,7311:216:2,1.00
+Sebastes,rubrivinctus,31.75,-116.75,7311:216:4,1.00
+Sebastes,rubrivinctus,32.25,-116.75,7311:226:2,1.00
+Sebastes,rubrivinctus,32.25,-117.25,7311:227:1,1.00
+Sebastes,rubrivinctus,32.75,-117.25,7311:227:3,1.00
+Sebastes,rubrivinctus,32.75,-118.25,7311:228:3,1.00
+Sebastes,rubrivinctus,32.75,-118.75,7311:228:4,1.00
+Sebastes,rubrivinctus,32.25,-119.25,7311:229:1,1.00
+Sebastes,rubrivinctus,32.75,-119.25,7311:229:3,1.00
+Sebastes,rubrivinctus,33.25,-117.25,7311:237:1,1.00
+Sebastes,rubrivinctus,33.25,-117.75,7311:237:2,1.00
+Sebastes,rubrivinctus,33.75,-117.75,7311:237:4,1.00
+Sebastes,rubrivinctus,33.25,-118.25,7311:238:1,1.00
+Sebastes,rubrivinctus,33.25,-118.75,7311:238:2,1.00
+Sebastes,rubrivinctus,33.75,-118.25,7311:238:3,1.00
+Sebastes,rubrivinctus,33.75,-118.75,7311:238:4,1.00
+Sebastes,rubrivinctus,33.25,-119.25,7311:239:1,1.00
+Sebastes,rubrivinctus,33.25,-119.75,7311:239:2,1.00
+Sebastes,rubrivinctus,33.75,-119.25,7311:239:3,1.00
+Sebastes,rubrivinctus,33.75,-119.75,7311:239:4,1.00
+Sebastes,rubrivinctus,34.25,-118.75,7311:248:2,1.00
+Sebastes,rubrivinctus,34.25,-119.25,7311:249:1,1.00
+Sebastes,rubrivinctus,34.25,-119.75,7311:249:2,1.00
+Sebastes,rubrivinctus,33.75,-120.25,7312:130:3,1.00
+Sebastes,rubrivinctus,34.25,-120.25,7312:140:1,1.00
+Sebastes,rubrivinctus,34.25,-120.75,7312:140:2,1.00
+Sebastes,rubrivinctus,34.75,-120.75,7312:140:4,1.00
+Sebastes,rubrivinctus,35.25,-120.75,7312:350:2,1.00
+Sebastes,rubrivinctus,35.25,-121.25,7312:351:1,1.00
+Sebastes,rubrivinctus,35.75,-121.25,7312:351:3,0.86
+Sebastes,rubrivinctus,36.25,-121.25,7312:361:1,1.00
+Sebastes,rubrivinctus,36.25,-121.75,7312:361:2,1.00
+Sebastes,rubrivinctus,36.75,-121.75,7312:361:4,1.00
+Sebastes,rubrivinctus,36.75,-122.25,7312:362:3,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 27)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Sebastes,rubrivinctus,19.75,-107.25,7110:497:3,3269,26.63,34.57,467,0,219
+Sebastes,rubrivinctus,22.25,-105.75,7210:225:2,52,26.81,34.79,1399,0,19
+Sebastes,rubrivinctus,27.75,-115.25,7211:475:3,1001,18.85,33.63,947,0,98
+Sebastes,rubrivinctus,32.25,-119.25,7311:229:1,1282,16.43,33.45,819,0,120
+Sebastes,rubrivinctus,32.75,-118.25,7311:228:3,979,16.97,33.5,750,0,23
+Sebastes,rubrivinctus,32.75,-117.25,7311:227:3,417,17.36,33.5,1056,0,17
+Sebastes,rubrivinctus,32.75,-119.25,7311:229:3,633,16.43,33.45,1026,0,94
+Sebastes,rubrivinctus,32.75,-118.75,7311:228:4,1084,16.97,33.5,897,0,23
+Sebastes,rubrivinctus,33.25,-118.75,7311:238:2,1053,16.72,33.47,917,0,93
+Sebastes,rubrivinctus,33.25,-118.25,7311:238:1,783,16.72,33.5,896,0,22
+Sebastes,rubrivinctus,33.25,-117.75,7311:237:2,707,17.21,33.5,1014,0,22
+Sebastes,rubrivinctus,33.25,-117.25,7311:237:1,346,17.21,33.5,1294,0,6
+Sebastes,rubrivinctus,33.75,-120.25,7312:130:3,830,15.62,33.38,1255,0,22
+Sebastes,rubrivinctus,33.75,-119.25,7311:239:3,958,15.94,33.47,1047,0,88
+Sebastes,rubrivinctus,33.75,-118.75,7311:238:4,709,16.72,33.47,1121,0,85
+Sebastes,rubrivinctus,33.75,-118.25,7311:238:3,435,16.72,33.47,1489,0,15
+Sebastes,rubrivinctus,33.75,-117.75,7311:237:4,279,17.21,33.5,1438,0,3
+Sebastes,rubrivinctus,34.25,-122.25,7312:142:1,3985,14.98,33.24,727,0,191
+Sebastes,rubrivinctus,34.25,-120.75,7312:140:2,804,15.27,33.29,1267,0,84
+Sebastes,rubrivinctus,34.25,-120.25,7312:140:1,253,15.27,33.38,1617,0,22
+Sebastes,rubrivinctus,34.25,-119.75,7311:249:2,236,15.43,33.47,1617,0,19
+Sebastes,rubrivinctus,34.25,-119.25,7311:249:1,157,15.43,33.47,1403,0,12
+Sebastes,rubrivinctus,34.25,-118.25,7311:248:1,6,16.08,33.47,1457,0,0
+Sebastes,rubrivinctus,36.75,-122.75,7312:362:4,2560,13.43,33.29,1147,0,83
+Sebastes,rubrivinctus,36.75,-122.25,7312:362:3,1365,13.43,33.29,1573,0,22
+Sebastes,rubrivinctus,36.75,-121.75,7312:361:4,200,13.96,33.29,1465,0,8
+Sebastes,rubrivinctus,37.75,-122.25,7312:372:3,37,12.93,33.18,1827,0,9

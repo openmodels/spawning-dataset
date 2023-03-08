@@ -1,0 +1,223 @@
+Mapping parameters for Genypterus chilensis (Red cusk-eel)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,-6,-54,-82,-70
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,200,299,552,1000
+Temperature (°C),1,10.35,13.51,19.27,20.86
+Salinity (psu),1,32.63,33.31,35.04,35.65
+Primary Production (mgC·m-3·day-1) ,1,9.79,12.98,88.4,126.68
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,3.51,86.38,173.41,243.95
+Distance to Land (km),0,11,14.6,248.2,292
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 180): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Genypterus,chilensis,-9.75,-79.75,5007:499:4,0.09
+Genypterus,chilensis,-7.75,-80.75,5008:370:4,0.18
+Genypterus,chilensis,-8.75,-80.25,5008:380:3,0.14
+Genypterus,chilensis,-29.25,-71.25,5207:391:1,0.03
+Genypterus,chilensis,-41.75,-73.75,5407:113:4,0.02
+Genypterus,chilensis,-43.25,-74.25,5407:134:1,0.04
+Genypterus,chilensis,-43.75,-74.25,5407:134:3,0.07
+Genypterus,chilensis,-44.25,-74.25,5407:144:1,0.05
+Genypterus,chilensis,-44.75,-74.75,5407:144:4,0.17
+Genypterus,chilensis,-45.25,-73.25,5407:353:1,0.01
+Genypterus,chilensis,-45.75,-75.75,5407:455:4,0.16
+Genypterus,chilensis,-46.75,-75.75,5407:465:4,0.14
+Genypterus,chilensis,-47.25,-75.75,5407:475:2,0.09
+Genypterus,chilensis,-46.25,-75.25,5407:465:1,0.18
+Genypterus,chilensis,-9.25,-79.75,5007:499:2,0.32
+Genypterus,chilensis,-6.75,-81.25,5008:361:3,0.39
+Genypterus,chilensis,-7.25,-80.25,5008:370:1,0.30
+Genypterus,chilensis,-8.25,-80.25,5008:380:1,0.35
+Genypterus,chilensis,-10.25,-79.25,5107:209:1,0.22
+Genypterus,chilensis,-11.25,-77.25,5107:217:1,0.28
+Genypterus,chilensis,-12.75,-76.25,5107:226:3,0.34
+Genypterus,chilensis,-13.25,-77.25,5107:237:1,0.26
+Genypterus,chilensis,-17.75,-70.75,5107:370:4,0.22
+Genypterus,chilensis,-17.25,-72.75,5107:372:2,0.28
+Genypterus,chilensis,-20.25,-70.75,5207:100:2,0.27
+Genypterus,chilensis,-24.75,-70.25,5207:140:3,0.35
+Genypterus,chilensis,-32.75,-73.75,5307:123:4,0.21
+Genypterus,chilensis,-33.25,-72.25,5307:132:1,0.20
+Genypterus,chilensis,-37.25,-74.25,5307:374:1,0.30
+Genypterus,chilensis,-42.75,-74.25,5407:124:3,0.32
+Genypterus,chilensis,-43.25,-74.75,5407:134:2,0.37
+Genypterus,chilensis,-43.75,-74.75,5407:134:4,0.31
+Genypterus,chilensis,-44.25,-74.75,5407:144:2,0.20
+Genypterus,chilensis,-43.25,-75.25,5407:235:1,0.34
+Genypterus,chilensis,-44.25,-75.25,5407:245:1,0.35
+Genypterus,chilensis,-44.75,-75.25,5407:245:3,0.29
+Genypterus,chilensis,-45.25,-74.75,5407:354:2,0.20
+Genypterus,chilensis,-45.25,-75.25,5407:455:1,0.29
+Genypterus,chilensis,-45.75,-75.25,5407:455:3,0.22
+Genypterus,chilensis,-46.25,-75.75,5407:465:2,0.20
+Genypterus,chilensis,-8.75,-79.75,5007:489:4,0.57
+Genypterus,chilensis,-9.75,-79.25,5007:499:3,0.50
+Genypterus,chilensis,-7.25,-80.75,5008:370:2,0.55
+Genypterus,chilensis,-10.75,-78.75,5107:208:4,0.49
+Genypterus,chilensis,-12.75,-77.75,5107:227:4,0.46
+Genypterus,chilensis,-13.25,-76.25,5107:236:1,0.44
+Genypterus,chilensis,-13.75,-76.25,5107:236:3,0.53
+Genypterus,chilensis,-17.25,-71.75,5107:371:2,0.40
+Genypterus,chilensis,-18.75,-70.75,5107:380:4,0.53
+Genypterus,chilensis,-19.75,-70.75,5107:390:4,0.58
+Genypterus,chilensis,-23.75,-70.25,5207:130:3,0.45
+Genypterus,chilensis,-24.25,-70.25,5207:140:1,0.42
+Genypterus,chilensis,-35.75,-73.75,5307:353:4,0.54
+Genypterus,chilensis,-37.25,-73.25,5307:373:1,0.40
+Genypterus,chilensis,-40.75,-74.75,5407:104:4,0.58
+Genypterus,chilensis,-41.75,-74.25,5407:114:3,0.52
+Genypterus,chilensis,-42.25,-74.25,5407:124:1,0.45
+Genypterus,chilensis,-42.75,-74.75,5407:124:4,0.51
+Genypterus,chilensis,-42.75,-75.25,5407:225:3,0.50
+Genypterus,chilensis,-43.75,-75.25,5407:235:3,0.41
+Genypterus,chilensis,-8.25,-79.25,5007:489:1,0.66
+Genypterus,chilensis,-6.25,-80.75,5008:360:2,0.67
+Genypterus,chilensis,-6.25,-81.25,5008:361:1,0.70
+Genypterus,chilensis,-7.75,-80.25,5008:370:3,0.65
+Genypterus,chilensis,-10.25,-78.75,5107:208:2,0.77
+Genypterus,chilensis,-12.25,-76.75,5107:226:2,0.69
+Genypterus,chilensis,-16.75,-72.25,5107:362:3,0.61
+Genypterus,chilensis,-17.75,-71.75,5107:371:4,0.68
+Genypterus,chilensis,-18.25,-71.25,5107:381:1,0.60
+Genypterus,chilensis,-19.25,-70.75,5107:390:2,0.64
+Genypterus,chilensis,-34.25,-71.75,5307:141:2,0.69
+Genypterus,chilensis,-37.75,-73.75,5307:373:4,0.78
+Genypterus,chilensis,-38.25,-73.75,5307:383:2,0.74
+Genypterus,chilensis,-38.75,-73.75,5307:383:4,0.76
+Genypterus,chilensis,-39.25,-73.75,5307:393:2,0.73
+Genypterus,chilensis,-39.75,-73.75,5307:393:4,0.62
+Genypterus,chilensis,-40.25,-73.75,5407:103:2,0.60
+Genypterus,chilensis,-40.25,-74.25,5407:104:1,0.76
+Genypterus,chilensis,-40.75,-74.25,5407:104:3,0.69
+Genypterus,chilensis,-41.25,-74.25,5407:114:1,0.64
+Genypterus,chilensis,-41.25,-74.75,5407:114:2,0.72
+Genypterus,chilensis,-41.75,-74.75,5407:114:4,0.67
+Genypterus,chilensis,-42.25,-74.75,5407:124:2,0.60
+Genypterus,chilensis,-26.25,-70.75,5207:360:2,1.00
+Genypterus,chilensis,-26.75,-70.75,5207:360:4,1.00
+Genypterus,chilensis,-27.25,-70.75,5207:370:2,1.00
+Genypterus,chilensis,-27.75,-70.75,5207:370:4,0.91
+Genypterus,chilensis,-27.25,-71.25,5207:371:1,1.00
+Genypterus,chilensis,-27.75,-71.25,5207:371:3,1.00
+Genypterus,chilensis,-8.25,-78.75,5007:488:2,0.84
+Genypterus,chilensis,-8.75,-78.75,5007:488:4,1.00
+Genypterus,chilensis,-8.25,-79.75,5007:489:2,0.89
+Genypterus,chilensis,-9.25,-79.25,5007:499:1,0.80
+Genypterus,chilensis,-6.75,-80.75,5008:360:4,0.89
+Genypterus,chilensis,-10.25,-77.75,5107:207:2,1.00
+Genypterus,chilensis,-10.75,-77.75,5107:207:4,1.00
+Genypterus,chilensis,-10.25,-78.25,5107:208:1,0.99
+Genypterus,chilensis,-10.75,-78.25,5107:208:3,1.00
+Genypterus,chilensis,-11.25,-77.75,5107:217:2,1.00
+Genypterus,chilensis,-11.75,-77.75,5107:217:4,1.00
+Genypterus,chilensis,-11.25,-78.25,5107:218:1,0.96
+Genypterus,chilensis,-11.75,-78.25,5107:218:3,0.89
+Genypterus,chilensis,-12.75,-76.75,5107:226:4,1.00
+Genypterus,chilensis,-12.25,-77.25,5107:227:1,1.00
+Genypterus,chilensis,-12.25,-77.75,5107:227:2,1.00
+Genypterus,chilensis,-12.75,-77.25,5107:227:3,1.00
+Genypterus,chilensis,-13.25,-76.75,5107:236:2,1.00
+Genypterus,chilensis,-13.75,-76.75,5107:236:4,1.00
+Genypterus,chilensis,-14.75,-75.75,5107:245:4,1.00
+Genypterus,chilensis,-14.25,-76.25,5107:246:1,1.00
+Genypterus,chilensis,-14.25,-76.75,5107:246:2,1.00
+Genypterus,chilensis,-14.75,-76.25,5107:246:3,1.00
+Genypterus,chilensis,-15.75,-74.25,5107:354:3,1.00
+Genypterus,chilensis,-15.75,-74.75,5107:354:4,1.00
+Genypterus,chilensis,-16.75,-72.75,5107:362:4,1.00
+Genypterus,chilensis,-16.25,-73.25,5107:363:1,0.95
+Genypterus,chilensis,-16.25,-73.75,5107:363:2,1.00
+Genypterus,chilensis,-16.75,-73.25,5107:363:3,1.00
+Genypterus,chilensis,-16.25,-74.25,5107:364:1,1.00
+Genypterus,chilensis,-17.25,-71.25,5107:371:1,0.86
+Genypterus,chilensis,-17.75,-71.25,5107:371:3,0.92
+Genypterus,chilensis,-17.25,-72.25,5107:372:1,0.81
+Genypterus,chilensis,-18.25,-70.25,5107:380:1,0.94
+Genypterus,chilensis,-18.25,-70.75,5107:380:2,0.97
+Genypterus,chilensis,-18.75,-70.25,5107:380:3,1.00
+Genypterus,chilensis,-19.25,-70.25,5107:390:1,1.00
+Genypterus,chilensis,-19.75,-70.25,5107:390:3,1.00
+Genypterus,chilensis,-15.25,-75.25,5107:455:1,1.00
+Genypterus,chilensis,-15.25,-75.75,5107:455:2,1.00
+Genypterus,chilensis,-15.75,-75.25,5107:455:3,1.00
+Genypterus,chilensis,-20.25,-70.25,5207:100:1,1.00
+Genypterus,chilensis,-20.75,-70.25,5207:100:3,1.00
+Genypterus,chilensis,-20.75,-70.75,5207:100:4,0.85
+Genypterus,chilensis,-21.25,-70.25,5207:110:1,1.00
+Genypterus,chilensis,-21.75,-70.25,5207:110:3,1.00
+Genypterus,chilensis,-22.25,-70.25,5207:120:1,1.00
+Genypterus,chilensis,-22.75,-70.25,5207:120:3,1.00
+Genypterus,chilensis,-22.75,-70.75,5207:120:4,1.00
+Genypterus,chilensis,-23.25,-70.25,5207:130:1,1.00
+Genypterus,chilensis,-23.25,-70.75,5207:130:2,1.00
+Genypterus,chilensis,-23.75,-70.75,5207:130:4,1.00
+Genypterus,chilensis,-24.25,-70.75,5207:140:2,1.00
+Genypterus,chilensis,-24.75,-70.75,5207:140:4,1.00
+Genypterus,chilensis,-25.25,-70.25,5207:350:1,1.00
+Genypterus,chilensis,-25.25,-70.75,5207:350:2,1.00
+Genypterus,chilensis,-25.75,-70.75,5207:350:4,1.00
+Genypterus,chilensis,-28.25,-71.25,5207:381:1,1.00
+Genypterus,chilensis,-28.75,-71.25,5207:381:3,1.00
+Genypterus,chilensis,-28.75,-71.75,5207:381:4,1.00
+Genypterus,chilensis,-29.25,-71.75,5207:391:2,1.00
+Genypterus,chilensis,-29.75,-71.25,5207:391:3,1.00
+Genypterus,chilensis,-29.75,-71.75,5207:391:4,1.00
+Genypterus,chilensis,-30.25,-71.25,5307:101:1,1.00
+Genypterus,chilensis,-30.25,-71.75,5307:101:2,1.00
+Genypterus,chilensis,-30.75,-71.75,5307:101:4,1.00
+Genypterus,chilensis,-31.25,-71.75,5307:111:2,1.00
+Genypterus,chilensis,-31.75,-71.75,5307:111:4,1.00
+Genypterus,chilensis,-32.25,-71.75,5307:121:2,1.00
+Genypterus,chilensis,-32.75,-71.75,5307:121:4,1.00
+Genypterus,chilensis,-33.25,-71.75,5307:131:2,1.00
+Genypterus,chilensis,-33.75,-71.75,5307:131:4,1.00
+Genypterus,chilensis,-33.75,-72.25,5307:132:3,1.00
+Genypterus,chilensis,-34.25,-72.25,5307:142:1,1.00
+Genypterus,chilensis,-34.75,-72.25,5307:142:3,1.00
+Genypterus,chilensis,-34.75,-72.75,5307:142:4,1.00
+Genypterus,chilensis,-35.25,-72.25,5307:352:1,0.96
+Genypterus,chilensis,-35.25,-72.75,5307:352:2,0.94
+Genypterus,chilensis,-35.75,-72.75,5307:352:4,0.83
+Genypterus,chilensis,-35.25,-73.25,5307:353:1,1.00
+Genypterus,chilensis,-35.75,-73.25,5307:353:3,0.96
+Genypterus,chilensis,-36.25,-72.75,5307:362:2,0.83
+Genypterus,chilensis,-36.25,-73.25,5307:363:1,0.83
+Genypterus,chilensis,-36.25,-73.75,5307:363:2,0.95
+Genypterus,chilensis,-36.75,-73.75,5307:363:4,0.85
+Genypterus,chilensis,-37.25,-73.75,5307:373:2,0.80
+Genypterus,chilensis,-37.75,-74.25,5307:374:3,0.90
+Genypterus,chilensis,-38.25,-74.25,5307:384:1,0.93
+Genypterus,chilensis,-38.75,-74.25,5307:384:3,0.95
+Genypterus,chilensis,-39.25,-74.25,5307:394:1,0.94
+Genypterus,chilensis,-39.75,-74.25,5307:394:3,0.84
+
+
+Occurrence cells used for creating environmental envelope (n = 7)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Genypterus,chilensis,-36.75,-73.25,5307:363:3,139,12.7341899871826,11.696400642395,32.6299171447754,34.0956649780273,84.696002304554,0,83.1979827880859,19
+Genypterus,chilensis,-36.25,-75.25,5307:465:1,4124,14.4325914382935,1.30343496799469,33.9293785095215,34.6951599121094,9.793000295758251,0,167.888412475586,219
+Genypterus,chilensis,-33.25,-71.75,5307:131:2,509,14.0279026031494,12.1824169158936,34.0795745849609,34.2473335266113,55.8260008692741,0,88.5015258789063,17
+Genypterus,chilensis,-32.75,-71.75,5307:121:4,1210,14.2182397842407,5.81501007080078,34.1778182983398,34.3138809204102,51.731001585722,0,98.8412017822266,23
+Genypterus,chilensis,-29.75,-71.25,5207:391:3,304,15.0601215362549,10.4829120635986,33.7653732299805,34.2428398132324,50.1873642206192,0,105.957374572754,11
+Genypterus,chilensis,-12.25,-79.75,5107:229:2,4739,20.8563785552979,1.42138600349426,35.1689987182617,34.6941719055176,15.107000246643999,0,139.674530029297,292
+Genypterus,chilensis,-11.75,-77.25,5107:217:3,87,18.2189998626709,17.7786464691162,34.9571685791016,35.1131286621094,93.9470008015633,0,181.702758789063,19

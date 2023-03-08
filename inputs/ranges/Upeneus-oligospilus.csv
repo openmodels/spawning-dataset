@@ -1,0 +1,152 @@
+Mapping parameters for Upeneus oligospilus (Short-fin goatfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 51,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,1,7,13
+Temperature (°C),1,22.07,24.83,27.61,31.81
+Salinity (psu),1,38.06,38.56,39.56,40.06
+Primary Production,1,606,609,1716,2105
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,1,7,23.5,31.75
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 110): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Upeneus,oligospilus,28.75,50.75,1205:380:4,0.08
+Upeneus,oligospilus,28.25,51.25,1205:381:1,0.08
+Upeneus,oligospilus,28.75,51.25,1205:381:3,0.08
+Upeneus,oligospilus,29.25,50.75,1205:390:2,0.08
+Upeneus,oligospilus,27.75,48.75,1204:478:4,0.32
+Upeneus,oligospilus,27.25,49.25,1204:479:1,0.32
+Upeneus,oligospilus,27.25,49.75,1204:479:2,0.26
+Upeneus,oligospilus,27.75,49.25,1204:479:3,0.32
+Upeneus,oligospilus,27.75,49.75,1204:479:4,0.27
+Upeneus,oligospilus,28.25,48.75,1204:488:2,0.32
+Upeneus,oligospilus,29.25,49.25,1204:499:1,0.33
+Upeneus,oligospilus,29.75,49.25,1204:499:3,0.33
+Upeneus,oligospilus,27.25,50.25,1205:370:1,0.26
+Upeneus,oligospilus,27.25,50.75,1205:370:2,0.26
+Upeneus,oligospilus,27.75,50.25,1205:370:3,0.26
+Upeneus,oligospilus,27.75,51.25,1205:371:3,0.26
+Upeneus,oligospilus,27.75,51.75,1205:371:4,0.26
+Upeneus,oligospilus,29.75,49.75,1204:499:4,0.50
+Upeneus,oligospilus,25.75,52.25,1205:352:3,0.55
+Upeneus,oligospilus,20.75,39.25,1203:209:3,0.71
+Upeneus,oligospilus,20.75,39.75,1203:209:4,0.71
+Upeneus,oligospilus,23.75,38.25,1203:238:3,0.76
+Upeneus,oligospilus,23.75,38.75,1203:238:4,0.76
+Upeneus,oligospilus,24.25,35.75,1203:245:2,0.62
+Upeneus,oligospilus,24.25,37.75,1203:247:2,0.76
+Upeneus,oligospilus,24.75,37.25,1203:247:3,0.62
+Upeneus,oligospilus,24.25,38.25,1203:248:1,0.76
+Upeneus,oligospilus,25.25,36.75,1203:456:2,0.62
+Upeneus,oligospilus,25.25,37.25,1203:457:1,0.62
+Upeneus,oligospilus,25.75,37.25,1203:457:3,0.62
+Upeneus,oligospilus,28.75,48.25,1204:488:3,0.77
+Upeneus,oligospilus,30.25,48.25,1304:208:1,0.60
+Upeneus,oligospilus,20.25,37.25,1203:207:1,0.82
+Upeneus,oligospilus,20.25,37.75,1203:207:2,0.82
+Upeneus,oligospilus,20.75,37.25,1203:207:3,0.82
+Upeneus,oligospilus,21.75,36.75,1203:216:4,1.00
+Upeneus,oligospilus,21.25,37.25,1203:217:1,0.91
+Upeneus,oligospilus,21.75,37.25,1203:217:3,0.91
+Upeneus,oligospilus,21.75,38.75,1203:218:4,0.88
+Upeneus,oligospilus,21.25,39.25,1203:219:1,0.82
+Upeneus,oligospilus,21.75,39.25,1203:219:3,0.82
+Upeneus,oligospilus,22.75,35.75,1203:225:4,1.00
+Upeneus,oligospilus,22.25,36.25,1203:226:1,1.00
+Upeneus,oligospilus,22.25,36.75,1203:226:2,1.00
+Upeneus,oligospilus,22.75,36.25,1203:226:3,1.00
+Upeneus,oligospilus,22.25,37.25,1203:227:1,1.00
+Upeneus,oligospilus,22.25,38.75,1203:228:2,0.97
+Upeneus,oligospilus,22.25,39.25,1203:229:1,0.96
+Upeneus,oligospilus,22.75,39.25,1203:229:3,0.96
+Upeneus,oligospilus,23.25,35.75,1203:235:2,1.00
+Upeneus,oligospilus,23.75,35.25,1203:235:3,1.00
+Upeneus,oligospilus,23.75,35.75,1203:235:4,1.00
+Upeneus,oligospilus,23.25,38.75,1203:238:2,1.00
+Upeneus,oligospilus,24.25,35.25,1203:245:1,1.00
+Upeneus,oligospilus,26.75,33.75,1203:363:4,0.99
+Upeneus,oligospilus,27.25,33.75,1203:373:2,0.87
+Upeneus,oligospilus,27.75,33.75,1203:373:4,0.87
+Upeneus,oligospilus,25.75,36.75,1203:456:4,1.00
+Upeneus,oligospilus,26.75,49.75,1204:469:4,1.00
+Upeneus,oligospilus,28.75,48.75,1204:488:4,1.00
+Upeneus,oligospilus,29.25,47.75,1204:497:2,0.98
+Upeneus,oligospilus,29.75,47.75,1204:497:4,0.98
+Upeneus,oligospilus,29.75,48.25,1204:498:3,1.00
+Upeneus,oligospilus,23.75,51.25,1205:131:3,1.00
+Upeneus,oligospilus,23.75,51.75,1205:131:4,0.82
+Upeneus,oligospilus,23.75,52.25,1205:132:3,0.82
+Upeneus,oligospilus,24.75,50.75,1205:140:4,1.00
+Upeneus,oligospilus,24.25,51.25,1205:141:1,0.82
+Upeneus,oligospilus,24.25,51.75,1205:141:2,0.82
+Upeneus,oligospilus,24.75,51.25,1205:141:3,0.82
+Upeneus,oligospilus,24.75,52.75,1205:142:4,0.82
+Upeneus,oligospilus,24.25,53.25,1205:143:1,1.00
+Upeneus,oligospilus,24.25,53.75,1205:143:2,1.00
+Upeneus,oligospilus,24.75,53.25,1205:143:3,1.00
+Upeneus,oligospilus,24.75,53.75,1205:143:4,1.00
+Upeneus,oligospilus,24.25,54.25,1205:144:1,1.00
+Upeneus,oligospilus,24.25,54.75,1205:144:2,1.00
+Upeneus,oligospilus,24.75,54.25,1205:144:3,1.00
+Upeneus,oligospilus,24.75,54.75,1205:144:4,1.00
+Upeneus,oligospilus,25.25,50.25,1205:350:1,1.00
+Upeneus,oligospilus,25.25,50.75,1205:350:2,1.00
+Upeneus,oligospilus,25.75,50.25,1205:350:3,1.00
+Upeneus,oligospilus,25.75,50.75,1205:350:4,1.00
+Upeneus,oligospilus,25.25,51.75,1205:351:2,0.82
+Upeneus,oligospilus,25.75,51.25,1205:351:3,1.00
+Upeneus,oligospilus,25.75,51.75,1205:351:4,1.00
+Upeneus,oligospilus,25.25,52.25,1205:352:1,0.82
+Upeneus,oligospilus,25.25,52.75,1205:352:2,0.82
+Upeneus,oligospilus,25.25,54.25,1205:354:1,1.00
+Upeneus,oligospilus,25.75,54.75,1205:354:4,1.00
+Upeneus,oligospilus,26.25,50.25,1205:360:1,1.00
+Upeneus,oligospilus,26.25,50.75,1205:360:2,1.00
+Upeneus,oligospilus,26.75,50.25,1205:360:3,1.00
+Upeneus,oligospilus,26.75,50.75,1205:360:4,1.00
+Upeneus,oligospilus,26.25,51.25,1205:361:1,1.00
+Upeneus,oligospilus,26.75,51.25,1205:361:3,1.00
+Upeneus,oligospilus,26.75,53.25,1205:363:3,1.00
+Upeneus,oligospilus,26.75,53.75,1205:363:4,1.00
+Upeneus,oligospilus,27.25,52.75,1205:372:2,1.00
+Upeneus,oligospilus,27.75,52.25,1205:372:3,1.00
+Upeneus,oligospilus,27.75,52.75,1205:372:4,1.00
+Upeneus,oligospilus,27.25,53.25,1205:373:1,1.00
+Upeneus,oligospilus,29.25,50.25,1205:390:1,1.00
+Upeneus,oligospilus,29.75,50.25,1205:390:3,1.00
+Upeneus,oligospilus,29.75,50.75,1205:390:4,1.00
+Upeneus,oligospilus,25.25,55.25,1205:455:1,0.94
+Upeneus,oligospilus,30.25,48.75,1304:208:2,0.91
+Upeneus,oligospilus,30.25,49.25,1304:209:1,0.96
+Upeneus,oligospilus,30.25,49.75,1304:209:2,0.96
+Upeneus,oligospilus,30.25,50.25,1305:100:1,0.98
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Upeneus,oligospilus,22.75,38.75,1203:228:4,227,27.75,39.04,606,0,25
+Upeneus,oligospilus,24.25,53.25,1205:143:1,5,27.33,39.29,612,0,18
+Upeneus,oligospilus,24.75,54.75,1205:144:4,12,27.47,38.93,885,0,13
+Upeneus,oligospilus,26.25,50.75,1205:360:2,3,26.51,39.5,778,0,22
+Upeneus,oligospilus,29.25,48.25,1204:498:1,31,24.88,38.72,2105,0,19
+Upeneus,oligospilus,29.75,47.75,1204:497:4,13,24.78,38.72,1327,0,1

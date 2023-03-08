@@ -1,0 +1,211 @@
+Mapping parameters for Sphoeroides lispus (Naked puffer)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 67 |  77,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,5,6,13,20
+Temperature (°C),1,12.36,18.57,24.24,26.81
+Salinity (psu),1,31.48,33.63,35.34,37.02
+Primary Production,1,479,782,1830,2000.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,0,1,24,278
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 157): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Sphoeroides,lispus,0.75,-79.75,7007:209:4,0.08
+Sphoeroides,lispus,0.25,-80.25,7008:100:1,0.12
+Sphoeroides,lispus,0.75,-80.25,7008:100:3,0.15
+Sphoeroides,lispus,21.25,-106.25,7210:216:1,0.04
+Sphoeroides,lispus,21.75,-106.25,7210:216:3,0.04
+Sphoeroides,lispus,21.75,-106.75,7210:216:4,0.04
+Sphoeroides,lispus,22.25,-106.25,7210:226:1,0.10
+Sphoeroides,lispus,22.75,-106.25,7210:226:3,0.10
+Sphoeroides,lispus,23.25,-106.25,7210:236:1,0.18
+Sphoeroides,lispus,23.25,-106.75,7210:236:2,0.18
+Sphoeroides,lispus,23.75,-106.75,7210:236:4,0.18
+Sphoeroides,lispus,28.25,-115.25,7211:485:1,0.13
+Sphoeroides,lispus,36.75,-122.25,7312:362:3,0.15
+Sphoeroides,lispus,37.25,-122.25,7312:372:1,0.08
+Sphoeroides,lispus,37.75,-122.25,7312:372:3,0.07
+Sphoeroides,lispus,37.75,-123.25,7312:373:3,0.02
+Sphoeroides,lispus,38.25,-122.25,7312:382:1,0.06
+Sphoeroides,lispus,38.25,-122.75,7312:382:2,0.02
+Sphoeroides,lispus,38.75,-123.25,7312:383:3,0.04
+Sphoeroides,lispus,38.75,-123.75,7312:383:4,0.04
+Sphoeroides,lispus,39.25,-123.75,7312:393:2,0.01
+Sphoeroides,lispus,39.75,-123.75,7312:393:4,0.01
+Sphoeroides,lispus,0.25,-91.25,7009:101:1,0.20
+Sphoeroides,lispus,0.25,-91.75,7009:101:2,0.29
+Sphoeroides,lispus,22.75,-109.75,7210:229:4,0.37
+Sphoeroides,lispus,23.75,-107.25,7210:237:3,0.30
+Sphoeroides,lispus,23.25,-109.75,7210:239:2,0.39
+Sphoeroides,lispus,24.25,-107.25,7210:247:1,0.36
+Sphoeroides,lispus,24.25,-107.75,7210:247:2,0.36
+Sphoeroides,lispus,24.75,-107.75,7210:247:4,0.36
+Sphoeroides,lispus,24.75,-108.25,7210:248:3,0.39
+Sphoeroides,lispus,25.25,-108.25,7210:458:1,0.37
+Sphoeroides,lispus,25.25,-108.75,7210:458:2,0.37
+Sphoeroides,lispus,34.75,-120.25,7312:140:3,0.39
+Sphoeroides,lispus,34.75,-120.75,7312:140:4,0.39
+Sphoeroides,lispus,35.25,-120.75,7312:350:2,0.35
+Sphoeroides,lispus,35.75,-121.25,7312:351:3,0.29
+Sphoeroides,lispus,36.25,-121.25,7312:361:1,0.22
+Sphoeroides,lispus,36.25,-121.75,7312:361:2,0.22
+Sphoeroides,lispus,36.75,-121.75,7312:361:4,0.22
+Sphoeroides,lispus,23.25,-109.25,7210:239:1,0.42
+Sphoeroides,lispus,23.75,-109.25,7210:239:3,0.54
+Sphoeroides,lispus,23.75,-109.75,7210:239:4,0.56
+Sphoeroides,lispus,22.75,-110.25,7211:120:3,0.46
+Sphoeroides,lispus,28.75,-114.75,7211:384:4,0.57
+Sphoeroides,lispus,30.75,-114.25,7311:104:3,0.57
+Sphoeroides,lispus,33.25,-119.25,7311:239:1,0.53
+Sphoeroides,lispus,33.25,-119.75,7311:239:2,0.53
+Sphoeroides,lispus,33.75,-119.75,7311:239:4,0.53
+Sphoeroides,lispus,34.25,-118.25,7311:248:1,0.55
+Sphoeroides,lispus,34.25,-118.75,7311:248:2,0.55
+Sphoeroides,lispus,34.25,-119.25,7311:249:1,0.46
+Sphoeroides,lispus,34.25,-119.75,7311:249:2,0.46
+Sphoeroides,lispus,33.75,-120.25,7312:130:3,0.46
+Sphoeroides,lispus,34.25,-120.25,7312:140:1,0.41
+Sphoeroides,lispus,24.25,-109.75,7210:249:2,0.63
+Sphoeroides,lispus,25.25,-109.25,7210:459:1,0.61
+Sphoeroides,lispus,25.75,-109.25,7210:459:3,0.61
+Sphoeroides,lispus,26.25,-109.25,7210:469:1,0.69
+Sphoeroides,lispus,26.25,-109.75,7210:469:2,0.69
+Sphoeroides,lispus,26.75,-109.25,7210:469:3,0.69
+Sphoeroides,lispus,26.75,-109.75,7210:469:4,0.69
+Sphoeroides,lispus,32.25,-116.75,7311:226:2,0.79
+Sphoeroides,lispus,32.25,-117.25,7311:227:1,0.74
+Sphoeroides,lispus,32.75,-117.25,7311:227:3,0.76
+Sphoeroides,lispus,32.75,-118.25,7311:228:3,0.62
+Sphoeroides,lispus,32.75,-118.75,7311:228:4,0.70
+Sphoeroides,lispus,33.25,-117.25,7311:237:1,0.73
+Sphoeroides,lispus,33.25,-117.75,7311:237:2,0.73
+Sphoeroides,lispus,33.75,-117.75,7311:237:4,0.73
+Sphoeroides,lispus,33.25,-118.25,7311:238:1,0.66
+Sphoeroides,lispus,33.25,-118.75,7311:238:2,0.65
+Sphoeroides,lispus,33.75,-118.25,7311:238:3,0.65
+Sphoeroides,lispus,33.75,-118.75,7311:238:4,0.65
+Sphoeroides,lispus,27.25,-109.75,7210:479:2,0.94
+Sphoeroides,lispus,23.25,-110.25,7211:130:1,0.81
+Sphoeroides,lispus,23.75,-110.25,7211:130:3,0.99
+Sphoeroides,lispus,23.75,-110.75,7211:130:4,0.99
+Sphoeroides,lispus,24.25,-110.25,7211:140:1,1.00
+Sphoeroides,lispus,24.25,-110.75,7211:140:2,1.00
+Sphoeroides,lispus,24.75,-110.25,7211:140:3,1.00
+Sphoeroides,lispus,24.75,-110.75,7211:140:4,1.00
+Sphoeroides,lispus,24.25,-111.25,7211:141:1,1.00
+Sphoeroides,lispus,24.25,-111.75,7211:141:2,1.00
+Sphoeroides,lispus,24.75,-111.75,7211:141:4,1.00
+Sphoeroides,lispus,24.75,-112.25,7211:142:3,1.00
+Sphoeroides,lispus,25.25,-110.75,7211:350:2,1.00
+Sphoeroides,lispus,25.75,-110.75,7211:350:4,1.00
+Sphoeroides,lispus,25.75,-111.25,7211:351:3,1.00
+Sphoeroides,lispus,25.25,-112.25,7211:352:1,1.00
+Sphoeroides,lispus,25.75,-112.25,7211:352:3,1.00
+Sphoeroides,lispus,25.75,-112.75,7211:352:4,1.00
+Sphoeroides,lispus,26.75,-110.25,7211:360:3,1.00
+Sphoeroides,lispus,26.25,-111.25,7211:361:1,1.00
+Sphoeroides,lispus,26.75,-111.25,7211:361:3,1.00
+Sphoeroides,lispus,26.75,-111.75,7211:361:4,1.00
+Sphoeroides,lispus,26.25,-112.25,7211:362:1,1.00
+Sphoeroides,lispus,26.25,-112.75,7211:362:2,1.00
+Sphoeroides,lispus,26.75,-112.75,7211:362:4,1.00
+Sphoeroides,lispus,26.75,-113.25,7211:363:3,1.00
+Sphoeroides,lispus,26.75,-113.75,7211:363:4,1.00
+Sphoeroides,lispus,27.25,-110.25,7211:370:1,1.00
+Sphoeroides,lispus,27.25,-110.75,7211:370:2,1.00
+Sphoeroides,lispus,27.75,-110.75,7211:370:4,1.00
+Sphoeroides,lispus,27.25,-111.75,7211:371:2,1.00
+Sphoeroides,lispus,27.75,-111.25,7211:371:3,1.00
+Sphoeroides,lispus,27.25,-112.25,7211:372:1,1.00
+Sphoeroides,lispus,27.75,-112.25,7211:372:3,1.00
+Sphoeroides,lispus,27.75,-112.75,7211:372:4,1.00
+Sphoeroides,lispus,27.25,-113.75,7211:373:2,1.00
+Sphoeroides,lispus,27.25,-114.25,7211:374:1,1.00
+Sphoeroides,lispus,27.25,-114.75,7211:374:2,1.00
+Sphoeroides,lispus,27.75,-114.25,7211:374:3,1.00
+Sphoeroides,lispus,27.75,-114.75,7211:374:4,1.00
+Sphoeroides,lispus,28.25,-111.25,7211:381:1,1.00
+Sphoeroides,lispus,28.25,-111.75,7211:381:2,0.94
+Sphoeroides,lispus,28.75,-111.75,7211:381:4,1.00
+Sphoeroides,lispus,28.25,-112.75,7211:382:2,1.00
+Sphoeroides,lispus,28.75,-112.25,7211:382:3,0.82
+Sphoeroides,lispus,28.75,-112.75,7211:382:4,1.00
+Sphoeroides,lispus,28.75,-113.25,7211:383:3,1.00
+Sphoeroides,lispus,28.25,-114.25,7211:384:1,1.00
+Sphoeroides,lispus,28.75,-114.25,7211:384:3,1.00
+Sphoeroides,lispus,29.25,-112.25,7211:392:1,1.00
+Sphoeroides,lispus,29.75,-112.25,7211:392:3,1.00
+Sphoeroides,lispus,29.75,-112.75,7211:392:4,1.00
+Sphoeroides,lispus,29.25,-113.25,7211:393:1,1.00
+Sphoeroides,lispus,29.25,-113.75,7211:393:2,1.00
+Sphoeroides,lispus,29.75,-113.25,7211:393:3,1.00
+Sphoeroides,lispus,29.75,-113.75,7211:393:4,1.00
+Sphoeroides,lispus,29.25,-114.75,7211:394:2,1.00
+Sphoeroides,lispus,29.75,-114.25,7211:394:3,1.00
+Sphoeroides,lispus,27.75,-115.25,7211:475:3,1.00
+Sphoeroides,lispus,28.25,-115.75,7211:485:2,0.97
+Sphoeroides,lispus,29.25,-115.25,7211:495:1,0.93
+Sphoeroides,lispus,29.75,-115.25,7211:495:3,0.88
+Sphoeroides,lispus,29.75,-115.75,7211:495:4,0.88
+Sphoeroides,lispus,30.25,-112.75,7311:102:2,1.00
+Sphoeroides,lispus,30.75,-112.75,7311:102:4,1.00
+Sphoeroides,lispus,30.75,-113.25,7311:103:3,1.00
+Sphoeroides,lispus,30.25,-114.25,7311:104:1,1.00
+Sphoeroides,lispus,30.25,-114.75,7311:104:2,1.00
+Sphoeroides,lispus,30.75,-114.75,7311:104:4,1.00
+Sphoeroides,lispus,31.25,-113.25,7311:113:1,1.00
+Sphoeroides,lispus,31.25,-113.75,7311:113:2,1.00
+Sphoeroides,lispus,31.75,-113.75,7311:113:4,1.00
+Sphoeroides,lispus,31.25,-114.25,7311:114:1,1.00
+Sphoeroides,lispus,31.25,-114.75,7311:114:2,0.91
+Sphoeroides,lispus,31.75,-114.25,7311:114:3,1.00
+Sphoeroides,lispus,31.75,-114.75,7311:114:4,1.00
+Sphoeroides,lispus,30.25,-115.75,7311:205:2,0.96
+Sphoeroides,lispus,30.75,-115.75,7311:205:4,1.00
+Sphoeroides,lispus,30.25,-116.25,7311:206:1,0.85
+Sphoeroides,lispus,30.75,-116.25,7311:206:3,0.85
+Sphoeroides,lispus,31.25,-116.25,7311:216:1,0.84
+Sphoeroides,lispus,31.25,-116.75,7311:216:2,0.81
+Sphoeroides,lispus,31.75,-116.75,7311:216:4,0.81
+
+
+Occurrence cells used for creating environmental envelope (n = 18)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Sphoeroides,lispus,22.25,-105.75,7210:225:2,52,26.81,34.79,1399,0,19
+Sphoeroides,lispus,23.75,-114.25,7211:134:3,3776,21.98,34.17,479,0,278
+Sphoeroides,lispus,24.75,-110.75,7211:140:4,104,24.24,35.06,934,0,10
+Sphoeroides,lispus,24.75,-112.25,7211:142:3,123,22.47,34.27,968,0,24
+Sphoeroides,lispus,26.75,-113.25,7211:363:3,46,21.08,33.77,1444,0,18
+Sphoeroides,lispus,27.25,-111.75,7211:371:2,1129,23.31,35.31,1073,0,24
+Sphoeroides,lispus,27.75,-114.25,7211:374:3,4,18.96,33.63,1117,0,10
+Sphoeroides,lispus,27.75,-113.75,7211:373:4,1,21.01,35.22,1224,0,1
+Sphoeroides,lispus,28.25,-114.25,7211:384:1,54,18.57,33.65,782,0,23
+Sphoeroides,lispus,28.75,-113.75,7211:383:4,1,21.39,35.22,1279,0,0
+Sphoeroides,lispus,28.75,-112.25,7211:382:3,154,23.08,35.22,1860,0,20
+Sphoeroides,lispus,28.75,-111.75,7211:381:4,13,23.33,35.22,1754,0,8
+Sphoeroides,lispus,29.25,-112.25,7211:392:1,31,22.88,35.22,1674,0,9
+Sphoeroides,lispus,29.75,-114.25,7211:394:3,111,20.39,35.34,1305,0,11
+Sphoeroides,lispus,30.25,-114.75,7311:104:2,23,22.28,35.34,1433,0,6
+Sphoeroides,lispus,31.25,-113.75,7311:113:2,40,22.35,35.34,1360,0,23
+Sphoeroides,lispus,31.25,-113.25,7311:113:1,28,22.35,35.34,1199,0,13
+Sphoeroides,lispus,44.25,-124.25,7412:144:1,85,12.36,31.48,1830,0,18

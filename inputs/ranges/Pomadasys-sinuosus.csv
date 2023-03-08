@@ -1,0 +1,70 @@
+Mapping parameters for Pomadasys bayanus (Purplemouth grunt)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,37,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,25.72,26.22,27.52,31.72
+Salinity (psu),1,28.53,30.9,33.02,34.85
+Primary Production,1,606,913.8,1762.8,2214
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,0,3.6,19.3999996185303,25
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 29): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Pomadasys,bayanus,-0.25,-80.75,5008:100:2,0.02
+Pomadasys,bayanus,-0.75,-80.75,5008:100:4,0.09
+Pomadasys,bayanus,1.75,-78.25,7007:218:3,0.16
+Pomadasys,bayanus,1.25,-79.25,7007:219:1,0.10
+Pomadasys,bayanus,-0.25,-80.25,5008:100:1,0.30
+Pomadasys,bayanus,-0.75,-80.25,5008:100:3,0.30
+Pomadasys,bayanus,0.25,-79.75,7007:209:2,0.20
+Pomadasys,bayanus,2.25,-78.25,7007:228:1,0.20
+Pomadasys,bayanus,4.25,-77.25,7007:247:1,0.29
+Pomadasys,bayanus,0.25,-80.25,7008:100:1,0.30
+Pomadasys,bayanus,1.25,-78.75,7007:218:2,0.49
+Pomadasys,bayanus,3.25,-77.25,7007:237:1,0.57
+Pomadasys,bayanus,3.75,-77.75,7007:237:4,0.46
+Pomadasys,bayanus,4.75,-77.25,7007:247:3,0.55
+Pomadasys,bayanus,0.75,-80.25,7008:100:3,0.46
+Pomadasys,bayanus,0.75,-79.75,7007:209:4,1.00
+Pomadasys,bayanus,1.75,-78.75,7007:218:4,1.00
+Pomadasys,bayanus,1.25,-79.75,7007:219:2,1.00
+Pomadasys,bayanus,2.25,-78.75,7007:228:2,0.86
+Pomadasys,bayanus,2.75,-78.25,7007:228:3,1.00
+Pomadasys,bayanus,2.75,-78.75,7007:228:4,1.00
+Pomadasys,bayanus,3.25,-77.75,7007:237:2,1.00
+Pomadasys,bayanus,3.25,-78.25,7007:238:1,1.00
+Pomadasys,bayanus,5.25,-77.25,7007:457:1,0.80
+Pomadasys,bayanus,5.75,-77.25,7007:457:3,1.00
+Pomadasys,bayanus,6.25,-77.25,7007:467:1,1.00
+Pomadasys,bayanus,6.75,-77.25,7007:467:3,1.00
+Pomadasys,bayanus,6.75,-77.75,7007:467:4,1.00
+Pomadasys,bayanus,7.25,-77.75,7007:477:2,0.96
+
+
+Occurrence cells used for creating environmental envelope (n = 5)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Pomadasys,bayanus,-0.75,-80.75,5008:100:4,216,25.87,33.38,717,0,25
+Pomadasys,bayanus,1.75,-78.25,7007:218:3,1,26.75,32.48,1864,0,0
+Pomadasys,bayanus,5.75,-77.25,7007:457:3,330,27.25,31.29,1611,0,11
+Pomadasys,bayanus,6.25,-77.25,7007:467:1,281,27.27,30.9,1339,0,9
+Pomadasys,bayanus,7.25,-77.75,7007:477:2,1044,27.69,30.9,1209,0,10

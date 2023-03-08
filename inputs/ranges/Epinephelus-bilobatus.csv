@@ -1,0 +1,83 @@
+Mapping parameters for Epinephelus bilobatus (Twinspot grouper)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 57,
+Bounding Box (NSWE): ,-16,-22,116,124
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,4,8,28,50
+Temperature (°C),1,25.71,26.66,28.22,32.42
+Salinity (psu),1,34.28,34.78,35.08,35.58
+Primary Production,1,457,615.2,812.1,873.75
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,9,10.4,143.399993896484,307.875
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 39): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Epinephelus,bilobatus,-18.75,118.75,3111:488:4,0.17
+Epinephelus,bilobatus,-16.25,121.25,3112:361:1,0.13
+Epinephelus,bilobatus,-18.75,120.25,3112:380:3,0.09
+Epinephelus,bilobatus,-20.75,117.75,3211:207:4,0.01
+Epinephelus,bilobatus,-18.75,119.75,3111:489:4,0.36
+Epinephelus,bilobatus,-19.25,117.75,3111:497:2,0.32
+Epinephelus,bilobatus,-17.25,122.25,3112:372:1,0.21
+Epinephelus,bilobatus,-20.25,117.75,3211:207:2,0.35
+Epinephelus,bilobatus,-19.75,116.25,3111:496:3,0.41
+Epinephelus,bilobatus,-19.75,116.75,3111:496:4,0.41
+Epinephelus,bilobatus,-19.25,120.25,3112:390:1,0.55
+Epinephelus,bilobatus,-20.75,117.25,3211:207:3,0.58
+Epinephelus,bilobatus,-19.25,119.75,3111:499:2,0.71
+Epinephelus,bilobatus,-19.25,120.75,3112:390:2,0.66
+Epinephelus,bilobatus,-19.25,121.25,3112:391:1,0.73
+Epinephelus,bilobatus,-20.25,119.25,3211:209:1,0.76
+Epinephelus,bilobatus,-17.75,119.25,3111:479:3,0.82
+Epinephelus,bilobatus,-19.25,116.75,3111:496:2,1.00
+Epinephelus,bilobatus,-19.75,117.25,3111:497:3,1.00
+Epinephelus,bilobatus,-19.75,117.75,3111:497:4,0.92
+Epinephelus,bilobatus,-19.25,118.25,3111:498:1,0.90
+Epinephelus,bilobatus,-16.75,122.25,3112:362:3,0.80
+Epinephelus,bilobatus,-16.25,123.25,3112:363:1,1.00
+Epinephelus,bilobatus,-16.25,123.75,3112:363:2,1.00
+Epinephelus,bilobatus,-16.75,123.25,3112:363:3,1.00
+Epinephelus,bilobatus,-16.75,123.75,3112:363:4,1.00
+Epinephelus,bilobatus,-17.75,122.25,3112:372:3,1.00
+Epinephelus,bilobatus,-17.25,123.25,3112:373:1,0.92
+Epinephelus,bilobatus,-17.25,123.75,3112:373:2,0.83
+Epinephelus,bilobatus,-18.75,121.25,3112:381:3,1.00
+Epinephelus,bilobatus,-19.25,121.75,3112:391:2,1.00
+Epinephelus,bilobatus,-19.75,121.25,3112:391:3,1.00
+Epinephelus,bilobatus,-20.25,116.25,3211:206:1,1.00
+Epinephelus,bilobatus,-20.25,116.75,3211:206:2,1.00
+Epinephelus,bilobatus,-20.75,116.25,3211:206:3,0.83
+Epinephelus,bilobatus,-20.75,116.75,3211:206:4,1.00
+Epinephelus,bilobatus,-20.25,117.25,3211:207:1,1.00
+Epinephelus,bilobatus,-20.25,118.25,3211:208:1,0.90
+Epinephelus,bilobatus,-20.25,118.75,3211:208:2,0.90
+
+
+Occurrence cells used for creating environmental envelope (n = 8)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Epinephelus,bilobatus,-20.75,117.25,3211:207:3,6,26.74,35.06,838,0,9
+Epinephelus,bilobatus,-20.75,116.75,3211:206:4,11,26.66,35.02,758,0,11
+Epinephelus,bilobatus,-20.25,116.75,3211:206:2,31,26.66,35.02,739,0,85
+Epinephelus,bilobatus,-19.75,117.25,3111:497:3,67,27.02,35.06,769,0,126
+Epinephelus,bilobatus,-19.25,118.25,3111:498:1,64,27.12,35.13,779,0,141
+Epinephelus,bilobatus,-19.25,117.75,3111:497:2,84,27.02,35.06,683,0,149
+Epinephelus,bilobatus,-16.75,122.75,3112:362:4,12,28.22,34.7,457,0,11
+Epinephelus,bilobatus,-16.25,123.75,3112:363:2,2,28.23,34.81,801,0,19

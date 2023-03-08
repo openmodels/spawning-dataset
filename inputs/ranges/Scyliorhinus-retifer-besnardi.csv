@@ -1,0 +1,57 @@
+Mapping parameters for Scyliorhinus besnardi (Polkadot catshark)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 41,
+Bounding Box (NSWE): ,-31,-39,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,140,145,166,190
+Temperature (°C),1,17.14,17.93,20.34,21.17
+Salinity (psu),1,30.9,31.62,33.59,35.08
+Primary Production,1,771,788,2224.5,2870
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,16,68.5,202,261.125
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 15): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Scyliorhinus,besnardi,-33.25,-51.25,5305:131:1,0.11
+Scyliorhinus,besnardi,-33.75,-51.25,5305:131:3,0.12
+Scyliorhinus,besnardi,-33.75,-51.75,5305:131:4,0.11
+Scyliorhinus,besnardi,-36.25,-53.25,5305:363:1,0.24
+Scyliorhinus,besnardi,-36.25,-53.75,5305:363:2,0.24
+Scyliorhinus,besnardi,-36.75,-53.75,5305:363:4,0.24
+Scyliorhinus,besnardi,-35.75,-53.25,5305:353:3,0.73
+Scyliorhinus,besnardi,-33.25,-50.75,5305:130:2,1.00
+Scyliorhinus,besnardi,-34.25,-51.75,5305:141:2,1.00
+Scyliorhinus,besnardi,-34.75,-51.75,5305:141:4,1.00
+Scyliorhinus,besnardi,-34.25,-52.25,5305:142:1,1.00
+Scyliorhinus,besnardi,-34.75,-52.25,5305:142:3,1.00
+Scyliorhinus,besnardi,-35.25,-52.25,5305:352:1,1.00
+Scyliorhinus,besnardi,-35.25,-52.75,5305:352:2,1.00
+Scyliorhinus,besnardi,-35.75,-52.75,5305:352:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Scyliorhinus,besnardi,-35.25,-52.75,5305:352:2,123,18.52,33.59,1538,0,154
+Scyliorhinus,besnardi,-35.25,-52.25,5305:352:1,902,18.52,33.59,980,0,191
+Scyliorhinus,besnardi,-34.75,-51.75,5305:141:4,1176,19.25,33.28,805,0,213
+Scyliorhinus,besnardi,-34.75,-54.25,5305:144:3,28,17.34,32.27,2870,0,16
+Scyliorhinus,besnardi,-33.25,-51.25,5305:131:1,98,19.5,30.98,1579,0,155
+Scyliorhinus,besnardi,-31.25,-49.75,5304:219:2,243,21.17,33.06,771,0,121

@@ -1,0 +1,252 @@
+Mapping parameters for Mustelus californicus (Gray smoothhound)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 67 |  77,
+Bounding Box (NSWE): ,40,23,-126,-109
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,2,46,200
+Temperature (°C),1,7.18,15.43,23.95,25.23
+Salinity (psu),1,30.84,33.45,35.34,37.84
+Primary Production,1,369,819,1673,2201
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,0,6,71,191
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 170): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Mustelus,californicus,23.25,-109.25,7210:239:1,0.09
+Mustelus,californicus,23.25,-109.75,7210:239:2,0.08
+Mustelus,californicus,23.75,-109.25,7210:239:3,0.10
+Mustelus,californicus,23.75,-109.75,7210:239:4,0.11
+Mustelus,californicus,24.25,-109.75,7210:249:2,0.04
+Mustelus,californicus,26.25,-109.25,7210:469:1,0.15
+Mustelus,californicus,26.25,-109.75,7210:469:2,0.15
+Mustelus,californicus,26.75,-109.25,7210:469:3,0.15
+Mustelus,californicus,26.75,-109.75,7210:469:4,0.15
+Mustelus,californicus,23.75,-112.25,7211:132:3,0.04
+Mustelus,californicus,24.75,-115.75,7211:245:4,0.16
+Mustelus,californicus,27.75,-115.75,7211:475:4,0.11
+Mustelus,californicus,29.25,-118.25,7211:498:1,0.19
+Mustelus,californicus,38.25,-123.25,7312:383:1,0.10
+Mustelus,californicus,38.25,-123.75,7312:383:2,0.02
+Mustelus,californicus,23.25,-110.75,7211:130:2,0.29
+Mustelus,californicus,23.75,-111.25,7211:131:3,0.24
+Mustelus,californicus,25.25,-110.25,7211:350:1,0.28
+Mustelus,californicus,25.25,-113.25,7211:353:1,0.35
+Mustelus,californicus,28.25,-115.25,7211:485:1,0.33
+Mustelus,californicus,28.75,-118.25,7211:488:3,0.21
+Mustelus,californicus,37.75,-122.75,7312:372:4,0.24
+Mustelus,californicus,38.25,-122.75,7312:382:2,0.30
+Mustelus,californicus,39.75,-123.75,7312:393:4,0.36
+Mustelus,californicus,26.25,-110.75,7211:360:2,0.59
+Mustelus,californicus,29.25,-112.75,7211:392:2,0.47
+Mustelus,californicus,35.25,-121.25,7312:351:1,0.55
+Mustelus,californicus,37.25,-122.75,7312:372:2,0.47
+Mustelus,californicus,37.75,-122.25,7312:372:3,0.44
+Mustelus,californicus,37.75,-123.25,7312:373:3,0.49
+Mustelus,californicus,38.25,-122.25,7312:382:1,0.44
+Mustelus,californicus,38.75,-123.25,7312:383:3,0.44
+Mustelus,californicus,38.75,-123.75,7312:383:4,0.51
+Mustelus,californicus,39.25,-123.75,7312:393:2,0.41
+Mustelus,californicus,39.75,-124.25,7312:394:3,0.52
+Mustelus,californicus,27.25,-109.75,7210:479:2,0.66
+Mustelus,californicus,23.25,-110.25,7211:130:1,0.60
+Mustelus,californicus,23.75,-110.25,7211:130:3,0.71
+Mustelus,californicus,23.75,-110.75,7211:130:4,0.75
+Mustelus,californicus,23.75,-111.75,7211:131:4,0.73
+Mustelus,californicus,24.25,-110.25,7211:140:1,0.76
+Mustelus,californicus,24.25,-110.75,7211:140:2,0.77
+Mustelus,californicus,24.75,-110.25,7211:140:3,0.77
+Mustelus,californicus,24.75,-110.75,7211:140:4,0.77
+Mustelus,californicus,24.25,-112.25,7211:142:1,0.69
+Mustelus,californicus,24.75,-112.75,7211:142:4,0.60
+Mustelus,californicus,25.25,-110.75,7211:350:2,0.77
+Mustelus,californicus,25.75,-110.75,7211:350:4,0.77
+Mustelus,californicus,25.75,-113.25,7211:353:3,0.66
+Mustelus,californicus,28.25,-111.75,7211:381:2,0.68
+Mustelus,californicus,28.75,-112.25,7211:382:3,0.65
+Mustelus,californicus,28.75,-112.75,7211:382:4,0.76
+Mustelus,californicus,28.75,-115.25,7211:485:3,0.74
+Mustelus,californicus,29.25,-115.75,7211:495:2,0.70
+Mustelus,californicus,30.25,-113.75,7311:103:2,0.62
+Mustelus,californicus,31.25,-114.75,7311:114:2,0.67
+Mustelus,californicus,34.25,-120.75,7312:140:2,0.62
+Mustelus,californicus,36.25,-121.25,7312:361:1,0.77
+Mustelus,californicus,36.25,-121.75,7312:361:2,0.77
+Mustelus,californicus,36.75,-121.75,7312:361:4,0.77
+Mustelus,californicus,36.75,-122.25,7312:362:3,0.71
+Mustelus,californicus,37.25,-122.25,7312:372:1,0.65
+Mustelus,californicus,24.25,-111.25,7211:141:1,1.00
+Mustelus,californicus,24.25,-111.75,7211:141:2,1.00
+Mustelus,californicus,24.75,-111.75,7211:141:4,1.00
+Mustelus,californicus,24.75,-112.25,7211:142:3,1.00
+Mustelus,californicus,25.75,-111.25,7211:351:3,1.00
+Mustelus,californicus,25.25,-112.25,7211:352:1,1.00
+Mustelus,californicus,25.25,-112.75,7211:352:2,1.00
+Mustelus,californicus,25.75,-112.25,7211:352:3,1.00
+Mustelus,californicus,25.75,-112.75,7211:352:4,1.00
+Mustelus,californicus,26.75,-110.25,7211:360:3,0.81
+Mustelus,californicus,26.25,-111.25,7211:361:1,1.00
+Mustelus,californicus,26.75,-111.25,7211:361:3,1.00
+Mustelus,californicus,26.75,-111.75,7211:361:4,1.00
+Mustelus,californicus,26.25,-112.25,7211:362:1,1.00
+Mustelus,californicus,26.25,-112.75,7211:362:2,1.00
+Mustelus,californicus,26.75,-112.75,7211:362:4,1.00
+Mustelus,californicus,26.25,-113.25,7211:363:1,1.00
+Mustelus,californicus,26.25,-113.75,7211:363:2,0.88
+Mustelus,californicus,26.75,-113.25,7211:363:3,1.00
+Mustelus,californicus,26.75,-113.75,7211:363:4,1.00
+Mustelus,californicus,26.75,-114.25,7211:364:3,1.00
+Mustelus,californicus,27.25,-110.25,7211:370:1,1.00
+Mustelus,californicus,27.25,-110.75,7211:370:2,1.00
+Mustelus,californicus,27.75,-110.75,7211:370:4,1.00
+Mustelus,californicus,27.25,-111.75,7211:371:2,1.00
+Mustelus,californicus,27.75,-111.25,7211:371:3,1.00
+Mustelus,californicus,27.25,-112.25,7211:372:1,1.00
+Mustelus,californicus,27.75,-112.25,7211:372:3,1.00
+Mustelus,californicus,27.75,-112.75,7211:372:4,1.00
+Mustelus,californicus,27.25,-113.75,7211:373:2,1.00
+Mustelus,californicus,27.75,-113.75,7211:373:4,1.00
+Mustelus,californicus,27.25,-114.25,7211:374:1,1.00
+Mustelus,californicus,27.25,-114.75,7211:374:2,1.00
+Mustelus,californicus,27.75,-114.25,7211:374:3,1.00
+Mustelus,californicus,27.75,-114.75,7211:374:4,1.00
+Mustelus,californicus,28.25,-111.25,7211:381:1,0.85
+Mustelus,californicus,28.75,-111.75,7211:381:4,0.85
+Mustelus,californicus,28.25,-112.25,7211:382:1,0.89
+Mustelus,californicus,28.25,-112.75,7211:382:2,0.92
+Mustelus,californicus,28.75,-113.25,7211:383:3,1.00
+Mustelus,californicus,28.75,-113.75,7211:383:4,1.00
+Mustelus,californicus,28.25,-114.25,7211:384:1,0.92
+Mustelus,californicus,28.75,-114.25,7211:384:3,1.00
+Mustelus,californicus,28.75,-114.75,7211:384:4,0.99
+Mustelus,californicus,29.25,-112.25,7211:392:1,1.00
+Mustelus,californicus,29.75,-112.25,7211:392:3,1.00
+Mustelus,californicus,29.75,-112.75,7211:392:4,1.00
+Mustelus,californicus,29.25,-113.25,7211:393:1,0.98
+Mustelus,californicus,29.25,-113.75,7211:393:2,1.00
+Mustelus,californicus,29.75,-113.25,7211:393:3,1.00
+Mustelus,californicus,29.75,-113.75,7211:393:4,1.00
+Mustelus,californicus,29.25,-114.75,7211:394:2,1.00
+Mustelus,californicus,29.75,-114.25,7211:394:3,1.00
+Mustelus,californicus,27.75,-115.25,7211:475:3,1.00
+Mustelus,californicus,28.25,-115.75,7211:485:2,0.97
+Mustelus,californicus,29.25,-115.25,7211:495:1,1.00
+Mustelus,californicus,29.75,-115.25,7211:495:3,1.00
+Mustelus,californicus,29.75,-115.75,7211:495:4,0.92
+Mustelus,californicus,30.25,-112.75,7311:102:2,1.00
+Mustelus,californicus,30.75,-112.75,7311:102:4,1.00
+Mustelus,californicus,30.25,-113.25,7311:103:1,1.00
+Mustelus,californicus,30.75,-113.25,7311:103:3,1.00
+Mustelus,californicus,30.75,-113.75,7311:103:4,0.94
+Mustelus,californicus,30.25,-114.25,7311:104:1,1.00
+Mustelus,californicus,30.25,-114.75,7311:104:2,1.00
+Mustelus,californicus,30.75,-114.25,7311:104:3,1.00
+Mustelus,californicus,30.75,-114.75,7311:104:4,1.00
+Mustelus,californicus,31.25,-113.25,7311:113:1,1.00
+Mustelus,californicus,31.25,-113.75,7311:113:2,1.00
+Mustelus,californicus,31.75,-113.75,7311:113:4,1.00
+Mustelus,californicus,31.25,-114.25,7311:114:1,1.00
+Mustelus,californicus,31.75,-114.25,7311:114:3,1.00
+Mustelus,californicus,31.75,-114.75,7311:114:4,1.00
+Mustelus,californicus,30.25,-115.75,7311:205:2,1.00
+Mustelus,californicus,30.75,-115.75,7311:205:4,1.00
+Mustelus,californicus,30.25,-116.25,7311:206:1,1.00
+Mustelus,californicus,30.75,-116.25,7311:206:3,0.93
+Mustelus,californicus,31.25,-116.25,7311:216:1,1.00
+Mustelus,californicus,31.25,-116.75,7311:216:2,1.00
+Mustelus,californicus,31.75,-116.75,7311:216:4,1.00
+Mustelus,californicus,32.25,-116.75,7311:226:2,1.00
+Mustelus,californicus,32.25,-117.25,7311:227:1,1.00
+Mustelus,californicus,32.75,-117.25,7311:227:3,1.00
+Mustelus,californicus,32.75,-118.25,7311:228:3,0.85
+Mustelus,californicus,32.75,-118.75,7311:228:4,1.00
+Mustelus,californicus,32.25,-119.25,7311:229:1,0.81
+Mustelus,californicus,32.75,-119.25,7311:229:3,0.97
+Mustelus,californicus,33.25,-117.25,7311:237:1,1.00
+Mustelus,californicus,33.25,-117.75,7311:237:2,1.00
+Mustelus,californicus,33.75,-117.75,7311:237:4,1.00
+Mustelus,californicus,33.25,-118.25,7311:238:1,1.00
+Mustelus,californicus,33.25,-118.75,7311:238:2,1.00
+Mustelus,californicus,33.75,-118.25,7311:238:3,1.00
+Mustelus,californicus,33.75,-118.75,7311:238:4,1.00
+Mustelus,californicus,33.25,-119.25,7311:239:1,1.00
+Mustelus,californicus,33.25,-119.75,7311:239:2,1.00
+Mustelus,californicus,33.75,-119.25,7311:239:3,1.00
+Mustelus,californicus,33.75,-119.75,7311:239:4,1.00
+Mustelus,californicus,34.25,-118.25,7311:248:1,1.00
+Mustelus,californicus,34.25,-118.75,7311:248:2,1.00
+Mustelus,californicus,34.25,-119.25,7311:249:1,1.00
+Mustelus,californicus,34.25,-119.75,7311:249:2,1.00
+Mustelus,californicus,33.75,-120.25,7312:130:3,0.97
+Mustelus,californicus,34.25,-120.25,7312:140:1,0.95
+Mustelus,californicus,34.75,-120.25,7312:140:3,0.92
+Mustelus,californicus,34.75,-120.75,7312:140:4,0.92
+Mustelus,californicus,35.25,-120.75,7312:350:2,0.88
+Mustelus,californicus,35.75,-121.25,7312:351:3,0.82
+
+
+Occurrence cells used for creating environmental envelope (n = 46)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Mustelus,californicus,23.25,-110.25,7211:130:1,646,24.27,34.59,727,0,20
+Mustelus,californicus,24.25,-110.25,7211:140:1,189,24.24,35.04,809,0,13
+Mustelus,californicus,24.25,-111.75,7211:141:2,146,23.23,34.27,997,0,24
+Mustelus,californicus,24.75,-112.25,7211:142:3,123,22.47,34.27,968,0,24
+Mustelus,californicus,24.75,-111.75,7211:141:4,63,23.23,34.27,896,0,8
+Mustelus,californicus,25.75,-109.25,7210:459:3,158,25.23,35.06,1673,0,16
+Mustelus,californicus,26.25,-112.75,7211:362:2,62,22.33,34.27,1274,0,22
+Mustelus,californicus,26.75,-113.75,7211:363:4,194,21.08,33.77,1286,0,20
+Mustelus,californicus,26.75,-113.25,7211:363:3,46,21.08,33.77,1444,0,18
+Mustelus,californicus,26.75,-111.75,7211:361:4,219,23.17,35.31,1171,0,12
+Mustelus,californicus,26.75,-110.25,7211:360:3,915,24.19,35.34,1048,0,86
+Mustelus,californicus,27.75,-114.75,7211:374:4,119,18.96,33.63,1087,0,15
+Mustelus,californicus,27.75,-114.25,7211:374:3,4,18.96,33.63,1117,0,10
+Mustelus,californicus,27.75,-112.75,7211:372:4,221,22.89,35.22,1158,0,7
+Mustelus,californicus,27.75,-112.25,7211:372:3,896,22.89,35.22,1351,0,23
+Mustelus,californicus,27.75,-111.25,7211:371:3,863,23.31,35.31,1137,0,50
+Mustelus,californicus,27.75,-110.75,7211:370:4,371,23.95,35.31,1556,0,21
+Mustelus,californicus,28.25,-114.25,7211:384:1,54,18.57,33.65,782,0,23
+Mustelus,californicus,28.25,-111.25,7211:381:1,143,23.33,35.31,1750,0,9
+Mustelus,californicus,28.75,-113.75,7211:383:4,1,21.39,35.22,1279,0,0
+Mustelus,californicus,28.75,-113.25,7211:383:3,440,21.39,35.22,1606,0,11
+Mustelus,californicus,28.75,-112.75,7211:382:4,376,23.08,35.22,1800,0,24
+Mustelus,californicus,28.75,-111.75,7211:381:4,13,23.33,35.22,1754,0,8
+Mustelus,californicus,29.75,-114.25,7211:394:3,111,20.39,35.34,1305,0,11
+Mustelus,californicus,30.25,-115.75,7311:205:2,89,19.47,33.54,1398,0,11
+Mustelus,californicus,30.75,-114.75,7311:104:4,19,22.28,35.34,1606,0,9
+Mustelus,californicus,31.25,-114.75,7311:114:2,29,22.31,35.34,1845,0,17
+Mustelus,californicus,31.25,-114.25,7311:114:1,50,22.31,35.34,1620,0,71
+Mustelus,californicus,31.25,-113.25,7311:113:1,28,22.35,35.34,1199,0,13
+Mustelus,californicus,31.75,-116.75,7311:216:4,570,17.82,33.45,1189,0,18
+Mustelus,californicus,31.75,-114.75,7311:114:4,8,22.31,35.34,1514,0,10
+Mustelus,californicus,32.25,-119.25,7311:229:1,1282,16.43,33.45,819,0,120
+Mustelus,californicus,32.75,-119.25,7311:229:3,633,16.43,33.45,1026,0,94
+Mustelus,californicus,32.75,-117.25,7311:227:3,417,17.36,33.5,1056,0,17
+Mustelus,californicus,33.25,-117.25,7311:237:1,346,17.21,33.5,1294,0,6
+Mustelus,californicus,33.25,-118.25,7311:238:1,783,16.72,33.5,896,0,22
+Mustelus,californicus,33.75,-118.25,7311:238:3,435,16.72,33.47,1489,0,15
+Mustelus,californicus,33.75,-117.75,7311:237:4,279,17.21,33.5,1438,0,3
+Mustelus,californicus,34.25,-122.25,7312:142:1,3985,14.98,33.24,727,0,191
+Mustelus,californicus,34.25,-119.75,7311:249:2,236,15.43,33.47,1617,0,19
+Mustelus,californicus,34.25,-119.25,7311:249:1,157,15.43,33.47,1403,0,12
+Mustelus,californicus,34.25,-118.75,7311:248:2,167,16.08,33.47,1505,0,3
+Mustelus,californicus,34.25,-118.25,7311:248:1,6,16.08,33.47,1457,0,0
+Mustelus,californicus,35.25,-120.75,7312:350:2,150,14.93,33.29,1249,0,12
+Mustelus,californicus,36.75,-122.25,7312:362:3,1365,13.43,33.29,1573,0,22
+Mustelus,californicus,36.75,-121.75,7312:361:4,200,13.96,33.29,1465,0,8

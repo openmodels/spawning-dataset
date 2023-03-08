@@ -1,0 +1,88 @@
+Mapping parameters for Bollmannia chlamydes ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77 |  87,
+Bounding Box (NSWE): ,7,-8,-85,-75
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,10,21,64,120
+Temperature (°C),1,21.83,24.68,27.62,31.82
+Salinity (psu),1,26.43,30.2,33.14,36.56
+Primary Production (mgC·m-3·day-1) ,1,22.39,23.39,51.63,80.26
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,2.51,103.64,213.72,293.4
+Distance to Land (km),0,9,11,25,44.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 42): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Bollmannia,chlamydes,-3.25,-81.25,5008:131:1,0.07
+Bollmannia,chlamydes,-3.75,-80.75,5008:130:4,0.17
+Bollmannia,chlamydes,-2.75,-80.25,5008:120:3,0.19
+Bollmannia,chlamydes,-3.25,-79.75,5007:239:2,0.19
+Bollmannia,chlamydes,6.75,-77.75,7007:467:4,0.21
+Bollmannia,chlamydes,-3.75,-81.25,5008:131:3,0.24
+Bollmannia,chlamydes,-2.75,-80.75,5008:120:4,0.35
+Bollmannia,chlamydes,-2.75,-79.75,5007:229:4,0.31
+Bollmannia,chlamydes,-3.25,-80.75,5008:130:2,0.42
+Bollmannia,chlamydes,-2.25,-81.25,5008:121:1,0.65
+Bollmannia,chlamydes,-2.25,-80.75,5008:120:2,0.65
+Bollmannia,chlamydes,-1.75,-81.25,5008:111:3,0.79
+Bollmannia,chlamydes,0.75,-80.25,7008:100:3,1.00
+Bollmannia,chlamydes,0.25,-80.25,7008:100:1,1.00
+Bollmannia,chlamydes,6.25,-77.25,7007:467:1,0.98
+Bollmannia,chlamydes,5.75,-77.25,7007:457:3,1.00
+Bollmannia,chlamydes,5.25,-77.25,7007:457:1,1.00
+Bollmannia,chlamydes,4.75,-77.25,7007:247:3,1.00
+Bollmannia,chlamydes,4.25,-77.75,7007:247:2,0.84
+Bollmannia,chlamydes,4.25,-77.25,7007:247:1,0.95
+Bollmannia,chlamydes,3.25,-78.25,7007:238:1,1.00
+Bollmannia,chlamydes,3.75,-77.75,7007:237:4,1.00
+Bollmannia,chlamydes,3.75,-77.25,7007:237:3,0.90
+Bollmannia,chlamydes,3.25,-77.75,7007:237:2,1.00
+Bollmannia,chlamydes,3.25,-77.25,7007:237:1,1.00
+Bollmannia,chlamydes,2.75,-78.75,7007:228:4,1.00
+Bollmannia,chlamydes,2.75,-78.25,7007:228:3,0.92
+Bollmannia,chlamydes,2.25,-78.75,7007:228:2,0.84
+Bollmannia,chlamydes,2.75,-77.75,7007:227:4,1.00
+Bollmannia,chlamydes,1.75,-79.25,7007:219:3,0.89
+Bollmannia,chlamydes,1.25,-79.75,7007:219:2,1.00
+Bollmannia,chlamydes,1.25,-79.25,7007:219:1,1.00
+Bollmannia,chlamydes,1.75,-78.75,7007:218:4,1.00
+Bollmannia,chlamydes,1.25,-78.75,7007:218:2,1.00
+Bollmannia,chlamydes,0.75,-79.75,7007:209:4,1.00
+Bollmannia,chlamydes,-1.25,-81.25,5008:111:1,0.98
+Bollmannia,chlamydes,-1.75,-80.75,5008:110:4,1.00
+Bollmannia,chlamydes,-1.25,-80.75,5008:110:2,1.00
+Bollmannia,chlamydes,-0.75,-80.75,5008:100:4,1.00
+Bollmannia,chlamydes,-0.75,-80.25,5008:100:3,1.00
+Bollmannia,chlamydes,-0.25,-80.75,5008:100:2,1.00
+Bollmannia,chlamydes,-0.25,-80.25,5008:100:1,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 10)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Bollmannia,chlamydes,-3.25,-80.25,5008:130:1,41,24.4630508422852,23.6838569641113,33.8153686523438,34.5466766357422,80.2600011229515,0,218.193252563477,24
+Bollmannia,chlamydes,-1.75,-80.75,5008:110:4,72,24.6827411651611,15.8226852416992,33.1386566162109,34.8513984680176,51.6337379813194,0,111.596054077148,16
+Bollmannia,chlamydes,-0.75,-80.75,5008:100:4,216,25.2663993835449,16.6329441070557,32.7602233886719,35.073974609375,37.1610000729561,0,103.642486572266,25
+Bollmannia,chlamydes,1.75,-78.75,7007:218:4,98,26.7665176391602,24.3527641296387,30.8179264068604,33.7598152160645,41.0100594162941,0,184.318572998047,15
+Bollmannia,chlamydes,3.25,-77.75,7007:237:2,203,27.2424354553223,21.85182762146,30.2294216156006,34.7160301208496,24.582000449299798,0,144.303436279297,27
+Bollmannia,chlamydes,3.75,-77.25,7007:237:3,22,27.3233089447021,27.2010517120361,29.8263092041016,31.9925498962402,29.3199997395277,0,213.71989440918,20
+Bollmannia,chlamydes,4.75,-77.25,7007:247:3,170,27.4737358093262,16.6208324432373,30.1989212036133,33.3169326782227,27.5527834892273,0,157.514343261719,12
+Bollmannia,chlamydes,5.75,-77.25,7007:457:3,330,27.6242294311523,12.0731267929077,30.4107494354248,34.1627159118652,24.9180253595114,0,127.100997924805,11
+Bollmannia,chlamydes,6.25,-77.25,7007:467:1,281,27.70290184021,11.7091703414917,30.4586048126221,34.4912986755371,23.3876090496778,0,114.879318237305,9
+Bollmannia,chlamydes,6.75,-77.75,7007:467:4,1666,27.5549983978271,10.979811668396,30.2390480041504,34.8194007873535,22.5959997624159,0,3.02678394317627,25

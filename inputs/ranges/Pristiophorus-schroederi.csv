@@ -1,0 +1,116 @@
+Mapping parameters for Pristiophorus schroederi (Bahamas sawshark)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 31,
+Bounding Box (NSWE): ,30,23,-80,-74
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,400,472,668,1000
+Temperature (°C),1,1.81,2.31,12.98,26.08
+Salinity (psu),1,34.09,34.76,35.76,36.54
+Primary Production,1,178.5,245,477,614.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,25,86,216,385
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 69): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Pristiophorus,schroederi,26.75,-77.25,7207:467:3,0.01
+Pristiophorus,schroederi,27.75,-77.25,7207:477:3,0.01
+Pristiophorus,schroederi,28.25,-77.25,7207:487:1,0.04
+Pristiophorus,schroederi,28.25,-77.75,7207:487:2,0.04
+Pristiophorus,schroederi,28.75,-77.75,7207:487:4,0.11
+Pristiophorus,schroederi,29.25,-76.75,7207:496:2,0.13
+Pristiophorus,schroederi,29.75,-76.75,7207:496:4,0.19
+Pristiophorus,schroederi,23.25,-74.25,7207:134:1,0.34
+Pristiophorus,schroederi,28.75,-77.25,7207:487:3,0.24
+Pristiophorus,schroederi,28.25,-78.25,7207:488:1,0.25
+Pristiophorus,schroederi,28.75,-78.25,7207:488:3,0.33
+Pristiophorus,schroederi,28.25,-79.75,7207:489:2,0.38
+Pristiophorus,schroederi,29.25,-77.25,7207:497:1,0.53
+Pristiophorus,schroederi,24.25,-77.25,7207:247:1,0.64
+Pristiophorus,schroederi,26.25,-78.75,7207:468:2,0.76
+Pristiophorus,schroederi,26.25,-79.25,7207:469:1,0.69
+Pristiophorus,schroederi,27.75,-78.75,7207:478:4,0.79
+Pristiophorus,schroederi,27.25,-79.75,7207:479:2,0.61
+Pristiophorus,schroederi,27.75,-79.75,7207:479:4,0.61
+Pristiophorus,schroederi,28.25,-78.75,7207:488:2,0.60
+Pristiophorus,schroederi,28.75,-78.75,7207:488:4,0.61
+Pristiophorus,schroederi,28.75,-79.25,7207:489:3,0.67
+Pristiophorus,schroederi,28.75,-79.75,7207:489:4,0.79
+Pristiophorus,schroederi,29.75,-77.25,7207:497:3,0.65
+Pristiophorus,schroederi,29.75,-77.75,7207:497:4,0.62
+Pristiophorus,schroederi,29.25,-78.25,7207:498:1,0.62
+Pristiophorus,schroederi,29.75,-78.25,7207:498:3,0.77
+Pristiophorus,schroederi,29.75,-78.75,7207:498:4,0.70
+Pristiophorus,schroederi,23.25,-74.75,7207:134:2,1.00
+Pristiophorus,schroederi,23.75,-74.25,7207:134:3,0.82
+Pristiophorus,schroederi,23.75,-74.75,7207:134:4,1.00
+Pristiophorus,schroederi,24.25,-74.25,7207:144:1,0.89
+Pristiophorus,schroederi,24.25,-74.75,7207:144:2,1.00
+Pristiophorus,schroederi,23.75,-75.25,7207:235:3,1.00
+Pristiophorus,schroederi,23.75,-75.75,7207:235:4,1.00
+Pristiophorus,schroederi,23.75,-76.75,7207:236:4,1.00
+Pristiophorus,schroederi,23.25,-79.25,7207:239:1,1.00
+Pristiophorus,schroederi,23.25,-79.75,7207:239:2,1.00
+Pristiophorus,schroederi,23.75,-79.25,7207:239:3,1.00
+Pristiophorus,schroederi,24.25,-75.25,7207:245:1,1.00
+Pristiophorus,schroederi,24.25,-75.75,7207:245:2,1.00
+Pristiophorus,schroederi,24.75,-75.25,7207:245:3,0.94
+Pristiophorus,schroederi,24.75,-75.75,7207:245:4,1.00
+Pristiophorus,schroederi,24.25,-76.25,7207:246:1,1.00
+Pristiophorus,schroederi,24.75,-76.25,7207:246:3,1.00
+Pristiophorus,schroederi,24.75,-77.75,7207:247:4,1.00
+Pristiophorus,schroederi,24.25,-79.75,7207:249:2,1.00
+Pristiophorus,schroederi,24.75,-79.75,7207:249:4,1.00
+Pristiophorus,schroederi,25.25,-76.25,7207:456:1,1.00
+Pristiophorus,schroederi,25.75,-76.75,7207:456:4,1.00
+Pristiophorus,schroederi,25.25,-77.25,7207:457:1,1.00
+Pristiophorus,schroederi,25.75,-77.25,7207:457:3,1.00
+Pristiophorus,schroederi,25.25,-79.75,7207:459:2,1.00
+Pristiophorus,schroederi,25.75,-79.75,7207:459:4,1.00
+Pristiophorus,schroederi,26.25,-76.75,7207:466:2,0.96
+Pristiophorus,schroederi,26.75,-76.75,7207:466:4,1.00
+Pristiophorus,schroederi,26.25,-78.25,7207:468:1,1.00
+Pristiophorus,schroederi,26.25,-79.75,7207:469:2,1.00
+Pristiophorus,schroederi,26.75,-79.75,7207:469:4,0.80
+Pristiophorus,schroederi,27.25,-77.25,7207:477:1,1.00
+Pristiophorus,schroederi,27.75,-78.25,7207:478:3,1.00
+Pristiophorus,schroederi,27.75,-79.25,7207:479:3,0.93
+Pristiophorus,schroederi,28.25,-79.25,7207:489:1,0.95
+Pristiophorus,schroederi,29.25,-77.75,7207:497:2,0.89
+Pristiophorus,schroederi,29.25,-78.75,7207:498:2,0.86
+Pristiophorus,schroederi,29.25,-79.25,7207:499:1,0.80
+Pristiophorus,schroederi,29.25,-79.75,7207:499:2,1.00
+Pristiophorus,schroederi,29.75,-79.25,7207:499:3,0.83
+Pristiophorus,schroederi,29.75,-79.75,7207:499:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 11)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Pristiophorus,schroederi,23.25,-79.75,7207:239:2,535,27.17,36.31,346,0,86
+Pristiophorus,schroederi,23.25,-79.25,7207:239:1,491,27.17,36.31,342,0,97
+Pristiophorus,schroederi,23.75,-79.25,7207:239:3,502,27.17,36.31,477,0,149
+Pristiophorus,schroederi,24.25,-74.25,7207:144:1,3805,26.55,36.5,238,0,25
+Pristiophorus,schroederi,24.25,-79.75,7207:249:2,506,26.93,36.29,362,0,166
+Pristiophorus,schroederi,25.75,-74.75,7207:354:4,4565,26.23,36.49,245,0,200
+Pristiophorus,schroederi,26.25,-78.75,7207:468:2,485,26.55,36.29,451,0,106
+Pristiophorus,schroederi,27.75,-79.25,7207:479:3,619,26.31,36.27,487,0,133
+Pristiophorus,schroederi,28.25,-78.75,7207:488:2,888,26.11,36.23,372,0,202
+Pristiophorus,schroederi,28.25,-78.25,7207:488:1,1007,26.11,36.23,365,0,216
+Pristiophorus,schroederi,29.75,-76.75,7207:496:4,1617,25.33,36.37,342,0,385

@@ -1,0 +1,79 @@
+Mapping parameters for Bathyraja longicauda (Slimtail skate)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,20,144,446,1000
+Temperature (°C),1,13.92,14.42,15.42,15.92
+Salinity (psu),1,33.38,33.88,34.1,34.6
+Primary Production,1,25,1056.4,2501.2,3637
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,16.4,17.4,179,270.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 40): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Bathyraja,longicauda,-31.25,-71.75,5307:111:2,0.17
+Bathyraja,longicauda,-31.75,-71.75,5307:111:4,0.17
+Bathyraja,longicauda,-33.25,-72.25,5307:132:1,0.15
+Bathyraja,longicauda,-37.25,-73.25,5307:373:1,0.12
+Bathyraja,longicauda,-37.25,-74.25,5307:374:1,0.12
+Bathyraja,longicauda,-38.25,-73.25,5307:383:1,0.09
+Bathyraja,longicauda,-38.25,-73.75,5307:383:2,0.09
+Bathyraja,longicauda,-38.75,-73.25,5307:383:3,0.08
+Bathyraja,longicauda,-38.75,-73.75,5307:383:4,0.09
+Bathyraja,longicauda,-39.25,-74.25,5307:394:1,0.02
+Bathyraja,longicauda,-39.75,-74.25,5307:394:3,0.02
+Bathyraja,longicauda,-32.25,-71.25,5307:121:1,0.29
+Bathyraja,longicauda,-37.75,-73.75,5307:373:4,0.30
+Bathyraja,longicauda,-37.75,-74.25,5307:374:3,0.39
+Bathyraja,longicauda,-38.25,-74.25,5307:384:1,0.29
+Bathyraja,longicauda,-38.75,-74.25,5307:384:3,0.29
+Bathyraja,longicauda,-32.25,-71.75,5307:121:2,0.58
+Bathyraja,longicauda,-32.75,-71.25,5307:121:3,0.50
+Bathyraja,longicauda,-32.75,-71.75,5307:121:4,0.58
+Bathyraja,longicauda,-35.75,-73.75,5307:353:4,0.44
+Bathyraja,longicauda,-37.25,-73.75,5307:373:2,0.56
+Bathyraja,longicauda,-37.75,-73.25,5307:373:3,0.56
+Bathyraja,longicauda,-33.25,-71.75,5307:131:2,0.90
+Bathyraja,longicauda,-33.75,-71.75,5307:131:4,0.90
+Bathyraja,longicauda,-33.75,-72.25,5307:132:3,0.90
+Bathyraja,longicauda,-34.25,-71.75,5307:141:2,0.88
+Bathyraja,longicauda,-34.25,-72.25,5307:142:1,0.88
+Bathyraja,longicauda,-34.75,-72.25,5307:142:3,0.88
+Bathyraja,longicauda,-34.75,-72.75,5307:142:4,0.88
+Bathyraja,longicauda,-35.25,-72.25,5307:352:1,0.88
+Bathyraja,longicauda,-35.25,-72.75,5307:352:2,0.84
+Bathyraja,longicauda,-35.75,-72.75,5307:352:4,1.00
+Bathyraja,longicauda,-35.25,-73.25,5307:353:1,0.83
+Bathyraja,longicauda,-35.75,-73.25,5307:353:3,1.00
+Bathyraja,longicauda,-36.25,-72.75,5307:362:2,1.00
+Bathyraja,longicauda,-36.75,-72.75,5307:362:4,1.00
+Bathyraja,longicauda,-36.25,-73.25,5307:363:1,1.00
+Bathyraja,longicauda,-36.25,-73.75,5307:363:2,1.00
+Bathyraja,longicauda,-36.75,-73.25,5307:363:3,0.87
+Bathyraja,longicauda,-36.75,-73.75,5307:363:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Bathyraja,longicauda,-36.75,-73.25,5307:363:3,139,14.45,33.91,2647,0,19
+Bathyraja,longicauda,-36.25,-75.25,5307:465:1,4124,15,33.87,841,0,219
+Bathyraja,longicauda,-33.25,-71.75,5307:131:2,509,15.35,34.15,1918,0,17

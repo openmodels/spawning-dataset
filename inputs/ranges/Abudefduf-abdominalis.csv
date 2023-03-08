@@ -1,0 +1,115 @@
+Mapping parameters for Abudefduf abdominalis (Green damselfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 61 |  77,
+Bounding Box (NSWE): ,29,18,-178,-151
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,6,26,50
+Temperature (°C),1,23.04,24.18,25.56,29.76
+Salinity (psu),1,34.07,34.57,35.57,36.07
+Primary Production,1,191,222,307,358
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,3,19,165,227
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 54): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Abudefduf,abdominalis,22.75,-161.25,7216:121:3,0.17
+Abudefduf,abdominalis,23.25,-164.75,7216:134:2,0.17
+Abudefduf,abdominalis,24.75,-167.75,7216:247:4,0.10
+Abudefduf,abdominalis,20.75,-157.75,7215:207:4,0.29
+Abudefduf,abdominalis,25.75,-173.75,7217:353:4,0.25
+Abudefduf,abdominalis,26.25,-174.75,7217:364:2,0.21
+Abudefduf,abdominalis,23.75,-164.25,7216:134:3,0.54
+Abudefduf,abdominalis,25.25,-170.75,7217:350:2,0.57
+Abudefduf,abdominalis,27.75,-175.75,7217:475:4,0.55
+Abudefduf,abdominalis,21.25,-156.25,7215:216:1,0.62
+Abudefduf,abdominalis,25.25,-171.25,7217:351:1,0.77
+Abudefduf,abdominalis,25.25,-172.25,7217:352:1,0.68
+Abudefduf,abdominalis,19.25,-154.75,7115:394:2,1.00
+Abudefduf,abdominalis,19.75,-154.75,7115:394:4,1.00
+Abudefduf,abdominalis,18.75,-155.75,7115:485:4,0.99
+Abudefduf,abdominalis,19.25,-155.25,7115:495:1,1.00
+Abudefduf,abdominalis,19.25,-155.75,7115:495:2,1.00
+Abudefduf,abdominalis,19.75,-155.25,7115:495:3,1.00
+Abudefduf,abdominalis,19.75,-155.75,7115:495:4,1.00
+Abudefduf,abdominalis,20.25,-155.25,7215:205:1,1.00
+Abudefduf,abdominalis,20.25,-155.75,7215:205:2,1.00
+Abudefduf,abdominalis,20.75,-155.75,7215:205:4,1.00
+Abudefduf,abdominalis,20.75,-156.25,7215:206:3,1.00
+Abudefduf,abdominalis,21.25,-156.75,7215:216:2,1.00
+Abudefduf,abdominalis,21.25,-157.25,7215:217:1,1.00
+Abudefduf,abdominalis,21.25,-157.75,7215:217:2,1.00
+Abudefduf,abdominalis,21.75,-157.75,7215:217:4,1.00
+Abudefduf,abdominalis,21.25,-158.25,7215:218:1,1.00
+Abudefduf,abdominalis,21.75,-158.25,7215:218:3,1.00
+Abudefduf,abdominalis,21.75,-159.25,7215:219:3,0.94
+Abudefduf,abdominalis,21.75,-159.75,7215:219:4,1.00
+Abudefduf,abdominalis,22.25,-159.25,7215:229:1,1.00
+Abudefduf,abdominalis,22.25,-159.75,7215:229:2,1.00
+Abudefduf,abdominalis,21.75,-160.25,7216:110:3,1.00
+Abudefduf,abdominalis,22.25,-160.25,7216:120:1,0.97
+Abudefduf,abdominalis,22.75,-160.75,7216:120:4,1.00
+Abudefduf,abdominalis,22.75,-162.25,7216:122:3,1.00
+Abudefduf,abdominalis,23.25,-161.75,7216:131:2,1.00
+Abudefduf,abdominalis,23.25,-162.25,7216:132:1,1.00
+Abudefduf,abdominalis,23.25,-164.25,7216:134:1,1.00
+Abudefduf,abdominalis,23.75,-164.75,7216:134:4,1.00
+Abudefduf,abdominalis,24.25,-167.25,7216:247:1,1.00
+Abudefduf,abdominalis,24.75,-168.25,7216:248:3,1.00
+Abudefduf,abdominalis,25.25,-167.75,7216:457:2,1.00
+Abudefduf,abdominalis,25.25,-168.25,7216:458:1,1.00
+Abudefduf,abdominalis,25.75,-169.25,7216:459:3,1.00
+Abudefduf,abdominalis,25.25,-170.25,7217:350:1,0.97
+Abudefduf,abdominalis,25.75,-170.75,7217:350:4,1.00
+Abudefduf,abdominalis,25.75,-171.25,7217:351:3,1.00
+Abudefduf,abdominalis,25.75,-171.75,7217:351:4,1.00
+Abudefduf,abdominalis,25.75,-173.25,7217:353:3,1.00
+Abudefduf,abdominalis,26.25,-173.25,7217:363:1,1.00
+Abudefduf,abdominalis,26.25,-173.75,7217:363:2,1.00
+Abudefduf,abdominalis,26.25,-174.25,7217:364:1,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 25)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Abudefduf,abdominalis,18.75,-155.75,7115:485:4,3363,25.6,34.65,236,0,26
+Abudefduf,abdominalis,19.75,-155.25,7115:495:3,231,25.47,34.91,247,0,3
+Abudefduf,abdominalis,20.25,-155.25,7215:205:1,2178,25.26,34.91,247,0,23
+Abudefduf,abdominalis,20.25,-155.75,7215:205:2,663,25.26,34.91,245,0,19
+Abudefduf,abdominalis,20.75,-157.25,7215:207:3,2025,25.56,34.84,238,0,104
+Abudefduf,abdominalis,20.75,-156.75,7215:206:4,259,25.41,34.93,191,0,21
+Abudefduf,abdominalis,20.75,-156.25,7215:206:3,524,25.41,34.93,242,0,14
+Abudefduf,abdominalis,21.25,-158.25,7215:218:1,2368,25.38,34.88,239,0,24
+Abudefduf,abdominalis,21.25,-157.75,7215:217:2,404,25.26,34.88,253,0,22
+Abudefduf,abdominalis,21.25,-156.75,7215:216:2,1251,25.13,34.93,250,0,23
+Abudefduf,abdominalis,21.75,-160.25,7216:110:3,2059,25.56,34.97,222,0,25
+Abudefduf,abdominalis,21.75,-158.25,7215:218:3,1551,25.38,35,238,0,24
+Abudefduf,abdominalis,21.75,-157.75,7215:217:4,1866,25.26,34.88,248,0,23
+Abudefduf,abdominalis,22.25,-160.25,7216:120:1,3212,25.2,35.04,221,0,103
+Abudefduf,abdominalis,22.25,-159.25,7215:229:1,1985,25.11,35.02,231,0,21
+Abudefduf,abdominalis,23.75,-166.25,7216:236:3,1272,25.11,35.11,358,0,204
+Abudefduf,abdominalis,23.75,-164.75,7216:134:4,1932,25.01,35.11,253,0,25
+Abudefduf,abdominalis,24.75,-168.25,7216:248:3,1483,24.86,35.18,227,0,126
+Abudefduf,abdominalis,25.25,-170.75,7217:350:2,2174,24.5,35.24,329,0,165
+Abudefduf,abdominalis,25.75,-173.75,7217:353:4,2934,24.69,35.26,239,0,106
+Abudefduf,abdominalis,25.75,-171.75,7217:351:4,1723,24.55,35.25,250,0,25
+Abudefduf,abdominalis,26.25,-174.25,7217:364:1,2717,24.23,35.26,307,0,100
+Abudefduf,abdominalis,26.25,-173.75,7217:363:2,2165,24.18,35.26,231,0,25
+Abudefduf,abdominalis,27.75,-175.75,7217:475:4,2312,23.67,35.23,278,0,207
+Abudefduf,abdominalis,28.25,-177.25,7217:487:1,2463,23.04,35.2,282,0,24

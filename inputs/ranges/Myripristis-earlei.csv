@@ -1,0 +1,173 @@
+Mapping parameters for Myripristis earlei (Earle's soldierfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 77,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,10,12,24,37
+Temperature (°C),1,26.96,27.46,28.46,32.66
+Salinity (psu),1,34.61,35.11,36.11,36.61
+Primary Production,1,180.5,315.2,446.8,584.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,24.25,26,69.1999969482422,131
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 130): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Myripristis,earlei,-8.25,-161.75,5016:381:2,0.06
+Myripristis,earlei,-17.25,-138.25,5113:478:1,0.08
+Myripristis,earlei,-17.25,-141.25,5114:371:1,0.11
+Myripristis,earlei,-17.75,-142.25,5114:372:3,0.14
+Myripristis,earlei,-18.25,-140.75,5114:380:2,0.08
+Myripristis,earlei,-18.25,-141.25,5114:381:1,0.14
+Myripristis,earlei,-18.75,-141.75,5114:381:4,0.03
+Myripristis,earlei,-18.25,-142.25,5114:382:1,0.19
+Myripristis,earlei,-15.75,-148.25,5114:458:3,0.14
+Myripristis,earlei,-16.75,-149.75,5114:469:4,0.14
+Myripristis,earlei,-15.75,-154.25,5115:354:3,0.10
+Myripristis,earlei,-16.75,-150.75,5115:360:4,0.18
+Myripristis,earlei,-13.75,-171.25,5117:131:3,0.07
+Myripristis,earlei,-13.25,-172.25,5117:132:1,0.06
+Myripristis,earlei,-13.25,-172.75,5117:132:2,0.10
+Myripristis,earlei,-13.75,-172.75,5117:132:4,0.15
+Myripristis,earlei,-14.25,-170.75,5117:140:2,0.05
+Myripristis,earlei,6.25,-162.25,7016:362:1,0.16
+Myripristis,earlei,6.25,-162.75,7016:362:2,0.16
+Myripristis,earlei,6.75,-162.75,7016:362:4,0.14
+Myripristis,earlei,-9.25,-157.75,5015:497:2,0.37
+Myripristis,earlei,-8.75,-172.25,5017:382:3,0.20
+Myripristis,earlei,-9.25,-171.25,5017:391:1,0.26
+Myripristis,earlei,-9.25,-171.75,5017:391:2,0.30
+Myripristis,earlei,-14.75,-144.25,5114:144:3,0.29
+Myripristis,earlei,-14.25,-146.25,5114:246:1,0.38
+Myripristis,earlei,-14.75,-147.75,5114:247:4,0.31
+Myripristis,earlei,-14.75,-148.25,5114:248:3,0.29
+Myripristis,earlei,-14.75,-148.75,5114:248:4,0.27
+Myripristis,earlei,-15.75,-140.25,5114:350:3,0.26
+Myripristis,earlei,-15.75,-140.75,5114:350:4,0.23
+Myripristis,earlei,-15.75,-144.75,5114:354:4,0.31
+Myripristis,earlei,-16.25,-142.25,5114:362:1,0.36
+Myripristis,earlei,-16.25,-142.75,5114:362:2,0.22
+Myripristis,earlei,-17.75,-140.75,5114:370:4,0.33
+Myripristis,earlei,-17.25,-142.75,5114:372:2,0.28
+Myripristis,earlei,-17.75,-142.75,5114:372:4,0.30
+Myripristis,earlei,-17.75,-143.25,5114:373:3,0.20
+Myripristis,earlei,-15.25,-145.25,5114:455:1,0.27
+Myripristis,earlei,-15.25,-145.75,5114:455:2,0.27
+Myripristis,earlei,-15.25,-146.25,5114:456:1,0.33
+Myripristis,earlei,-16.25,-146.25,5114:466:1,0.24
+Myripristis,earlei,-16.75,-149.25,5114:469:3,0.24
+Myripristis,earlei,-17.25,-145.25,5114:475:1,0.26
+Myripristis,earlei,-17.25,-145.75,5114:475:2,0.20
+Myripristis,earlei,-17.25,-149.25,5114:479:1,0.27
+Myripristis,earlei,-17.25,-149.75,5114:479:2,0.23
+Myripristis,earlei,-17.75,-149.25,5114:479:3,0.38
+Myripristis,earlei,-17.75,-149.75,5114:479:4,0.20
+Myripristis,earlei,-11.25,-151.75,5115:111:2,0.37
+Myripristis,earlei,-16.25,-151.75,5115:361:2,0.35
+Myripristis,earlei,-16.75,-151.25,5115:361:3,0.29
+Myripristis,earlei,-16.75,-151.75,5115:361:4,0.27
+Myripristis,earlei,-16.25,-152.25,5115:362:1,0.31
+Myripristis,earlei,-16.75,-153.75,5115:363:4,0.28
+Myripristis,earlei,-16.25,-154.75,5115:364:2,0.35
+Myripristis,earlei,-16.75,-154.75,5115:364:4,0.27
+Myripristis,earlei,-17.75,-150.75,5115:370:4,0.22
+Myripristis,earlei,-10.25,-160.75,5116:100:2,0.39
+Myripristis,earlei,-10.25,-161.25,5116:101:1,0.35
+Myripristis,earlei,-11.25,-165.75,5116:215:2,0.34
+Myripristis,earlei,-11.25,-171.25,5117:111:1,0.23
+Myripristis,earlei,-13.75,-171.75,5117:131:4,0.24
+Myripristis,earlei,-13.75,-172.25,5117:132:3,0.30
+Myripristis,earlei,-14.25,-171.25,5117:141:1,0.23
+Myripristis,earlei,5.75,-162.25,7016:352:3,0.38
+Myripristis,earlei,-0.25,-159.75,5015:209:2,0.56
+Myripristis,earlei,-4.25,-171.25,5017:141:1,0.59
+Myripristis,earlei,-4.75,-174.25,5017:144:3,0.46
+Myripristis,earlei,-14.75,-138.75,5113:248:4,0.41
+Myripristis,earlei,-14.25,-141.25,5114:141:1,0.47
+Myripristis,earlei,-14.25,-144.75,5114:144:2,0.40
+Myripristis,earlei,-14.25,-145.25,5114:245:1,0.40
+Myripristis,earlei,-14.25,-145.75,5114:245:2,0.53
+Myripristis,earlei,-14.75,-145.25,5114:245:3,0.48
+Myripristis,earlei,-14.75,-146.25,5114:246:3,0.40
+Myripristis,earlei,-16.75,-142.75,5114:362:4,0.43
+Myripristis,earlei,-16.25,-143.25,5114:363:1,0.59
+Myripristis,earlei,-16.25,-143.75,5114:363:2,0.48
+Myripristis,earlei,-16.25,-144.75,5114:364:2,0.50
+Myripristis,earlei,-16.75,-144.25,5114:364:3,0.55
+Myripristis,earlei,-17.25,-144.25,5114:374:1,0.51
+Myripristis,earlei,-15.25,-146.75,5114:456:2,0.56
+Myripristis,earlei,-16.25,-145.25,5114:465:1,0.55
+Myripristis,earlei,-10.25,-152.25,5115:102:1,0.46
+Myripristis,earlei,-10.75,-165.75,5116:205:4,0.41
+Myripristis,earlei,4.75,-160.25,7016:140:3,0.54
+Myripristis,earlei,-9.75,-150.25,5015:390:3,0.72
+Myripristis,earlei,-5.75,-155.75,5015:455:4,0.65
+Myripristis,earlei,-3.75,-170.75,5017:130:4,0.70
+Myripristis,earlei,-3.25,-171.25,5017:131:1,0.75
+Myripristis,earlei,-3.75,-171.25,5017:131:3,0.71
+Myripristis,earlei,-3.75,-174.25,5017:134:3,0.60
+Myripristis,earlei,-4.25,-172.25,5017:142:1,0.61
+Myripristis,earlei,-15.75,-142.25,5114:352:3,0.74
+Myripristis,earlei,-16.75,-143.25,5114:363:3,0.74
+Myripristis,earlei,-16.75,-143.75,5114:363:4,0.74
+Myripristis,earlei,-16.25,-144.25,5114:364:1,0.69
+Myripristis,earlei,-17.25,-143.25,5114:373:1,0.61
+Myripristis,earlei,-15.75,-145.25,5114:455:3,0.73
+Myripristis,earlei,-15.25,-147.25,5114:457:1,0.75
+Myripristis,earlei,3.75,-159.25,7015:239:3,0.78
+Myripristis,earlei,-8.75,-139.25,5013:489:3,1.00
+Myripristis,earlei,-8.75,-139.75,5013:489:4,1.00
+Myripristis,earlei,-9.75,-138.75,5013:498:4,0.93
+Myripristis,earlei,-9.25,-139.75,5013:499:2,1.00
+Myripristis,earlei,-9.75,-139.25,5013:499:3,1.00
+Myripristis,earlei,-7.75,-140.25,5014:370:3,1.00
+Myripristis,earlei,-7.75,-140.75,5014:370:4,1.00
+Myripristis,earlei,-8.25,-140.75,5014:380:2,1.00
+Myripristis,earlei,-8.75,-140.25,5014:380:3,1.00
+Myripristis,earlei,-8.75,-140.75,5014:380:4,1.00
+Myripristis,earlei,-9.25,-140.25,5014:390:1,1.00
+Myripristis,earlei,-3.75,-154.75,5015:134:4,0.81
+Myripristis,earlei,-8.75,-157.75,5015:487:4,0.80
+Myripristis,earlei,-2.75,-171.75,5017:121:4,0.92
+Myripristis,earlei,-10.25,-138.75,5113:208:2,1.00
+Myripristis,earlei,-10.75,-138.75,5113:208:4,1.00
+Myripristis,earlei,-16.75,-144.75,5114:364:4,0.82
+Myripristis,earlei,-15.75,-145.75,5114:455:4,0.96
+Myripristis,earlei,-15.75,-146.25,5114:456:3,1.00
+Myripristis,earlei,-15.75,-146.75,5114:456:4,1.00
+Myripristis,earlei,-15.25,-147.75,5114:457:2,1.00
+Myripristis,earlei,-15.25,-148.25,5114:458:1,0.99
+Myripristis,earlei,-16.25,-145.75,5114:465:2,0.90
+Myripristis,earlei,-16.75,-145.25,5114:465:3,0.90
+Myripristis,earlei,-13.25,-163.25,5116:133:1,0.86
+Myripristis,earlei,1.75,-157.25,7015:217:3,0.80
+Myripristis,earlei,1.75,-157.75,7015:217:4,0.80
+Myripristis,earlei,2.25,-157.25,7015:227:1,0.90
+
+
+Occurrence cells used for creating environmental envelope (n = 7)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Myripristis,earlei,-15.75,-146.75,5114:456:4,556,28.04,36.07,320,0,131
+Myripristis,earlei,-10.25,-138.75,5113:208:2,2396,28.04,35.84,426,0,27
+Myripristis,earlei,-9.75,-138.75,5013:498:4,1584,28,35.68,457,0,26
+Myripristis,earlei,-8.75,-140.25,5014:380:3,1969,28.05,35.5,440,0,26
+Myripristis,earlei,-7.75,-140.75,5014:370:4,2203,27.88,35.38,344,0,27
+Myripristis,earlei,-2.75,-171.75,5017:121:4,3426,28.56,35.47,308,0,28
+Myripristis,earlei,1.75,-157.25,7015:217:3,1162,27.36,35.15,411,0,28

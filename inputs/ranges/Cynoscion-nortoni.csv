@@ -1,0 +1,44 @@
+Mapping parameters for Cynoscion nortoni (hake weakfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,0,-5,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,100,110,150,200
+Temperature (°C),1,23.52,24.46,25.71,29.91
+Salinity (psu),1,32.88,33.38,33.68,34.18
+Primary Production,1,285.75,676.2,1109,1367.75
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,16,17.8,123.400001525879,185.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 5): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Cynoscion,nortoni,-1.25,-80.75,5008:110:2,0.31
+Cynoscion,nortoni,-1.25,-81.25,5008:111:1,0.38
+Cynoscion,nortoni,-1.75,-81.25,5008:111:3,0.38
+Cynoscion,nortoni,-1.75,-80.75,5008:110:4,0.45
+Cynoscion,nortoni,-0.75,-80.75,5008:100:4,0.96
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Cynoscion,nortoni,-1.75,-80.75,5008:110:4,72,24.31,33.75,1207,0,16
+Cynoscion,nortoni,-0.75,-81.75,5008:101:4,1507,25.08,33.38,666,0,148
+Cynoscion,nortoni,-0.75,-80.75,5008:100:4,216,25.87,33.38,717,0,25

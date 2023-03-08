@@ -1,0 +1,172 @@
+Mapping parameters for Spicara axillaris ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 47 |  51,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,20,35,88,160
+Temperature (°C),1,16.31,18.01,21.46,23.94
+Salinity (psu),1,34.84,35.34,35.39,35.89
+Primary Production,1,295,772,1752,2521
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,0,8,150,235
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 99): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Spicara,axillaris,-14.25,12.25,3101:142:1,0.06
+Spicara,axillaris,-14.75,12.25,3101:142:3,0.06
+Spicara,axillaris,-15.75,11.75,3101:351:4,0.05
+Spicara,axillaris,-15.25,12.25,3101:352:1,0.11
+Spicara,axillaris,-15.75,12.25,3101:352:3,0.09
+Spicara,axillaris,-16.25,11.75,3101:361:2,0.02
+Spicara,axillaris,-16.75,11.25,3101:361:3,0.19
+Spicara,axillaris,-16.75,11.75,3101:361:4,0.09
+Spicara,axillaris,-18.25,11.75,3101:381:2,0.03
+Spicara,axillaris,-21.75,13.25,3201:113:3,0.08
+Spicara,axillaris,-29.25,15.25,3201:495:1,0.02
+Spicara,axillaris,-29.75,15.25,3201:495:3,0.08
+Spicara,axillaris,-30.75,16.25,3301:206:3,0.05
+Spicara,axillaris,-30.75,16.75,3301:206:4,0.01
+Spicara,axillaris,-32.25,18.25,3301:228:1,0.09
+Spicara,axillaris,-32.75,18.25,3301:228:3,0.11
+Spicara,axillaris,-33.75,17.75,3301:237:4,0.08
+Spicara,axillaris,-34.25,18.75,3301:248:2,0.08
+Spicara,axillaris,-30.25,30.75,3303:100:2,0.15
+Spicara,axillaris,-30.75,30.25,3303:100:3,0.14
+Spicara,axillaris,-30.75,30.75,3303:100:4,0.15
+Spicara,axillaris,-30.25,31.25,3303:101:1,0.13
+Spicara,axillaris,-33.25,43.75,3304:133:2,0.03
+Spicara,axillaris,-35.75,53.25,3305:353:3,0.02
+Spicara,axillaris,-18.75,11.75,3101:381:4,0.28
+Spicara,axillaris,-18.75,12.25,3101:382:3,0.26
+Spicara,axillaris,-19.25,12.25,3101:392:1,0.33
+Spicara,axillaris,-19.75,12.25,3101:392:3,0.22
+Spicara,axillaris,-28.25,14.75,3201:384:2,0.25
+Spicara,axillaris,-28.75,14.75,3201:384:4,0.24
+Spicara,axillaris,-30.75,15.75,3301:205:4,0.34
+Spicara,axillaris,-33.25,17.75,3301:237:2,0.23
+Spicara,axillaris,-34.25,19.25,3301:249:1,0.31
+Spicara,axillaris,-31.25,29.75,3302:219:2,0.33
+Spicara,axillaris,-31.75,29.25,3302:219:3,0.35
+Spicara,axillaris,-31.75,29.75,3302:219:4,0.33
+Spicara,axillaris,-31.25,30.25,3303:110:1,0.29
+Spicara,axillaris,-29.25,14.75,3201:394:2,0.42
+Spicara,axillaris,-33.25,18.25,3301:238:1,0.43
+Spicara,axillaris,-34.25,18.25,3301:248:1,0.47
+Spicara,axillaris,-34.75,18.75,3301:248:4,0.44
+Spicara,axillaris,-35.75,19.75,3301:459:4,0.50
+Spicara,axillaris,-32.25,28.75,3302:228:2,0.56
+Spicara,axillaris,-32.75,28.25,3302:228:3,0.56
+Spicara,axillaris,-32.75,28.75,3302:228:4,0.56
+Spicara,axillaris,-32.25,29.25,3302:229:1,0.52
+Spicara,axillaris,-34.75,25.25,3302:245:3,0.42
+Spicara,axillaris,-36.75,20.75,3302:360:4,0.55
+Spicara,axillaris,-34.75,19.25,3301:249:3,0.72
+Spicara,axillaris,-34.75,19.75,3301:249:4,0.72
+Spicara,axillaris,-35.25,19.25,3301:459:1,0.63
+Spicara,axillaris,-34.75,24.25,3302:144:3,0.71
+Spicara,axillaris,-33.75,27.25,3302:237:3,0.79
+Spicara,axillaris,-33.75,27.75,3302:237:4,0.73
+Spicara,axillaris,-33.25,28.25,3302:238:1,0.75
+Spicara,axillaris,-36.25,20.25,3302:360:1,0.73
+Spicara,axillaris,-35.25,19.75,3301:459:2,0.94
+Spicara,axillaris,-33.75,23.75,3302:133:4,1.00
+Spicara,axillaris,-33.75,24.75,3302:134:4,1.00
+Spicara,axillaris,-34.25,20.25,3302:140:1,0.87
+Spicara,axillaris,-34.25,20.75,3302:140:2,1.00
+Spicara,axillaris,-34.75,20.25,3302:140:3,1.00
+Spicara,axillaris,-34.75,20.75,3302:140:4,1.00
+Spicara,axillaris,-34.25,21.25,3302:141:1,1.00
+Spicara,axillaris,-34.25,21.75,3302:141:2,1.00
+Spicara,axillaris,-34.75,21.25,3302:141:3,1.00
+Spicara,axillaris,-34.75,21.75,3302:141:4,1.00
+Spicara,axillaris,-34.25,22.25,3302:142:1,1.00
+Spicara,axillaris,-34.25,22.75,3302:142:2,1.00
+Spicara,axillaris,-34.75,22.25,3302:142:3,1.00
+Spicara,axillaris,-34.75,22.75,3302:142:4,0.96
+Spicara,axillaris,-34.25,23.25,3302:143:1,1.00
+Spicara,axillaris,-34.25,23.75,3302:143:2,1.00
+Spicara,axillaris,-34.75,23.25,3302:143:3,1.00
+Spicara,axillaris,-34.75,23.75,3302:143:4,1.00
+Spicara,axillaris,-34.25,24.25,3302:144:1,1.00
+Spicara,axillaris,-34.25,24.75,3302:144:2,1.00
+Spicara,axillaris,-34.75,24.75,3302:144:4,1.00
+Spicara,axillaris,-33.75,25.25,3302:235:3,1.00
+Spicara,axillaris,-33.75,25.75,3302:235:4,1.00
+Spicara,axillaris,-33.75,26.25,3302:236:3,0.83
+Spicara,axillaris,-33.75,26.75,3302:236:4,0.83
+Spicara,axillaris,-33.25,27.25,3302:237:1,0.81
+Spicara,axillaris,-33.25,27.75,3302:237:2,0.81
+Spicara,axillaris,-34.25,25.25,3302:245:1,1.00
+Spicara,axillaris,-34.25,25.75,3302:245:2,1.00
+Spicara,axillaris,-34.25,26.25,3302:246:1,0.98
+Spicara,axillaris,-34.25,26.75,3302:246:2,0.83
+Spicara,axillaris,-35.25,20.25,3302:350:1,1.00
+Spicara,axillaris,-35.25,20.75,3302:350:2,1.00
+Spicara,axillaris,-35.75,20.75,3302:350:4,1.00
+Spicara,axillaris,-35.25,21.25,3302:351:1,1.00
+Spicara,axillaris,-35.25,21.75,3302:351:2,1.00
+Spicara,axillaris,-35.75,21.25,3302:351:3,1.00
+Spicara,axillaris,-35.75,21.75,3302:351:4,1.00
+Spicara,axillaris,-35.25,22.25,3302:352:1,1.00
+Spicara,axillaris,-35.25,22.75,3302:352:2,1.00
+Spicara,axillaris,-35.75,22.25,3302:352:3,1.00
+Spicara,axillaris,-36.25,21.75,3302:361:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 37)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Spicara,axillaris,-36.25,21.25,3302:361:1,150,19.89,35.39,295,0,235
+Spicara,axillaris,-35.75,21.25,3302:351:3,127,19.17,35.37,815,0,189
+Spicara,axillaris,-35.75,20.75,3302:350:4,127,18.59,35.34,817,0,165
+Spicara,axillaris,-35.75,20.25,3302:350:3,161,18.59,35.34,297,0,150
+Spicara,axillaris,-35.75,19.75,3301:459:4,257,18.11,35.31,760,0,144
+Spicara,axillaris,-35.25,21.75,3302:351:2,264,19.17,35.36,1273,0,144
+Spicara,axillaris,-35.25,21.25,3302:351:1,98,19.17,35.36,1173,0,144
+Spicara,axillaris,-35.25,20.75,3302:350:2,89,18.59,35.34,1109,0,117
+Spicara,axillaris,-35.25,20.25,3302:350:1,133,18.59,35.34,924,0,98
+Spicara,axillaris,-35.25,19.75,3301:459:2,155,18.11,35.31,772,0,89
+Spicara,axillaris,-35.25,19.25,3301:459:1,201,18.11,35.31,985,0,98
+Spicara,axillaris,-35.25,22.25,3302:352:1,421,19.75,35.38,1204,0,144
+Spicara,axillaris,-34.75,23.25,3302:143:3,156,20.11,35.38,1369,0,101
+Spicara,axillaris,-34.75,22.75,3302:142:4,124,19.35,35.38,1315,0,97
+Spicara,axillaris,-34.75,22.25,3302:142:3,99,19.35,35.38,1406,0,88
+Spicara,axillaris,-34.75,21.75,3302:141:4,74,18.63,35.36,1481,0,88
+Spicara,axillaris,-34.75,21.25,3302:141:3,67,18.63,35.36,1104,0,88
+Spicara,axillaris,-34.75,20.75,3302:140:4,56,18.01,35.34,1147,0,84
+Spicara,axillaris,-34.75,20.25,3302:140:3,52,18.01,35.34,1362,0,17
+Spicara,axillaris,-34.25,25.75,3302:245:2,187,21.31,35.36,1333,0,88
+Spicara,axillaris,-34.25,25.25,3302:245:1,117,21.31,35.36,1418,0,85
+Spicara,axillaris,-34.25,24.75,3302:144:2,94,20.97,35.36,1473,0,18
+Spicara,axillaris,-34.25,24.25,3302:144:1,115,20.97,35.36,1264,0,21
+Spicara,axillaris,-34.25,23.75,3302:143:2,138,20.11,35.38,1538,0,49
+Spicara,axillaris,-34.25,23.25,3302:143:1,114,20.11,35.38,1739,0,22
+Spicara,axillaris,-34.25,22.75,3302:142:2,106,19.35,35.38,1716,0,23
+Spicara,axillaris,-34.25,22.25,3302:142:1,74,19.35,35.38,1722,0,20
+Spicara,axillaris,-34.25,21.75,3302:141:2,13,18.63,35.36,1649,0,8
+Spicara,axillaris,-34.25,21.25,3302:141:1,16,18.63,35.36,1572,0,7
+Spicara,axillaris,-34.25,20.25,3302:140:1,101,18.01,35.34,1852,0,0
+Spicara,axillaris,-34.25,18.25,3301:248:1,202,17.47,35.47,1887,0,21
+Spicara,axillaris,-33.75,18.25,3301:238:3,96,17.06,35.4,2521,0,21
+Spicara,axillaris,-33.75,26.75,3302:236:4,66,21.88,35.38,1596,0,17
+Spicara,axillaris,-33.75,26.25,3302:236:3,47,21.88,35.38,1752,0,14
+Spicara,axillaris,-33.75,25.25,3302:235:3,141,21.46,35.36,1452,0,2
+Spicara,axillaris,-33.25,18.25,3301:238:1,34,17.06,35.4,1258,0,10
+Spicara,axillaris,-29.25,31.75,3203:391:2,74,23.94,35.34,1236,0,22

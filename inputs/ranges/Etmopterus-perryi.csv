@@ -1,0 +1,239 @@
+Mapping parameters for Etmopterus perryi (Dwarf lantern shark)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 31,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: True,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,283,299,358,439
+Temperature (°C),1,3.69,4.19,12.76,16.84
+Salinity (psu),1,34.17,34.67,35.67,36.17
+Primary Production,1,607,642,1454.5,2383.625
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,10,15.5,130.5,246.125
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 197): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Etmopterus,perryi,3.75,-48.75,7004:238:4,0.09
+Etmopterus,perryi,7.25,-55.75,7005:475:2,0.11
+Etmopterus,perryi,7.75,-55.25,7005:475:3,0.14
+Etmopterus,perryi,7.75,-55.75,7005:475:4,0.14
+Etmopterus,perryi,8.75,-77.25,7007:487:3,0.18
+Etmopterus,perryi,10.75,-66.75,7106:206:4,0.01
+Etmopterus,perryi,11.25,-73.75,7107:113:2,0.18
+Etmopterus,perryi,10.25,-76.25,7107:206:1,0.09
+Etmopterus,perryi,17.25,-87.75,7108:477:2,0.02
+Etmopterus,perryi,17.75,-87.75,7108:477:4,0.14
+Etmopterus,perryi,19.25,-93.25,7109:393:1,0.09
+Etmopterus,perryi,25.75,-77.75,7207:457:4,0.08
+Etmopterus,perryi,25.75,-79.25,7207:459:3,0.02
+Etmopterus,perryi,28.75,-89.25,7208:489:3,0.06
+Etmopterus,perryi,28.25,-90.25,7209:380:1,0.18
+Etmopterus,perryi,32.25,-77.75,7307:227:2,0.15
+Etmopterus,perryi,32.75,-77.75,7307:227:4,0.18
+Etmopterus,perryi,37.25,-74.75,7307:374:2,0.07
+Etmopterus,perryi,38.75,-72.75,7307:382:4,0.16
+Etmopterus,perryi,39.75,-71.25,7307:391:3,0.18
+Etmopterus,perryi,42.75,-61.75,7406:121:4,0.04
+Etmopterus,perryi,40.25,-67.75,7406:207:2,0.16
+Etmopterus,perryi,3.25,-48.25,7004:238:1,0.23
+Etmopterus,perryi,8.75,-53.75,7005:383:4,0.36
+Etmopterus,perryi,8.25,-54.75,7005:384:2,0.26
+Etmopterus,perryi,7.75,-56.25,7005:476:3,0.31
+Etmopterus,perryi,12.75,-61.75,7106:121:4,0.20
+Etmopterus,perryi,13.25,-64.75,7106:134:2,0.20
+Etmopterus,perryi,11.75,-66.25,7106:216:3,0.20
+Etmopterus,perryi,18.75,-93.75,7109:383:4,0.32
+Etmopterus,perryi,26.75,-77.75,7207:467:4,0.20
+Etmopterus,perryi,23.25,-80.25,7208:130:1,0.34
+Etmopterus,perryi,23.25,-80.75,7208:130:2,0.34
+Etmopterus,perryi,29.75,-86.75,7208:496:4,0.29
+Etmopterus,perryi,32.75,-77.25,7307:227:3,0.32
+Etmopterus,perryi,33.25,-76.75,7307:236:2,0.28
+Etmopterus,perryi,37.75,-73.75,7307:373:4,0.32
+Etmopterus,perryi,42.75,-62.25,7406:122:3,0.38
+Etmopterus,perryi,42.75,-62.75,7406:122:4,0.32
+Etmopterus,perryi,42.25,-64.75,7406:124:2,0.22
+Etmopterus,perryi,5.25,-50.25,7005:350:1,0.54
+Etmopterus,perryi,6.25,-51.75,7005:361:2,0.54
+Etmopterus,perryi,6.25,-52.25,7005:362:1,0.53
+Etmopterus,perryi,9.25,-77.25,7007:497:1,0.57
+Etmopterus,perryi,10.25,-64.25,7106:104:1,0.50
+Etmopterus,perryi,13.25,-63.75,7106:133:2,0.48
+Etmopterus,perryi,23.25,-82.25,7208:132:1,0.51
+Etmopterus,perryi,28.75,-87.75,7208:487:4,0.57
+Etmopterus,perryi,29.25,-86.25,7208:496:1,0.56
+Etmopterus,perryi,37.25,-74.25,7307:374:1,0.48
+Etmopterus,perryi,39.75,-71.75,7307:391:4,0.46
+Etmopterus,perryi,42.75,-63.25,7406:123:3,0.52
+Etmopterus,perryi,5.75,-51.25,7005:351:3,0.72
+Etmopterus,perryi,7.25,-56.25,7005:476:1,0.65
+Etmopterus,perryi,11.75,-60.25,7106:110:3,0.72
+Etmopterus,perryi,12.75,-65.25,7106:225:3,0.77
+Etmopterus,perryi,11.75,-74.75,7107:114:4,0.78
+Etmopterus,perryi,22.25,-77.25,7207:227:1,0.74
+Etmopterus,perryi,21.75,-81.75,7208:111:4,0.60
+Etmopterus,perryi,31.75,-79.25,7307:219:3,0.64
+Etmopterus,perryi,47.25,-43.75,7404:373:2,0.78
+Etmopterus,perryi,40.75,-66.75,7406:206:4,0.70
+Etmopterus,perryi,41.75,-65.75,7406:215:4,0.60
+Etmopterus,perryi,4.25,-49.25,7004:249:1,0.81
+Etmopterus,perryi,4.25,-49.75,7004:249:2,1.00
+Etmopterus,perryi,4.75,-50.25,7005:140:3,1.00
+Etmopterus,perryi,5.25,-50.75,7005:350:2,1.00
+Etmopterus,perryi,6.75,-52.25,7005:362:3,0.94
+Etmopterus,perryi,7.25,-52.75,7005:372:2,0.81
+Etmopterus,perryi,7.75,-52.75,7005:372:4,1.00
+Etmopterus,perryi,7.25,-53.25,7005:373:1,1.00
+Etmopterus,perryi,7.75,-53.25,7005:373:3,1.00
+Etmopterus,perryi,7.75,-53.75,7005:373:4,0.88
+Etmopterus,perryi,7.75,-54.25,7005:374:3,1.00
+Etmopterus,perryi,7.75,-54.75,7005:374:4,1.00
+Etmopterus,perryi,8.25,-53.25,7005:383:1,1.00
+Etmopterus,perryi,8.25,-53.75,7005:383:2,1.00
+Etmopterus,perryi,8.25,-54.25,7005:384:1,1.00
+Etmopterus,perryi,8.75,-54.25,7005:384:3,1.00
+Etmopterus,perryi,8.25,-58.25,7005:488:1,1.00
+Etmopterus,perryi,8.75,-58.75,7005:488:4,1.00
+Etmopterus,perryi,9.75,-59.75,7005:499:4,1.00
+Etmopterus,perryi,9.25,-76.75,7007:496:2,1.00
+Etmopterus,perryi,9.75,-76.25,7007:496:3,1.00
+Etmopterus,perryi,9.25,-77.75,7007:497:2,1.00
+Etmopterus,perryi,9.75,-78.75,7007:498:4,1.00
+Etmopterus,perryi,9.75,-79.25,7007:499:3,1.00
+Etmopterus,perryi,9.75,-79.75,7007:499:4,1.00
+Etmopterus,perryi,9.25,-80.75,7008:390:2,1.00
+Etmopterus,perryi,9.25,-81.25,7008:391:1,1.00
+Etmopterus,perryi,9.25,-81.75,7008:391:2,1.00
+Etmopterus,perryi,9.75,-82.25,7008:392:3,1.00
+Etmopterus,perryi,9.75,-82.75,7008:392:4,1.00
+Etmopterus,perryi,10.75,-60.25,7106:100:3,1.00
+Etmopterus,perryi,10.75,-64.25,7106:104:3,1.00
+Etmopterus,perryi,10.75,-64.75,7106:104:4,1.00
+Etmopterus,perryi,11.25,-60.25,7106:110:1,1.00
+Etmopterus,perryi,11.25,-60.75,7106:110:2,0.94
+Etmopterus,perryi,11.75,-60.75,7106:110:4,1.00
+Etmopterus,perryi,11.75,-61.25,7106:111:3,1.00
+Etmopterus,perryi,11.75,-61.75,7106:111:4,1.00
+Etmopterus,perryi,11.75,-62.25,7106:112:3,1.00
+Etmopterus,perryi,11.75,-62.75,7106:112:4,1.00
+Etmopterus,perryi,11.75,-63.25,7106:113:3,0.91
+Etmopterus,perryi,11.75,-63.75,7106:113:4,1.00
+Etmopterus,perryi,11.25,-64.75,7106:114:2,1.00
+Etmopterus,perryi,11.75,-64.25,7106:114:3,1.00
+Etmopterus,perryi,11.75,-64.75,7106:114:4,1.00
+Etmopterus,perryi,12.25,-61.25,7106:121:1,1.00
+Etmopterus,perryi,12.25,-61.75,7106:121:2,0.98
+Etmopterus,perryi,12.25,-62.25,7106:122:1,1.00
+Etmopterus,perryi,12.25,-62.75,7106:122:2,1.00
+Etmopterus,perryi,12.75,-62.25,7106:122:3,1.00
+Etmopterus,perryi,12.75,-62.75,7106:122:4,1.00
+Etmopterus,perryi,12.25,-63.25,7106:123:1,0.88
+Etmopterus,perryi,12.25,-63.75,7106:123:2,1.00
+Etmopterus,perryi,12.75,-63.25,7106:123:3,0.90
+Etmopterus,perryi,12.75,-63.75,7106:123:4,0.86
+Etmopterus,perryi,12.25,-64.25,7106:124:1,0.84
+Etmopterus,perryi,12.25,-64.75,7106:124:2,0.92
+Etmopterus,perryi,12.75,-64.25,7106:124:3,0.92
+Etmopterus,perryi,12.75,-64.75,7106:124:4,1.00
+Etmopterus,perryi,13.25,-62.25,7106:132:1,0.94
+Etmopterus,perryi,13.25,-62.75,7106:132:2,0.94
+Etmopterus,perryi,13.25,-63.25,7106:133:1,1.00
+Etmopterus,perryi,13.25,-64.25,7106:134:1,0.92
+Etmopterus,perryi,10.75,-65.25,7106:205:3,1.00
+Etmopterus,perryi,10.75,-65.75,7106:205:4,1.00
+Etmopterus,perryi,11.25,-65.25,7106:215:1,1.00
+Etmopterus,perryi,11.75,-65.25,7106:215:3,0.90
+Etmopterus,perryi,11.75,-66.75,7106:216:4,1.00
+Etmopterus,perryi,11.75,-69.25,7106:219:3,1.00
+Etmopterus,perryi,12.25,-65.25,7106:225:1,1.00
+Etmopterus,perryi,11.75,-73.25,7107:113:3,1.00
+Etmopterus,perryi,11.75,-73.75,7107:113:4,1.00
+Etmopterus,perryi,11.25,-74.25,7107:114:1,1.00
+Etmopterus,perryi,11.25,-74.75,7107:114:2,0.91
+Etmopterus,perryi,11.75,-74.25,7107:114:3,1.00
+Etmopterus,perryi,12.75,-71.75,7107:121:4,1.00
+Etmopterus,perryi,12.25,-72.75,7107:122:2,1.00
+Etmopterus,perryi,10.25,-75.75,7107:205:2,0.86
+Etmopterus,perryi,10.75,-75.75,7107:205:4,1.00
+Etmopterus,perryi,11.25,-75.25,7107:215:1,1.00
+Etmopterus,perryi,11.25,-75.75,7107:215:2,0.80
+Etmopterus,perryi,11.75,-75.25,7107:215:3,0.88
+Etmopterus,perryi,10.25,-83.25,7108:103:1,0.98
+Etmopterus,perryi,16.25,-84.25,7108:364:1,0.94
+Etmopterus,perryi,15.75,-88.25,7108:458:3,0.85
+Etmopterus,perryi,16.25,-87.75,7108:467:2,0.86
+Etmopterus,perryi,16.25,-88.25,7108:468:1,0.85
+Etmopterus,perryi,18.25,-87.75,7108:487:2,1.00
+Etmopterus,perryi,18.75,-94.25,7109:384:3,0.86
+Etmopterus,perryi,18.75,-94.75,7109:384:4,1.00
+Etmopterus,perryi,19.25,-95.75,7109:495:2,0.83
+Etmopterus,perryi,21.25,-79.75,7207:219:2,0.96
+Etmopterus,perryi,23.75,-77.25,7207:237:3,1.00
+Etmopterus,perryi,24.75,-77.25,7207:247:3,1.00
+Etmopterus,perryi,24.25,-79.25,7207:249:1,0.83
+Etmopterus,perryi,24.75,-79.25,7207:249:3,1.00
+Etmopterus,perryi,25.25,-77.75,7207:457:2,1.00
+Etmopterus,perryi,25.25,-79.25,7207:459:1,1.00
+Etmopterus,perryi,26.25,-77.75,7207:467:2,1.00
+Etmopterus,perryi,26.75,-79.25,7207:469:3,1.00
+Etmopterus,perryi,27.25,-77.75,7207:477:2,0.83
+Etmopterus,perryi,27.25,-79.25,7207:479:1,0.96
+Etmopterus,perryi,21.75,-81.25,7208:111:3,0.89
+Etmopterus,perryi,21.75,-83.25,7208:113:3,1.00
+Etmopterus,perryi,21.75,-83.75,7208:113:4,0.84
+Etmopterus,perryi,24.75,-80.25,7208:140:3,0.97
+Etmopterus,perryi,28.25,-88.25,7208:488:1,1.00
+Etmopterus,perryi,28.25,-88.75,7208:488:2,1.00
+Etmopterus,perryi,28.75,-88.25,7208:488:3,1.00
+Etmopterus,perryi,28.75,-88.75,7208:488:4,0.90
+Etmopterus,perryi,28.25,-89.25,7208:489:1,1.00
+Etmopterus,perryi,28.25,-89.75,7208:489:2,1.00
+Etmopterus,perryi,29.25,-87.75,7208:497:2,1.00
+Etmopterus,perryi,29.25,-88.25,7208:498:1,1.00
+Etmopterus,perryi,32.25,-78.25,7307:228:1,1.00
+Etmopterus,perryi,32.25,-78.75,7307:228:2,0.88
+Etmopterus,perryi,35.75,-74.75,7307:354:4,1.00
+Etmopterus,perryi,36.25,-74.75,7307:364:2,1.00
+Etmopterus,perryi,36.75,-74.75,7307:364:4,1.00
+Etmopterus,perryi,37.75,-74.25,7307:374:3,1.00
+Etmopterus,perryi,38.25,-73.75,7307:383:2,1.00
+Etmopterus,perryi,38.75,-73.25,7307:383:3,1.00
+Etmopterus,perryi,39.25,-72.75,7307:392:2,1.00
+Etmopterus,perryi,39.75,-72.25,7307:392:3,1.00
+Etmopterus,perryi,46.75,-44.25,7404:364:3,1.00
+Etmopterus,perryi,47.25,-44.25,7404:374:1,1.00
+Etmopterus,perryi,40.75,-67.25,7406:207:3,1.00
+Etmopterus,perryi,40.25,-68.75,7406:208:2,1.00
+Etmopterus,perryi,40.25,-69.25,7406:209:1,0.83
+Etmopterus,perryi,40.25,-69.75,7406:209:2,0.87
+Etmopterus,perryi,41.25,-66.25,7406:216:1,1.00
+Etmopterus,perryi,40.25,-70.25,7407:100:1,1.00
+Etmopterus,perryi,40.25,-70.75,7407:100:2,1.00
+Etmopterus,perryi,40.25,-71.25,7407:101:1,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Etmopterus,perryi,11.25,-73.75,7107:113:2,265,27.09,35.22,1094,0,10
+Etmopterus,perryi,11.25,-75.75,7107:215:2,2159,27.6,35.47,677,0,129
+Etmopterus,perryi,11.25,-74.25,7107:114:1,415,27.25,35.22,1457,0,21
+Etmopterus,perryi,11.75,-65.75,7106:215:4,1395,26.98,36.11,607,0,109
+Etmopterus,perryi,11.75,-62.75,7106:112:4,906,27.38,34.43,1452,0,132
+Etmopterus,perryi,12.75,-71.75,7107:121:4,701,27.05,35.83,696,0,110

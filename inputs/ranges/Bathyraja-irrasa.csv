@@ -1,0 +1,99 @@
+Mapping parameters for Bathyraja irrasa (Kerguelen sandpaper skate)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas:  58 ,
+Bounding Box (NSWE): ,-48,-51,60,80
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,565,644,855,1218
+Temperature (°C),1,1.38,1.88,2.23,2.73
+Salinity (psu),1,33.64,34.14,34.92,35.42
+Primary Production (mgC·m-3·day-1) ,1,1.04,2.11,4.11,5.11
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),1,192.28,211.29,245.35,258.78
+Distance to Land (km),0,5.875,94.6,178.5,256.875
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 59): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Bathyraja,irrasa,-50.25,64.25,3506:104:1,0.12
+Bathyraja,irrasa,-49.75,73.75,3407:393:4,0.19
+Bathyraja,irrasa,-48.75,72.25,3407:382:3,0.03
+Bathyraja,irrasa,-49.75,65.75,3406:495:4,0.18
+Bathyraja,irrasa,-48.75,67.25,3406:487:3,0.10
+Bathyraja,irrasa,-48.25,67.25,3406:487:1,0.10
+Bathyraja,irrasa,-50.25,72.75,3507:102:2,0.22
+Bathyraja,irrasa,-50.25,72.25,3507:102:1,0.33
+Bathyraja,irrasa,-50.25,69.25,3506:209:1,0.32
+Bathyraja,irrasa,-50.25,67.75,3506:207:2,0.29
+Bathyraja,irrasa,-49.25,72.25,3407:392:1,0.25
+Bathyraja,irrasa,-48.75,71.75,3407:381:4,0.27
+Bathyraja,irrasa,-48.25,71.75,3407:381:2,0.28
+Bathyraja,irrasa,-50.25,68.75,3506:208:2,0.57
+Bathyraja,irrasa,-50.25,63.75,3506:103:2,0.56
+Bathyraja,irrasa,-49.75,67.25,3406:497:3,0.51
+Bathyraja,irrasa,-49.25,67.25,3406:497:1,0.44
+Bathyraja,irrasa,-49.75,66.25,3406:496:3,0.44
+Bathyraja,irrasa,-50.25,71.75,3507:101:2,0.65
+Bathyraja,irrasa,-50.75,69.75,3506:209:4,0.71
+Bathyraja,irrasa,-50.75,69.25,3506:209:3,0.71
+Bathyraja,irrasa,-50.25,68.25,3506:208:1,0.70
+Bathyraja,irrasa,-50.25,65.75,3506:205:2,0.72
+Bathyraja,irrasa,-50.25,65.25,3506:205:1,0.71
+Bathyraja,irrasa,-50.25,64.75,3506:104:2,0.73
+Bathyraja,irrasa,-49.75,66.75,3406:496:4,0.79
+Bathyraja,irrasa,-49.25,66.75,3406:496:2,0.73
+Bathyraja,irrasa,-49.75,65.25,3406:495:3,0.69
+Bathyraja,irrasa,-48.75,66.75,3406:486:4,0.68
+Bathyraja,irrasa,-48.75,66.25,3406:486:3,0.72
+Bathyraja,irrasa,-48.25,66.75,3406:486:2,0.76
+Bathyraja,irrasa,-48.25,66.25,3406:486:1,0.66
+Bathyraja,irrasa,-48.75,65.75,3406:485:4,0.67
+Bathyraja,irrasa,-48.25,65.75,3406:485:2,0.65
+Bathyraja,irrasa,-49.75,64.25,3406:394:3,0.68
+Bathyraja,irrasa,-49.75,63.75,3406:393:4,0.68
+Bathyraja,irrasa,-50.75,74.75,3507:104:4,1.00
+Bathyraja,irrasa,-50.75,74.25,3507:104:3,1.00
+Bathyraja,irrasa,-50.25,74.25,3507:104:1,1.00
+Bathyraja,irrasa,-50.25,73.75,3507:103:2,1.00
+Bathyraja,irrasa,-50.25,73.25,3507:103:1,1.00
+Bathyraja,irrasa,-50.75,72.25,3507:102:3,0.90
+Bathyraja,irrasa,-50.75,71.75,3507:101:4,0.88
+Bathyraja,irrasa,-50.75,71.25,3507:101:3,0.94
+Bathyraja,irrasa,-50.25,71.25,3507:101:1,0.93
+Bathyraja,irrasa,-50.75,70.75,3507:100:4,0.87
+Bathyraja,irrasa,-50.75,70.25,3507:100:3,0.80
+Bathyraja,irrasa,-50.25,70.75,3507:100:2,0.87
+Bathyraja,irrasa,-50.25,70.25,3507:100:1,0.94
+Bathyraja,irrasa,-49.75,73.25,3407:393:3,0.90
+Bathyraja,irrasa,-49.75,72.75,3407:392:4,1.00
+Bathyraja,irrasa,-49.75,72.25,3407:392:3,1.00
+Bathyraja,irrasa,-49.75,71.75,3407:391:4,0.94
+Bathyraja,irrasa,-49.75,71.25,3407:391:3,1.00
+Bathyraja,irrasa,-49.25,71.75,3407:391:2,1.00
+Bathyraja,irrasa,-49.25,71.25,3407:391:1,1.00
+Bathyraja,irrasa,-48.75,71.25,3407:381:3,0.97
+Bathyraja,irrasa,-48.25,71.25,3407:381:1,1.00
+Bathyraja,irrasa,-49.75,64.75,3406:394:4,0.96
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Bathyraja,irrasa,-50.75,71.75,3507:101:4,578,2.83631110191345,2.2900071144104,33.8237724304199,34.4815101623535,2.3590000346303,0,214.002075195313,189
+Bathyraja,irrasa,-50.25,69.75,3506:209:2,225,3.25066804885864,1.85792696475983,33.7896919250488,33.9899673461914,2.49799992889166,0,258.781341552734,91
+Bathyraja,irrasa,-48.75,71.25,3407:381:3,920,3.43917989730835,1.92506802082062,33.8071365356445,34.7191047668457,3.18700005300343,0,210.791458129883,103
+Bathyraja,irrasa,-48.25,71.25,3407:381:1,786,3.65215611457825,2.08457803726196,33.7945671081543,34.6324195861816,4.09599998965859,0,212.442321777344,154

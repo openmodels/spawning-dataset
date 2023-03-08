@@ -1,0 +1,263 @@
+Mapping parameters for Aspistor quadriscutis (Bressou sea catfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 31 |  41,
+Bounding Box (NSWE): ,9,-13,-59,-34
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,26.66,27.16,28.16,32.36
+Salinity (psu),1,4.38,22.85,36.79,37.43
+Primary Production,1,403,997,4034,4984.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,1,7,180,306
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 201): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Aspistor,quadriscutis,-2.25,-39.75,5003:229:2,0.08
+Aspistor,quadriscutis,-2.75,-39.25,5003:229:3,0.05
+Aspistor,quadriscutis,-3.25,-39.75,5003:239:2,0.02
+Aspistor,quadriscutis,-4.75,-35.75,5003:245:4,0.03
+Aspistor,quadriscutis,-4.75,-37.75,5003:247:4,0.03
+Aspistor,quadriscutis,-6.75,-34.75,5003:364:4,0.09
+Aspistor,quadriscutis,-5.75,-35.25,5003:455:3,0.03
+Aspistor,quadriscutis,-8.75,-35.25,5003:485:3,0.10
+Aspistor,quadriscutis,-9.25,-35.25,5003:495:1,0.05
+Aspistor,quadriscutis,-9.75,-35.75,5003:495:4,0.14
+Aspistor,quadriscutis,-1.75,-42.75,5004:112:4,0.01
+Aspistor,quadriscutis,-1.25,-44.25,5004:114:1,0.15
+Aspistor,quadriscutis,-2.25,-40.25,5004:120:1,0.04
+Aspistor,quadriscutis,-2.75,-40.25,5004:120:3,0.01
+Aspistor,quadriscutis,-2.75,-40.75,5004:120:4,0.12
+Aspistor,quadriscutis,-2.75,-41.25,5004:121:3,0.12
+Aspistor,quadriscutis,-2.25,-43.25,5004:123:1,0.03
+Aspistor,quadriscutis,-2.75,-43.25,5004:123:3,0.07
+Aspistor,quadriscutis,-0.75,-48.75,5004:208:4,0.10
+Aspistor,quadriscutis,-1.25,-48.25,5004:218:1,0.10
+Aspistor,quadriscutis,-1.25,-48.75,5004:218:2,0.10
+Aspistor,quadriscutis,-1.75,-48.25,5004:218:3,0.02
+Aspistor,quadriscutis,-1.75,-48.75,5004:218:4,0.10
+Aspistor,quadriscutis,-1.25,-49.25,5004:219:1,0.05
+Aspistor,quadriscutis,-1.75,-49.25,5004:219:3,0.10
+Aspistor,quadriscutis,-1.75,-49.75,5004:219:4,0.10
+Aspistor,quadriscutis,-2.25,-49.25,5004:229:1,0.04
+Aspistor,quadriscutis,-1.75,-50.25,5005:110:3,0.10
+Aspistor,quadriscutis,-10.75,-37.25,5103:207:3,0.19
+Aspistor,quadriscutis,-12.75,-38.25,5103:228:3,0.09
+Aspistor,quadriscutis,0.25,-45.75,7004:205:2,0.06
+Aspistor,quadriscutis,0.25,-46.25,7004:206:1,0.02
+Aspistor,quadriscutis,0.75,-46.25,7004:206:3,0.07
+Aspistor,quadriscutis,1.25,-46.25,7004:216:1,0.07
+Aspistor,quadriscutis,1.75,-46.75,7004:216:4,0.01
+Aspistor,quadriscutis,1.25,-47.25,7004:217:1,0.10
+Aspistor,quadriscutis,2.25,-47.75,7004:227:2,0.11
+Aspistor,quadriscutis,2.75,-47.75,7004:227:4,0.01
+Aspistor,quadriscutis,1.25,-50.25,7005:110:1,0.13
+Aspistor,quadriscutis,2.75,-50.25,7005:120:3,0.19
+Aspistor,quadriscutis,3.25,-50.75,7005:130:2,0.12
+Aspistor,quadriscutis,7.25,-55.25,7005:475:1,0.14
+Aspistor,quadriscutis,7.25,-55.75,7005:475:2,0.06
+Aspistor,quadriscutis,7.25,-57.25,7005:477:1,0.15
+Aspistor,quadriscutis,7.75,-57.25,7005:477:3,0.14
+Aspistor,quadriscutis,8.25,-57.75,7005:487:2,0.12
+Aspistor,quadriscutis,-4.75,-36.25,5003:246:3,0.31
+Aspistor,quadriscutis,-2.75,-41.75,5004:121:4,0.21
+Aspistor,quadriscutis,-2.75,-43.75,5004:123:4,0.20
+Aspistor,quadriscutis,-2.25,-44.75,5004:124:2,0.34
+Aspistor,quadriscutis,-3.25,-44.75,5004:134:2,0.23
+Aspistor,quadriscutis,-0.25,-49.25,5004:209:1,0.25
+Aspistor,quadriscutis,-0.25,-49.75,5004:209:2,0.25
+Aspistor,quadriscutis,-10.25,-36.25,5103:206:1,0.25
+Aspistor,quadriscutis,-11.25,-37.25,5103:217:1,0.37
+Aspistor,quadriscutis,-11.75,-37.75,5103:217:4,0.20
+Aspistor,quadriscutis,-12.25,-37.75,5103:227:2,0.22
+Aspistor,quadriscutis,-12.75,-38.75,5103:228:4,0.27
+Aspistor,quadriscutis,0.75,-45.75,7004:205:4,0.20
+Aspistor,quadriscutis,0.25,-49.25,7004:209:1,0.25
+Aspistor,quadriscutis,0.25,-49.75,7004:209:2,0.25
+Aspistor,quadriscutis,0.75,-49.25,7004:209:3,0.25
+Aspistor,quadriscutis,0.75,-49.75,7004:209:4,0.25
+Aspistor,quadriscutis,1.25,-46.75,7004:216:2,0.21
+Aspistor,quadriscutis,1.75,-47.25,7004:217:3,0.26
+Aspistor,quadriscutis,3.75,-48.75,7004:238:4,0.35
+Aspistor,quadriscutis,0.25,-50.25,7005:100:1,0.24
+Aspistor,quadriscutis,0.75,-50.25,7005:100:3,0.24
+Aspistor,quadriscutis,0.75,-50.75,7005:100:4,0.24
+Aspistor,quadriscutis,1.75,-50.75,7005:110:4,0.30
+Aspistor,quadriscutis,5.75,-57.25,7005:457:3,0.20
+Aspistor,quadriscutis,6.75,-55.25,7005:465:3,0.34
+Aspistor,quadriscutis,6.75,-55.75,7005:465:4,0.23
+Aspistor,quadriscutis,6.25,-58.75,7005:468:2,0.20
+Aspistor,quadriscutis,6.75,-58.75,7005:468:4,0.20
+Aspistor,quadriscutis,7.25,-56.25,7005:476:1,0.39
+Aspistor,quadriscutis,7.75,-56.75,7005:476:4,0.28
+Aspistor,quadriscutis,7.75,-57.75,7005:477:4,0.39
+Aspistor,quadriscutis,-2.25,-43.75,5004:123:2,0.53
+Aspistor,quadriscutis,-10.75,-36.75,5103:206:4,0.57
+Aspistor,quadriscutis,-11.75,-37.25,5103:217:3,0.44
+Aspistor,quadriscutis,0.75,-46.75,7004:206:4,0.49
+Aspistor,quadriscutis,0.75,-48.25,7004:208:3,0.53
+Aspistor,quadriscutis,1.75,-48.75,7004:218:4,0.52
+Aspistor,quadriscutis,5.75,-51.25,7005:351:3,0.42
+Aspistor,quadriscutis,6.25,-52.75,7005:362:2,0.55
+Aspistor,quadriscutis,8.25,-58.25,7005:488:1,0.45
+Aspistor,quadriscutis,-2.75,-42.25,5004:122:3,0.63
+Aspistor,quadriscutis,-2.75,-42.75,5004:122:4,0.60
+Aspistor,quadriscutis,-2.75,-44.25,5004:124:3,0.70
+Aspistor,quadriscutis,-11.25,-36.75,5103:216:2,0.60
+Aspistor,quadriscutis,0.25,-46.75,7004:206:2,0.64
+Aspistor,quadriscutis,0.75,-47.25,7004:207:3,0.76
+Aspistor,quadriscutis,1.25,-48.75,7004:218:2,0.73
+Aspistor,quadriscutis,1.25,-49.25,7004:219:1,0.65
+Aspistor,quadriscutis,1.25,-49.75,7004:219:2,0.65
+Aspistor,quadriscutis,1.75,-49.25,7004:219:3,0.65
+Aspistor,quadriscutis,1.75,-49.75,7004:219:4,0.65
+Aspistor,quadriscutis,2.25,-48.75,7004:228:2,0.73
+Aspistor,quadriscutis,2.75,-48.25,7004:228:3,0.74
+Aspistor,quadriscutis,2.75,-48.75,7004:228:4,0.75
+Aspistor,quadriscutis,2.75,-49.75,7004:229:4,0.75
+Aspistor,quadriscutis,3.75,-49.25,7004:239:3,0.72
+Aspistor,quadriscutis,1.75,-50.25,7005:110:3,0.76
+Aspistor,quadriscutis,2.25,-50.25,7005:120:1,0.76
+Aspistor,quadriscutis,2.25,-50.75,7005:120:2,0.76
+Aspistor,quadriscutis,2.75,-50.75,7005:120:4,0.62
+Aspistor,quadriscutis,5.75,-55.25,7005:455:3,0.60
+Aspistor,quadriscutis,6.75,-56.75,7005:466:4,0.75
+Aspistor,quadriscutis,8.75,-58.75,7005:488:4,0.79
+Aspistor,quadriscutis,-1.25,-44.75,5004:114:2,1.00
+Aspistor,quadriscutis,-1.75,-44.25,5004:114:3,1.00
+Aspistor,quadriscutis,-1.75,-44.75,5004:114:4,1.00
+Aspistor,quadriscutis,-2.25,-44.25,5004:124:1,1.00
+Aspistor,quadriscutis,-2.75,-44.75,5004:124:4,1.00
+Aspistor,quadriscutis,-0.25,-47.25,5004:207:1,1.00
+Aspistor,quadriscutis,-0.25,-47.75,5004:207:2,1.00
+Aspistor,quadriscutis,-0.75,-47.75,5004:207:4,1.00
+Aspistor,quadriscutis,-0.25,-48.25,5004:208:1,0.81
+Aspistor,quadriscutis,-0.25,-48.75,5004:208:2,0.81
+Aspistor,quadriscutis,-0.75,-48.25,5004:208:3,0.81
+Aspistor,quadriscutis,-1.75,-45.25,5004:215:3,1.00
+Aspistor,quadriscutis,0.25,-47.25,7004:207:1,1.00
+Aspistor,quadriscutis,0.25,-47.75,7004:207:2,1.00
+Aspistor,quadriscutis,0.75,-47.75,7004:207:4,1.00
+Aspistor,quadriscutis,0.25,-48.25,7004:208:1,0.83
+Aspistor,quadriscutis,0.25,-48.75,7004:208:2,0.83
+Aspistor,quadriscutis,0.75,-48.75,7004:208:4,0.83
+Aspistor,quadriscutis,1.25,-47.75,7004:217:2,1.00
+Aspistor,quadriscutis,1.75,-47.75,7004:217:4,1.00
+Aspistor,quadriscutis,1.25,-48.25,7004:218:1,1.00
+Aspistor,quadriscutis,1.75,-48.25,7004:218:3,1.00
+Aspistor,quadriscutis,2.25,-48.25,7004:228:1,1.00
+Aspistor,quadriscutis,2.25,-49.25,7004:229:1,1.00
+Aspistor,quadriscutis,2.25,-49.75,7004:229:2,1.00
+Aspistor,quadriscutis,2.75,-49.25,7004:229:3,1.00
+Aspistor,quadriscutis,3.25,-48.75,7004:238:2,0.86
+Aspistor,quadriscutis,3.25,-49.25,7004:239:1,1.00
+Aspistor,quadriscutis,3.25,-49.75,7004:239:2,1.00
+Aspistor,quadriscutis,3.75,-49.75,7004:239:4,1.00
+Aspistor,quadriscutis,4.25,-49.75,7004:249:2,1.00
+Aspistor,quadriscutis,3.25,-50.25,7005:130:1,1.00
+Aspistor,quadriscutis,3.75,-50.25,7005:130:3,1.00
+Aspistor,quadriscutis,3.75,-50.75,7005:130:4,0.81
+Aspistor,quadriscutis,3.25,-51.25,7005:131:1,1.00
+Aspistor,quadriscutis,3.75,-51.25,7005:131:3,1.00
+Aspistor,quadriscutis,4.25,-50.25,7005:140:1,1.00
+Aspistor,quadriscutis,4.25,-50.75,7005:140:2,1.00
+Aspistor,quadriscutis,4.75,-50.25,7005:140:3,1.00
+Aspistor,quadriscutis,4.75,-50.75,7005:140:4,1.00
+Aspistor,quadriscutis,4.25,-51.25,7005:141:1,1.00
+Aspistor,quadriscutis,4.25,-51.75,7005:141:2,1.00
+Aspistor,quadriscutis,4.75,-51.25,7005:141:3,1.00
+Aspistor,quadriscutis,4.75,-51.75,7005:141:4,1.00
+Aspistor,quadriscutis,4.75,-52.25,7005:142:3,1.00
+Aspistor,quadriscutis,5.25,-50.75,7005:350:2,1.00
+Aspistor,quadriscutis,5.25,-51.25,7005:351:1,1.00
+Aspistor,quadriscutis,5.25,-51.75,7005:351:2,1.00
+Aspistor,quadriscutis,5.75,-51.75,7005:351:4,1.00
+Aspistor,quadriscutis,5.25,-52.25,7005:352:1,1.00
+Aspistor,quadriscutis,5.25,-52.75,7005:352:2,1.00
+Aspistor,quadriscutis,5.75,-52.25,7005:352:3,1.00
+Aspistor,quadriscutis,5.75,-52.75,7005:352:4,1.00
+Aspistor,quadriscutis,5.25,-53.25,7005:353:1,1.00
+Aspistor,quadriscutis,5.75,-53.25,7005:353:3,1.00
+Aspistor,quadriscutis,5.75,-53.75,7005:353:4,1.00
+Aspistor,quadriscutis,5.75,-54.25,7005:354:3,1.00
+Aspistor,quadriscutis,5.75,-54.75,7005:354:4,1.00
+Aspistor,quadriscutis,6.25,-51.75,7005:361:2,1.00
+Aspistor,quadriscutis,6.25,-52.25,7005:362:1,1.00
+Aspistor,quadriscutis,6.75,-52.25,7005:362:3,1.00
+Aspistor,quadriscutis,6.75,-52.75,7005:362:4,1.00
+Aspistor,quadriscutis,6.25,-53.25,7005:363:1,1.00
+Aspistor,quadriscutis,6.25,-53.75,7005:363:2,1.00
+Aspistor,quadriscutis,6.75,-53.25,7005:363:3,1.00
+Aspistor,quadriscutis,6.75,-53.75,7005:363:4,1.00
+Aspistor,quadriscutis,6.25,-54.25,7005:364:1,1.00
+Aspistor,quadriscutis,6.25,-54.75,7005:364:2,1.00
+Aspistor,quadriscutis,6.75,-54.25,7005:364:3,1.00
+Aspistor,quadriscutis,6.75,-54.75,7005:364:4,0.83
+Aspistor,quadriscutis,7.25,-53.75,7005:373:2,1.00
+Aspistor,quadriscutis,7.25,-54.25,7005:374:1,0.99
+Aspistor,quadriscutis,7.25,-54.75,7005:374:2,0.86
+Aspistor,quadriscutis,5.75,-55.75,7005:455:4,1.00
+Aspistor,quadriscutis,5.75,-56.25,7005:456:3,1.00
+Aspistor,quadriscutis,5.75,-56.75,7005:456:4,1.00
+Aspistor,quadriscutis,6.25,-55.25,7005:465:1,1.00
+Aspistor,quadriscutis,6.25,-55.75,7005:465:2,1.00
+Aspistor,quadriscutis,6.25,-56.25,7005:466:1,1.00
+Aspistor,quadriscutis,6.25,-56.75,7005:466:2,1.00
+Aspistor,quadriscutis,6.25,-57.25,7005:467:1,1.00
+Aspistor,quadriscutis,6.25,-57.75,7005:467:2,1.00
+Aspistor,quadriscutis,6.75,-57.25,7005:467:3,1.00
+Aspistor,quadriscutis,6.75,-57.75,7005:467:4,1.00
+Aspistor,quadriscutis,6.75,-58.25,7005:468:3,1.00
+Aspistor,quadriscutis,7.25,-57.75,7005:477:2,1.00
+Aspistor,quadriscutis,7.25,-58.25,7005:478:1,1.00
+Aspistor,quadriscutis,7.25,-58.75,7005:478:2,1.00
+Aspistor,quadriscutis,7.75,-58.25,7005:478:3,1.00
+Aspistor,quadriscutis,7.75,-58.75,7005:478:4,1.00
+Aspistor,quadriscutis,8.25,-58.75,7005:488:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 26)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Aspistor,quadriscutis,-4.75,-37.25,5003:247:3,17,27.39,36.22,403,0,15
+Aspistor,quadriscutis,-2.75,-44.75,5004:124:4,10,27.64,36.79,997,0,8
+Aspistor,quadriscutis,-2.75,-44.25,5004:124:3,3,27.64,36.79,820,0,17
+Aspistor,quadriscutis,-0.75,-50.75,5005:100:4,1,28.28,4.38,2713,0,11
+Aspistor,quadriscutis,-0.75,-46.75,5004:206:4,18,27.9,37.43,1981,0,22
+Aspistor,quadriscutis,0.25,-50.75,7005:100:2,9,28.52,4.38,2603,0,16
+Aspistor,quadriscutis,1.25,-48.25,7004:218:1,33,27.96,23.39,3991,0,213
+Aspistor,quadriscutis,2.25,-49.25,7004:229:1,29,27.93,22.85,3755,0,134
+Aspistor,quadriscutis,2.25,-48.75,7004:228:2,35,27.78,27.45,4294,0,180
+Aspistor,quadriscutis,2.25,-48.25,7004:228:1,70,27.78,27.46,2089,0,231
+Aspistor,quadriscutis,2.75,-49.75,7004:229:4,64,27.93,22.85,4271,0,134
+Aspistor,quadriscutis,2.75,-49.25,7004:229:3,57,27.93,22.85,2940,0,180
+Aspistor,quadriscutis,3.25,-50.25,7005:130:1,37,27.92,27.11,4034,0,96
+Aspistor,quadriscutis,3.75,-50.25,7005:130:3,59,27.92,27.11,2656,0,129
+Aspistor,quadriscutis,4.25,-51.75,7005:141:2,3,27.87,32.27,2257,0,7
+Aspistor,quadriscutis,4.75,-52.25,7005:142:3,27,27.73,31.28,2172,0,7
+Aspistor,quadriscutis,4.75,-51.75,7005:141:4,49,27.87,32.27,3145,0,26
+Aspistor,quadriscutis,5.25,-53.25,7005:353:1,6,27.49,31.28,2348,0,1
+Aspistor,quadriscutis,5.25,-52.75,7005:352:2,17,27.63,31.28,2490,0,12
+Aspistor,quadriscutis,5.25,-52.25,7005:352:1,37,27.63,31.28,2721,0,27
+Aspistor,quadriscutis,5.75,-54.25,7005:354:3,4,27.46,33.72,1306,0,5
+Aspistor,quadriscutis,5.75,-53.75,7005:353:4,16,27.49,33.25,1577,0,16
+Aspistor,quadriscutis,5.75,-53.25,7005:353:3,43,27.49,33.25,2213,0,25
+Aspistor,quadriscutis,6.25,-55.25,7005:465:1,37,27.33,34.31,1462,0,27
+Aspistor,quadriscutis,6.75,-58.25,7005:468:3,17,27.37,35.02,1252,0,8
+Aspistor,quadriscutis,6.75,-57.75,7005:467:4,5,27.32,35.02,1664,0,22

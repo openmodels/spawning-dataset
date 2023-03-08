@@ -1,0 +1,121 @@
+Mapping parameters for Cynoglossus sinusarabici ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 51,
+Bounding Box (NSWE): ,34,12,32,43
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,2,15,28
+Temperature (°C),1,22.3,24.7,28.9,33.1
+Salinity (psu),1,37.7,38.2,39.49,39.99
+Primary Production,1,256.875,478,692.5,895.875
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,10,15.5,125,186.375
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 79): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Cynoglossus,sinusarabici,19.25,37.75,1103:497:2,0.10
+Cynoglossus,sinusarabici,19.75,37.25,1103:497:3,0.02
+Cynoglossus,sinusarabici,19.75,39.75,1103:499:4,0.04
+Cynoglossus,sinusarabici,17.75,41.25,1104:371:3,0.03
+Cynoglossus,sinusarabici,17.25,42.25,1104:372:1,0.11
+Cynoglossus,sinusarabici,20.25,39.75,1203:209:2,0.08
+Cynoglossus,sinusarabici,24.75,37.25,1203:247:3,0.13
+Cynoglossus,sinusarabici,28.25,33.25,1203:383:1,0.01
+Cynoglossus,sinusarabici,18.75,38.75,1103:488:4,0.25
+Cynoglossus,sinusarabici,19.75,37.75,1103:497:4,0.32
+Cynoglossus,sinusarabici,19.25,38.25,1103:498:1,0.23
+Cynoglossus,sinusarabici,17.75,41.75,1104:371:4,0.21
+Cynoglossus,sinusarabici,20.25,39.25,1203:209:1,0.21
+Cynoglossus,sinusarabici,27.75,33.75,1203:373:4,0.26
+Cynoglossus,sinusarabici,28.25,34.25,1203:384:1,0.34
+Cynoglossus,sinusarabici,28.75,34.75,1203:384:4,0.23
+Cynoglossus,sinusarabici,29.25,32.75,1203:392:2,0.37
+Cynoglossus,sinusarabici,29.25,34.75,1203:394:2,0.29
+Cynoglossus,sinusarabici,25.25,36.75,1203:456:2,0.29
+Cynoglossus,sinusarabici,25.75,37.25,1203:457:3,0.24
+Cynoglossus,sinusarabici,29.25,35.25,1203:495:1,0.21
+Cynoglossus,sinusarabici,22.25,39.25,1203:229:1,0.43
+Cynoglossus,sinusarabici,22.75,39.25,1203:229:3,0.52
+Cynoglossus,sinusarabici,24.25,35.75,1203:245:2,0.48
+Cynoglossus,sinusarabici,24.25,37.25,1203:247:1,0.48
+Cynoglossus,sinusarabici,24.25,38.25,1203:248:1,0.52
+Cynoglossus,sinusarabici,28.25,34.75,1203:384:2,0.48
+Cynoglossus,sinusarabici,29.75,32.25,1203:392:3,0.49
+Cynoglossus,sinusarabici,29.75,32.75,1203:392:4,0.49
+Cynoglossus,sinusarabici,29.75,34.75,1203:394:4,0.49
+Cynoglossus,sinusarabici,26.25,36.25,1203:466:1,0.59
+Cynoglossus,sinusarabici,20.75,39.25,1203:209:3,0.67
+Cynoglossus,sinusarabici,21.75,36.75,1203:216:4,0.61
+Cynoglossus,sinusarabici,21.75,38.75,1203:218:4,0.69
+Cynoglossus,sinusarabici,22.25,36.25,1203:226:1,0.60
+Cynoglossus,sinusarabici,23.75,35.25,1203:235:3,0.79
+Cynoglossus,sinusarabici,23.75,35.75,1203:235:4,0.78
+Cynoglossus,sinusarabici,23.75,37.75,1203:237:4,0.62
+Cynoglossus,sinusarabici,23.25,38.25,1203:238:1,0.62
+Cynoglossus,sinusarabici,23.75,38.25,1203:238:3,0.62
+Cynoglossus,sinusarabici,24.25,37.75,1203:247:2,0.62
+Cynoglossus,sinusarabici,27.25,33.75,1203:373:2,0.78
+Cynoglossus,sinusarabici,28.75,33.25,1203:383:3,0.78
+Cynoglossus,sinusarabici,29.25,33.25,1203:393:1,0.67
+Cynoglossus,sinusarabici,28.25,35.25,1203:485:1,0.73
+Cynoglossus,sinusarabici,24.75,34.75,1203:144:4,1.00
+Cynoglossus,sinusarabici,20.25,37.75,1203:207:2,1.00
+Cynoglossus,sinusarabici,21.25,37.25,1203:217:1,1.00
+Cynoglossus,sinusarabici,21.75,37.25,1203:217:3,0.87
+Cynoglossus,sinusarabici,22.25,36.75,1203:226:2,0.99
+Cynoglossus,sinusarabici,22.75,36.25,1203:226:3,0.86
+Cynoglossus,sinusarabici,22.75,36.75,1203:226:4,0.86
+Cynoglossus,sinusarabici,22.25,37.25,1203:227:1,1.00
+Cynoglossus,sinusarabici,22.25,38.75,1203:228:2,1.00
+Cynoglossus,sinusarabici,22.75,38.75,1203:228:4,1.00
+Cynoglossus,sinusarabici,23.25,36.25,1203:236:1,0.86
+Cynoglossus,sinusarabici,23.75,36.25,1203:236:3,0.86
+Cynoglossus,sinusarabici,23.25,38.75,1203:238:2,1.00
+Cynoglossus,sinusarabici,24.25,35.25,1203:245:1,1.00
+Cynoglossus,sinusarabici,24.75,35.25,1203:245:3,1.00
+Cynoglossus,sinusarabici,25.25,34.75,1203:354:2,1.00
+Cynoglossus,sinusarabici,25.75,34.25,1203:354:3,1.00
+Cynoglossus,sinusarabici,25.75,34.75,1203:354:4,1.00
+Cynoglossus,sinusarabici,26.75,33.75,1203:363:4,1.00
+Cynoglossus,sinusarabici,26.25,34.25,1203:364:1,1.00
+Cynoglossus,sinusarabici,26.75,34.25,1203:364:3,1.00
+Cynoglossus,sinusarabici,27.25,34.25,1203:374:1,1.00
+Cynoglossus,sinusarabici,27.75,34.25,1203:374:3,1.00
+Cynoglossus,sinusarabici,27.75,34.75,1203:374:4,1.00
+Cynoglossus,sinusarabici,28.25,33.75,1203:383:2,0.81
+Cynoglossus,sinusarabici,25.25,35.25,1203:455:1,0.94
+Cynoglossus,sinusarabici,25.75,36.25,1203:456:3,0.87
+Cynoglossus,sinusarabici,25.75,36.75,1203:456:4,1.00
+Cynoglossus,sinusarabici,26.75,35.75,1203:465:4,0.87
+Cynoglossus,sinusarabici,26.25,36.75,1203:466:2,1.00
+Cynoglossus,sinusarabici,26.75,36.25,1203:466:3,1.00
+Cynoglossus,sinusarabici,27.25,35.75,1203:475:2,0.90
+Cynoglossus,sinusarabici,27.75,35.25,1203:475:3,1.00
+Cynoglossus,sinusarabici,27.75,35.75,1203:475:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Cynoglossus,sinusarabici,19.25,39.25,1103:499:1,1289,28.99,37.75,673,0,158
+Cynoglossus,sinusarabici,20.25,39.25,1203:209:1,504,28.81,38.66,712,0,92
+Cynoglossus,sinusarabici,22.75,38.75,1203:228:4,227,27.75,39.04,606,0,25
+Cynoglossus,sinusarabici,24.75,35.25,1203:245:3,188,26.39,39.49,510,0,21
+Cynoglossus,sinusarabici,25.25,35.25,1203:455:1,605,25.93,39.49,464,0,75
+Cynoglossus,sinusarabici,29.75,32.75,1203:392:4,32,23.48,38.95,492,0,10

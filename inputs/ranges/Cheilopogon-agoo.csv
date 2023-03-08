@@ -1,0 +1,93 @@
+Mapping parameters for Cheilopogon agoo (Japanese flyingfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 61,
+Bounding Box (NSWE): ,32,23,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,2,11,20
+Temperature (°C),1,21.01,22.69,24.98,26.35
+Salinity (psu),1,31.13,32.91,34.22,34.84
+Primary Production (mgC·m-3·day-1) ,1,8.36,9.88,26.92,31.17
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,144.27,174.03,210.8,221
+Distance to Land (km),0,8,12.9,24.3,33
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 49): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Cheilopogon,agoo,23.25,119.75,1211:239:2,0.16
+Cheilopogon,agoo,24.75,119.75,1211:249:4,0.10
+Cheilopogon,agoo,23.25,120.25,1212:130:1,0.12
+Cheilopogon,agoo,26.25,120.25,1212:360:1,0.01
+Cheilopogon,agoo,26.75,120.75,1212:360:4,0.02
+Cheilopogon,agoo,27.25,121.25,1212:371:1,0.08
+Cheilopogon,agoo,27.75,121.75,1212:371:4,0.04
+Cheilopogon,agoo,28.25,122.25,1212:382:1,0.15
+Cheilopogon,agoo,31.25,129.25,1312:219:1,0.02
+Cheilopogon,agoo,31.25,129.75,1312:219:2,0.02
+Cheilopogon,agoo,30.75,130.25,1313:100:3,0.09
+Cheilopogon,agoo,24.25,118.25,1211:248:1,0.28
+Cheilopogon,agoo,25.25,120.25,1212:350:1,0.32
+Cheilopogon,agoo,25.75,120.25,1212:350:3,0.25
+Cheilopogon,agoo,30.25,129.75,1312:209:2,0.23
+Cheilopogon,agoo,30.75,129.75,1312:209:4,0.33
+Cheilopogon,agoo,24.75,121.75,1212:141:4,0.56
+Cheilopogon,agoo,25.25,122.25,1212:352:1,0.56
+Cheilopogon,agoo,23.75,118.25,1211:238:3,0.61
+Cheilopogon,agoo,23.75,120.25,1212:130:3,0.63
+Cheilopogon,agoo,26.25,120.75,1212:360:2,0.66
+Cheilopogon,agoo,31.75,129.75,1312:219:4,0.75
+Cheilopogon,agoo,31.75,130.25,1313:110:3,0.71
+Cheilopogon,agoo,23.25,118.75,1211:238:2,0.91
+Cheilopogon,agoo,23.75,118.75,1211:238:4,0.92
+Cheilopogon,agoo,23.25,119.25,1211:239:1,0.88
+Cheilopogon,agoo,23.75,119.25,1211:239:3,1.00
+Cheilopogon,agoo,23.75,119.75,1211:239:4,0.83
+Cheilopogon,agoo,24.25,118.75,1211:248:2,0.81
+Cheilopogon,agoo,24.25,119.75,1211:249:2,1.00
+Cheilopogon,agoo,24.25,120.25,1212:140:1,1.00
+Cheilopogon,agoo,24.25,120.75,1212:140:2,0.87
+Cheilopogon,agoo,24.75,120.25,1212:140:3,1.00
+Cheilopogon,agoo,24.75,120.75,1212:140:4,1.00
+Cheilopogon,agoo,25.25,120.75,1212:350:2,1.00
+Cheilopogon,agoo,25.25,121.25,1212:351:1,1.00
+Cheilopogon,agoo,25.25,121.75,1212:351:2,1.00
+Cheilopogon,agoo,25.75,121.75,1212:351:4,1.00
+Cheilopogon,agoo,25.75,122.25,1212:352:3,0.91
+Cheilopogon,agoo,27.25,125.25,1212:475:1,0.89
+Cheilopogon,agoo,27.75,125.75,1212:475:4,0.92
+Cheilopogon,agoo,30.75,130.75,1313:100:4,1.00
+Cheilopogon,agoo,30.75,131.25,1313:101:3,1.00
+Cheilopogon,agoo,31.25,130.25,1313:110:1,1.00
+Cheilopogon,agoo,31.25,130.75,1313:110:2,1.00
+Cheilopogon,agoo,31.75,130.75,1313:110:4,0.83
+Cheilopogon,agoo,31.25,131.25,1313:111:1,1.00
+Cheilopogon,agoo,31.75,131.25,1313:111:3,1.00
+Cheilopogon,agoo,31.75,131.75,1313:111:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 8)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Cheilopogon,agoo,24.25,120.25,1212:140:1,41,24.7277927398682,24.036958694458,33.6709480285645,34.1134262084961,25.0979997217655,0,210.488708496094,24
+Cheilopogon,agoo,24.75,121.75,1212:141:4,251,25.5842208862305,11.5410594940186,33.8024673461914,34.4810256958008,16.5951624512672,0,144.274871826172,8
+Cheilopogon,agoo,25.25,119.75,1211:459:2,22,22.157018661499,23.2630043029785,31.1326122283936,33.832935333252,31.1730001121759,0,211.515869140625,25
+Cheilopogon,agoo,30.25,130.75,1313:100:2,234,24.2186737060547,22.3506755828857,34.2616500854492,34.6356925964355,8.36499966681004,0,202.64680480957,21
+Cheilopogon,agoo,30.75,130.75,1313:100:4,141,23.5841884613037,21.2662658691406,34.1921195983887,34.6495666503906,10.522999800741701,0,196.061416625977,24
+Cheilopogon,agoo,30.75,131.25,1313:101:3,337,24.0177898406982,20.1749973297119,34.207218170166,34.6931190490723,10.885000228881799,0,186.788970947266,23
+Cheilopogon,agoo,31.25,130.25,1313:110:1,236,22.9202938079834,19.9020748138428,34.0341186523438,34.5916709899902,10.762999765574898,0,195.972549438477,19
+Cheilopogon,agoo,31.25,130.75,1313:110:2,71,23.0426540374756,21.415864944458,34.0927505493164,34.5317268371582,12.9669988527894,0,201.929138183594,15

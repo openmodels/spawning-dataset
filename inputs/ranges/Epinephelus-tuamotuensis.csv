@@ -1,0 +1,108 @@
+Mapping parameters for Epinephelus tuamotuensis (Reticulate grouper)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,-10,-24,-156,-135
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,120,133,184,250
+Temperature (°C),1,27.4,27.9,28.18,32.38
+Salinity (psu),1,35.37,35.87,36.06,36.56
+Primary Production,1,153.5,224,302.4,349.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,26,42.4,126.400001525879,198.25
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 69): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Epinephelus,tuamotuensis,-16.25,-140.25,5114:360:1,0.19
+Epinephelus,tuamotuensis,-16.75,-144.75,5114:364:4,0.17
+Epinephelus,tuamotuensis,-17.25,-142.75,5114:372:2,0.02
+Epinephelus,tuamotuensis,-17.75,-142.25,5114:372:3,0.02
+Epinephelus,tuamotuensis,-17.75,-142.75,5114:372:4,0.02
+Epinephelus,tuamotuensis,-17.25,-143.25,5114:373:1,0.07
+Epinephelus,tuamotuensis,-17.75,-143.25,5114:373:3,0.06
+Epinephelus,tuamotuensis,-17.25,-144.25,5114:374:1,0.10
+Epinephelus,tuamotuensis,-17.25,-145.25,5114:475:1,0.15
+Epinephelus,tuamotuensis,-17.25,-145.75,5114:475:2,0.13
+Epinephelus,tuamotuensis,-16.75,-141.75,5114:361:4,0.21
+Epinephelus,tuamotuensis,-16.25,-142.25,5114:362:1,0.31
+Epinephelus,tuamotuensis,-16.25,-142.75,5114:362:2,0.30
+Epinephelus,tuamotuensis,-16.75,-142.75,5114:362:4,0.31
+Epinephelus,tuamotuensis,-16.25,-143.25,5114:363:1,0.38
+Epinephelus,tuamotuensis,-16.25,-143.75,5114:363:2,0.38
+Epinephelus,tuamotuensis,-17.75,-148.25,5114:478:3,0.20
+Epinephelus,tuamotuensis,-17.25,-149.25,5114:479:1,0.25
+Epinephelus,tuamotuensis,-17.25,-149.75,5114:479:2,0.23
+Epinephelus,tuamotuensis,-17.75,-149.25,5114:479:3,0.28
+Epinephelus,tuamotuensis,-17.75,-149.75,5114:479:4,0.22
+Epinephelus,tuamotuensis,-17.75,-150.75,5115:370:4,0.24
+Epinephelus,tuamotuensis,-14.75,-138.75,5113:248:4,0.49
+Epinephelus,tuamotuensis,-15.75,-140.25,5114:350:3,0.44
+Epinephelus,tuamotuensis,-15.75,-140.75,5114:350:4,0.44
+Epinephelus,tuamotuensis,-15.75,-142.25,5114:352:3,0.45
+Epinephelus,tuamotuensis,-16.25,-144.25,5114:364:1,0.49
+Epinephelus,tuamotuensis,-16.25,-144.75,5114:364:2,0.49
+Epinephelus,tuamotuensis,-16.75,-144.25,5114:364:3,0.49
+Epinephelus,tuamotuensis,-15.75,-146.25,5114:456:3,0.41
+Epinephelus,tuamotuensis,-16.25,-145.25,5114:465:1,0.59
+Epinephelus,tuamotuensis,-16.25,-145.75,5114:465:2,0.40
+Epinephelus,tuamotuensis,-16.75,-145.75,5114:465:4,0.49
+Epinephelus,tuamotuensis,-16.75,-149.75,5114:469:4,0.57
+Epinephelus,tuamotuensis,-10.25,-152.25,5115:102:1,0.46
+Epinephelus,tuamotuensis,-11.25,-151.75,5115:111:2,0.54
+Epinephelus,tuamotuensis,-15.75,-154.25,5115:354:3,0.46
+Epinephelus,tuamotuensis,-14.25,-141.25,5114:141:1,0.66
+Epinephelus,tuamotuensis,-15.75,-144.75,5114:354:4,0.76
+Epinephelus,tuamotuensis,-15.25,-145.25,5114:455:1,0.79
+Epinephelus,tuamotuensis,-15.75,-146.75,5114:456:4,0.61
+Epinephelus,tuamotuensis,-15.25,-148.25,5114:458:1,0.75
+Epinephelus,tuamotuensis,-15.75,-148.25,5114:458:3,0.66
+Epinephelus,tuamotuensis,-16.25,-146.25,5114:466:1,0.61
+Epinephelus,tuamotuensis,-16.75,-149.25,5114:469:3,0.73
+Epinephelus,tuamotuensis,-16.75,-150.75,5115:360:4,0.63
+Epinephelus,tuamotuensis,-16.75,-151.25,5115:361:3,0.79
+Epinephelus,tuamotuensis,-16.75,-151.75,5115:361:4,0.76
+Epinephelus,tuamotuensis,-16.75,-153.75,5115:363:4,0.76
+Epinephelus,tuamotuensis,-16.25,-154.75,5115:364:2,0.77
+Epinephelus,tuamotuensis,-16.75,-154.75,5115:364:4,0.70
+Epinephelus,tuamotuensis,-14.25,-144.75,5114:144:2,0.88
+Epinephelus,tuamotuensis,-14.75,-144.25,5114:144:3,0.84
+Epinephelus,tuamotuensis,-14.25,-145.25,5114:245:1,0.98
+Epinephelus,tuamotuensis,-14.25,-145.75,5114:245:2,0.98
+Epinephelus,tuamotuensis,-14.75,-145.25,5114:245:3,0.98
+Epinephelus,tuamotuensis,-14.25,-146.25,5114:246:1,0.99
+Epinephelus,tuamotuensis,-14.75,-146.25,5114:246:3,0.99
+Epinephelus,tuamotuensis,-14.75,-147.25,5114:247:3,0.87
+Epinephelus,tuamotuensis,-14.75,-147.75,5114:247:4,0.96
+Epinephelus,tuamotuensis,-14.75,-148.25,5114:248:3,0.91
+Epinephelus,tuamotuensis,-14.75,-148.75,5114:248:4,0.89
+Epinephelus,tuamotuensis,-15.25,-145.75,5114:455:2,0.80
+Epinephelus,tuamotuensis,-15.75,-145.25,5114:455:3,0.86
+Epinephelus,tuamotuensis,-15.25,-146.25,5114:456:1,0.98
+Epinephelus,tuamotuensis,-15.25,-146.75,5114:456:2,0.98
+Epinephelus,tuamotuensis,-15.25,-147.25,5114:457:1,1.00
+Epinephelus,tuamotuensis,-16.25,-151.75,5115:361:2,0.85
+Epinephelus,tuamotuensis,-16.25,-152.25,5115:362:1,0.82
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Epinephelus,tuamotuensis,-16.25,-152.25,5115:362:1,3194,27.86,35.83,222,0,26
+Epinephelus,tuamotuensis,-15.75,-146.75,5114:456:4,556,28.04,36.07,320,0,131
+Epinephelus,tuamotuensis,-14.25,-146.25,5114:246:1,2819,28.21,36.02,232,0,108

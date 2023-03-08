@@ -1,0 +1,251 @@
+Mapping parameters for Hyperoglyphe pringlei (Black butterfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 47,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,126,434,1000
+Temperature (°C),1,14.98,16.19,18.98,20.12
+Salinity (psu),1,34.61,35.11,35.4,35.9
+Primary Production,1,838,1090,3042.4,4346.25
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,10,14.2,287.399993896484,386
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 208): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Hyperoglyphe,pringlei,-16.25,11.25,3101:361:1,0.05
+Hyperoglyphe,pringlei,-16.25,11.75,3101:361:2,0.05
+Hyperoglyphe,pringlei,-16.75,11.25,3101:361:3,0.07
+Hyperoglyphe,pringlei,-16.75,11.75,3101:361:4,0.05
+Hyperoglyphe,pringlei,-18.25,11.25,3101:381:1,0.18
+Hyperoglyphe,pringlei,-20.75,8.75,3200:208:4,0.05
+Hyperoglyphe,pringlei,-20.75,9.25,3200:209:3,0.06
+Hyperoglyphe,pringlei,-23.25,14.75,3201:134:2,0.10
+Hyperoglyphe,pringlei,-23.75,14.75,3201:134:4,0.14
+Hyperoglyphe,pringlei,-26.25,13.25,3201:363:1,0.04
+Hyperoglyphe,pringlei,-28.75,16.75,3201:486:4,0.17
+Hyperoglyphe,pringlei,-29.25,16.75,3201:496:2,0.16
+Hyperoglyphe,pringlei,-29.25,17.25,3201:497:1,0.12
+Hyperoglyphe,pringlei,-30.75,17.75,3301:207:4,0.04
+Hyperoglyphe,pringlei,-31.75,15.75,3301:215:4,0.18
+Hyperoglyphe,pringlei,-31.25,17.25,3301:217:1,0.08
+Hyperoglyphe,pringlei,-31.25,17.75,3301:217:2,0.06
+Hyperoglyphe,pringlei,-31.75,17.25,3301:217:3,0.08
+Hyperoglyphe,pringlei,-31.75,17.75,3301:217:4,0.08
+Hyperoglyphe,pringlei,-31.25,18.25,3301:218:1,0.02
+Hyperoglyphe,pringlei,-31.75,18.25,3301:218:3,0.08
+Hyperoglyphe,pringlei,-32.75,16.25,3301:226:3,0.11
+Hyperoglyphe,pringlei,-33.75,18.75,3301:238:4,0.04
+Hyperoglyphe,pringlei,-34.25,17.25,3301:247:1,0.04
+Hyperoglyphe,pringlei,-34.75,17.75,3301:247:4,0.11
+Hyperoglyphe,pringlei,-35.25,18.25,3301:458:1,0.04
+Hyperoglyphe,pringlei,-35.75,19.25,3301:459:3,0.08
+Hyperoglyphe,pringlei,-36.25,19.75,3301:469:2,0.11
+Hyperoglyphe,pringlei,-33.75,22.75,3302:132:4,0.01
+Hyperoglyphe,pringlei,-33.75,23.75,3302:133:4,0.04
+Hyperoglyphe,pringlei,-34.25,23.25,3302:143:1,0.01
+Hyperoglyphe,pringlei,-34.25,23.75,3302:143:2,0.01
+Hyperoglyphe,pringlei,-34.75,23.25,3302:143:3,0.01
+Hyperoglyphe,pringlei,-34.75,23.75,3302:143:4,0.01
+Hyperoglyphe,pringlei,-35.75,22.25,3302:352:3,0.18
+Hyperoglyphe,pringlei,-35.75,22.75,3302:352:4,0.12
+Hyperoglyphe,pringlei,-36.25,21.75,3302:361:2,0.18
+Hyperoglyphe,pringlei,-36.75,21.75,3302:361:4,0.07
+Hyperoglyphe,pringlei,-18.75,12.75,3101:382:4,0.32
+Hyperoglyphe,pringlei,-19.75,13.25,3101:393:3,0.33
+Hyperoglyphe,pringlei,-20.25,11.25,3201:101:1,0.33
+Hyperoglyphe,pringlei,-20.75,13.75,3201:103:4,0.35
+Hyperoglyphe,pringlei,-21.75,12.25,3201:112:3,0.37
+Hyperoglyphe,pringlei,-22.25,14.25,3201:124:1,0.38
+Hyperoglyphe,pringlei,-22.75,14.25,3201:124:3,0.35
+Hyperoglyphe,pringlei,-22.75,14.75,3201:124:4,0.31
+Hyperoglyphe,pringlei,-23.75,12.75,3201:132:4,0.28
+Hyperoglyphe,pringlei,-23.25,14.25,3201:134:1,0.28
+Hyperoglyphe,pringlei,-23.75,14.25,3201:134:3,0.27
+Hyperoglyphe,pringlei,-24.25,14.25,3201:144:1,0.39
+Hyperoglyphe,pringlei,-24.25,14.75,3201:144:2,0.26
+Hyperoglyphe,pringlei,-25.25,13.25,3201:353:1,0.26
+Hyperoglyphe,pringlei,-25.75,13.25,3201:353:3,0.26
+Hyperoglyphe,pringlei,-28.25,16.25,3201:486:1,0.34
+Hyperoglyphe,pringlei,-28.75,16.25,3201:486:3,0.23
+Hyperoglyphe,pringlei,-31.25,15.75,3301:215:2,0.22
+Hyperoglyphe,pringlei,-35.25,18.75,3301:458:2,0.27
+Hyperoglyphe,pringlei,-35.25,20.25,3302:350:1,0.34
+Hyperoglyphe,pringlei,-35.25,22.25,3302:352:1,0.32
+Hyperoglyphe,pringlei,-35.25,22.75,3302:352:2,0.32
+Hyperoglyphe,pringlei,-17.25,11.25,3101:371:1,0.57
+Hyperoglyphe,pringlei,-17.25,11.75,3101:371:2,0.57
+Hyperoglyphe,pringlei,-17.75,11.25,3101:371:3,0.57
+Hyperoglyphe,pringlei,-19.25,10.25,3101:390:1,0.50
+Hyperoglyphe,pringlei,-19.75,11.25,3101:391:3,0.56
+Hyperoglyphe,pringlei,-20.75,11.75,3201:101:4,0.46
+Hyperoglyphe,pringlei,-24.75,14.25,3201:144:3,0.40
+Hyperoglyphe,pringlei,-24.75,14.75,3201:144:4,0.47
+Hyperoglyphe,pringlei,-25.25,14.75,3201:354:2,0.58
+Hyperoglyphe,pringlei,-26.75,13.75,3201:363:4,0.54
+Hyperoglyphe,pringlei,-27.75,15.75,3201:475:4,0.59
+Hyperoglyphe,pringlei,-28.25,15.75,3201:485:2,0.43
+Hyperoglyphe,pringlei,-29.25,16.25,3201:496:1,0.52
+Hyperoglyphe,pringlei,-29.75,16.25,3201:496:3,0.57
+Hyperoglyphe,pringlei,-29.75,16.75,3201:496:4,0.40
+Hyperoglyphe,pringlei,-29.75,17.25,3201:497:3,0.50
+Hyperoglyphe,pringlei,-30.75,15.25,3301:205:3,0.47
+Hyperoglyphe,pringlei,-32.75,18.25,3301:228:3,0.44
+Hyperoglyphe,pringlei,-33.25,16.75,3301:236:2,0.52
+Hyperoglyphe,pringlei,-33.75,17.25,3301:237:3,0.53
+Hyperoglyphe,pringlei,-34.25,17.75,3301:247:2,0.58
+Hyperoglyphe,pringlei,-35.25,19.25,3301:459:1,0.58
+Hyperoglyphe,pringlei,-18.25,12.25,3101:382:1,0.65
+Hyperoglyphe,pringlei,-21.75,14.25,3201:114:3,0.62
+Hyperoglyphe,pringlei,-23.25,12.75,3201:132:2,0.70
+Hyperoglyphe,pringlei,-23.25,13.25,3201:133:1,0.75
+Hyperoglyphe,pringlei,-23.25,13.75,3201:133:2,0.75
+Hyperoglyphe,pringlei,-23.75,13.25,3201:133:3,0.75
+Hyperoglyphe,pringlei,-23.75,13.75,3201:133:4,0.75
+Hyperoglyphe,pringlei,-25.25,14.25,3201:354:1,0.70
+Hyperoglyphe,pringlei,-25.75,14.25,3201:354:3,0.70
+Hyperoglyphe,pringlei,-25.75,14.75,3201:354:4,0.66
+Hyperoglyphe,pringlei,-26.25,14.75,3201:364:2,0.70
+Hyperoglyphe,pringlei,-27.75,14.25,3201:374:3,0.69
+Hyperoglyphe,pringlei,-26.25,15.25,3201:465:1,0.61
+Hyperoglyphe,pringlei,-28.25,15.25,3201:485:1,0.64
+Hyperoglyphe,pringlei,-28.75,15.25,3201:485:3,0.64
+Hyperoglyphe,pringlei,-28.75,15.75,3201:485:4,0.64
+Hyperoglyphe,pringlei,-30.25,14.75,3301:104:2,0.73
+Hyperoglyphe,pringlei,-30.25,17.25,3301:207:1,0.66
+Hyperoglyphe,pringlei,-34.75,18.25,3301:248:3,0.61
+Hyperoglyphe,pringlei,-34.25,19.25,3301:249:1,0.77
+Hyperoglyphe,pringlei,-34.25,22.25,3302:142:1,0.68
+Hyperoglyphe,pringlei,-34.25,22.75,3302:142:2,0.68
+Hyperoglyphe,pringlei,-34.75,22.25,3302:142:3,0.68
+Hyperoglyphe,pringlei,-34.75,22.75,3302:142:4,0.68
+Hyperoglyphe,pringlei,-35.75,21.75,3302:351:4,0.78
+Hyperoglyphe,pringlei,-17.75,11.75,3101:371:4,0.88
+Hyperoglyphe,pringlei,-18.25,11.75,3101:381:2,0.90
+Hyperoglyphe,pringlei,-18.75,11.25,3101:381:3,0.90
+Hyperoglyphe,pringlei,-18.75,11.75,3101:381:4,0.90
+Hyperoglyphe,pringlei,-18.75,12.25,3101:382:3,0.90
+Hyperoglyphe,pringlei,-19.25,11.25,3101:391:1,0.96
+Hyperoglyphe,pringlei,-19.25,11.75,3101:391:2,1.00
+Hyperoglyphe,pringlei,-19.75,11.75,3101:391:4,1.00
+Hyperoglyphe,pringlei,-19.25,12.25,3101:392:1,1.00
+Hyperoglyphe,pringlei,-19.25,12.75,3101:392:2,1.00
+Hyperoglyphe,pringlei,-19.75,12.25,3101:392:3,1.00
+Hyperoglyphe,pringlei,-19.75,12.75,3101:392:4,1.00
+Hyperoglyphe,pringlei,-20.25,11.75,3201:101:2,1.00
+Hyperoglyphe,pringlei,-20.25,12.25,3201:102:1,1.00
+Hyperoglyphe,pringlei,-20.25,12.75,3201:102:2,1.00
+Hyperoglyphe,pringlei,-20.75,12.25,3201:102:3,1.00
+Hyperoglyphe,pringlei,-20.75,12.75,3201:102:4,1.00
+Hyperoglyphe,pringlei,-20.25,13.25,3201:103:1,0.86
+Hyperoglyphe,pringlei,-20.75,13.25,3201:103:3,1.00
+Hyperoglyphe,pringlei,-21.25,12.25,3201:112:1,0.82
+Hyperoglyphe,pringlei,-21.25,12.75,3201:112:2,1.00
+Hyperoglyphe,pringlei,-21.75,12.75,3201:112:4,1.00
+Hyperoglyphe,pringlei,-21.25,13.25,3201:113:1,1.00
+Hyperoglyphe,pringlei,-21.25,13.75,3201:113:2,0.89
+Hyperoglyphe,pringlei,-21.75,13.25,3201:113:3,1.00
+Hyperoglyphe,pringlei,-21.75,13.75,3201:113:4,1.00
+Hyperoglyphe,pringlei,-22.25,12.75,3201:122:2,1.00
+Hyperoglyphe,pringlei,-22.75,12.75,3201:122:4,1.00
+Hyperoglyphe,pringlei,-22.25,13.25,3201:123:1,1.00
+Hyperoglyphe,pringlei,-22.25,13.75,3201:123:2,1.00
+Hyperoglyphe,pringlei,-22.75,13.25,3201:123:3,1.00
+Hyperoglyphe,pringlei,-22.75,13.75,3201:123:4,1.00
+Hyperoglyphe,pringlei,-24.25,13.25,3201:143:1,1.00
+Hyperoglyphe,pringlei,-24.25,13.75,3201:143:2,1.00
+Hyperoglyphe,pringlei,-24.75,13.25,3201:143:3,0.87
+Hyperoglyphe,pringlei,-24.75,13.75,3201:143:4,1.00
+Hyperoglyphe,pringlei,-25.25,13.75,3201:353:2,0.82
+Hyperoglyphe,pringlei,-25.75,13.75,3201:353:4,0.82
+Hyperoglyphe,pringlei,-26.25,13.75,3201:363:2,1.00
+Hyperoglyphe,pringlei,-26.25,14.25,3201:364:1,0.82
+Hyperoglyphe,pringlei,-26.75,14.25,3201:364:3,0.82
+Hyperoglyphe,pringlei,-26.75,14.75,3201:364:4,0.82
+Hyperoglyphe,pringlei,-27.25,14.25,3201:374:1,1.00
+Hyperoglyphe,pringlei,-27.25,14.75,3201:374:2,1.00
+Hyperoglyphe,pringlei,-27.75,14.75,3201:374:4,1.00
+Hyperoglyphe,pringlei,-28.25,14.25,3201:384:1,1.00
+Hyperoglyphe,pringlei,-28.25,14.75,3201:384:2,1.00
+Hyperoglyphe,pringlei,-28.75,14.25,3201:384:3,1.00
+Hyperoglyphe,pringlei,-28.75,14.75,3201:384:4,1.00
+Hyperoglyphe,pringlei,-29.25,14.25,3201:394:1,1.00
+Hyperoglyphe,pringlei,-29.25,14.75,3201:394:2,1.00
+Hyperoglyphe,pringlei,-29.75,14.25,3201:394:3,1.00
+Hyperoglyphe,pringlei,-29.75,14.75,3201:394:4,1.00
+Hyperoglyphe,pringlei,-26.75,15.25,3201:465:3,0.82
+Hyperoglyphe,pringlei,-27.25,15.25,3201:475:1,1.00
+Hyperoglyphe,pringlei,-27.75,15.25,3201:475:3,1.00
+Hyperoglyphe,pringlei,-29.25,15.25,3201:495:1,0.94
+Hyperoglyphe,pringlei,-29.25,15.75,3201:495:2,0.94
+Hyperoglyphe,pringlei,-29.75,15.25,3201:495:3,0.94
+Hyperoglyphe,pringlei,-29.75,15.75,3201:495:4,0.94
+Hyperoglyphe,pringlei,-30.25,15.25,3301:205:1,1.00
+Hyperoglyphe,pringlei,-30.25,15.75,3301:205:2,1.00
+Hyperoglyphe,pringlei,-30.75,15.75,3301:205:4,0.90
+Hyperoglyphe,pringlei,-30.25,16.25,3301:206:1,1.00
+Hyperoglyphe,pringlei,-30.25,16.75,3301:206:2,1.00
+Hyperoglyphe,pringlei,-30.75,16.25,3301:206:3,1.00
+Hyperoglyphe,pringlei,-30.75,16.75,3301:206:4,1.00
+Hyperoglyphe,pringlei,-30.75,17.25,3301:207:3,0.89
+Hyperoglyphe,pringlei,-31.25,16.25,3301:216:1,0.98
+Hyperoglyphe,pringlei,-31.25,16.75,3301:216:2,0.96
+Hyperoglyphe,pringlei,-31.75,16.25,3301:216:3,0.98
+Hyperoglyphe,pringlei,-31.75,16.75,3301:216:4,0.96
+Hyperoglyphe,pringlei,-32.25,16.25,3301:226:1,1.00
+Hyperoglyphe,pringlei,-32.25,16.75,3301:226:2,1.00
+Hyperoglyphe,pringlei,-32.75,16.75,3301:226:4,1.00
+Hyperoglyphe,pringlei,-32.25,17.25,3301:227:1,0.82
+Hyperoglyphe,pringlei,-32.25,17.75,3301:227:2,0.82
+Hyperoglyphe,pringlei,-32.75,17.25,3301:227:3,0.82
+Hyperoglyphe,pringlei,-32.75,17.75,3301:227:4,0.82
+Hyperoglyphe,pringlei,-32.25,18.25,3301:228:1,0.82
+Hyperoglyphe,pringlei,-33.25,17.25,3301:237:1,1.00
+Hyperoglyphe,pringlei,-33.25,17.75,3301:237:2,1.00
+Hyperoglyphe,pringlei,-33.75,17.75,3301:237:4,1.00
+Hyperoglyphe,pringlei,-33.25,18.25,3301:238:1,0.94
+Hyperoglyphe,pringlei,-33.75,18.25,3301:238:3,1.00
+Hyperoglyphe,pringlei,-34.25,18.25,3301:248:1,0.86
+Hyperoglyphe,pringlei,-34.25,18.75,3301:248:2,0.86
+Hyperoglyphe,pringlei,-34.75,18.75,3301:248:4,1.00
+Hyperoglyphe,pringlei,-34.75,19.25,3301:249:3,1.00
+Hyperoglyphe,pringlei,-34.75,19.75,3301:249:4,1.00
+Hyperoglyphe,pringlei,-34.25,20.25,3302:140:1,1.00
+Hyperoglyphe,pringlei,-34.25,20.75,3302:140:2,1.00
+Hyperoglyphe,pringlei,-34.75,20.25,3302:140:3,1.00
+Hyperoglyphe,pringlei,-34.75,20.75,3302:140:4,0.83
+Hyperoglyphe,pringlei,-34.25,21.25,3302:141:1,0.87
+Hyperoglyphe,pringlei,-34.25,21.75,3302:141:2,1.00
+Hyperoglyphe,pringlei,-34.75,21.25,3302:141:3,0.82
+Hyperoglyphe,pringlei,-34.75,21.75,3302:141:4,0.93
+Hyperoglyphe,pringlei,-35.25,20.75,3302:350:2,1.00
+Hyperoglyphe,pringlei,-35.25,21.25,3302:351:1,0.83
+Hyperoglyphe,pringlei,-35.25,21.75,3302:351:2,0.83
+
+
+Occurrence cells used for creating environmental envelope (n = 7)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Hyperoglyphe,pringlei,-37.25,21.25,3302:371:1,3832,20.12,35.4,838,0,336
+Hyperoglyphe,pringlei,-34.75,20.25,3302:140:3,52,18.01,35.34,1362,0,17
+Hyperoglyphe,pringlei,-33.25,18.25,3301:238:1,34,17.06,35.4,1258,0,10
+Hyperoglyphe,pringlei,-22.75,14.25,3201:124:3,93,15.48,35.11,3235,0,50
+Hyperoglyphe,pringlei,-22.25,11.75,3201:121:2,2607,18.22,35.27,1516,0,255
+Hyperoglyphe,pringlei,-21.75,13.75,3201:113:4,101,16.66,35.11,2914,0,25
+Hyperoglyphe,pringlei,-19.25,12.25,3101:392:1,192,17.43,35.38,2135,0,79

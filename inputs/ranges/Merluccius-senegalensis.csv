@@ -1,0 +1,214 @@
+Mapping parameters for Merluccius senegalensis (Senegalese hake)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas:  34 ,
+Bounding Box (NSWE): ,33,12,-19,-8
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,15,100,600,800
+Temperature (°C),1,16.53,20.06,25.45,29.65
+Salinity (psu),1,33.64,34.29,36.7,37.46
+Primary Production (mgC·m-3·day-1) ,1,0.29,7.62,94.13,134.61
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,37.5,64.53,238.76,389.23
+Distance to Land (km),0,16,20,205,290
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 144): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Merluccius,senegalensis,12.25,-16.25,7101:226:1,0.02
+Merluccius,senegalensis,13.75,-16.75,7101:236:4,0.06
+Merluccius,senegalensis,15.25,-16.75,7101:456:2,0.16
+Merluccius,senegalensis,23.25,-15.75,7201:235:2,0.15
+Merluccius,senegalensis,26.75,-13.25,7201:363:3,0.19
+Merluccius,senegalensis,27.75,-14.25,7201:374:3,0.07
+Merluccius,senegalensis,27.75,-14.75,7201:374:4,0.07
+Merluccius,senegalensis,28.25,-13.75,7201:383:2,0.19
+Merluccius,senegalensis,28.75,-13.25,7201:383:3,0.19
+Merluccius,senegalensis,28.75,-13.75,7201:383:4,0.11
+Merluccius,senegalensis,28.25,-14.25,7201:384:1,0.04
+Merluccius,senegalensis,28.25,-14.75,7201:384:2,0.02
+Merluccius,senegalensis,29.75,-12.25,7201:392:3,0.02
+Merluccius,senegalensis,29.25,-13.25,7201:393:1,0.04
+Merluccius,senegalensis,29.25,-13.75,7201:393:2,0.01
+Merluccius,senegalensis,26.25,-15.75,7201:465:2,0.10
+Merluccius,senegalensis,27.75,-15.25,7201:475:3,0.01
+Merluccius,senegalensis,27.75,-15.75,7201:475:4,0.01
+Merluccius,senegalensis,27.75,-17.75,7201:477:4,0.01
+Merluccius,senegalensis,27.75,-18.25,7201:478:3,0.01
+Merluccius,senegalensis,31.75,-9.25,7300:219:3,0.04
+Merluccius,senegalensis,30.75,-10.75,7301:100:4,0.18
+Merluccius,senegalensis,12.75,-16.75,7101:226:4,0.35
+Merluccius,senegalensis,13.25,-16.75,7101:236:2,0.32
+Merluccius,senegalensis,23.75,-15.75,7201:235:4,0.31
+Merluccius,senegalensis,28.75,-12.75,7201:382:4,0.39
+Merluccius,senegalensis,29.25,-12.25,7201:392:1,0.24
+Merluccius,senegalensis,32.75,-9.75,7300:229:4,0.38
+Merluccius,senegalensis,31.25,-10.75,7301:110:2,0.32
+Merluccius,senegalensis,12.25,-16.75,7101:226:2,0.58
+Merluccius,senegalensis,16.25,-16.25,7101:466:1,0.41
+Merluccius,senegalensis,16.75,-16.25,7101:466:3,0.58
+Merluccius,senegalensis,19.25,-17.25,7101:497:1,0.40
+Merluccius,senegalensis,20.75,-16.25,7201:206:3,0.53
+Merluccius,senegalensis,20.25,-17.25,7201:207:1,0.57
+Merluccius,senegalensis,22.25,-16.25,7201:226:1,0.45
+Merluccius,senegalensis,24.75,-15.25,7201:245:3,0.53
+Merluccius,senegalensis,26.75,-14.75,7201:364:4,0.40
+Merluccius,senegalensis,28.25,-13.25,7201:383:1,0.55
+Merluccius,senegalensis,29.25,-11.75,7201:391:2,0.52
+Merluccius,senegalensis,30.25,-9.75,7300:209:2,0.56
+Merluccius,senegalensis,30.75,-9.75,7300:209:4,0.54
+Merluccius,senegalensis,31.25,-9.75,7300:219:2,0.52
+Merluccius,senegalensis,31.75,-9.75,7300:219:4,0.48
+Merluccius,senegalensis,32.75,-8.75,7300:228:4,0.51
+Merluccius,senegalensis,32.25,-9.25,7300:229:1,0.46
+Merluccius,senegalensis,32.75,-9.25,7300:229:3,0.42
+Merluccius,senegalensis,30.25,-10.25,7301:100:1,0.46
+Merluccius,senegalensis,30.75,-10.25,7301:100:3,0.54
+Merluccius,senegalensis,31.25,-10.25,7301:110:1,0.52
+Merluccius,senegalensis,17.25,-16.25,7101:476:1,0.78
+Merluccius,senegalensis,29.75,-9.75,7200:499:4,0.65
+Merluccius,senegalensis,20.25,-16.75,7201:206:2,0.68
+Merluccius,senegalensis,21.25,-16.75,7201:216:2,0.76
+Merluccius,senegalensis,21.25,-17.25,7201:217:1,0.71
+Merluccius,senegalensis,21.75,-17.25,7201:217:3,0.76
+Merluccius,senegalensis,22.25,-16.75,7201:226:2,0.75
+Merluccius,senegalensis,23.25,-16.25,7201:236:1,0.76
+Merluccius,senegalensis,23.75,-16.25,7201:236:3,0.76
+Merluccius,senegalensis,24.25,-15.25,7201:245:1,0.68
+Merluccius,senegalensis,24.25,-15.75,7201:245:2,0.60
+Merluccius,senegalensis,24.75,-15.75,7201:245:4,0.65
+Merluccius,senegalensis,24.75,-16.75,7201:246:4,0.78
+Merluccius,senegalensis,25.25,-14.75,7201:354:2,0.67
+Merluccius,senegalensis,25.75,-14.75,7201:354:4,0.71
+Merluccius,senegalensis,26.75,-13.75,7201:363:4,0.70
+Merluccius,senegalensis,26.25,-14.25,7201:364:1,0.71
+Merluccius,senegalensis,27.75,-12.75,7201:372:4,0.61
+Merluccius,senegalensis,27.25,-13.25,7201:373:1,0.72
+Merluccius,senegalensis,27.75,-13.25,7201:373:3,0.76
+Merluccius,senegalensis,27.75,-13.75,7201:373:4,0.68
+Merluccius,senegalensis,28.75,-10.75,7201:380:4,0.71
+Merluccius,senegalensis,28.25,-11.75,7201:381:2,0.71
+Merluccius,senegalensis,28.75,-11.25,7201:381:3,0.70
+Merluccius,senegalensis,28.75,-11.75,7201:381:4,0.76
+Merluccius,senegalensis,28.25,-12.25,7201:382:1,0.77
+Merluccius,senegalensis,28.75,-12.25,7201:382:3,0.63
+Merluccius,senegalensis,29.25,-10.25,7201:390:1,0.67
+Merluccius,senegalensis,29.25,-10.75,7201:390:2,0.70
+Merluccius,senegalensis,29.75,-10.25,7201:390:3,0.67
+Merluccius,senegalensis,29.75,-10.75,7201:390:4,0.68
+Merluccius,senegalensis,25.25,-15.25,7201:455:1,0.70
+Merluccius,senegalensis,32.25,-9.75,7300:229:2,0.62
+Merluccius,senegalensis,31.75,-10.25,7301:110:3,0.65
+Merluccius,senegalensis,12.25,-17.25,7101:227:1,0.97
+Merluccius,senegalensis,12.25,-17.75,7101:227:2,0.93
+Merluccius,senegalensis,12.75,-17.25,7101:227:3,1.00
+Merluccius,senegalensis,12.75,-17.75,7101:227:4,1.00
+Merluccius,senegalensis,13.25,-17.25,7101:237:1,0.90
+Merluccius,senegalensis,13.25,-17.75,7101:237:2,1.00
+Merluccius,senegalensis,13.75,-17.25,7101:237:3,1.00
+Merluccius,senegalensis,13.75,-17.75,7101:237:4,1.00
+Merluccius,senegalensis,14.25,-17.25,7101:247:1,1.00
+Merluccius,senegalensis,14.25,-17.75,7101:247:2,1.00
+Merluccius,senegalensis,14.75,-17.25,7101:247:3,1.00
+Merluccius,senegalensis,14.75,-17.75,7101:247:4,1.00
+Merluccius,senegalensis,15.25,-17.25,7101:457:1,1.00
+Merluccius,senegalensis,15.25,-17.75,7101:457:2,1.00
+Merluccius,senegalensis,15.75,-17.25,7101:457:3,1.00
+Merluccius,senegalensis,15.75,-17.75,7101:457:4,1.00
+Merluccius,senegalensis,16.75,-16.75,7101:466:4,1.00
+Merluccius,senegalensis,17.25,-16.75,7101:476:2,1.00
+Merluccius,senegalensis,17.75,-16.25,7101:476:3,1.00
+Merluccius,senegalensis,17.75,-16.75,7101:476:4,1.00
+Merluccius,senegalensis,18.25,-16.25,7101:486:1,1.00
+Merluccius,senegalensis,18.25,-16.75,7101:486:2,1.00
+Merluccius,senegalensis,18.75,-16.25,7101:486:3,0.88
+Merluccius,senegalensis,18.75,-16.75,7101:486:4,1.00
+Merluccius,senegalensis,19.25,-16.25,7101:496:1,1.00
+Merluccius,senegalensis,19.25,-16.75,7101:496:2,1.00
+Merluccius,senegalensis,19.75,-16.25,7101:496:3,1.00
+Merluccius,senegalensis,19.75,-16.75,7101:496:4,1.00
+Merluccius,senegalensis,19.75,-17.25,7101:497:3,1.00
+Merluccius,senegalensis,19.75,-17.75,7101:497:4,1.00
+Merluccius,senegalensis,24.75,-14.75,7201:144:4,0.82
+Merluccius,senegalensis,20.25,-16.25,7201:206:1,1.00
+Merluccius,senegalensis,20.25,-17.75,7201:207:2,1.00
+Merluccius,senegalensis,20.75,-17.25,7201:207:3,0.90
+Merluccius,senegalensis,20.75,-17.75,7201:207:4,1.00
+Merluccius,senegalensis,21.75,-16.75,7201:216:4,0.88
+Merluccius,senegalensis,21.25,-17.75,7201:217:2,0.98
+Merluccius,senegalensis,21.75,-17.75,7201:217:4,1.00
+Merluccius,senegalensis,22.75,-16.25,7201:226:3,0.94
+Merluccius,senegalensis,22.75,-16.75,7201:226:4,0.81
+Merluccius,senegalensis,22.25,-17.25,7201:227:1,0.85
+Merluccius,senegalensis,22.75,-17.25,7201:227:3,0.92
+Merluccius,senegalensis,23.25,-16.75,7201:236:2,0.80
+Merluccius,senegalensis,23.75,-16.75,7201:236:4,0.88
+Merluccius,senegalensis,23.25,-17.25,7201:237:1,0.99
+Merluccius,senegalensis,23.75,-17.25,7201:237:3,1.00
+Merluccius,senegalensis,24.25,-16.25,7201:246:1,0.80
+Merluccius,senegalensis,24.25,-16.75,7201:246:2,1.00
+Merluccius,senegalensis,24.75,-16.25,7201:246:3,0.94
+Merluccius,senegalensis,26.25,-14.75,7201:364:2,0.92
+Merluccius,senegalensis,26.75,-14.25,7201:364:3,0.88
+Merluccius,senegalensis,27.25,-13.75,7201:373:2,0.81
+Merluccius,senegalensis,28.25,-12.75,7201:382:2,0.81
+Merluccius,senegalensis,29.25,-11.25,7201:391:1,0.83
+Merluccius,senegalensis,25.25,-15.75,7201:455:2,0.95
+Merluccius,senegalensis,25.75,-15.25,7201:455:3,1.00
+Merluccius,senegalensis,25.75,-15.75,7201:455:4,1.00
+Merluccius,senegalensis,25.25,-16.25,7201:456:1,1.00
+Merluccius,senegalensis,25.75,-16.25,7201:456:3,0.93
+Merluccius,senegalensis,26.25,-15.25,7201:465:1,0.96
+
+
+Occurrence cells used for creating environmental envelope (n = 34)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Merluccius,senegalensis,12.25,-17.25,7101:227:1,316,25.5660400390625,18.4724922180176,34.6286888122559,35.6241989135742,20.3450005501509,0,132.662399291992,109
+Merluccius,senegalensis,13.25,-16.75,7101:236:2,24,25.4470157623291,24.6627807617188,33.8609161376953,35.2645606994629,36.4668294787407,0,206.578414916992,16
+Merluccius,senegalensis,13.25,-18.25,7101:238:1,3569,25.5211410522461,2.29614400863647,35.3785972595215,34.9127044677734,14.480999670922799,0,238.670791625977,205
+Merluccius,senegalensis,14.25,-17.25,7101:247:1,69,24.2309303283691,20.7504425048828,34.6433486938477,35.623477935791,39.7769995033741,0,177.559921264648,50
+Merluccius,senegalensis,14.25,-17.75,7101:247:2,1550,24.7673511505127,5.25689506530762,35.0516624450684,34.9093704223633,23.956000804901098,0,157.180526733398,94
+Merluccius,senegalensis,14.75,-17.25,7101:247:3,66,24.1432361602783,16.5816516876221,34.6518135070801,35.436595916748,39.2081178724766,0,122.901832580566,19
+Merluccius,senegalensis,15.25,-18.25,7101:458:1,2694,24.7488136291504,2.84194207191467,35.4006271362305,34.9507637023926,21.2810002267361,0,232.584121704102,144
+Merluccius,senegalensis,15.75,-16.75,7101:456:4,101,23.459997177124,21.0471363067627,33.636100769043,35.8442649841309,55.1359988749027,0,177.541015625,24
+Merluccius,senegalensis,15.75,-17.75,7101:457:4,2173,24.4539947509766,6.07605695724487,35.259937286377,34.8895225524902,25.102000683546102,0,122.011154174805,128
+Merluccius,senegalensis,16.25,-17.75,7101:467:2,2746,24.3132266998291,2.87316298484802,35.4120101928711,34.9526405334473,24.1049993783236,0,230.8037109375,169
+Merluccius,senegalensis,16.75,-16.75,7101:466:4,546,23.1344127655029,15.352105140686,34.2896003723145,35.5718841552734,57.9399988055229,0,53.1768112182617,80
+Merluccius,senegalensis,17.25,-16.25,7101:476:1,121,22.5219268798828,22.5816841125488,34.1500473022461,35.8642387390137,67.8789988160133,0,213.241638183594,19
+Merluccius,senegalensis,17.25,-16.75,7101:476:2,688,23.0252552032471,13.3651838302612,35.1891899108887,35.4065780639648,50.4509992897511,0,45.9216117858887,80
+Merluccius,senegalensis,17.75,-16.25,7101:476:3,60,22.3417434692383,19.0727729797363,35.5071449279785,35.7878074645996,66.7620003223419,0,127.32926940918,25
+Merluccius,senegalensis,17.75,-17.75,7101:477:4,2737,23.5370178222656,2.8914520740509,35.7283477783203,34.952075958252,24.0240003913641,0,229.994934082031,185
+Merluccius,senegalensis,18.25,-16.25,7101:486:1,100,22.0613327026367,20.8432540893555,35.7379341125488,35.8542175292969,76.5940025448799,0,173.917724609375,26
+Merluccius,senegalensis,18.25,-16.75,7101:486:2,1150,22.640510559082,6.30654382705688,35.7466468811035,34.9455528259277,53.5620003938675,0,117.14234161377,79
+Merluccius,senegalensis,18.75,-16.25,7101:486:3,111,21.6797275543213,22.0158786773682,35.8304176330566,35.9128494262695,98.9129990339279,0,217.373565673828,21
+Merluccius,senegalensis,18.75,-16.75,7101:486:4,679,22.1543979644775,11.9543371200562,35.8350410461426,35.2897300720215,65.6849965453148,0,64.5254592895508,79
+Merluccius,senegalensis,18.75,-18.75,7101:488:4,3008,22.9173526763916,2.57503604888916,35.994327545166,34.9357986450195,21.384999155998198,0,233.913482666016,290
+Merluccius,senegalensis,19.25,-16.75,7101:496:2,353,21.9523372650146,14.6631278991699,35.99560546875,35.5798149108887,72.2299963235855,0,37.498706817627,79
+Merluccius,senegalensis,19.25,-17.75,7101:497:2,2260,22.4772529602051,3.39834499359131,35.9090270996094,34.9826164245605,31.5750017762184,0,222.278594970703,184
+Merluccius,senegalensis,19.75,-16.75,7101:496:4,31,22.657190322876,21.9823112487793,36.1382141113281,35.9664916992188,55.0340004265308,0,228.899063110352,79
+Merluccius,senegalensis,19.75,-17.25,7101:497:3,821,21.5614681243896,8.59523391723633,36.0372695922852,35.1072082519531,85.7219994068146,0,77.0353469848633,131
+Merluccius,senegalensis,20.25,-17.25,7201:207:1,35,20.6289691925049,20.3523731231689,36.0986862182617,36.0031433105469,111.455000936985,0,208.9423828125,108
+Merluccius,senegalensis,20.25,-17.75,7201:207:2,944,20.7290134429932,7.99354600906372,36.0360984802246,35.0387916564941,64.1210004687309,0,85.1880035400391,128
+Merluccius,senegalensis,20.75,-17.25,7201:207:3,27,19.704704284668,19.1699600219727,36.0966567993164,36.0744171142578,94.1279977560043,0,147.899002075195,26
+Merluccius,senegalensis,20.75,-17.75,7201:207:4,658,20.0599060058594,11.6875448226929,36.0885047912598,35.4967613220215,66.6769966483116,0,83.1647033691406,104
+Merluccius,senegalensis,21.75,-18.75,7201:218:4,3113,21.2025699615479,2.48643493652344,36.417106628418,34.9445953369141,21.144000813365,0,241.587631225586,217
+Merluccius,senegalensis,25.25,-16.75,7201:456:2,2359,21.0993518829346,3.99693202972412,36.7298812866211,35.0520515441895,7.61700002476573,0,223.218475341797,200
+Merluccius,senegalensis,25.75,-14.75,7201:354:4,98,19.0392456054688,18.866153717041,36.5693664550781,36.6416893005371,27.8750006109476,0,227.565170288086,20
+Merluccius,senegalensis,28.25,-14.25,7201:384:1,874,20.7380046844482,20.6121768951416,36.6969375610352,36.6449775695801,0.60299999313429,0,226.862121582031,21
+Merluccius,senegalensis,29.75,-15.75,7201:495:4,3516,21.0511837005615,2.32464694976807,36.8317222595215,34.91259765625,0.289999996311963,0,245.205474853516,104
+Merluccius,senegalensis,32.75,-9.25,7300:229:3,131,19.149715423584,17.4331340789795,36.3509101867676,36.5598297119141,4.44900011643767,0,238.759643554688,20

@@ -1,0 +1,237 @@
+Mapping parameters for Serranus heterurus ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 34,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,5,26,98,200
+Temperature (°C),1,23.8,24.3,27.95,32.15
+Salinity (psu),1,31.97,33.04,35.83,36.4
+Primary Production,1,626,691,1813,2254
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,8,22,148,299.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 190): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Serranus,heterurus,-0.75,8.75,3000:208:4,0.03
+Serranus,heterurus,-0.75,9.25,3000:209:3,0.06
+Serranus,heterurus,-9.25,13.25,3001:393:1,0.10
+Serranus,heterurus,-13.25,12.75,3101:132:2,0.15
+Serranus,heterurus,-13.75,12.75,3101:132:4,0.14
+Serranus,heterurus,16.25,-22.75,7102:362:2,0.13
+Serranus,heterurus,16.75,-22.75,7102:362:4,0.13
+Serranus,heterurus,16.75,-24.25,7102:364:3,0.07
+Serranus,heterurus,-3.75,10.25,3001:130:3,0.34
+Serranus,heterurus,-8.75,12.75,3001:382:4,0.34
+Serranus,heterurus,-13.75,12.25,3101:132:3,0.28
+Serranus,heterurus,10.75,-15.75,7101:205:4,0.31
+Serranus,heterurus,13.25,-16.25,7101:236:1,0.24
+Serranus,heterurus,16.25,-23.25,7102:363:1,0.26
+Serranus,heterurus,16.75,-23.75,7102:363:4,0.26
+Serranus,heterurus,16.25,-24.25,7102:364:1,0.33
+Serranus,heterurus,3.75,5.75,1000:235:4,0.43
+Serranus,heterurus,4.25,5.75,1000:245:2,0.43
+Serranus,heterurus,-1.75,9.25,3000:219:3,0.53
+Serranus,heterurus,-7.75,12.75,3001:372:4,0.41
+Serranus,heterurus,-8.25,13.25,3001:383:1,0.54
+Serranus,heterurus,-8.75,13.25,3001:383:3,0.54
+Serranus,heterurus,-10.25,13.75,3101:103:2,0.57
+Serranus,heterurus,5.25,-0.75,7000:350:2,0.52
+Serranus,heterurus,5.25,-2.75,7000:352:2,0.57
+Serranus,heterurus,5.25,-10.25,7001:350:1,0.53
+Serranus,heterurus,9.25,-14.25,7001:394:1,0.57
+Serranus,heterurus,10.75,-17.25,7101:207:3,0.57
+Serranus,heterurus,5.75,4.75,1000:354:4,0.62
+Serranus,heterurus,-1.25,8.25,3000:218:1,0.66
+Serranus,heterurus,-1.75,8.75,3000:218:4,0.64
+Serranus,heterurus,-3.25,10.25,3001:130:1,0.76
+Serranus,heterurus,-9.75,13.25,3001:393:3,0.62
+Serranus,heterurus,6.75,-12.25,7001:362:3,0.74
+Serranus,heterurus,9.75,-13.25,7001:393:3,0.76
+Serranus,heterurus,10.75,-15.25,7101:205:3,0.63
+Serranus,heterurus,15.25,-23.25,7102:353:1,0.79
+Serranus,heterurus,15.25,-23.75,7102:353:2,0.79
+Serranus,heterurus,15.75,-23.25,7102:353:3,0.79
+Serranus,heterurus,15.25,-24.25,7102:354:1,0.67
+Serranus,heterurus,15.25,-24.75,7102:354:2,0.67
+Serranus,heterurus,4.75,4.75,1000:144:4,1.00
+Serranus,heterurus,4.25,5.25,1000:245:1,1.00
+Serranus,heterurus,4.75,5.25,1000:245:3,1.00
+Serranus,heterurus,4.75,5.75,1000:245:4,1.00
+Serranus,heterurus,5.25,0.25,1000:350:1,1.00
+Serranus,heterurus,5.75,0.25,1000:350:3,1.00
+Serranus,heterurus,5.75,0.75,1000:350:4,1.00
+Serranus,heterurus,5.75,1.25,1000:351:3,1.00
+Serranus,heterurus,5.25,4.75,1000:354:2,1.00
+Serranus,heterurus,6.25,1.25,1000:361:1,1.00
+Serranus,heterurus,6.25,1.75,1000:361:2,1.00
+Serranus,heterurus,6.25,2.25,1000:362:1,1.00
+Serranus,heterurus,6.25,2.75,1000:362:2,1.00
+Serranus,heterurus,6.25,3.25,1000:363:1,1.00
+Serranus,heterurus,6.25,3.75,1000:363:2,1.00
+Serranus,heterurus,6.25,4.25,1000:364:1,1.00
+Serranus,heterurus,6.25,4.75,1000:364:2,1.00
+Serranus,heterurus,5.25,5.25,1000:455:1,1.00
+Serranus,heterurus,5.75,5.25,1000:455:3,1.00
+Serranus,heterurus,-0.25,8.75,3000:208:2,0.99
+Serranus,heterurus,-0.25,9.25,3000:209:1,1.00
+Serranus,heterurus,-1.25,5.75,3000:215:2,1.00
+Serranus,heterurus,-1.25,8.75,3000:218:2,1.00
+Serranus,heterurus,-2.25,8.75,3000:228:2,1.00
+Serranus,heterurus,-2.25,9.25,3000:229:1,1.00
+Serranus,heterurus,-2.25,9.75,3000:229:2,1.00
+Serranus,heterurus,-2.75,9.25,3000:229:3,1.00
+Serranus,heterurus,-2.75,9.75,3000:229:4,1.00
+Serranus,heterurus,-3.25,9.75,3000:239:2,1.00
+Serranus,heterurus,-5.25,1.75,3000:351:2,0.83
+Serranus,heterurus,-2.75,10.25,3001:120:3,1.00
+Serranus,heterurus,-3.25,10.75,3001:130:2,1.00
+Serranus,heterurus,-7.25,12.25,3001:372:1,1.00
+Serranus,heterurus,-8.25,12.75,3001:382:2,0.91
+Serranus,heterurus,-9.25,12.75,3001:392:2,1.00
+Serranus,heterurus,-9.75,12.75,3001:392:4,1.00
+Serranus,heterurus,-10.25,13.25,3101:103:1,1.00
+Serranus,heterurus,-10.75,13.25,3101:103:3,1.00
+Serranus,heterurus,-10.75,13.75,3101:103:4,1.00
+Serranus,heterurus,-11.25,13.25,3101:113:1,1.00
+Serranus,heterurus,-11.25,13.75,3101:113:2,1.00
+Serranus,heterurus,-11.75,13.25,3101:113:3,1.00
+Serranus,heterurus,-11.75,13.75,3101:113:4,1.00
+Serranus,heterurus,-12.75,12.75,3101:122:4,1.00
+Serranus,heterurus,-12.25,13.25,3101:123:1,1.00
+Serranus,heterurus,-12.25,13.75,3101:123:2,0.95
+Serranus,heterurus,-12.75,13.25,3101:123:3,0.88
+Serranus,heterurus,4.25,-0.75,7000:140:2,1.00
+Serranus,heterurus,4.75,-0.25,7000:140:3,1.00
+Serranus,heterurus,4.75,-0.75,7000:140:4,1.00
+Serranus,heterurus,4.25,-1.25,7000:141:1,1.00
+Serranus,heterurus,4.25,-1.75,7000:141:2,1.00
+Serranus,heterurus,4.75,-1.25,7000:141:3,1.00
+Serranus,heterurus,4.75,-1.75,7000:141:4,1.00
+Serranus,heterurus,4.25,-2.25,7000:142:1,1.00
+Serranus,heterurus,4.75,-2.25,7000:142:3,1.00
+Serranus,heterurus,4.75,-2.75,7000:142:4,1.00
+Serranus,heterurus,4.75,-3.25,7000:143:3,1.00
+Serranus,heterurus,4.75,-5.25,7000:245:3,1.00
+Serranus,heterurus,4.75,-5.75,7000:245:4,1.00
+Serranus,heterurus,4.25,-6.75,7000:246:2,1.00
+Serranus,heterurus,4.75,-6.25,7000:246:3,1.00
+Serranus,heterurus,4.75,-6.75,7000:246:4,1.00
+Serranus,heterurus,4.25,-7.25,7000:247:1,1.00
+Serranus,heterurus,4.25,-7.75,7000:247:2,1.00
+Serranus,heterurus,4.75,-7.75,7000:247:4,1.00
+Serranus,heterurus,4.25,-8.25,7000:248:1,1.00
+Serranus,heterurus,4.75,-8.25,7000:248:3,1.00
+Serranus,heterurus,4.75,-8.75,7000:248:4,1.00
+Serranus,heterurus,4.75,-9.25,7000:249:3,0.99
+Serranus,heterurus,5.25,-0.25,7000:350:1,1.00
+Serranus,heterurus,5.75,-0.25,7000:350:3,1.00
+Serranus,heterurus,5.25,-1.25,7000:351:1,1.00
+Serranus,heterurus,5.25,-1.75,7000:351:2,1.00
+Serranus,heterurus,5.25,-3.25,7000:353:1,1.00
+Serranus,heterurus,5.25,-3.75,7000:353:2,1.00
+Serranus,heterurus,5.25,-4.25,7000:354:1,1.00
+Serranus,heterurus,5.25,-4.75,7000:354:2,1.00
+Serranus,heterurus,5.25,-5.25,7000:455:1,1.00
+Serranus,heterurus,5.25,-9.25,7000:459:1,1.00
+Serranus,heterurus,5.25,-9.75,7000:459:2,1.00
+Serranus,heterurus,5.75,-9.75,7000:459:4,1.00
+Serranus,heterurus,5.75,-10.25,7001:350:3,0.99
+Serranus,heterurus,5.75,-10.75,7001:350:4,0.99
+Serranus,heterurus,6.25,-10.25,7001:360:1,1.00
+Serranus,heterurus,6.25,-10.75,7001:360:2,1.00
+Serranus,heterurus,6.75,-10.75,7001:360:4,0.95
+Serranus,heterurus,6.25,-11.25,7001:361:1,1.00
+Serranus,heterurus,6.75,-11.25,7001:361:3,1.00
+Serranus,heterurus,6.75,-11.75,7001:361:4,1.00
+Serranus,heterurus,7.25,-11.75,7001:371:2,1.00
+Serranus,heterurus,7.25,-12.25,7001:372:1,1.00
+Serranus,heterurus,7.25,-12.75,7001:372:2,1.00
+Serranus,heterurus,7.75,-12.75,7001:372:4,1.00
+Serranus,heterurus,7.25,-13.25,7001:373:1,1.00
+Serranus,heterurus,7.25,-13.75,7001:373:2,1.00
+Serranus,heterurus,7.75,-13.25,7001:373:3,1.00
+Serranus,heterurus,7.75,-13.75,7001:373:4,1.00
+Serranus,heterurus,7.75,-14.25,7001:374:3,1.00
+Serranus,heterurus,8.25,-12.75,7001:382:2,1.00
+Serranus,heterurus,8.25,-13.25,7001:383:1,1.00
+Serranus,heterurus,8.25,-13.75,7001:383:2,1.00
+Serranus,heterurus,8.75,-13.25,7001:383:3,1.00
+Serranus,heterurus,8.75,-13.75,7001:383:4,1.00
+Serranus,heterurus,8.25,-14.25,7001:384:1,1.00
+Serranus,heterurus,8.75,-14.25,7001:384:3,1.00
+Serranus,heterurus,8.75,-14.75,7001:384:4,1.00
+Serranus,heterurus,9.25,-13.25,7001:393:1,1.00
+Serranus,heterurus,9.25,-13.75,7001:393:2,1.00
+Serranus,heterurus,9.75,-13.75,7001:393:4,1.00
+Serranus,heterurus,9.25,-14.75,7001:394:2,1.00
+Serranus,heterurus,9.75,-14.25,7001:394:3,1.00
+Serranus,heterurus,9.75,-14.75,7001:394:4,1.00
+Serranus,heterurus,9.25,-15.25,7001:495:1,1.00
+Serranus,heterurus,9.25,-15.75,7001:495:2,1.00
+Serranus,heterurus,9.75,-15.25,7001:495:3,1.00
+Serranus,heterurus,9.75,-15.75,7001:495:4,1.00
+Serranus,heterurus,9.75,-16.25,7001:496:3,1.00
+Serranus,heterurus,9.75,-16.75,7001:496:4,1.00
+Serranus,heterurus,10.25,-14.25,7101:104:1,1.00
+Serranus,heterurus,10.25,-14.75,7101:104:2,1.00
+Serranus,heterurus,10.75,-14.75,7101:104:4,1.00
+Serranus,heterurus,10.25,-15.75,7101:205:2,1.00
+Serranus,heterurus,10.25,-16.25,7101:206:1,1.00
+Serranus,heterurus,10.25,-16.75,7101:206:2,1.00
+Serranus,heterurus,10.75,-16.75,7101:206:4,1.00
+Serranus,heterurus,11.25,-15.25,7101:215:1,1.00
+Serranus,heterurus,11.25,-15.75,7101:215:2,1.00
+Serranus,heterurus,11.75,-15.25,7101:215:3,1.00
+Serranus,heterurus,11.75,-15.75,7101:215:4,1.00
+Serranus,heterurus,11.25,-16.25,7101:216:1,1.00
+Serranus,heterurus,11.25,-16.75,7101:216:2,1.00
+Serranus,heterurus,11.75,-16.25,7101:216:3,1.00
+Serranus,heterurus,11.75,-16.75,7101:216:4,1.00
+Serranus,heterurus,11.25,-17.25,7101:217:1,1.00
+Serranus,heterurus,11.75,-17.25,7101:217:3,1.00
+Serranus,heterurus,12.25,-16.25,7101:226:1,0.86
+Serranus,heterurus,12.25,-16.75,7101:226:2,1.00
+Serranus,heterurus,12.75,-16.75,7101:226:4,1.00
+Serranus,heterurus,12.25,-17.25,7101:227:1,0.85
+Serranus,heterurus,12.75,-17.25,7101:227:3,1.00
+Serranus,heterurus,12.75,-17.75,7101:227:4,1.00
+Serranus,heterurus,13.25,-16.75,7101:236:2,1.00
+Serranus,heterurus,13.25,-17.75,7101:237:2,1.00
+Serranus,heterurus,14.75,-23.25,7102:143:3,0.95
+Serranus,heterurus,14.75,-23.75,7102:143:4,0.95
+Serranus,heterurus,14.75,-24.25,7102:144:3,0.82
+Serranus,heterurus,14.75,-24.75,7102:144:4,0.82
+Serranus,heterurus,15.75,-22.75,7102:352:4,0.91
+
+
+Occurrence cells used for creating environmental envelope (n = 11)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Serranus,heterurus,-1.25,5.75,3000:215:2,2743,26.43,34.34,691,0,28
+Serranus,heterurus,0.25,6.75,1000:206:2,1148,27.32,33.04,626,0,22
+Serranus,heterurus,4.25,5.75,1000:245:2,13,27.95,32.43,754,0,27
+Serranus,heterurus,4.75,5.25,1000:245:3,92,27.95,33.63,1053,0,27
+Serranus,heterurus,4.75,-8.25,7000:248:3,50,27.88,34.74,1187,0,8
+Serranus,heterurus,9.25,-14.75,7001:394:2,51,27.24,33.75,1127,0,148
+Serranus,heterurus,9.75,-14.75,7001:394:4,8,27.24,33.75,1312,0,97
+Serranus,heterurus,10.25,-15.75,7101:205:2,110,26.66,34.36,1813,0,133
+Serranus,heterurus,10.25,-15.25,7101:205:1,55,26.66,34.36,2254,0,95
+Serranus,heterurus,15.75,-21.25,7102:351:3,3952,24.3,35.83,1005,0,223
+Serranus,heterurus,16.25,-22.75,7102:362:2,765,23.89,36,950,0,22

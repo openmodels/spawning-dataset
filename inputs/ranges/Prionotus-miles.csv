@@ -1,0 +1,64 @@
+Mapping parameters for Prionotus miles (Galapagos gurnard)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 87,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,22,96,200
+Temperature (°C),1,22.88,23.38,24.38,24.88
+Salinity (psu),1,33.61,34.11,34.84,35.34
+Primary Production,1,399,500,751,817
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,13,22,111,304
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 18): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Prionotus,miles,-1.25,-81.25,5008:111:1,0.03
+Prionotus,miles,0.25,-89.75,7008:209:2,0.13
+Prionotus,miles,-0.25,-91.75,5009:101:2,0.39
+Prionotus,miles,0.25,-90.25,7009:100:1,0.35
+Prionotus,miles,0.75,-90.75,7009:100:4,0.28
+Prionotus,miles,-0.25,-90.25,5009:100:1,0.70
+Prionotus,miles,-0.75,-89.25,5008:209:3,0.89
+Prionotus,miles,-0.75,-89.75,5008:209:4,1.00
+Prionotus,miles,-1.25,-89.75,5008:219:2,1.00
+Prionotus,miles,-0.25,-90.75,5009:100:2,1.00
+Prionotus,miles,-0.75,-90.25,5009:100:3,1.00
+Prionotus,miles,-0.75,-90.75,5009:100:4,1.00
+Prionotus,miles,-0.25,-91.25,5009:101:1,1.00
+Prionotus,miles,-1.25,-90.25,5009:110:1,1.00
+Prionotus,miles,-1.25,-90.75,5009:110:2,1.00
+Prionotus,miles,-1.25,-91.25,5009:111:1,1.00
+Prionotus,miles,0.25,-91.25,7009:101:1,0.98
+Prionotus,miles,0.25,-91.75,7009:101:2,0.98
+
+
+Occurrence cells used for creating environmental envelope (n = 10)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Prionotus,miles,-3.25,-91.25,5009:131:1,3589,24.21,34.74,500,0,304
+Prionotus,miles,-1.25,-90.25,5009:110:1,342,23.53,34.58,538,0,28
+Prionotus,miles,-0.75,-89.75,5008:209:4,357,23.91,34.31,522,0,28
+Prionotus,miles,-0.75,-91.75,5009:101:4,3165,23.55,34.56,817,0,111
+Prionotus,miles,-0.75,-90.75,5009:100:4,138,23.73,34.45,584,0,22
+Prionotus,miles,-0.75,-90.25,5009:100:3,129,23.73,34.45,510,0,22
+Prionotus,miles,-0.25,-90.75,5009:100:2,680,23.73,34.45,515,0,24
+Prionotus,miles,-0.25,-90.25,5009:100:1,832,23.73,34.45,470,0,28
+Prionotus,miles,-0.25,-91.25,5009:101:1,480,23.55,34.11,751,0,16
+Prionotus,miles,0.25,-91.25,7009:101:1,2311,24.39,34.11,543,0,25

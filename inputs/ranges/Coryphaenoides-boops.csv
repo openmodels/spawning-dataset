@@ -1,0 +1,250 @@
+Mapping parameters for Coryphaenoides boops (Shortsnout grenadier)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,1,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,605,651,786,1000
+Temperature (°C),1,1.3,1.8,13.72,17.42
+Salinity (psu),1,34.13,34.63,34.98,35.48
+Primary Production,1,500,599.6,1639.2,2255.75
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,24,59.4,296.799987792969,415.75
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 207): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Coryphaenoides,boops,-1.25,-82.25,5008:112:1,0.13
+Coryphaenoides,boops,-1.75,-82.75,5008:112:4,0.15
+Coryphaenoides,boops,-0.75,-88.25,5008:208:3,0.01
+Coryphaenoides,boops,-1.25,-87.75,5008:217:2,0.08
+Coryphaenoides,boops,-1.25,-89.25,5008:219:1,0.09
+Coryphaenoides,boops,-1.25,-89.75,5008:219:2,0.10
+Coryphaenoides,boops,-1.75,-89.75,5008:219:4,0.09
+Coryphaenoides,boops,-8.25,-80.75,5008:380:2,0.07
+Coryphaenoides,boops,-0.25,-90.75,5009:100:2,0.14
+Coryphaenoides,boops,-33.75,-78.25,5307:238:3,0.15
+Coryphaenoides,boops,-38.75,-73.75,5307:383:4,0.19
+Coryphaenoides,boops,-39.25,-73.75,5307:393:2,0.19
+Coryphaenoides,boops,-39.75,-73.75,5307:393:4,0.09
+Coryphaenoides,boops,-42.75,-74.25,5407:124:3,0.16
+Coryphaenoides,boops,-44.25,-74.75,5407:144:2,0.16
+Coryphaenoides,boops,-48.75,-75.75,5407:485:4,0.16
+Coryphaenoides,boops,-45.75,-75.25,5407:455:3,0.15
+Coryphaenoides,boops,-55.75,-66.75,5506:456:4,0.06
+Coryphaenoides,boops,-53.75,-74.25,5507:134:3,0.06
+Coryphaenoides,boops,-53.75,-74.75,5507:134:4,0.02
+Coryphaenoides,boops,-54.75,-73.25,5507:143:3,0.19
+Coryphaenoides,boops,-52.75,-75.25,5507:225:3,0.03
+Coryphaenoides,boops,-55.25,-71.25,5507:351:1,0.12
+Coryphaenoides,boops,-2.75,-80.75,5008:120:4,0.23
+Coryphaenoides,boops,-0.75,-89.75,5008:209:4,0.22
+Coryphaenoides,boops,-1.25,-88.25,5008:218:1,0.23
+Coryphaenoides,boops,-1.25,-88.75,5008:218:2,0.21
+Coryphaenoides,boops,-1.25,-90.25,5009:110:1,0.38
+Coryphaenoides,boops,-1.75,-90.25,5009:110:3,0.22
+Coryphaenoides,boops,-11.75,-77.75,5107:217:4,0.36
+Coryphaenoides,boops,-13.25,-76.75,5107:236:2,0.31
+Coryphaenoides,boops,-13.75,-76.75,5107:236:4,0.30
+Coryphaenoides,boops,-15.25,-75.75,5107:455:2,0.38
+Coryphaenoides,boops,-33.25,-71.75,5307:131:2,0.32
+Coryphaenoides,boops,-34.75,-72.25,5307:142:3,0.39
+Coryphaenoides,boops,-33.25,-77.25,5307:237:1,0.36
+Coryphaenoides,boops,-33.25,-77.75,5307:237:2,0.31
+Coryphaenoides,boops,-33.75,-77.75,5307:237:4,0.27
+Coryphaenoides,boops,-36.25,-73.25,5307:363:1,0.20
+Coryphaenoides,boops,-37.25,-73.75,5307:373:2,0.28
+Coryphaenoides,boops,-37.75,-73.75,5307:373:4,0.34
+Coryphaenoides,boops,-40.25,-74.25,5407:104:1,0.33
+Coryphaenoides,boops,-40.75,-74.25,5407:104:3,0.29
+Coryphaenoides,boops,-41.25,-74.25,5407:114:1,0.27
+Coryphaenoides,boops,-41.75,-74.75,5407:114:4,0.27
+Coryphaenoides,boops,-42.25,-74.75,5407:124:2,0.24
+Coryphaenoides,boops,-42.75,-74.75,5407:124:4,0.36
+Coryphaenoides,boops,-43.25,-74.75,5407:134:2,0.33
+Coryphaenoides,boops,-44.25,-75.25,5407:245:1,0.23
+Coryphaenoides,boops,-44.75,-75.25,5407:245:3,0.27
+Coryphaenoides,boops,-45.25,-74.75,5407:354:2,0.32
+Coryphaenoides,boops,-48.25,-75.75,5407:485:2,0.23
+Coryphaenoides,boops,-49.25,-75.75,5407:495:2,0.22
+Coryphaenoides,boops,-49.75,-75.75,5407:495:4,0.22
+Coryphaenoides,boops,-45.25,-75.25,5407:455:1,0.24
+Coryphaenoides,boops,-46.25,-75.25,5407:465:1,0.21
+Coryphaenoides,boops,-54.75,-72.75,5507:142:4,0.26
+Coryphaenoides,boops,-54.25,-73.75,5507:143:2,0.20
+Coryphaenoides,boops,-50.25,-75.75,5507:205:2,0.24
+Coryphaenoides,boops,-51.25,-75.75,5507:215:2,0.20
+Coryphaenoides,boops,-51.75,-75.75,5507:215:4,0.32
+Coryphaenoides,boops,-51.25,-76.25,5507:216:1,0.21
+Coryphaenoides,boops,-55.25,-71.75,5507:351:2,0.27
+Coryphaenoides,boops,-4.25,-81.25,5008:141:1,0.52
+Coryphaenoides,boops,-10.75,-78.25,5107:208:3,0.51
+Coryphaenoides,boops,-13.25,-77.25,5107:237:1,0.55
+Coryphaenoides,boops,-14.75,-76.25,5107:246:3,0.52
+Coryphaenoides,boops,-33.75,-71.75,5307:131:4,0.53
+Coryphaenoides,boops,-33.25,-72.25,5307:132:1,0.42
+Coryphaenoides,boops,-34.25,-72.25,5307:142:1,0.52
+Coryphaenoides,boops,-35.75,-73.25,5307:353:3,0.57
+Coryphaenoides,boops,-43.75,-75.25,5407:235:3,0.58
+Coryphaenoides,boops,-44.25,-75.75,5407:245:2,0.47
+Coryphaenoides,boops,-47.75,-75.75,5407:475:4,0.52
+Coryphaenoides,boops,-52.25,-75.75,5507:225:2,0.42
+Coryphaenoides,boops,-55.25,-72.25,5507:352:1,0.59
+Coryphaenoides,boops,0.25,-91.25,7009:101:1,0.43
+Coryphaenoides,boops,-26.25,-70.75,5207:360:2,0.70
+Coryphaenoides,boops,-3.25,-80.75,5008:130:2,0.73
+Coryphaenoides,boops,-1.25,-87.25,5008:217:1,0.75
+Coryphaenoides,boops,-6.75,-81.25,5008:361:3,0.62
+Coryphaenoides,boops,-7.25,-80.75,5008:370:2,0.65
+Coryphaenoides,boops,-16.75,-72.25,5107:362:3,0.66
+Coryphaenoides,boops,-16.75,-72.75,5107:362:4,0.63
+Coryphaenoides,boops,-17.75,-71.25,5107:371:3,0.68
+Coryphaenoides,boops,-19.25,-70.25,5107:390:1,0.71
+Coryphaenoides,boops,-19.75,-70.25,5107:390:3,0.71
+Coryphaenoides,boops,-20.25,-70.25,5207:100:1,0.71
+Coryphaenoides,boops,-20.25,-70.75,5207:100:2,0.67
+Coryphaenoides,boops,-21.75,-70.25,5207:110:3,0.69
+Coryphaenoides,boops,-22.25,-70.25,5207:120:1,0.68
+Coryphaenoides,boops,-25.75,-70.75,5207:350:4,0.78
+Coryphaenoides,boops,-32.25,-71.75,5307:121:2,0.74
+Coryphaenoides,boops,-32.75,-71.75,5307:121:4,0.74
+Coryphaenoides,boops,-36.75,-73.75,5307:363:4,0.74
+Coryphaenoides,boops,-37.25,-74.25,5307:374:1,0.62
+Coryphaenoides,boops,-39.75,-74.25,5307:394:3,0.63
+Coryphaenoides,boops,-50.25,-76.25,5507:206:1,0.69
+Coryphaenoides,boops,-50.75,-76.25,5507:206:3,0.75
+Coryphaenoides,boops,0.25,-91.75,7009:101:2,0.73
+Coryphaenoides,boops,-26.75,-70.75,5207:360:4,0.81
+Coryphaenoides,boops,-27.25,-70.75,5207:370:2,1.00
+Coryphaenoides,boops,-27.25,-71.25,5207:371:1,1.00
+Coryphaenoides,boops,-27.75,-71.25,5207:371:3,1.00
+Coryphaenoides,boops,-8.75,-79.75,5007:489:4,1.00
+Coryphaenoides,boops,-9.25,-79.75,5007:499:2,0.84
+Coryphaenoides,boops,-9.75,-79.25,5007:499:3,0.99
+Coryphaenoides,boops,-9.75,-79.75,5007:499:4,1.00
+Coryphaenoides,boops,-0.25,-80.75,5008:100:2,0.99
+Coryphaenoides,boops,-0.75,-80.75,5008:100:4,0.97
+Coryphaenoides,boops,-0.25,-81.75,5008:101:2,0.94
+Coryphaenoides,boops,-0.75,-81.25,5008:101:3,1.00
+Coryphaenoides,boops,-1.25,-81.25,5008:111:1,1.00
+Coryphaenoides,boops,-1.75,-81.25,5008:111:3,1.00
+Coryphaenoides,boops,-2.25,-81.25,5008:121:1,1.00
+Coryphaenoides,boops,-2.75,-81.25,5008:121:3,1.00
+Coryphaenoides,boops,-3.25,-81.25,5008:131:1,0.95
+Coryphaenoides,boops,-3.75,-81.25,5008:131:3,0.88
+Coryphaenoides,boops,-7.75,-80.25,5008:370:3,1.00
+Coryphaenoides,boops,-7.75,-80.75,5008:370:4,1.00
+Coryphaenoides,boops,-8.25,-80.25,5008:380:1,0.88
+Coryphaenoides,boops,-8.75,-80.25,5008:380:3,0.97
+Coryphaenoides,boops,-0.25,-91.25,5009:101:1,1.00
+Coryphaenoides,boops,-0.25,-91.75,5009:101:2,1.00
+Coryphaenoides,boops,-0.75,-91.25,5009:101:3,1.00
+Coryphaenoides,boops,-1.25,-90.75,5009:110:2,0.83
+Coryphaenoides,boops,-1.25,-91.25,5009:111:1,1.00
+Coryphaenoides,boops,-10.25,-78.75,5107:208:2,1.00
+Coryphaenoides,boops,-10.75,-78.75,5107:208:4,0.97
+Coryphaenoides,boops,-10.25,-79.25,5107:209:1,0.99
+Coryphaenoides,boops,-11.25,-78.25,5107:218:1,0.83
+Coryphaenoides,boops,-11.75,-78.25,5107:218:3,0.94
+Coryphaenoides,boops,-12.25,-77.75,5107:227:2,0.85
+Coryphaenoides,boops,-12.75,-77.25,5107:227:3,0.86
+Coryphaenoides,boops,-12.75,-77.75,5107:227:4,0.97
+Coryphaenoides,boops,-14.75,-75.75,5107:245:4,1.00
+Coryphaenoides,boops,-14.25,-76.25,5107:246:1,1.00
+Coryphaenoides,boops,-14.25,-76.75,5107:246:2,0.87
+Coryphaenoides,boops,-15.75,-74.25,5107:354:3,0.94
+Coryphaenoides,boops,-15.75,-74.75,5107:354:4,0.83
+Coryphaenoides,boops,-16.25,-73.25,5107:363:1,0.81
+Coryphaenoides,boops,-16.25,-73.75,5107:363:2,0.81
+Coryphaenoides,boops,-16.75,-73.25,5107:363:3,1.00
+Coryphaenoides,boops,-16.25,-74.25,5107:364:1,1.00
+Coryphaenoides,boops,-17.25,-71.75,5107:371:2,0.96
+Coryphaenoides,boops,-17.75,-71.75,5107:371:4,0.80
+Coryphaenoides,boops,-17.25,-72.25,5107:372:1,0.81
+Coryphaenoides,boops,-17.25,-72.75,5107:372:2,0.99
+Coryphaenoides,boops,-18.25,-70.75,5107:380:2,0.81
+Coryphaenoides,boops,-18.75,-70.25,5107:380:3,0.80
+Coryphaenoides,boops,-18.75,-70.75,5107:380:4,0.94
+Coryphaenoides,boops,-18.25,-71.25,5107:381:1,0.84
+Coryphaenoides,boops,-19.25,-70.75,5107:390:2,0.88
+Coryphaenoides,boops,-19.75,-70.75,5107:390:4,1.00
+Coryphaenoides,boops,-15.25,-75.25,5107:455:1,0.81
+Coryphaenoides,boops,-15.75,-75.25,5107:455:3,1.00
+Coryphaenoides,boops,-20.75,-70.25,5207:100:3,1.00
+Coryphaenoides,boops,-20.75,-70.75,5207:100:4,1.00
+Coryphaenoides,boops,-21.25,-70.25,5207:110:1,0.85
+Coryphaenoides,boops,-22.75,-70.25,5207:120:3,0.89
+Coryphaenoides,boops,-22.75,-70.75,5207:120:4,0.96
+Coryphaenoides,boops,-23.25,-70.25,5207:130:1,1.00
+Coryphaenoides,boops,-23.25,-70.75,5207:130:2,1.00
+Coryphaenoides,boops,-23.75,-70.75,5207:130:4,1.00
+Coryphaenoides,boops,-24.25,-70.75,5207:140:2,1.00
+Coryphaenoides,boops,-24.75,-70.75,5207:140:4,0.96
+Coryphaenoides,boops,-25.25,-70.75,5207:350:2,0.90
+Coryphaenoides,boops,-28.25,-71.25,5207:381:1,0.82
+Coryphaenoides,boops,-28.75,-71.25,5207:381:3,0.88
+Coryphaenoides,boops,-28.75,-71.75,5207:381:4,1.00
+Coryphaenoides,boops,-29.25,-71.75,5207:391:2,1.00
+Coryphaenoides,boops,-29.75,-71.25,5207:391:3,1.00
+Coryphaenoides,boops,-29.75,-71.75,5207:391:4,1.00
+Coryphaenoides,boops,-30.25,-71.75,5307:101:2,0.99
+Coryphaenoides,boops,-30.75,-71.75,5307:101:4,0.88
+Coryphaenoides,boops,-31.25,-71.75,5307:111:2,0.85
+Coryphaenoides,boops,-31.75,-71.75,5307:111:4,0.90
+Coryphaenoides,boops,-32.75,-73.75,5307:123:4,1.00
+Coryphaenoides,boops,-33.75,-72.25,5307:132:3,0.87
+Coryphaenoides,boops,-34.75,-72.75,5307:142:4,0.85
+Coryphaenoides,boops,-33.25,-76.75,5307:236:2,0.80
+Coryphaenoides,boops,-35.25,-73.25,5307:353:1,1.00
+Coryphaenoides,boops,-35.75,-73.75,5307:353:4,0.94
+Coryphaenoides,boops,-36.25,-73.75,5307:363:2,1.00
+Coryphaenoides,boops,-37.75,-74.25,5307:374:3,1.00
+Coryphaenoides,boops,-38.25,-74.25,5307:384:1,1.00
+Coryphaenoides,boops,-38.75,-74.25,5307:384:3,0.95
+Coryphaenoides,boops,-39.25,-74.25,5307:394:1,0.95
+Coryphaenoides,boops,-40.75,-74.75,5407:104:4,0.96
+Coryphaenoides,boops,-41.25,-74.75,5407:114:2,0.81
+Coryphaenoides,boops,-42.75,-75.25,5407:225:3,1.00
+Coryphaenoides,boops,-43.25,-75.25,5407:235:1,0.97
+Coryphaenoides,boops,-44.75,-75.75,5407:245:4,1.00
+Coryphaenoides,boops,-48.25,-76.25,5407:486:1,0.83
+Coryphaenoides,boops,-48.75,-76.25,5407:486:3,0.83
+Coryphaenoides,boops,-49.25,-76.25,5407:496:1,0.95
+Coryphaenoides,boops,-45.25,-75.75,5407:455:2,1.00
+Coryphaenoides,boops,-45.75,-75.75,5407:455:4,1.00
+Coryphaenoides,boops,-46.75,-75.75,5407:465:4,1.00
+Coryphaenoides,boops,-47.25,-75.75,5407:475:2,0.93
+Coryphaenoides,boops,-47.75,-76.25,5407:476:3,1.00
+Coryphaenoides,boops,-46.25,-75.75,5407:465:2,1.00
+Coryphaenoides,boops,-52.75,-75.75,5507:225:4,0.94
+Coryphaenoides,boops,-53.25,-75.25,5507:235:1,0.88
+Coryphaenoides,boops,0.25,-80.25,7008:100:1,0.99
+Coryphaenoides,boops,0.25,-80.75,7008:100:2,1.00
+Coryphaenoides,boops,0.75,-80.25,7008:100:3,0.92
+
+
+Occurrence cells used for creating environmental envelope (n = 7)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Coryphaenoides,boops,-12.25,-79.75,5107:229:2,4739,21.3,35.22,733,0,292
+Coryphaenoides,boops,-10.25,-78.25,5107:208:1,167,20.5,35.15,2085,0,24
+Coryphaenoides,boops,-7.75,-80.75,5008:370:4,1894,20.55,35,1302,0,147
+Coryphaenoides,boops,-3.25,-91.25,5009:131:1,3589,24.21,34.74,500,0,304
+Coryphaenoides,boops,-3.25,-80.75,5008:130:2,141,22.74,34.36,1342,0,83
+Coryphaenoides,boops,-2.25,-81.25,5008:121:1,1895,23.02,34.08,999,0,96
+Coryphaenoides,boops,-0.75,-81.75,5008:101:4,1507,25.08,33.38,666,0,148

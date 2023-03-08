@@ -1,0 +1,214 @@
+Mapping parameters for Isacia conceptionis (Cabinza grunt)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas:  77 |  87 ,
+Bounding Box (NSWE): ,-5,-55,-81,-70
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,9.73,14.03,19.68,24.65
+Salinity (psu),1,32.63,33.96,34.98,36.21
+Primary Production (mgC·m-3·day-1) ,1,4.14,23.47,86.62,131.12
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,7.27,18.54,181.7,308.24
+Distance to Land (km),0,2,4,93,197
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 153): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Isacia,conceptionis,-47.75,-75.25,5407:475:3,0.04
+Isacia,conceptionis,-46.75,-75.75,5407:465:4,0.13
+Isacia,conceptionis,-48.75,-75.75,5407:485:4,0.01
+Isacia,conceptionis,-48.25,-75.75,5407:485:2,0.03
+Isacia,conceptionis,-48.25,-75.25,5407:485:1,0.01
+Isacia,conceptionis,-46.25,-74.75,5407:364:2,0.06
+Isacia,conceptionis,-47.75,-74.75,5407:374:4,0.01
+Isacia,conceptionis,-45.75,-74.75,5407:354:4,0.17
+Isacia,conceptionis,-45.75,-74.25,5407:354:3,0.12
+Isacia,conceptionis,-45.25,-74.75,5407:354:2,0.19
+Isacia,conceptionis,-45.25,-74.25,5407:354:1,0.11
+Isacia,conceptionis,-45.75,-73.75,5407:353:4,0.06
+Isacia,conceptionis,-45.75,-73.25,5407:353:3,0.02
+Isacia,conceptionis,-45.25,-73.75,5407:353:2,0.02
+Isacia,conceptionis,-45.25,-73.25,5407:353:1,0.02
+Isacia,conceptionis,-45.25,-72.75,5407:352:2,0.01
+Isacia,conceptionis,-44.75,-74.75,5407:144:4,0.17
+Isacia,conceptionis,-44.75,-74.25,5407:144:3,0.08
+Isacia,conceptionis,-44.25,-74.75,5407:144:2,0.17
+Isacia,conceptionis,-44.25,-74.25,5407:144:1,0.07
+Isacia,conceptionis,-44.75,-73.75,5407:143:4,0.02
+Isacia,conceptionis,-43.75,-74.25,5407:134:3,0.05
+Isacia,conceptionis,-43.25,-74.25,5407:134:1,0.04
+Isacia,conceptionis,-42.75,-74.25,5407:124:3,0.18
+Isacia,conceptionis,-41.75,-73.75,5407:113:4,0.12
+Isacia,conceptionis,-33.75,-80.75,5308:130:4,0.01
+Isacia,conceptionis,-38.25,-73.25,5307:383:1,0.02
+Isacia,conceptionis,-37.75,-73.25,5307:373:3,0.15
+Isacia,conceptionis,-37.25,-73.25,5307:373:1,0.19
+Isacia,conceptionis,-33.75,-78.75,5307:238:4,0.01
+Isacia,conceptionis,-26.25,-80.25,5208:360:1,0.01
+Isacia,conceptionis,-26.25,-79.75,5207:469:2,0.01
+Isacia,conceptionis,-28.75,-71.75,5207:381:4,0.17
+Isacia,conceptionis,-8.25,-79.75,5007:489:2,0.08
+Isacia,conceptionis,-46.25,-75.25,5407:465:1,0.21
+Isacia,conceptionis,-45.75,-75.25,5407:455:3,0.23
+Isacia,conceptionis,-44.75,-75.25,5407:245:3,0.22
+Isacia,conceptionis,-43.75,-74.75,5407:134:4,0.21
+Isacia,conceptionis,-43.25,-74.75,5407:134:2,0.21
+Isacia,conceptionis,-42.25,-74.25,5407:124:1,0.24
+Isacia,conceptionis,-41.75,-74.25,5407:114:3,0.27
+Isacia,conceptionis,-40.25,-73.75,5407:103:2,0.35
+Isacia,conceptionis,-36.75,-72.75,5307:362:4,0.37
+Isacia,conceptionis,-39.75,-73.75,5307:393:4,0.41
+Isacia,conceptionis,-38.75,-73.75,5307:383:4,0.53
+Isacia,conceptionis,-38.25,-73.75,5307:383:2,0.56
+Isacia,conceptionis,-37.25,-73.75,5307:373:2,0.56
+Isacia,conceptionis,-36.75,-73.75,5307:363:4,0.54
+Isacia,conceptionis,-36.25,-73.25,5307:363:1,0.51
+Isacia,conceptionis,-36.25,-72.75,5307:362:2,0.48
+Isacia,conceptionis,-32.25,-71.25,5307:121:1,0.59
+Isacia,conceptionis,-31.75,-71.25,5307:111:3,0.54
+Isacia,conceptionis,-17.25,-71.75,5107:371:2,0.45
+Isacia,conceptionis,-37.75,-73.75,5307:373:4,0.60
+Isacia,conceptionis,-35.75,-72.75,5307:352:4,0.76
+Isacia,conceptionis,-32.75,-71.25,5307:121:3,0.68
+Isacia,conceptionis,-30.25,-71.25,5307:101:1,0.72
+Isacia,conceptionis,-25.25,-70.25,5207:350:1,0.64
+Isacia,conceptionis,-24.75,-70.25,5207:140:3,0.75
+Isacia,conceptionis,-16.75,-72.25,5107:362:3,0.63
+Isacia,conceptionis,-16.25,-72.75,5107:362:2,0.73
+Isacia,conceptionis,-6.25,-80.75,5008:360:2,0.70
+Isacia,conceptionis,-9.75,-78.75,5007:498:4,0.67
+Isacia,conceptionis,-27.75,-70.75,5207:370:4,0.78
+Isacia,conceptionis,-35.25,-72.75,5307:352:2,0.83
+Isacia,conceptionis,-35.25,-72.25,5307:352:1,0.85
+Isacia,conceptionis,-34.75,-72.25,5307:142:3,0.89
+Isacia,conceptionis,-34.25,-71.75,5307:141:2,0.95
+Isacia,conceptionis,-33.75,-72.25,5307:132:3,0.83
+Isacia,conceptionis,-33.75,-71.75,5307:131:4,0.97
+Isacia,conceptionis,-33.25,-71.75,5307:131:2,1.00
+Isacia,conceptionis,-32.75,-71.75,5307:121:4,1.00
+Isacia,conceptionis,-32.25,-71.75,5307:121:2,1.00
+Isacia,conceptionis,-31.75,-71.75,5307:111:4,1.00
+Isacia,conceptionis,-31.25,-71.75,5307:111:2,1.00
+Isacia,conceptionis,-30.75,-71.75,5307:101:4,1.00
+Isacia,conceptionis,-30.25,-71.75,5307:101:2,1.00
+Isacia,conceptionis,-29.75,-71.75,5207:391:4,0.83
+Isacia,conceptionis,-29.75,-71.25,5207:391:3,0.85
+Isacia,conceptionis,-29.25,-71.75,5207:391:2,1.00
+Isacia,conceptionis,-29.25,-71.25,5207:391:1,1.00
+Isacia,conceptionis,-28.75,-71.25,5207:381:3,1.00
+Isacia,conceptionis,-28.25,-71.25,5207:381:1,1.00
+Isacia,conceptionis,-25.75,-70.75,5207:350:4,1.00
+Isacia,conceptionis,-25.25,-70.75,5207:350:2,1.00
+Isacia,conceptionis,-24.75,-70.75,5207:140:4,1.00
+Isacia,conceptionis,-24.25,-70.75,5207:140:2,1.00
+Isacia,conceptionis,-24.25,-70.25,5207:140:1,0.87
+Isacia,conceptionis,-23.75,-70.25,5207:130:3,1.00
+Isacia,conceptionis,-23.25,-70.75,5207:130:2,1.00
+Isacia,conceptionis,-23.25,-70.25,5207:130:1,1.00
+Isacia,conceptionis,-22.75,-70.25,5207:120:3,1.00
+Isacia,conceptionis,-22.25,-70.25,5207:120:1,1.00
+Isacia,conceptionis,-21.75,-70.25,5207:110:3,1.00
+Isacia,conceptionis,-21.25,-70.25,5207:110:1,1.00
+Isacia,conceptionis,-20.75,-70.25,5207:100:3,1.00
+Isacia,conceptionis,-20.25,-70.25,5207:100:1,1.00
+Isacia,conceptionis,-15.25,-75.25,5107:455:1,1.00
+Isacia,conceptionis,-19.75,-70.25,5107:390:3,1.00
+Isacia,conceptionis,-19.25,-70.25,5107:390:1,1.00
+Isacia,conceptionis,-18.75,-70.25,5107:380:3,1.00
+Isacia,conceptionis,-18.25,-70.75,5107:380:2,1.00
+Isacia,conceptionis,-18.25,-70.25,5107:380:1,1.00
+Isacia,conceptionis,-17.75,-71.25,5107:371:3,1.00
+Isacia,conceptionis,-17.25,-71.25,5107:371:1,0.88
+Isacia,conceptionis,-17.75,-70.75,5107:370:4,1.00
+Isacia,conceptionis,-16.25,-73.75,5107:363:2,1.00
+Isacia,conceptionis,-16.25,-73.25,5107:363:1,0.91
+Isacia,conceptionis,-16.75,-72.75,5107:362:4,1.00
+Isacia,conceptionis,-15.75,-74.75,5107:354:4,1.00
+Isacia,conceptionis,-15.75,-74.25,5107:354:3,1.00
+Isacia,conceptionis,-15.25,-74.75,5107:354:2,1.00
+Isacia,conceptionis,-15.75,-73.75,5107:353:4,0.98
+Isacia,conceptionis,-14.25,-76.25,5107:246:1,1.00
+Isacia,conceptionis,-14.75,-75.75,5107:245:4,1.00
+Isacia,conceptionis,-14.75,-75.25,5107:245:3,1.00
+Isacia,conceptionis,-14.25,-75.75,5107:245:2,1.00
+Isacia,conceptionis,-13.75,-76.25,5107:236:3,1.00
+Isacia,conceptionis,-13.25,-76.25,5107:236:1,1.00
+Isacia,conceptionis,-12.25,-77.25,5107:227:1,1.00
+Isacia,conceptionis,-12.75,-76.75,5107:226:4,1.00
+Isacia,conceptionis,-12.75,-76.25,5107:226:3,1.00
+Isacia,conceptionis,-12.25,-76.75,5107:226:2,1.00
+Isacia,conceptionis,-11.75,-77.75,5107:217:4,0.99
+Isacia,conceptionis,-11.75,-77.25,5107:217:3,0.84
+Isacia,conceptionis,-11.25,-77.75,5107:217:2,1.00
+Isacia,conceptionis,-11.25,-77.25,5107:217:1,1.00
+Isacia,conceptionis,-10.25,-78.25,5107:208:1,1.00
+Isacia,conceptionis,-10.75,-77.75,5107:207:4,1.00
+Isacia,conceptionis,-10.25,-77.75,5107:207:2,1.00
+Isacia,conceptionis,-7.75,-80.25,5008:370:3,0.97
+Isacia,conceptionis,-7.25,-80.75,5008:370:2,0.94
+Isacia,conceptionis,-7.25,-80.25,5008:370:1,1.00
+Isacia,conceptionis,-6.75,-80.75,5008:360:4,1.00
+Isacia,conceptionis,-6.75,-80.25,5008:360:3,0.95
+Isacia,conceptionis,-6.25,-80.25,5008:360:1,1.00
+Isacia,conceptionis,-5.75,-80.75,5008:350:4,0.97
+Isacia,conceptionis,-5.25,-80.75,5008:350:2,0.83
+Isacia,conceptionis,-9.75,-78.25,5007:498:3,1.00
+Isacia,conceptionis,-9.25,-78.75,5007:498:2,1.00
+Isacia,conceptionis,-9.25,-78.25,5007:498:1,1.00
+Isacia,conceptionis,-8.75,-79.75,5007:489:4,0.95
+Isacia,conceptionis,-8.25,-79.25,5007:489:1,1.00
+Isacia,conceptionis,-8.75,-78.75,5007:488:4,1.00
+Isacia,conceptionis,-8.25,-78.75,5007:488:2,1.00
+Isacia,conceptionis,-7.75,-79.75,5007:479:4,1.00
+Isacia,conceptionis,-7.75,-79.25,5007:479:3,1.00
+Isacia,conceptionis,-7.25,-79.75,5007:479:2,1.00
+Isacia,conceptionis,-6.75,-79.75,5007:469:4,0.99
+Isacia,conceptionis,-27.75,-71.25,5207:371:3,1.00
+Isacia,conceptionis,-27.25,-70.75,5207:370:2,1.00
+Isacia,conceptionis,-26.75,-70.75,5207:360:4,1.00
+Isacia,conceptionis,-26.25,-70.75,5207:360:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 25)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Isacia,conceptionis,-36.75,-73.25,5307:363:3,139,12.7341899871826,11.696400642395,32.6299171447754,34.0956649780273,84.696002304554,0,83.1979827880859,19
+Isacia,conceptionis,-35.75,-72.75,5307:352:4,139,12.9865846633911,12.0493640899658,33.9743843078613,34.0466270446777,71.9600021839142,0,84.8236083984375,18
+Isacia,conceptionis,-33.75,-78.25,5307:238:3,3023,16.5180225372314,1.28849804401398,34.3077621459961,34.6912956237793,4.13900008425117,0,169.301254272461,93
+Isacia,conceptionis,-33.75,-78.75,5307:238:4,1732,16.6370010375977,2.86713194847107,34.3366661071777,34.5502471923828,4.2659998871386104,0,124.447402954102,23
+Isacia,conceptionis,-33.25,-71.75,5307:131:2,509,14.0279026031494,12.1824169158936,34.0795745849609,34.2473335266113,55.8260008692741,0,88.5015258789063,17
+Isacia,conceptionis,-32.75,-71.75,5307:121:4,1210,14.2182397842407,5.81501007080078,34.1778182983398,34.3138809204102,51.731001585722,0,98.8412017822266,23
+Isacia,conceptionis,-29.75,-71.25,5207:391:3,304,15.0601215362549,10.4829120635986,33.7653732299805,34.2428398132324,50.1873642206192,0,105.957374572754,11
+Isacia,conceptionis,-28.25,-71.25,5207:381:1,1116,15.3214988708496,13.457423210144,34.5549583435059,34.328540802002,51.9139990210533,0,126.77693939209,18
+Isacia,conceptionis,-27.25,-70.75,5207:370:2,262,15.9734497070313,12.5804443359375,33.9630699157715,34.3030738830566,52.3407533764839,0,109.198280334473,7
+Isacia,conceptionis,-23.75,-70.25,5207:130:3,135,17.6213150024414,8.84118556976318,33.9579811096191,34.5312309265137,53.5389743745327,0,83.5275726318359,4
+Isacia,conceptionis,-23.25,-70.25,5207:130:1,138,17.8090858459473,8.908935546875,34.1494827270508,34.5949096679688,53.8072474300861,0,70.6635589599609,2
+Isacia,conceptionis,-20.25,-70.25,5207:100:1,614,18.5972442626953,12.6888027191162,34.7680511474609,34.8502044677734,65.7939985394478,0,18.5415649414063,21
+Isacia,conceptionis,-17.75,-71.75,5107:371:4,987,19.7734432220459,5.82178783416748,34.8476371765137,34.4924049377441,54.5150004327297,0,36.8711547851563,85
+Isacia,conceptionis,-16.25,-73.75,5107:363:2,823,18.2995910644531,12.7195091247559,34.8874893188477,34.8581886291504,86.6150036454201,0,13.9839477539063,20
+Isacia,conceptionis,-15.75,-74.75,5107:354:4,1148,17.6315212249756,4.88558721542358,34.9277114868164,34.5093536376953,54.8750013113022,0,47.7164306640625,23
+Isacia,conceptionis,-15.25,-75.25,5107:455:1,426,17.2725811004639,17.7507591247559,34.9425811767578,34.9931297302246,53.1059987843037,0,216.2265625,18
+Isacia,conceptionis,-14.25,-76.25,5107:246:1,291,17.1838054656982,16.2321910858154,34.9791221618652,34.9869956970215,55.893998593092,0,160.092102050781,22
+Isacia,conceptionis,-12.25,-77.25,5107:227:1,173,18.2420444488525,13.7115068435669,34.9794998168945,34.9337692260742,65.3809979557991,0,7.27287292480469,26
+Isacia,conceptionis,-12.25,-78.75,5107:228:2,5083,20.0066471099854,1.41909503936768,35.0888366699219,34.6978225708008,23.4709996730089,0,137.568481445313,197
+Isacia,conceptionis,-12.25,-76.75,5107:226:2,95,18.3044910430908,16.3991241455078,34.9317169189453,35.034236907959,86.1272215843201,0,121.422309875488,7
+Isacia,conceptionis,-11.75,-77.25,5107:217:3,87,18.2189998626709,17.7786464691162,34.9571685791016,35.1131286621094,93.9470008015633,0,181.702758789063,19
+Isacia,conceptionis,-8.75,-78.75,5007:488:4,80,19.0518226623535,15.985390663147,34.716495513916,34.9280281066895,72.9080513119698,0,61.3276062011719,18
+Isacia,conceptionis,-6.75,-80.75,5008:360:4,436,19.4374828338623,15.5827522277832,34.7377052307129,34.988338470459,70.471003651619,0,61.7130241394043,96
+Isacia,conceptionis,-6.25,-80.25,5008:360:1,11,19.6831531524658,19.1578102111816,34.431755065918,34.9462013244629,83.5956409573555,0,161.751968383789,2
+Isacia,conceptionis,-6.25,-80.75,5008:360:2,112,19.3272113800049,19.7034778594971,34.720573425293,34.9753723144531,100.03600269556,0,205.779190063477,15

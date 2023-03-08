@@ -1,0 +1,275 @@
+Mapping parameters for Sebastes serranoides (Olive rockfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 67 |  77,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,0,30,146
+Temperature (°C),1,7.76,12.75,17.88,26.81
+Salinity (psu),1,31.48,32.67,33.67,34.79
+Primary Production,1,377,897,1827,2361
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,0,4,86,93
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 205): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Sebastes,serranoides,0.25,-79.75,7007:209:2,0.05
+Sebastes,serranoides,0.75,-79.75,7007:209:4,0.04
+Sebastes,serranoides,1.75,-78.25,7007:218:3,0.01
+Sebastes,serranoides,0.25,-80.25,7008:100:1,0.05
+Sebastes,serranoides,0.75,-80.25,7008:100:3,0.06
+Sebastes,serranoides,0.25,-89.75,7008:209:2,0.02
+Sebastes,serranoides,0.25,-90.25,7009:100:1,0.02
+Sebastes,serranoides,0.75,-90.75,7009:100:4,0.02
+Sebastes,serranoides,0.25,-91.25,7009:101:1,0.05
+Sebastes,serranoides,0.25,-91.75,7009:101:2,0.06
+Sebastes,serranoides,22.75,-109.75,7210:229:4,0.01
+Sebastes,serranoides,23.25,-109.75,7210:239:2,0.01
+Sebastes,serranoides,22.75,-110.25,7211:120:3,0.02
+Sebastes,serranoides,23.25,-110.25,7211:130:1,0.03
+Sebastes,serranoides,23.25,-110.75,7211:130:2,0.01
+Sebastes,serranoides,23.75,-110.75,7211:130:4,0.09
+Sebastes,serranoides,23.75,-111.75,7211:131:4,0.06
+Sebastes,serranoides,24.25,-110.75,7211:140:2,0.09
+Sebastes,serranoides,24.25,-111.25,7211:141:1,0.12
+Sebastes,serranoides,24.25,-111.75,7211:141:2,0.19
+Sebastes,serranoides,24.75,-111.75,7211:141:4,0.19
+Sebastes,serranoides,24.25,-112.25,7211:142:1,0.09
+Sebastes,serranoides,24.75,-112.75,7211:142:4,0.08
+Sebastes,serranoides,24.75,-115.75,7211:245:4,0.02
+Sebastes,serranoides,25.25,-113.25,7211:353:1,0.04
+Sebastes,serranoides,25.75,-113.25,7211:353:3,0.16
+Sebastes,serranoides,28.75,-118.25,7211:488:3,0.16
+Sebastes,serranoides,29.25,-118.25,7211:498:1,0.14
+Sebastes,serranoides,40.75,-124.25,7412:104:3,0.12
+Sebastes,serranoides,48.75,-122.75,7412:382:4,0.02
+Sebastes,serranoides,48.25,-124.25,7412:384:1,0.04
+Sebastes,serranoides,48.25,-124.75,7412:384:2,0.01
+Sebastes,serranoides,49.75,-124.75,7412:394:4,0.01
+Sebastes,serranoides,48.25,-125.25,7412:485:1,0.02
+Sebastes,serranoides,48.25,-125.75,7412:485:2,0.02
+Sebastes,serranoides,48.75,-126.25,7412:486:3,0.19
+Sebastes,serranoides,49.75,-125.25,7412:495:3,0.01
+Sebastes,serranoides,49.25,-126.25,7412:496:1,0.08
+Sebastes,serranoides,49.75,-126.25,7412:496:3,0.08
+Sebastes,serranoides,49.75,-126.75,7412:496:4,0.15
+Sebastes,serranoides,49.25,-127.25,7412:497:1,0.01
+Sebastes,serranoides,46.75,-130.75,7413:360:4,0.05
+Sebastes,serranoides,50.25,-124.75,7512:104:2,0.02
+Sebastes,serranoides,50.75,-124.75,7512:104:4,0.03
+Sebastes,serranoides,50.25,-125.25,7512:205:1,0.03
+Sebastes,serranoides,50.25,-125.75,7512:205:2,0.05
+Sebastes,serranoides,50.75,-125.25,7512:205:3,0.05
+Sebastes,serranoides,50.25,-127.75,7512:207:2,0.15
+Sebastes,serranoides,50.75,-127.25,7512:207:3,0.15
+Sebastes,serranoides,50.75,-127.75,7512:207:4,0.19
+Sebastes,serranoides,50.25,-128.25,7512:208:1,0.19
+Sebastes,serranoides,50.75,-128.25,7512:208:3,0.16
+Sebastes,serranoides,50.75,-128.75,7512:208:4,0.19
+Sebastes,serranoides,51.25,-126.75,7512:216:2,0.02
+Sebastes,serranoides,51.25,-127.25,7512:217:1,0.02
+Sebastes,serranoides,51.25,-127.75,7512:217:2,0.02
+Sebastes,serranoides,51.75,-127.25,7512:217:3,0.02
+Sebastes,serranoides,51.75,-127.75,7512:217:4,0.02
+Sebastes,serranoides,51.25,-128.25,7512:218:1,0.02
+Sebastes,serranoides,51.25,-128.75,7512:218:2,0.02
+Sebastes,serranoides,51.75,-128.25,7512:218:3,0.02
+Sebastes,serranoides,51.75,-128.75,7512:218:4,0.02
+Sebastes,serranoides,51.25,-129.25,7512:219:1,0.07
+Sebastes,serranoides,51.75,-129.25,7512:219:3,0.09
+Sebastes,serranoides,51.75,-129.75,7512:219:4,0.04
+Sebastes,serranoides,52.25,-127.25,7512:227:1,0.02
+Sebastes,serranoides,52.25,-127.75,7512:227:2,0.02
+Sebastes,serranoides,52.75,-127.25,7512:227:3,0.02
+Sebastes,serranoides,52.75,-127.75,7512:227:4,0.02
+Sebastes,serranoides,52.25,-128.25,7512:228:1,0.02
+Sebastes,serranoides,51.75,-130.25,7513:110:3,0.01
+Sebastes,serranoides,51.75,-130.75,7513:110:4,0.18
+Sebastes,serranoides,52.25,-130.25,7513:120:1,0.01
+Sebastes,serranoides,52.25,-130.75,7513:120:2,0.08
+Sebastes,serranoides,52.75,-130.25,7513:120:3,0.03
+Sebastes,serranoides,52.75,-130.75,7513:120:4,0.08
+Sebastes,serranoides,52.25,-131.25,7513:121:1,0.15
+Sebastes,serranoides,52.25,-131.75,7513:121:2,0.15
+Sebastes,serranoides,52.75,-131.25,7513:121:3,0.15
+Sebastes,serranoides,52.75,-131.75,7513:121:4,0.15
+Sebastes,serranoides,53.25,-130.25,7513:130:1,0.07
+Sebastes,serranoides,53.25,-130.75,7513:130:2,0.07
+Sebastes,serranoides,53.75,-130.25,7513:130:3,0.07
+Sebastes,serranoides,53.25,-131.25,7513:131:1,0.13
+Sebastes,serranoides,53.25,-131.75,7513:131:2,0.13
+Sebastes,serranoides,53.25,-132.25,7513:132:1,0.19
+Sebastes,serranoides,54.25,-132.75,7513:142:2,0.09
+Sebastes,serranoides,54.75,-132.75,7513:142:4,0.09
+Sebastes,serranoides,54.25,-133.25,7513:143:1,0.10
+Sebastes,serranoides,54.75,-133.25,7513:143:3,0.10
+Sebastes,serranoides,54.75,-133.75,7513:143:4,0.10
+Sebastes,serranoides,55.25,-132.75,7513:352:2,0.08
+Sebastes,serranoides,55.25,-133.25,7513:353:1,0.08
+Sebastes,serranoides,55.25,-133.75,7513:353:2,0.12
+Sebastes,serranoides,55.25,-134.25,7513:354:1,0.08
+Sebastes,serranoides,24.75,-112.25,7211:142:3,0.23
+Sebastes,serranoides,25.25,-112.25,7211:352:1,0.24
+Sebastes,serranoides,25.25,-112.75,7211:352:2,0.23
+Sebastes,serranoides,25.75,-112.25,7211:352:3,0.24
+Sebastes,serranoides,25.75,-112.75,7211:352:4,0.24
+Sebastes,serranoides,26.25,-112.25,7211:362:1,0.23
+Sebastes,serranoides,26.25,-112.75,7211:362:2,0.23
+Sebastes,serranoides,26.75,-112.75,7211:362:4,0.23
+Sebastes,serranoides,26.25,-113.25,7211:363:1,0.39
+Sebastes,serranoides,28.25,-115.25,7211:485:1,0.26
+Sebastes,serranoides,40.25,-124.75,7412:104:2,0.25
+Sebastes,serranoides,43.25,-124.75,7412:134:2,0.33
+Sebastes,serranoides,49.25,-126.75,7412:496:2,0.27
+Sebastes,serranoides,49.75,-127.25,7412:497:3,0.20
+Sebastes,serranoides,49.75,-127.75,7412:497:4,0.25
+Sebastes,serranoides,50.75,-125.75,7512:205:4,0.28
+Sebastes,serranoides,50.25,-126.25,7512:206:1,0.32
+Sebastes,serranoides,50.75,-126.25,7512:206:3,0.32
+Sebastes,serranoides,50.75,-126.75,7512:206:4,0.32
+Sebastes,serranoides,50.25,-127.25,7512:207:1,0.31
+Sebastes,serranoides,50.75,-129.25,7512:209:3,0.24
+Sebastes,serranoides,51.25,-125.75,7512:215:2,0.24
+Sebastes,serranoides,51.75,-131.25,7513:111:3,0.24
+Sebastes,serranoides,52.75,-132.25,7513:122:3,0.21
+Sebastes,serranoides,53.25,-132.75,7513:132:2,0.21
+Sebastes,serranoides,53.75,-132.75,7513:132:4,0.21
+Sebastes,serranoides,53.75,-133.25,7513:133:3,0.21
+Sebastes,serranoides,26.25,-113.75,7211:363:2,0.43
+Sebastes,serranoides,26.75,-113.25,7211:363:3,0.58
+Sebastes,serranoides,26.75,-113.75,7211:363:4,0.58
+Sebastes,serranoides,27.25,-113.75,7211:373:2,0.59
+Sebastes,serranoides,28.75,-115.25,7211:485:3,0.49
+Sebastes,serranoides,29.25,-115.75,7211:495:2,0.45
+Sebastes,serranoides,32.25,-119.25,7311:229:1,0.51
+Sebastes,serranoides,34.25,-120.75,7312:140:2,0.43
+Sebastes,serranoides,35.25,-121.25,7312:351:1,0.41
+Sebastes,serranoides,38.25,-123.25,7312:383:1,0.46
+Sebastes,serranoides,41.75,-124.25,7412:114:3,0.59
+Sebastes,serranoides,42.25,-124.75,7412:124:2,0.46
+Sebastes,serranoides,26.75,-114.25,7211:364:3,0.67
+Sebastes,serranoides,28.25,-114.25,7211:384:1,0.72
+Sebastes,serranoides,28.75,-114.75,7211:384:4,0.78
+Sebastes,serranoides,29.25,-114.75,7211:394:2,0.72
+Sebastes,serranoides,28.25,-115.75,7211:485:2,0.78
+Sebastes,serranoides,30.75,-115.75,7311:205:4,0.63
+Sebastes,serranoides,32.75,-118.25,7311:228:3,0.72
+Sebastes,serranoides,37.75,-122.75,7312:372:4,0.67
+Sebastes,serranoides,38.25,-122.75,7312:382:2,0.78
+Sebastes,serranoides,40.75,-124.75,7412:104:4,0.66
+Sebastes,serranoides,41.25,-124.25,7412:114:1,0.79
+Sebastes,serranoides,41.25,-124.75,7412:114:2,0.67
+Sebastes,serranoides,42.25,-124.25,7412:124:1,0.77
+Sebastes,serranoides,42.75,-124.25,7412:124:3,0.77
+Sebastes,serranoides,42.75,-124.75,7412:124:4,0.77
+Sebastes,serranoides,27.25,-114.25,7211:374:1,0.80
+Sebastes,serranoides,27.25,-114.75,7211:374:2,0.88
+Sebastes,serranoides,27.75,-114.25,7211:374:3,0.88
+Sebastes,serranoides,27.75,-114.75,7211:374:4,0.88
+Sebastes,serranoides,28.75,-114.25,7211:384:3,0.92
+Sebastes,serranoides,27.75,-115.25,7211:475:3,0.89
+Sebastes,serranoides,29.25,-115.25,7211:495:1,0.97
+Sebastes,serranoides,29.75,-115.25,7211:495:3,0.97
+Sebastes,serranoides,29.75,-115.75,7211:495:4,0.97
+Sebastes,serranoides,30.25,-115.75,7311:205:2,0.82
+Sebastes,serranoides,30.25,-116.25,7311:206:1,1.00
+Sebastes,serranoides,30.75,-116.25,7311:206:3,1.00
+Sebastes,serranoides,31.25,-116.25,7311:216:1,1.00
+Sebastes,serranoides,31.25,-116.75,7311:216:2,1.00
+Sebastes,serranoides,31.75,-116.75,7311:216:4,1.00
+Sebastes,serranoides,32.25,-116.75,7311:226:2,1.00
+Sebastes,serranoides,32.25,-117.25,7311:227:1,1.00
+Sebastes,serranoides,32.75,-117.25,7311:227:3,1.00
+Sebastes,serranoides,32.75,-118.75,7311:228:4,1.00
+Sebastes,serranoides,32.75,-119.25,7311:229:3,0.83
+Sebastes,serranoides,33.25,-117.25,7311:237:1,1.00
+Sebastes,serranoides,33.25,-117.75,7311:237:2,1.00
+Sebastes,serranoides,33.75,-117.75,7311:237:4,1.00
+Sebastes,serranoides,33.25,-118.25,7311:238:1,1.00
+Sebastes,serranoides,33.25,-118.75,7311:238:2,1.00
+Sebastes,serranoides,33.75,-118.25,7311:238:3,1.00
+Sebastes,serranoides,33.75,-118.75,7311:238:4,1.00
+Sebastes,serranoides,33.25,-119.25,7311:239:1,1.00
+Sebastes,serranoides,33.25,-119.75,7311:239:2,1.00
+Sebastes,serranoides,33.75,-119.25,7311:239:3,0.96
+Sebastes,serranoides,33.75,-119.75,7311:239:4,1.00
+Sebastes,serranoides,34.25,-118.25,7311:248:1,1.00
+Sebastes,serranoides,34.25,-118.75,7311:248:2,1.00
+Sebastes,serranoides,34.25,-119.25,7311:249:1,1.00
+Sebastes,serranoides,34.25,-119.75,7311:249:2,1.00
+Sebastes,serranoides,33.75,-120.25,7312:130:3,1.00
+Sebastes,serranoides,34.25,-120.25,7312:140:1,1.00
+Sebastes,serranoides,34.75,-120.25,7312:140:3,1.00
+Sebastes,serranoides,34.75,-120.75,7312:140:4,1.00
+Sebastes,serranoides,35.25,-120.75,7312:350:2,1.00
+Sebastes,serranoides,35.75,-121.25,7312:351:3,1.00
+Sebastes,serranoides,36.25,-121.25,7312:361:1,1.00
+Sebastes,serranoides,36.25,-121.75,7312:361:2,1.00
+Sebastes,serranoides,36.75,-121.75,7312:361:4,1.00
+Sebastes,serranoides,36.75,-122.25,7312:362:3,1.00
+Sebastes,serranoides,37.25,-122.25,7312:372:1,1.00
+Sebastes,serranoides,37.25,-122.75,7312:372:2,0.99
+Sebastes,serranoides,37.75,-122.25,7312:372:3,1.00
+Sebastes,serranoides,37.75,-123.25,7312:373:3,1.00
+Sebastes,serranoides,38.25,-122.25,7312:382:1,1.00
+Sebastes,serranoides,38.75,-123.25,7312:383:3,1.00
+Sebastes,serranoides,38.75,-123.75,7312:383:4,1.00
+Sebastes,serranoides,39.25,-123.75,7312:393:2,0.93
+Sebastes,serranoides,39.75,-123.75,7312:393:4,0.93
+Sebastes,serranoides,39.75,-124.25,7312:394:3,0.83
+Sebastes,serranoides,40.25,-124.25,7412:104:1,0.84
+
+
+Occurrence cells used for creating environmental envelope (n = 34)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Sebastes,serranoides,22.25,-105.75,7210:225:2,52,26.81,34.79,1399,0,19
+Sebastes,serranoides,30.25,-116.25,7311:206:1,1443,17.88,33.54,1456,0,72
+Sebastes,serranoides,30.25,-115.75,7311:205:2,89,19.47,33.54,1398,0,11
+Sebastes,serranoides,30.75,-116.75,7311:206:4,1860,17.88,33.54,852,0,86
+Sebastes,serranoides,30.75,-116.25,7311:206:3,416,17.88,33.54,1710,0,22
+Sebastes,serranoides,31.75,-116.75,7311:216:4,570,17.82,33.45,1189,0,18
+Sebastes,serranoides,32.25,-116.75,7311:226:2,299,17.69,33.45,1254,0,4
+Sebastes,serranoides,32.75,-118.75,7311:228:4,1084,16.97,33.5,897,0,23
+Sebastes,serranoides,32.75,-118.25,7311:228:3,979,16.97,33.5,750,0,23
+Sebastes,serranoides,32.75,-117.25,7311:227:3,417,17.36,33.5,1056,0,17
+Sebastes,serranoides,33.25,-119.75,7311:239:2,623,15.94,33.47,1187,0,93
+Sebastes,serranoides,33.25,-119.25,7311:239:1,848,15.94,33.47,1105,0,23
+Sebastes,serranoides,33.25,-118.25,7311:238:1,783,16.72,33.5,896,0,22
+Sebastes,serranoides,33.75,-118.75,7311:238:4,709,16.72,33.47,1121,0,85
+Sebastes,serranoides,33.75,-118.25,7311:238:3,435,16.72,33.47,1489,0,15
+Sebastes,serranoides,33.75,-117.75,7311:237:4,279,17.21,33.5,1438,0,3
+Sebastes,serranoides,34.25,-120.25,7312:140:1,253,15.27,33.38,1617,0,22
+Sebastes,serranoides,34.25,-119.75,7311:249:2,236,15.43,33.47,1617,0,19
+Sebastes,serranoides,34.25,-119.25,7311:249:1,157,15.43,33.47,1403,0,12
+Sebastes,serranoides,34.25,-118.75,7311:248:2,167,16.08,33.47,1505,0,3
+Sebastes,serranoides,34.75,-120.75,7312:140:4,265,15.27,33.29,1563,0,19
+Sebastes,serranoides,35.25,-120.75,7312:350:2,150,14.93,33.29,1249,0,12
+Sebastes,serranoides,35.75,-121.25,7312:351:3,332,14.6,33.22,1241,0,12
+Sebastes,serranoides,36.25,-121.25,7312:361:1,68,13.96,33.29,1072,0,0
+Sebastes,serranoides,36.75,-122.25,7312:362:3,1365,13.43,33.29,1573,0,22
+Sebastes,serranoides,36.75,-121.75,7312:361:4,200,13.96,33.29,1465,0,8
+Sebastes,serranoides,37.25,-122.25,7312:372:1,72,12.93,33.29,1613,0,8
+Sebastes,serranoides,37.75,-123.25,7312:373:3,1164,13.19,33.18,1802,0,88
+Sebastes,serranoides,37.75,-122.25,7312:372:3,37,12.93,33.18,1827,0,9
+Sebastes,serranoides,38.25,-123.25,7312:383:1,157,12.75,33.18,2114,0,21
+Sebastes,serranoides,38.75,-123.25,7312:383:3,87,12.75,32.81,1742,0,5
+Sebastes,serranoides,41.25,-124.25,7412:114:1,236,12.18,32.54,1745,0,18
+Sebastes,serranoides,44.25,-124.25,7412:144:1,85,12.36,31.48,1830,0,18
+Sebastes,serranoides,44.75,-124.75,7412:144:4,496,12.36,31.48,1040,0,59

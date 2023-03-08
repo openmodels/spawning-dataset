@@ -1,0 +1,161 @@
+Mapping parameters for Sebastes miniatus (Vermilion rockfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 67 |  77,
+Bounding Box (NSWE): ,54,47,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,15,183,274,274
+Temperature (°C),1,6.21,9.54,11.19,11.85
+Salinity (psu),1,27.75,30.27,32.31,34.47
+Primary Production,1,580,707.2,2435.8,3001
+Sea Ice Concentration,1,-0.99964537,0,0.000638334022369236,0.00319167
+Distance to Land (km),0,0,1,112.400001525879,202
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 116): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Sebastes,miniatus,47.75,-124.25,7412:374:3,0.08
+Sebastes,miniatus,48.75,-122.25,7412:382:3,0.12
+Sebastes,miniatus,48.75,-123.75,7412:383:4,0.12
+Sebastes,miniatus,49.25,-122.75,7412:392:2,0.02
+Sebastes,miniatus,49.75,-123.75,7412:393:4,0.14
+Sebastes,miniatus,47.75,-125.25,7412:475:3,0.12
+Sebastes,miniatus,47.75,-125.75,7412:475:4,0.12
+Sebastes,miniatus,51.25,-127.25,7512:217:1,0.07
+Sebastes,miniatus,53.75,-129.75,7512:239:4,0.16
+Sebastes,miniatus,53.75,-163.25,7516:133:3,0.15
+Sebastes,miniatus,53.75,-163.75,7516:133:4,0.15
+Sebastes,miniatus,53.75,-164.25,7516:134:3,0.13
+Sebastes,miniatus,53.75,-164.75,7516:134:4,0.07
+Sebastes,miniatus,53.25,-165.75,7516:235:2,0.09
+Sebastes,miniatus,53.75,-165.25,7516:235:3,0.08
+Sebastes,miniatus,51.75,-171.75,7517:111:4,0.01
+Sebastes,miniatus,47.25,-124.25,7412:374:1,0.30
+Sebastes,miniatus,47.25,-124.75,7412:374:2,0.30
+Sebastes,miniatus,47.75,-124.75,7412:374:4,0.30
+Sebastes,miniatus,50.25,-127.25,7512:207:1,0.24
+Sebastes,miniatus,53.25,-131.25,7513:131:1,0.28
+Sebastes,miniatus,53.75,-131.25,7513:131:3,0.36
+Sebastes,miniatus,47.25,-122.25,7412:372:1,0.53
+Sebastes,miniatus,49.25,-123.25,7412:393:1,0.46
+Sebastes,miniatus,50.25,-125.75,7512:205:2,0.49
+Sebastes,miniatus,50.25,-126.25,7512:206:1,0.51
+Sebastes,miniatus,52.75,-128.75,7512:228:4,0.45
+Sebastes,miniatus,48.75,-122.75,7412:382:4,0.71
+Sebastes,miniatus,49.25,-123.75,7412:393:2,0.64
+Sebastes,miniatus,48.75,-125.25,7412:485:3,0.72
+Sebastes,miniatus,48.25,-126.25,7412:486:1,0.71
+Sebastes,miniatus,48.75,-126.25,7412:486:3,0.71
+Sebastes,miniatus,49.25,-125.75,7412:495:2,0.68
+Sebastes,miniatus,49.75,-126.75,7412:496:4,0.70
+Sebastes,miniatus,50.75,-126.75,7512:206:4,0.64
+Sebastes,miniatus,53.75,-131.75,7513:131:4,0.69
+Sebastes,miniatus,53.75,-132.25,7513:132:3,0.61
+Sebastes,miniatus,47.75,-122.25,7412:372:3,1.00
+Sebastes,miniatus,47.75,-122.75,7412:372:4,1.00
+Sebastes,miniatus,48.25,-122.25,7412:382:1,1.00
+Sebastes,miniatus,48.25,-122.75,7412:382:2,0.83
+Sebastes,miniatus,48.25,-123.25,7412:383:1,0.96
+Sebastes,miniatus,48.25,-123.75,7412:383:2,1.00
+Sebastes,miniatus,48.75,-123.25,7412:383:3,1.00
+Sebastes,miniatus,48.25,-124.25,7412:384:1,1.00
+Sebastes,miniatus,48.25,-124.75,7412:384:2,1.00
+Sebastes,miniatus,48.75,-124.25,7412:384:3,1.00
+Sebastes,miniatus,48.75,-124.75,7412:384:4,1.00
+Sebastes,miniatus,49.25,-124.25,7412:394:1,1.00
+Sebastes,miniatus,49.25,-124.75,7412:394:2,0.82
+Sebastes,miniatus,49.75,-124.25,7412:394:3,1.00
+Sebastes,miniatus,49.75,-124.75,7412:394:4,1.00
+Sebastes,miniatus,48.25,-125.25,7412:485:1,0.92
+Sebastes,miniatus,48.25,-125.75,7412:485:2,0.92
+Sebastes,miniatus,48.75,-125.75,7412:485:4,0.89
+Sebastes,miniatus,49.75,-125.25,7412:495:3,1.00
+Sebastes,miniatus,49.25,-126.25,7412:496:1,1.00
+Sebastes,miniatus,49.25,-126.75,7412:496:2,1.00
+Sebastes,miniatus,49.25,-127.25,7412:497:1,1.00
+Sebastes,miniatus,49.75,-127.25,7412:497:3,1.00
+Sebastes,miniatus,49.75,-127.75,7412:497:4,1.00
+Sebastes,miniatus,50.25,-124.75,7512:104:2,1.00
+Sebastes,miniatus,50.25,-125.25,7512:205:1,1.00
+Sebastes,miniatus,50.75,-126.25,7512:206:3,1.00
+Sebastes,miniatus,50.25,-127.75,7512:207:2,1.00
+Sebastes,miniatus,50.75,-127.25,7512:207:3,1.00
+Sebastes,miniatus,50.75,-127.75,7512:207:4,1.00
+Sebastes,miniatus,50.25,-128.25,7512:208:1,1.00
+Sebastes,miniatus,50.75,-128.25,7512:208:3,1.00
+Sebastes,miniatus,50.75,-128.75,7512:208:4,1.00
+Sebastes,miniatus,50.75,-129.25,7512:209:3,1.00
+Sebastes,miniatus,50.75,-129.75,7512:209:4,1.00
+Sebastes,miniatus,51.25,-127.75,7512:217:2,0.85
+Sebastes,miniatus,51.75,-127.75,7512:217:4,1.00
+Sebastes,miniatus,51.25,-128.25,7512:218:1,1.00
+Sebastes,miniatus,51.25,-128.75,7512:218:2,1.00
+Sebastes,miniatus,51.75,-128.25,7512:218:3,1.00
+Sebastes,miniatus,51.75,-128.75,7512:218:4,1.00
+Sebastes,miniatus,51.25,-129.25,7512:219:1,1.00
+Sebastes,miniatus,51.25,-129.75,7512:219:2,1.00
+Sebastes,miniatus,51.75,-129.25,7512:219:3,1.00
+Sebastes,miniatus,51.75,-129.75,7512:219:4,1.00
+Sebastes,miniatus,52.25,-127.75,7512:227:2,0.93
+Sebastes,miniatus,52.25,-128.25,7512:228:1,0.95
+Sebastes,miniatus,52.25,-128.75,7512:228:2,1.00
+Sebastes,miniatus,52.75,-128.25,7512:228:3,0.82
+Sebastes,miniatus,52.25,-129.25,7512:229:1,1.00
+Sebastes,miniatus,52.25,-129.75,7512:229:2,1.00
+Sebastes,miniatus,52.75,-129.25,7512:229:3,1.00
+Sebastes,miniatus,52.75,-129.75,7512:229:4,1.00
+Sebastes,miniatus,53.75,-128.75,7512:238:4,1.00
+Sebastes,miniatus,53.25,-129.25,7512:239:1,1.00
+Sebastes,miniatus,53.25,-129.75,7512:239:2,1.00
+Sebastes,miniatus,53.75,-129.25,7512:239:3,1.00
+Sebastes,miniatus,51.75,-130.25,7513:110:3,1.00
+Sebastes,miniatus,51.75,-130.75,7513:110:4,1.00
+Sebastes,miniatus,51.75,-131.25,7513:111:3,1.00
+Sebastes,miniatus,52.25,-130.25,7513:120:1,1.00
+Sebastes,miniatus,52.25,-130.75,7513:120:2,1.00
+Sebastes,miniatus,52.75,-130.25,7513:120:3,1.00
+Sebastes,miniatus,52.75,-130.75,7513:120:4,0.89
+Sebastes,miniatus,52.25,-131.25,7513:121:1,1.00
+Sebastes,miniatus,52.25,-131.75,7513:121:2,1.00
+Sebastes,miniatus,52.75,-131.25,7513:121:3,1.00
+Sebastes,miniatus,52.75,-131.75,7513:121:4,1.00
+Sebastes,miniatus,52.75,-132.25,7513:122:3,1.00
+Sebastes,miniatus,53.25,-130.25,7513:130:1,1.00
+Sebastes,miniatus,53.25,-130.75,7513:130:2,1.00
+Sebastes,miniatus,53.75,-130.25,7513:130:3,1.00
+Sebastes,miniatus,53.75,-130.75,7513:130:4,1.00
+Sebastes,miniatus,53.25,-131.75,7513:131:2,1.00
+Sebastes,miniatus,53.25,-132.25,7513:132:1,1.00
+Sebastes,miniatus,53.25,-132.75,7513:132:2,1.00
+Sebastes,miniatus,53.75,-132.75,7513:132:4,1.00
+Sebastes,miniatus,53.25,-133.25,7513:133:1,1.00
+Sebastes,miniatus,53.75,-133.25,7513:133:3,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 9)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Sebastes,miniatus,47.25,-123.25,7412:373:1,1,11.18,30.27,1930,0,1
+Sebastes,miniatus,48.25,-122.75,7412:382:2,36,10.37,30.27,1876,0,15
+Sebastes,miniatus,48.25,-122.25,7412:382:1,7,10.37,30.27,2143,0,5
+Sebastes,miniatus,48.75,-125.25,7412:485:3,80,11.24,31.6,2551,0,17
+Sebastes,miniatus,49.25,-124.25,7412:394:1,158,10.78,31.6,2407,0,6
+Sebastes,miniatus,49.25,-126.25,7412:496:1,71,10.96,31.95,2182,0,15
+Sebastes,miniatus,49.25,-125.25,7412:495:1,1,10.85,31.6,2326,0,1
+Sebastes,miniatus,50.75,-131.75,7513:101:4,2840,10.74,32.18,739,0,202
+Sebastes,miniatus,51.75,-173.75,7517:113:4,2444,6.21,32.81,580,0.00319167,90

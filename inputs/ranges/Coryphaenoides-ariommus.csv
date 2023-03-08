@@ -1,0 +1,201 @@
+Mapping parameters for Coryphaenoides ariommus (Humboldt grenadier)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77 |  87,
+Bounding Box (NSWE): ,-2,-40,-85,-70
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,768,907,1239,1860
+Temperature (°C),1,1.1,1.6,9.9,12.65
+Salinity (psu),1,34.07,34.57,34.7,35.2
+Primary Production,1,576,733,1937,3584
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,1,19,219,441.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 153): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Coryphaenoides,ariommus,-27.75,-73.75,5207:373:4,0.14
+Coryphaenoides,ariommus,-6.25,-80.75,5008:360:2,0.04
+Coryphaenoides,ariommus,-7.75,-80.25,5008:370:3,0.19
+Coryphaenoides,ariommus,-10.25,-78.75,5107:208:2,0.13
+Coryphaenoides,ariommus,-10.75,-79.25,5107:209:3,0.15
+Coryphaenoides,ariommus,-11.75,-78.75,5107:218:4,0.17
+Coryphaenoides,ariommus,-13.25,-77.75,5107:237:2,0.09
+Coryphaenoides,ariommus,-14.75,-75.75,5107:245:4,0.08
+Coryphaenoides,ariommus,-17.75,-72.75,5107:372:4,0.18
+Coryphaenoides,ariommus,-19.25,-71.25,5107:391:1,0.17
+Coryphaenoides,ariommus,-23.25,-70.25,5207:130:1,0.07
+Coryphaenoides,ariommus,-28.25,-71.75,5207:381:2,0.03
+Coryphaenoides,ariommus,-33.75,-72.75,5307:132:4,0.11
+Coryphaenoides,ariommus,-33.75,-76.75,5307:236:4,0.03
+Coryphaenoides,ariommus,-4.25,-81.75,5008:141:2,0.25
+Coryphaenoides,ariommus,-4.75,-81.75,5008:141:4,0.22
+Coryphaenoides,ariommus,-5.25,-81.75,5008:351:2,0.27
+Coryphaenoides,ariommus,-13.25,-76.75,5107:236:2,0.37
+Coryphaenoides,ariommus,-32.75,-72.25,5307:122:3,0.22
+Coryphaenoides,ariommus,-33.25,-76.75,5307:236:2,0.36
+Coryphaenoides,ariommus,-35.25,-72.75,5307:352:2,0.37
+Coryphaenoides,ariommus,-36.75,-74.25,5307:364:3,0.20
+Coryphaenoides,ariommus,-39.75,-74.75,5307:394:4,0.36
+Coryphaenoides,ariommus,-5.25,-81.25,5008:351:1,0.44
+Coryphaenoides,ariommus,-14.25,-76.25,5107:246:1,0.47
+Coryphaenoides,ariommus,-16.25,-73.25,5107:363:1,0.54
+Coryphaenoides,ariommus,-33.75,-71.75,5307:131:4,0.46
+Coryphaenoides,ariommus,-37.25,-73.75,5307:373:2,0.40
+Coryphaenoides,ariommus,-37.75,-73.75,5307:373:4,0.58
+Coryphaenoides,ariommus,-2.25,-84.25,5008:124:1,0.62
+Coryphaenoides,ariommus,-4.75,-81.25,5008:141:3,0.65
+Coryphaenoides,ariommus,-5.75,-81.25,5008:351:3,0.77
+Coryphaenoides,ariommus,-6.75,-80.75,5008:360:4,0.68
+Coryphaenoides,ariommus,-6.25,-81.25,5008:361:1,0.68
+Coryphaenoides,ariommus,-16.25,-74.75,5107:364:2,0.64
+Coryphaenoides,ariommus,-21.25,-70.75,5207:110:2,0.78
+Coryphaenoides,ariommus,-33.25,-71.75,5307:131:2,0.70
+Coryphaenoides,ariommus,-34.25,-72.25,5307:142:1,0.64
+Coryphaenoides,ariommus,-34.75,-72.25,5307:142:3,0.74
+Coryphaenoides,ariommus,-35.75,-73.25,5307:353:3,0.69
+Coryphaenoides,ariommus,-38.25,-73.75,5307:383:2,0.66
+Coryphaenoides,ariommus,-38.75,-73.75,5307:383:4,0.73
+Coryphaenoides,ariommus,-39.25,-73.75,5307:393:2,0.67
+Coryphaenoides,ariommus,-39.75,-74.25,5307:394:3,0.75
+Coryphaenoides,ariommus,-26.25,-70.75,5207:360:2,0.82
+Coryphaenoides,ariommus,-26.75,-70.75,5207:360:4,0.93
+Coryphaenoides,ariommus,-27.25,-70.75,5207:370:2,0.80
+Coryphaenoides,ariommus,-27.25,-71.25,5207:371:1,1.00
+Coryphaenoides,ariommus,-27.75,-71.25,5207:371:3,1.00
+Coryphaenoides,ariommus,-26.75,-71.25,5207:361:3,0.80
+Coryphaenoides,ariommus,-9.25,-79.75,5007:499:2,0.96
+Coryphaenoides,ariommus,-9.75,-79.25,5007:499:3,1.00
+Coryphaenoides,ariommus,-9.75,-79.75,5007:499:4,1.00
+Coryphaenoides,ariommus,-2.25,-81.25,5008:121:1,1.00
+Coryphaenoides,ariommus,-2.75,-81.25,5008:121:3,1.00
+Coryphaenoides,ariommus,-2.25,-83.25,5008:123:1,1.00
+Coryphaenoides,ariommus,-2.25,-83.75,5008:123:2,1.00
+Coryphaenoides,ariommus,-3.25,-81.25,5008:131:1,1.00
+Coryphaenoides,ariommus,-3.75,-81.25,5008:131:3,1.00
+Coryphaenoides,ariommus,-4.25,-81.25,5008:141:1,0.99
+Coryphaenoides,ariommus,-6.75,-81.25,5008:361:3,1.00
+Coryphaenoides,ariommus,-7.25,-80.75,5008:370:2,1.00
+Coryphaenoides,ariommus,-7.75,-80.75,5008:370:4,1.00
+Coryphaenoides,ariommus,-7.25,-81.25,5008:371:1,1.00
+Coryphaenoides,ariommus,-8.25,-80.25,5008:380:1,1.00
+Coryphaenoides,ariommus,-8.25,-80.75,5008:380:2,1.00
+Coryphaenoides,ariommus,-8.75,-80.25,5008:380:3,1.00
+Coryphaenoides,ariommus,-9.25,-80.25,5008:390:1,1.00
+Coryphaenoides,ariommus,-10.75,-78.25,5107:208:3,0.99
+Coryphaenoides,ariommus,-10.75,-78.75,5107:208:4,1.00
+Coryphaenoides,ariommus,-10.25,-79.25,5107:209:1,1.00
+Coryphaenoides,ariommus,-11.75,-77.75,5107:217:4,0.94
+Coryphaenoides,ariommus,-11.25,-78.25,5107:218:1,0.95
+Coryphaenoides,ariommus,-11.25,-78.75,5107:218:2,0.94
+Coryphaenoides,ariommus,-11.75,-78.25,5107:218:3,1.00
+Coryphaenoides,ariommus,-12.25,-77.75,5107:227:2,0.97
+Coryphaenoides,ariommus,-12.75,-77.25,5107:227:3,0.98
+Coryphaenoides,ariommus,-12.75,-77.75,5107:227:4,1.00
+Coryphaenoides,ariommus,-13.75,-76.75,5107:236:4,0.89
+Coryphaenoides,ariommus,-13.25,-77.25,5107:237:1,1.00
+Coryphaenoides,ariommus,-13.75,-77.25,5107:237:3,1.00
+Coryphaenoides,ariommus,-14.25,-76.75,5107:246:2,1.00
+Coryphaenoides,ariommus,-14.75,-76.25,5107:246:3,1.00
+Coryphaenoides,ariommus,-15.75,-74.25,5107:354:3,1.00
+Coryphaenoides,ariommus,-15.75,-74.75,5107:354:4,0.95
+Coryphaenoides,ariommus,-16.75,-72.25,5107:362:3,1.00
+Coryphaenoides,ariommus,-16.75,-72.75,5107:362:4,1.00
+Coryphaenoides,ariommus,-16.25,-73.75,5107:363:2,0.93
+Coryphaenoides,ariommus,-16.75,-73.25,5107:363:3,1.00
+Coryphaenoides,ariommus,-16.75,-73.75,5107:363:4,0.96
+Coryphaenoides,ariommus,-16.25,-74.25,5107:364:1,1.00
+Coryphaenoides,ariommus,-17.25,-71.75,5107:371:2,1.00
+Coryphaenoides,ariommus,-17.75,-71.25,5107:371:3,1.00
+Coryphaenoides,ariommus,-17.75,-71.75,5107:371:4,0.92
+Coryphaenoides,ariommus,-17.25,-72.25,5107:372:1,0.93
+Coryphaenoides,ariommus,-17.25,-72.75,5107:372:2,1.00
+Coryphaenoides,ariommus,-17.75,-72.25,5107:372:3,1.00
+Coryphaenoides,ariommus,-18.25,-70.75,5107:380:2,1.00
+Coryphaenoides,ariommus,-18.75,-70.25,5107:380:3,0.95
+Coryphaenoides,ariommus,-18.75,-70.75,5107:380:4,1.00
+Coryphaenoides,ariommus,-18.25,-71.25,5107:381:1,0.96
+Coryphaenoides,ariommus,-18.25,-71.75,5107:381:2,1.00
+Coryphaenoides,ariommus,-18.75,-71.25,5107:381:3,1.00
+Coryphaenoides,ariommus,-19.25,-70.25,5107:390:1,0.83
+Coryphaenoides,ariommus,-19.25,-70.75,5107:390:2,1.00
+Coryphaenoides,ariommus,-19.75,-70.25,5107:390:3,0.83
+Coryphaenoides,ariommus,-19.75,-70.75,5107:390:4,1.00
+Coryphaenoides,ariommus,-15.25,-75.25,5107:455:1,1.00
+Coryphaenoides,ariommus,-15.25,-75.75,5107:455:2,0.95
+Coryphaenoides,ariommus,-15.75,-75.25,5107:455:3,1.00
+Coryphaenoides,ariommus,-20.25,-70.25,5207:100:1,0.83
+Coryphaenoides,ariommus,-20.25,-70.75,5207:100:2,1.00
+Coryphaenoides,ariommus,-20.75,-70.25,5207:100:3,1.00
+Coryphaenoides,ariommus,-20.75,-70.75,5207:100:4,1.00
+Coryphaenoides,ariommus,-21.25,-70.25,5207:110:1,0.97
+Coryphaenoides,ariommus,-21.75,-70.25,5207:110:3,0.81
+Coryphaenoides,ariommus,-21.75,-70.75,5207:110:4,0.81
+Coryphaenoides,ariommus,-22.25,-70.25,5207:120:1,0.80
+Coryphaenoides,ariommus,-22.25,-70.75,5207:120:2,1.00
+Coryphaenoides,ariommus,-22.75,-70.25,5207:120:3,1.00
+Coryphaenoides,ariommus,-22.75,-70.75,5207:120:4,1.00
+Coryphaenoides,ariommus,-23.25,-70.75,5207:130:2,1.00
+Coryphaenoides,ariommus,-23.75,-70.75,5207:130:4,1.00
+Coryphaenoides,ariommus,-24.25,-70.75,5207:140:2,1.00
+Coryphaenoides,ariommus,-24.75,-70.75,5207:140:4,1.00
+Coryphaenoides,ariommus,-25.25,-70.75,5207:350:2,1.00
+Coryphaenoides,ariommus,-25.75,-70.75,5207:350:4,0.90
+Coryphaenoides,ariommus,-28.25,-71.25,5207:381:1,0.94
+Coryphaenoides,ariommus,-28.75,-71.25,5207:381:3,1.00
+Coryphaenoides,ariommus,-28.75,-71.75,5207:381:4,1.00
+Coryphaenoides,ariommus,-29.25,-71.75,5207:391:2,1.00
+Coryphaenoides,ariommus,-29.75,-71.25,5207:391:3,1.00
+Coryphaenoides,ariommus,-29.75,-71.75,5207:391:4,1.00
+Coryphaenoides,ariommus,-30.25,-71.75,5307:101:2,1.00
+Coryphaenoides,ariommus,-30.75,-71.75,5307:101:4,1.00
+Coryphaenoides,ariommus,-31.25,-71.75,5307:111:2,0.97
+Coryphaenoides,ariommus,-31.75,-71.75,5307:111:4,1.00
+Coryphaenoides,ariommus,-32.25,-71.75,5307:121:2,0.86
+Coryphaenoides,ariommus,-32.75,-71.75,5307:121:4,0.86
+Coryphaenoides,ariommus,-32.75,-73.75,5307:123:4,1.00
+Coryphaenoides,ariommus,-33.25,-72.25,5307:132:1,1.00
+Coryphaenoides,ariommus,-33.75,-72.25,5307:132:3,0.99
+Coryphaenoides,ariommus,-34.25,-72.75,5307:142:2,0.95
+Coryphaenoides,ariommus,-34.75,-72.75,5307:142:4,0.99
+Coryphaenoides,ariommus,-35.25,-73.25,5307:353:1,1.00
+Coryphaenoides,ariommus,-35.75,-73.75,5307:353:4,1.00
+Coryphaenoides,ariommus,-36.25,-73.75,5307:363:2,1.00
+Coryphaenoides,ariommus,-36.75,-73.75,5307:363:4,0.86
+Coryphaenoides,ariommus,-37.25,-74.25,5307:374:1,1.00
+Coryphaenoides,ariommus,-37.75,-74.25,5307:374:3,1.00
+Coryphaenoides,ariommus,-38.25,-74.25,5307:384:1,1.00
+Coryphaenoides,ariommus,-38.75,-74.25,5307:384:3,1.00
+Coryphaenoides,ariommus,-39.25,-74.25,5307:394:1,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 12)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Coryphaenoides,ariommus,-38.25,-75.75,5307:485:2,3892,14.44,33.74,759,0,218
+Coryphaenoides,ariommus,-36.25,-75.25,5307:465:1,4124,15,33.87,841,0,219
+Coryphaenoides,ariommus,-33.75,-72.25,5307:132:3,1284,15.37,34.15,1515,0,69
+Coryphaenoides,ariommus,-33.25,-77.25,5307:237:1,3336,16.68,34.17,576,0,196
+Coryphaenoides,ariommus,-24.25,-70.75,5207:140:2,1882,18.53,34.75,983,0,76
+Coryphaenoides,ariommus,-24.25,-70.25,5207:140:1,102,18.53,34.75,1126,0,1
+Coryphaenoides,ariommus,-14.75,-76.25,5107:246:3,1782,19.45,34.99,1937,0,94
+Coryphaenoides,ariommus,-12.25,-79.75,5107:229:2,4739,21.3,35.22,733,0,292
+Coryphaenoides,ariommus,-6.75,-80.75,5008:360:4,436,20.48,34.95,2336,0,96
+Coryphaenoides,ariommus,-4.25,-81.75,5008:141:2,3764,21.56,34.36,1720,0,83
+Coryphaenoides,ariommus,-4.25,-81.25,5008:141:1,1015,21.56,34.36,1889,0,19
+Coryphaenoides,ariommus,-2.25,-81.25,5008:121:1,1895,23.02,34.08,999,0,96

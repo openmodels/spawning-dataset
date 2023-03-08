@@ -1,0 +1,169 @@
+Mapping parameters for Scorpaena annobonae ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 34,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,9,13,29,48
+Temperature (°C),1,26.12,26.67,27.67,31.87
+Salinity (psu),1,29.65,31.5,34.08,36.11
+Primary Production,1,512,547.8,1490.2,2074
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,26.2,27.2,176,260
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 130): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Scorpaena,annobonae,2.25,9.75,1000:229:2,0.07
+Scorpaena,annobonae,2.75,9.75,1000:229:4,0.08
+Scorpaena,annobonae,3.25,8.75,1000:238:2,0.15
+Scorpaena,annobonae,3.75,8.75,1000:238:4,0.17
+Scorpaena,annobonae,5.75,4.75,1000:354:4,0.15
+Scorpaena,annobonae,-1.75,9.25,3000:219:3,0.03
+Scorpaena,annobonae,10.75,-15.25,7101:205:3,0.14
+Scorpaena,annobonae,11.25,-15.25,7101:215:1,0.14
+Scorpaena,annobonae,11.25,-15.75,7101:215:2,0.12
+Scorpaena,annobonae,11.75,-15.25,7101:215:3,0.12
+Scorpaena,annobonae,11.75,-15.75,7101:215:4,0.12
+Scorpaena,annobonae,3.75,7.75,1000:237:4,0.36
+Scorpaena,annobonae,3.75,8.25,1000:238:3,0.31
+Scorpaena,annobonae,-1.25,8.75,3000:218:2,0.32
+Scorpaena,annobonae,4.25,-6.75,7000:246:2,0.27
+Scorpaena,annobonae,10.25,-15.75,7101:205:2,0.38
+Scorpaena,annobonae,10.25,-16.25,7101:206:1,0.37
+Scorpaena,annobonae,10.75,-16.75,7101:206:4,0.39
+Scorpaena,annobonae,1.25,9.25,1000:219:1,0.52
+Scorpaena,annobonae,1.75,9.75,1000:219:4,0.44
+Scorpaena,annobonae,3.25,8.25,1000:238:1,0.45
+Scorpaena,annobonae,4.25,7.25,1000:247:1,0.45
+Scorpaena,annobonae,4.25,7.75,1000:247:2,0.43
+Scorpaena,annobonae,5.75,0.25,1000:350:3,0.50
+Scorpaena,annobonae,5.75,0.75,1000:350:4,0.50
+Scorpaena,annobonae,5.75,1.25,1000:351:3,0.50
+Scorpaena,annobonae,6.25,1.25,1000:361:1,0.50
+Scorpaena,annobonae,6.25,1.75,1000:361:2,0.50
+Scorpaena,annobonae,6.25,4.25,1000:364:1,0.55
+Scorpaena,annobonae,-0.25,8.75,3000:208:2,0.44
+Scorpaena,annobonae,-0.25,9.25,3000:209:1,0.55
+Scorpaena,annobonae,-1.25,5.75,3000:215:2,0.49
+Scorpaena,annobonae,4.25,-7.25,7000:247:1,0.48
+Scorpaena,annobonae,4.75,-9.25,7000:249:3,0.59
+Scorpaena,annobonae,10.25,-14.75,7101:104:2,0.46
+Scorpaena,annobonae,10.25,-16.75,7101:206:2,0.58
+Scorpaena,annobonae,0.25,9.25,1000:209:1,0.77
+Scorpaena,annobonae,0.75,9.75,1000:209:4,0.74
+Scorpaena,annobonae,1.25,9.75,1000:219:2,0.62
+Scorpaena,annobonae,6.25,2.25,1000:362:1,0.66
+Scorpaena,annobonae,6.25,2.75,1000:362:2,0.66
+Scorpaena,annobonae,5.75,5.25,1000:455:3,0.74
+Scorpaena,annobonae,4.75,-0.75,7000:140:4,0.65
+Scorpaena,annobonae,4.25,-1.75,7000:141:2,0.70
+Scorpaena,annobonae,4.75,-1.25,7000:141:3,0.70
+Scorpaena,annobonae,4.75,-1.75,7000:141:4,0.70
+Scorpaena,annobonae,4.75,-2.25,7000:142:3,0.70
+Scorpaena,annobonae,4.75,-2.75,7000:142:4,0.70
+Scorpaena,annobonae,4.75,-3.25,7000:143:3,0.70
+Scorpaena,annobonae,4.75,-5.25,7000:245:3,0.75
+Scorpaena,annobonae,4.75,-5.75,7000:245:4,0.75
+Scorpaena,annobonae,4.75,-6.25,7000:246:3,0.61
+Scorpaena,annobonae,4.75,-6.75,7000:246:4,0.75
+Scorpaena,annobonae,4.25,-7.75,7000:247:2,0.75
+Scorpaena,annobonae,4.75,-7.75,7000:247:4,0.75
+Scorpaena,annobonae,4.25,-8.25,7000:248:1,0.68
+Scorpaena,annobonae,4.75,-8.25,7000:248:3,0.64
+Scorpaena,annobonae,4.75,-8.75,7000:248:4,0.64
+Scorpaena,annobonae,5.25,-0.25,7000:350:1,0.65
+Scorpaena,annobonae,5.25,-0.75,7000:350:2,0.65
+Scorpaena,annobonae,5.75,-0.25,7000:350:3,0.65
+Scorpaena,annobonae,5.25,-1.25,7000:351:1,0.70
+Scorpaena,annobonae,5.25,-1.75,7000:351:2,0.70
+Scorpaena,annobonae,5.25,-2.75,7000:352:2,0.70
+Scorpaena,annobonae,5.25,-3.25,7000:353:1,0.70
+Scorpaena,annobonae,5.25,-3.75,7000:353:2,0.70
+Scorpaena,annobonae,5.25,-4.25,7000:354:1,0.73
+Scorpaena,annobonae,5.25,-4.75,7000:354:2,0.73
+Scorpaena,annobonae,5.25,-5.25,7000:455:1,0.75
+Scorpaena,annobonae,5.25,-9.25,7000:459:1,0.63
+Scorpaena,annobonae,9.25,-13.25,7001:393:1,0.78
+Scorpaena,annobonae,9.25,-13.75,7001:393:2,0.78
+Scorpaena,annobonae,9.75,-13.75,7001:393:4,0.76
+Scorpaena,annobonae,9.75,-14.25,7001:394:3,0.69
+Scorpaena,annobonae,9.75,-16.25,7001:496:3,0.66
+Scorpaena,annobonae,0.25,6.75,1000:206:2,1.00
+Scorpaena,annobonae,0.25,9.75,1000:209:2,1.00
+Scorpaena,annobonae,0.75,9.25,1000:209:3,0.99
+Scorpaena,annobonae,1.25,7.25,1000:217:1,1.00
+Scorpaena,annobonae,1.75,7.25,1000:217:3,1.00
+Scorpaena,annobonae,1.75,7.75,1000:217:4,1.00
+Scorpaena,annobonae,3.75,5.75,1000:235:4,0.94
+Scorpaena,annobonae,3.75,6.25,1000:236:3,0.93
+Scorpaena,annobonae,3.75,6.75,1000:236:4,0.93
+Scorpaena,annobonae,4.25,5.25,1000:245:1,0.93
+Scorpaena,annobonae,4.25,5.75,1000:245:2,0.93
+Scorpaena,annobonae,4.75,5.25,1000:245:3,0.93
+Scorpaena,annobonae,4.75,5.75,1000:245:4,0.93
+Scorpaena,annobonae,4.25,6.25,1000:246:1,0.93
+Scorpaena,annobonae,4.25,6.75,1000:246:2,0.93
+Scorpaena,annobonae,5.25,4.75,1000:354:2,0.95
+Scorpaena,annobonae,6.25,3.25,1000:363:1,0.96
+Scorpaena,annobonae,6.25,3.75,1000:363:2,0.88
+Scorpaena,annobonae,6.25,4.75,1000:364:2,0.87
+Scorpaena,annobonae,5.25,5.25,1000:455:1,0.83
+Scorpaena,annobonae,5.25,-9.75,7000:459:2,0.88
+Scorpaena,annobonae,5.75,-9.75,7000:459:4,0.88
+Scorpaena,annobonae,5.75,-10.25,7001:350:3,0.86
+Scorpaena,annobonae,6.25,-10.25,7001:360:1,0.88
+Scorpaena,annobonae,6.25,-10.75,7001:360:2,0.88
+Scorpaena,annobonae,6.75,-10.75,7001:360:4,0.88
+Scorpaena,annobonae,6.25,-11.25,7001:361:1,0.82
+Scorpaena,annobonae,6.75,-11.25,7001:361:3,0.93
+Scorpaena,annobonae,6.75,-11.75,7001:361:4,0.93
+Scorpaena,annobonae,7.25,-11.75,7001:371:2,0.95
+Scorpaena,annobonae,7.25,-12.25,7001:372:1,0.94
+Scorpaena,annobonae,7.25,-12.75,7001:372:2,0.94
+Scorpaena,annobonae,7.75,-12.75,7001:372:4,0.94
+Scorpaena,annobonae,7.25,-13.25,7001:373:1,0.95
+Scorpaena,annobonae,7.75,-13.25,7001:373:3,0.95
+Scorpaena,annobonae,7.75,-13.75,7001:373:4,0.95
+Scorpaena,annobonae,7.75,-14.25,7001:374:3,0.84
+Scorpaena,annobonae,8.25,-12.75,7001:382:2,1.00
+Scorpaena,annobonae,8.25,-13.25,7001:383:1,1.00
+Scorpaena,annobonae,8.25,-13.75,7001:383:2,0.97
+Scorpaena,annobonae,8.75,-13.25,7001:383:3,0.97
+Scorpaena,annobonae,8.75,-13.75,7001:383:4,0.97
+Scorpaena,annobonae,8.25,-14.25,7001:384:1,0.97
+Scorpaena,annobonae,8.75,-14.25,7001:384:3,0.97
+Scorpaena,annobonae,8.75,-14.75,7001:384:4,0.97
+Scorpaena,annobonae,9.75,-13.25,7001:393:3,1.00
+Scorpaena,annobonae,9.25,-14.25,7001:394:1,1.00
+Scorpaena,annobonae,9.25,-14.75,7001:394:2,1.00
+Scorpaena,annobonae,9.75,-14.75,7001:394:4,1.00
+Scorpaena,annobonae,9.25,-15.25,7001:495:1,0.86
+Scorpaena,annobonae,9.25,-15.75,7001:495:2,0.86
+Scorpaena,annobonae,9.75,-15.25,7001:495:3,0.86
+Scorpaena,annobonae,9.75,-15.75,7001:495:4,0.86
+Scorpaena,annobonae,10.25,-14.25,7101:104:1,1.00
+Scorpaena,annobonae,10.75,-14.75,7101:104:4,0.82
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Scorpaena,annobonae,-1.25,5.75,3000:215:2,2743,26.43,34.34,691,0,28
+Scorpaena,annobonae,1.25,9.25,1000:219:1,377,27.66,31.11,1690,0,27
+Scorpaena,annobonae,1.25,5.75,1000:215:2,3536,27.65,33.04,512,0,213

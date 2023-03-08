@@ -1,0 +1,169 @@
+Mapping parameters for Paralabrax loro (Parrot sand bass)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,24,8,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,10,15,36,60
+Temperature (°C),1,24.96,26.34,29.37,33.57
+Salinity (psu),1,31.39,33.31,35.75,36.83
+Primary Production,1,476,661,1429,2057
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,4,8,82,83
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 119): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Paralabrax,loro,8.25,-81.75,7008:381:2,0.12
+Paralabrax,loro,11.25,-85.75,7108:215:2,0.03
+Paralabrax,loro,12.75,-89.25,7108:229:3,0.02
+Paralabrax,loro,16.25,-97.75,7109:467:2,0.16
+Paralabrax,loro,21.25,-105.75,7210:215:2,0.12
+Paralabrax,loro,22.75,-109.75,7210:229:4,0.16
+Paralabrax,loro,23.25,-109.25,7210:239:1,0.07
+Paralabrax,loro,23.25,-109.75,7210:239:2,0.07
+Paralabrax,loro,23.75,-109.25,7210:239:3,0.07
+Paralabrax,loro,23.75,-109.75,7210:239:4,0.07
+Paralabrax,loro,8.25,-82.25,7008:382:1,0.21
+Paralabrax,loro,8.25,-82.75,7008:382:2,0.21
+Paralabrax,loro,8.25,-83.25,7008:383:1,0.35
+Paralabrax,loro,8.75,-83.25,7008:383:3,0.38
+Paralabrax,loro,10.25,-86.25,7108:206:1,0.29
+Paralabrax,loro,11.75,-86.25,7108:216:3,0.23
+Paralabrax,loro,13.25,-87.25,7108:237:1,0.34
+Paralabrax,loro,13.75,-89.25,7108:239:3,0.38
+Paralabrax,loro,13.75,-89.75,7108:239:4,0.34
+Paralabrax,loro,14.25,-92.75,7109:142:2,0.33
+Paralabrax,loro,8.75,-82.25,7008:382:3,0.40
+Paralabrax,loro,8.25,-83.75,7008:383:2,0.52
+Paralabrax,loro,8.75,-83.75,7008:383:4,0.52
+Paralabrax,loro,9.25,-83.75,7008:393:2,0.52
+Paralabrax,loro,9.25,-84.25,7008:394:1,0.52
+Paralabrax,loro,9.25,-84.75,7008:394:2,0.52
+Paralabrax,loro,9.75,-84.25,7008:394:3,0.52
+Paralabrax,loro,9.75,-84.75,7008:394:4,0.52
+Paralabrax,loro,10.75,-86.25,7108:206:3,0.54
+Paralabrax,loro,11.25,-86.75,7108:216:2,0.42
+Paralabrax,loro,12.75,-88.75,7108:228:4,0.52
+Paralabrax,loro,16.75,-100.25,7110:360:3,0.57
+Paralabrax,loro,22.75,-105.75,7210:225:4,0.40
+Paralabrax,loro,10.25,-85.75,7108:205:2,0.61
+Paralabrax,loro,12.25,-88.25,7108:228:1,0.68
+Paralabrax,loro,13.25,-89.75,7108:239:2,0.79
+Paralabrax,loro,13.75,-90.25,7109:130:3,0.78
+Paralabrax,loro,15.25,-93.75,7109:353:2,0.75
+Paralabrax,loro,23.75,-106.75,7210:236:4,0.71
+Paralabrax,loro,23.75,-107.25,7210:237:3,0.79
+Paralabrax,loro,8.25,-78.25,7007:488:1,1.00
+Paralabrax,loro,8.25,-78.75,7007:488:2,1.00
+Paralabrax,loro,8.75,-78.25,7007:488:3,1.00
+Paralabrax,loro,8.75,-78.75,7007:488:4,1.00
+Paralabrax,loro,8.75,-79.25,7007:489:3,0.89
+Paralabrax,loro,8.75,-79.75,7007:489:4,1.00
+Paralabrax,loro,8.25,-80.25,7008:380:1,1.00
+Paralabrax,loro,9.75,-85.25,7008:495:3,1.00
+Paralabrax,loro,9.75,-85.75,7008:495:4,0.90
+Paralabrax,loro,11.25,-86.25,7108:216:1,1.00
+Paralabrax,loro,11.75,-86.75,7108:216:4,1.00
+Paralabrax,loro,12.25,-86.75,7108:226:2,1.00
+Paralabrax,loro,12.25,-87.25,7108:227:1,1.00
+Paralabrax,loro,12.25,-87.75,7108:227:2,0.98
+Paralabrax,loro,12.75,-87.25,7108:227:3,0.82
+Paralabrax,loro,12.75,-87.75,7108:227:4,1.00
+Paralabrax,loro,12.75,-88.25,7108:228:3,1.00
+Paralabrax,loro,13.25,-87.75,7108:237:2,1.00
+Paralabrax,loro,13.25,-88.25,7108:238:1,1.00
+Paralabrax,loro,13.25,-88.75,7108:238:2,1.00
+Paralabrax,loro,13.25,-89.25,7108:239:1,1.00
+Paralabrax,loro,13.75,-90.75,7109:130:4,1.00
+Paralabrax,loro,13.75,-91.25,7109:131:3,1.00
+Paralabrax,loro,13.75,-91.75,7109:131:4,1.00
+Paralabrax,loro,14.25,-91.75,7109:141:2,1.00
+Paralabrax,loro,14.25,-92.25,7109:142:1,1.00
+Paralabrax,loro,14.75,-92.25,7109:142:3,1.00
+Paralabrax,loro,14.75,-92.75,7109:142:4,1.00
+Paralabrax,loro,14.75,-93.25,7109:143:3,1.00
+Paralabrax,loro,15.25,-92.75,7109:352:2,1.00
+Paralabrax,loro,15.25,-93.25,7109:353:1,1.00
+Paralabrax,loro,15.75,-93.25,7109:353:3,1.00
+Paralabrax,loro,15.75,-93.75,7109:353:4,1.00
+Paralabrax,loro,15.75,-94.25,7109:354:3,1.00
+Paralabrax,loro,16.25,-94.25,7109:364:1,1.00
+Paralabrax,loro,16.25,-94.75,7109:364:2,1.00
+Paralabrax,loro,15.75,-95.25,7109:455:3,1.00
+Paralabrax,loro,15.75,-95.75,7109:455:4,1.00
+Paralabrax,loro,15.75,-96.25,7109:456:3,1.00
+Paralabrax,loro,15.75,-96.75,7109:456:4,1.00
+Paralabrax,loro,15.75,-97.25,7109:457:3,1.00
+Paralabrax,loro,15.75,-97.75,7109:457:4,1.00
+Paralabrax,loro,16.25,-95.25,7109:465:1,1.00
+Paralabrax,loro,16.25,-98.25,7109:468:1,1.00
+Paralabrax,loro,16.25,-98.75,7109:468:2,1.00
+Paralabrax,loro,16.75,-98.75,7109:468:4,1.00
+Paralabrax,loro,16.75,-99.25,7109:469:3,1.00
+Paralabrax,loro,16.75,-99.75,7109:469:4,1.00
+Paralabrax,loro,17.25,-100.25,7110:370:1,1.00
+Paralabrax,loro,17.25,-100.75,7110:370:2,1.00
+Paralabrax,loro,17.25,-101.25,7110:371:1,1.00
+Paralabrax,loro,17.75,-101.25,7110:371:3,1.00
+Paralabrax,loro,17.75,-101.75,7110:371:4,1.00
+Paralabrax,loro,17.75,-102.25,7110:372:3,1.00
+Paralabrax,loro,18.25,-102.25,7110:382:1,1.00
+Paralabrax,loro,18.25,-102.75,7110:382:2,1.00
+Paralabrax,loro,18.25,-103.25,7110:383:1,1.00
+Paralabrax,loro,18.25,-103.75,7110:383:2,1.00
+Paralabrax,loro,18.75,-103.75,7110:383:4,1.00
+Paralabrax,loro,18.75,-104.25,7110:384:3,1.00
+Paralabrax,loro,19.25,-104.25,7110:394:1,1.00
+Paralabrax,loro,19.25,-104.75,7110:394:2,1.00
+Paralabrax,loro,19.25,-105.25,7110:495:1,1.00
+Paralabrax,loro,19.75,-105.25,7110:495:3,1.00
+Paralabrax,loro,20.25,-105.25,7210:205:1,1.00
+Paralabrax,loro,20.25,-105.75,7210:205:2,1.00
+Paralabrax,loro,20.75,-105.25,7210:205:3,1.00
+Paralabrax,loro,20.75,-105.75,7210:205:4,1.00
+Paralabrax,loro,21.25,-105.25,7210:215:1,1.00
+Paralabrax,loro,21.75,-105.25,7210:215:3,1.00
+Paralabrax,loro,21.75,-105.75,7210:215:4,1.00
+Paralabrax,loro,21.25,-106.25,7210:216:1,1.00
+Paralabrax,loro,21.75,-106.25,7210:216:3,1.00
+Paralabrax,loro,21.75,-106.75,7210:216:4,1.00
+Paralabrax,loro,22.25,-105.75,7210:225:2,1.00
+Paralabrax,loro,22.25,-106.25,7210:226:1,1.00
+Paralabrax,loro,22.75,-106.25,7210:226:3,1.00
+Paralabrax,loro,23.25,-106.25,7210:236:1,1.00
+Paralabrax,loro,23.25,-106.75,7210:236:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 14)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Paralabrax,loro,8.25,-80.25,7008:380:1,17,28.04,35.06,661,0,18
+Paralabrax,loro,8.75,-79.75,7007:489:4,23,27.88,35.75,1405,0,14
+Paralabrax,loro,9.75,-84.75,7008:394:4,104,28.56,32.38,1274,0,20
+Paralabrax,loro,10.25,-85.25,7108:205:1,18,28.03,33.31,476,0,4
+Paralabrax,loro,10.75,-86.25,7108:206:3,315,27.86,33.31,944,0,82
+Paralabrax,loro,11.75,-86.75,7108:216:4,83,28.03,33.61,752,0,26
+Paralabrax,loro,13.25,-89.25,7108:239:1,63,29.06,33.58,708,0,26
+Paralabrax,loro,13.75,-91.25,7109:131:3,65,29.37,33.43,980,0,26
+Paralabrax,loro,16.25,-94.75,7109:364:2,34,28.18,33.79,1174,0,13
+Paralabrax,loro,20.75,-105.75,7210:205:4,699,26.98,34.68,815,0,26
+Paralabrax,loro,21.75,-105.75,7210:215:4,54,26.89,34.68,867,0,25
+Paralabrax,loro,22.25,-105.75,7210:225:2,52,26.81,34.79,1399,0,19
+Paralabrax,loro,23.25,-106.75,7210:236:2,431,26.34,34.93,931,0,25
+Paralabrax,loro,23.25,-106.25,7210:236:1,63,26.34,34.79,1429,0,8

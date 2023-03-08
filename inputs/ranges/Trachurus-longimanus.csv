@@ -1,0 +1,44 @@
+Mapping parameters for Trachurus longimanus (Crozet scad)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 47 |  51 |  58,
+Bounding Box (NSWE): ,-33,-54,13,78
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,75,80,101,125
+Temperature (°C),1,9.7,14.72,19.47,23.81
+Salinity (psu),1,34.31,34.81,35.81,36.31
+Primary Production (mgC·m-3·day-1) ,1,2.81,4.31,6.41,8.31
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,181.84,197.65,211.58,227.64
+Distance to Land (km),0,20.3,21.3,1119.1,2401.75
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 4): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Trachurus,longimanus,-33.25,43.75,3304:133:2,0.64
+Trachurus,longimanus,-38.75,77.75,3307:487:4,0.97
+Trachurus,longimanus,-37.75,77.75,3307:477:4,0.94
+Trachurus,longimanus,-35.75,53.25,3305:353:3,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Trachurus,longimanus,-38.75,77.75,3307:487:4,1107,14.545952796936,2.99871706962585,35.0330047607422,34.4875717163086,6.15300005301833,0,196.746643066406,21
+Trachurus,longimanus,-37.75,77.75,3307:477:4,1483,15.13707447052,4.19719886779785,35.0993309020996,34.3629875183105,6.52300007641315,0,209.844161987305,22
+Trachurus,longimanus,-35.75,53.25,3305:353:3,2586,17.9861373901367,1.73360300064087,35.4914398193359,34.740406036377,5.18300011754036,0,199.767166137695,1216
+Trachurus,longimanus,-33.25,43.75,3304:133:2,915,20.105037689209,13.2200355529785,35.6013374328613,35.2226715087891,3.93200013786554,0,212.317459106445,893

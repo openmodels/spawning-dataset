@@ -1,0 +1,213 @@
+Mapping parameters for Sciades parkeri (Gillbacker sea catfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 31 |  41,
+Bounding Box (NSWE): ,9,-7,-60,-34
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,15,15,18,20
+Temperature (°C),1,26.8,27.37,28.37,32.57
+Salinity (psu),1,7.84,14.5,35.81,36.54
+Primary Production (mgC·m-3·day-1) ,1,4.86,7.02,70.55,78.09
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,189.41,200.86,215.06,221.64
+Distance to Land (km),0,1,5,180,213
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 153): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Sciades,parkeri,-5.25,-36.25,5003:456:1,0.13
+Sciades,parkeri,-2.75,-40.25,5004:120:3,0.19
+Sciades,parkeri,0.75,-49.75,7004:209:4,0.02
+Sciades,parkeri,-3.75,-38.25,5003:238:3,0.21
+Sciades,parkeri,0.25,-49.75,7004:209:2,0.39
+Sciades,parkeri,0.75,-50.75,7005:100:4,0.29
+Sciades,parkeri,0.25,-51.25,7005:101:1,0.37
+Sciades,parkeri,-3.75,-38.75,5003:238:4,0.58
+Sciades,parkeri,2.75,-49.75,7004:229:4,0.50
+Sciades,parkeri,3.25,-49.75,7004:239:2,0.50
+Sciades,parkeri,-3.25,-39.75,5003:239:2,0.66
+Sciades,parkeri,-4.25,-38.25,5003:248:1,0.78
+Sciades,parkeri,-2.75,-40.75,5004:120:4,0.70
+Sciades,parkeri,-2.25,-42.25,5004:122:1,0.70
+Sciades,parkeri,-0.25,-50.25,5005:100:1,0.77
+Sciades,parkeri,-0.25,-50.75,5005:100:2,0.61
+Sciades,parkeri,2.75,-47.75,7004:227:4,0.77
+Sciades,parkeri,-4.25,-37.75,5003:247:2,0.83
+Sciades,parkeri,-4.75,-37.25,5003:247:3,1.00
+Sciades,parkeri,-1.25,-44.75,5004:114:2,1.00
+Sciades,parkeri,-1.75,-44.25,5004:114:3,1.00
+Sciades,parkeri,-1.75,-44.75,5004:114:4,1.00
+Sciades,parkeri,-2.75,-41.25,5004:121:3,0.84
+Sciades,parkeri,-2.75,-41.75,5004:121:4,1.00
+Sciades,parkeri,-2.25,-42.75,5004:122:2,0.88
+Sciades,parkeri,-2.75,-42.25,5004:122:3,1.00
+Sciades,parkeri,-2.75,-42.75,5004:122:4,1.00
+Sciades,parkeri,-2.25,-43.25,5004:123:1,0.89
+Sciades,parkeri,-2.25,-43.75,5004:123:2,1.00
+Sciades,parkeri,-2.25,-44.25,5004:124:1,1.00
+Sciades,parkeri,-2.75,-44.25,5004:124:3,1.00
+Sciades,parkeri,-2.75,-44.75,5004:124:4,1.00
+Sciades,parkeri,-0.75,-45.75,5004:205:4,1.00
+Sciades,parkeri,-0.25,-46.75,5004:206:2,1.00
+Sciades,parkeri,-0.75,-46.25,5004:206:3,1.00
+Sciades,parkeri,-0.75,-46.75,5004:206:4,1.00
+Sciades,parkeri,-0.25,-47.25,5004:207:1,1.00
+Sciades,parkeri,-0.25,-47.75,5004:207:2,1.00
+Sciades,parkeri,-0.75,-47.25,5004:207:3,1.00
+Sciades,parkeri,-0.25,-48.25,5004:208:1,1.00
+Sciades,parkeri,-0.75,-48.25,5004:208:3,0.98
+Sciades,parkeri,-0.25,-49.75,5004:209:2,0.95
+Sciades,parkeri,-1.25,-45.25,5004:215:1,1.00
+Sciades,parkeri,-1.25,-45.75,5004:215:2,1.00
+Sciades,parkeri,-1.75,-45.25,5004:215:3,1.00
+Sciades,parkeri,-1.25,-48.25,5004:218:1,0.99
+Sciades,parkeri,-1.25,-48.75,5004:218:2,0.99
+Sciades,parkeri,-1.75,-48.75,5004:218:4,1.00
+Sciades,parkeri,-1.75,-49.25,5004:219:3,1.00
+Sciades,parkeri,-0.25,-51.25,5005:101:1,0.84
+Sciades,parkeri,-0.75,-51.25,5005:101:3,1.00
+Sciades,parkeri,-1.75,-50.25,5005:110:3,1.00
+Sciades,parkeri,0.25,-46.75,7004:206:2,1.00
+Sciades,parkeri,0.75,-46.75,7004:206:4,1.00
+Sciades,parkeri,0.25,-47.25,7004:207:1,1.00
+Sciades,parkeri,0.25,-47.75,7004:207:2,1.00
+Sciades,parkeri,0.75,-47.25,7004:207:3,1.00
+Sciades,parkeri,0.75,-47.75,7004:207:4,1.00
+Sciades,parkeri,0.25,-48.25,7004:208:1,1.00
+Sciades,parkeri,0.75,-48.25,7004:208:3,1.00
+Sciades,parkeri,1.25,-46.75,7004:216:2,1.00
+Sciades,parkeri,1.25,-47.25,7004:217:1,1.00
+Sciades,parkeri,1.75,-47.25,7004:217:3,1.00
+Sciades,parkeri,1.75,-47.75,7004:217:4,1.00
+Sciades,parkeri,1.25,-48.25,7004:218:1,1.00
+Sciades,parkeri,1.75,-48.25,7004:218:3,0.92
+Sciades,parkeri,1.75,-49.75,7004:219:4,1.00
+Sciades,parkeri,2.25,-47.75,7004:227:2,1.00
+Sciades,parkeri,2.25,-48.25,7004:228:1,1.00
+Sciades,parkeri,2.25,-48.75,7004:228:2,0.92
+Sciades,parkeri,2.75,-48.25,7004:228:3,1.00
+Sciades,parkeri,2.25,-49.25,7004:229:1,1.00
+Sciades,parkeri,2.75,-49.25,7004:229:3,1.00
+Sciades,parkeri,3.25,-48.75,7004:238:2,1.00
+Sciades,parkeri,3.75,-48.75,7004:238:4,1.00
+Sciades,parkeri,3.25,-49.25,7004:239:1,1.00
+Sciades,parkeri,3.75,-49.25,7004:239:3,1.00
+Sciades,parkeri,4.25,-49.75,7004:249:2,1.00
+Sciades,parkeri,1.75,-50.25,7005:110:3,1.00
+Sciades,parkeri,2.25,-50.25,7005:120:1,1.00
+Sciades,parkeri,2.25,-50.75,7005:120:2,1.00
+Sciades,parkeri,2.75,-50.75,7005:120:4,1.00
+Sciades,parkeri,3.25,-50.25,7005:130:1,1.00
+Sciades,parkeri,3.25,-50.75,7005:130:2,1.00
+Sciades,parkeri,3.75,-50.25,7005:130:3,1.00
+Sciades,parkeri,3.75,-50.75,7005:130:4,1.00
+Sciades,parkeri,3.25,-51.25,7005:131:1,1.00
+Sciades,parkeri,3.75,-51.25,7005:131:3,1.00
+Sciades,parkeri,4.25,-50.25,7005:140:1,1.00
+Sciades,parkeri,4.25,-50.75,7005:140:2,1.00
+Sciades,parkeri,4.75,-50.25,7005:140:3,1.00
+Sciades,parkeri,4.75,-50.75,7005:140:4,1.00
+Sciades,parkeri,4.25,-51.25,7005:141:1,1.00
+Sciades,parkeri,4.25,-51.75,7005:141:2,1.00
+Sciades,parkeri,4.75,-51.25,7005:141:3,1.00
+Sciades,parkeri,4.75,-51.75,7005:141:4,1.00
+Sciades,parkeri,4.75,-52.25,7005:142:3,1.00
+Sciades,parkeri,5.25,-50.75,7005:350:2,1.00
+Sciades,parkeri,5.25,-51.25,7005:351:1,1.00
+Sciades,parkeri,5.25,-51.75,7005:351:2,1.00
+Sciades,parkeri,5.75,-51.75,7005:351:4,1.00
+Sciades,parkeri,5.25,-52.25,7005:352:1,1.00
+Sciades,parkeri,5.25,-52.75,7005:352:2,1.00
+Sciades,parkeri,5.75,-52.25,7005:352:3,1.00
+Sciades,parkeri,5.75,-52.75,7005:352:4,1.00
+Sciades,parkeri,5.25,-53.25,7005:353:1,1.00
+Sciades,parkeri,5.75,-53.25,7005:353:3,1.00
+Sciades,parkeri,5.75,-53.75,7005:353:4,1.00
+Sciades,parkeri,5.75,-54.25,7005:354:3,1.00
+Sciades,parkeri,5.75,-54.75,7005:354:4,1.00
+Sciades,parkeri,6.25,-51.75,7005:361:2,1.00
+Sciades,parkeri,6.25,-52.25,7005:362:1,1.00
+Sciades,parkeri,6.25,-52.75,7005:362:2,1.00
+Sciades,parkeri,6.75,-52.25,7005:362:3,1.00
+Sciades,parkeri,6.75,-52.75,7005:362:4,1.00
+Sciades,parkeri,6.25,-53.25,7005:363:1,1.00
+Sciades,parkeri,6.25,-53.75,7005:363:2,1.00
+Sciades,parkeri,6.75,-53.25,7005:363:3,1.00
+Sciades,parkeri,6.75,-53.75,7005:363:4,1.00
+Sciades,parkeri,6.25,-54.25,7005:364:1,1.00
+Sciades,parkeri,6.25,-54.75,7005:364:2,1.00
+Sciades,parkeri,6.75,-54.25,7005:364:3,1.00
+Sciades,parkeri,7.25,-53.75,7005:373:2,1.00
+Sciades,parkeri,7.25,-54.25,7005:374:1,1.00
+Sciades,parkeri,7.25,-54.75,7005:374:2,1.00
+Sciades,parkeri,5.75,-55.75,7005:455:4,1.00
+Sciades,parkeri,5.75,-56.25,7005:456:3,1.00
+Sciades,parkeri,6.25,-55.25,7005:465:1,1.00
+Sciades,parkeri,6.25,-55.75,7005:465:2,1.00
+Sciades,parkeri,6.75,-55.25,7005:465:3,1.00
+Sciades,parkeri,6.75,-55.75,7005:465:4,1.00
+Sciades,parkeri,6.25,-56.25,7005:466:1,1.00
+Sciades,parkeri,6.25,-56.75,7005:466:2,1.00
+Sciades,parkeri,6.25,-57.25,7005:467:1,1.00
+Sciades,parkeri,6.25,-57.75,7005:467:2,1.00
+Sciades,parkeri,6.75,-57.25,7005:467:3,1.00
+Sciades,parkeri,6.75,-57.75,7005:467:4,1.00
+Sciades,parkeri,6.75,-58.25,7005:468:3,1.00
+Sciades,parkeri,7.25,-56.75,7005:476:2,1.00
+Sciades,parkeri,7.75,-56.75,7005:476:4,1.00
+Sciades,parkeri,7.25,-57.25,7005:477:1,1.00
+Sciades,parkeri,7.25,-57.75,7005:477:2,1.00
+Sciades,parkeri,7.75,-57.25,7005:477:3,1.00
+Sciades,parkeri,7.75,-57.75,7005:477:4,1.00
+Sciades,parkeri,7.25,-58.25,7005:478:1,1.00
+Sciades,parkeri,7.75,-58.25,7005:478:3,1.00
+Sciades,parkeri,7.75,-58.75,7005:478:4,1.00
+Sciades,parkeri,8.25,-58.25,7005:488:1,1.00
+Sciades,parkeri,8.25,-58.75,7005:488:2,1.00
+Sciades,parkeri,8.25,-59.25,7005:489:1,1.00
+Sciades,parkeri,8.25,-59.75,7005:489:2,1.00
+Sciades,parkeri,8.75,-59.25,7005:489:3,1.00
+Sciades,parkeri,8.75,-59.75,7005:489:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 24)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Sciades,parkeri,-6.75,-34.75,5003:364:4,239,27.613489151001,27.5304927825928,36.5369567871094,36.3393707275391,4.85899997875094,0,201.603424072266,23
+Sciades,parkeri,-4.75,-37.25,5003:247:3,17,27.7638740539551,27.6566143035889,35.807300567627,36.1932029724121,8.58100038021803,0,201.216186523438,15
+Sciades,parkeri,-4.25,-37.75,5003:247:2,14,27.7568645477295,27.6609897613525,35.9366607666016,36.1461486816406,7.01900012791157,0,201.498550415039,22
+Sciades,parkeri,-2.75,-41.75,5004:121:4,11,28.0235500335693,27.8622894287109,35.7746849060059,36.1174621582031,21.632999181747397,0,201.035308837891,16
+Sciades,parkeri,-2.75,-44.25,5004:124:3,3,27.9901752471924,28.0460147857666,31.3270435333252,36.1900367736816,28.071999549865698,0,201.847534179688,17
+Sciades,parkeri,-2.75,-44.75,5004:124:4,10,28.0299549102783,28.0476760864258,30.3874740600586,33.6903877258301,29.4844154268503,0,203.039566040039,8
+Sciades,parkeri,-0.75,-46.75,5004:206:4,18,28.1180152893066,28.2875957489014,33.8270263671875,35.5582122802734,16.3109991699457,0,202.910537719727,22
+Sciades,parkeri,-0.75,-50.75,5005:100:4,1,28.3192005157471,28.2219696044922,14.5005712509155,26.7724170684814,66.4723068475723,0,205.725463867188,11
+Sciades,parkeri,0.25,-50.75,7005:100:2,9,28.6711902618408,28.9034538269043,7.83984422683716,35.8270263671875,78.0920013785362,0,209.120147705078,16
+Sciades,parkeri,1.25,-48.25,7004:218:1,33,28.2383460998535,28.0383987426758,30.9233417510986,36.1096839904785,70.5500021576881,0,200.85595703125,213
+Sciades,parkeri,2.25,-48.75,7004:228:2,35,28.1980094909668,27.6420421600342,30.6784858703613,36.1146125793457,71.12299650907521,0,201.250778198242,180
+Sciades,parkeri,2.75,-49.25,7004:229:3,57,28.2232608795166,27.3453178405762,29.1767196655273,36.1529312133789,42.3440001904964,0,200.461212158203,180
+Sciades,parkeri,3.25,-50.25,7005:130:1,37,28.1927528381348,29.0575199127197,22.9346523284912,32.0364875793457,16.4059996604919,0,216.129928588867,96
+Sciades,parkeri,4.25,-51.75,7005:141:2,3,28.0106372833252,28.1458930969238,21.9436225891113,30.9605846405029,19.3700958043337,0,215.063369750977,7
+Sciades,parkeri,4.75,-51.75,7005:141:4,49,27.9838275909424,28.1191444396973,23.5301418304443,35.3704948425293,23.1209993362427,0,215.484848022461,26
+Sciades,parkeri,4.75,-52.25,7005:142:3,27,27.7798004150391,27.980562210083,24.1915664672852,32.3621482849121,25.4490002989769,0,213.344039916992,7
+Sciades,parkeri,5.25,-52.75,7005:352:2,17,27.7060127258301,27.7654705047607,26.8401260375977,31.9446277618408,29.5819994062185,0,212.362731933594,12
+Sciades,parkeri,5.25,-53.25,7005:353:1,6,27.6344566345215,27.5107936859131,28.2654666900635,34.1307487487793,30.7838749140501,0,207.929092407227,1
+Sciades,parkeri,5.25,-52.25,7005:352:1,37,27.8206310272217,27.2228050231934,25.4367637634277,36.0860595703125,21.798999980092,0,202.088500976563,27
+Sciades,parkeri,5.75,-53.25,7005:353:3,43,27.5522918701172,27.4988746643066,30.3942852020264,35.0118026733398,34.0959988534451,0,209.556610107422,25
+Sciades,parkeri,5.75,-53.75,7005:353:4,16,27.4747104644775,27.0311622619629,31.5735168457031,35.7959518432617,31.651999801397302,0,203.492004394531,16
+Sciades,parkeri,5.75,-54.25,7005:354:3,4,27.5237503051758,27.298713684082,31.6260585784912,35.3964538574219,32.623626291751904,0,204.654769897461,5
+Sciades,parkeri,6.25,-55.25,7005:465:1,37,27.4957733154297,27.5294895172119,34.5173721313477,34.9144325256348,35.1030007004738,0,205.242416381836,27
+Sciades,parkeri,6.75,-57.75,7005:467:4,5,28.017822265625,27.9562587738037,33.7292671203613,35.296314239502,21.5370003134012,0,205.417694091797,22
