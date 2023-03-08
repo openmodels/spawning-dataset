@@ -15,13 +15,22 @@ directory.
    
 ### If you want to reproduce the Spawning ProCreator spreadsheet
 
-1. Geocode spawning region names: Set `source = 'arcgis'` in
+1. Merge the FishBase and SCRFA spawning records: Run the
+   `code/prelim/spawning-merge.R` script. This generates a file
+   `outputs/spawning-records.csv` which should be moved to
+   `inputs/spawning-records.csv` for the next step.
+
+2. Geocode spawning region names: Set `source = 'arcgis'` in
    `code/prelim/geocode.py` and run the script; then set `source =
    'geonames'` and run the script again. This script produces geocoded
    result files names `localities-arcgis.csv` and
    `localities-geonames.csv`. Move these to the `inputs/` directory.
 
-2. Run the `code/prelim/spawning-geoprep.R` script, which constructs
+3. Run the `code/prelim/spawning-geoprep.R` script, which constructs
    the raw Spawning ProCreator spreadsheet into
    `outputs/master.csv`. This can then be imported into Excel or
    Google Sheets for filling out the Verdict column.
+
+4. When the Spawning ProCreator spreadsheet is prepared (the Verdict
+   and other columns are manually entered), save the result as a CSV
+   file at `inputs/Master Spawning ProCreator.csv`.

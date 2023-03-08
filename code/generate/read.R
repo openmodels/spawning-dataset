@@ -7,7 +7,7 @@ source("~/projects/research-common/R/distance.R")
 
 custom.shppath <- "~/Dropbox/Spawning ProCreator/shapefiles"
 
-spawnareas <- read.csv("spawnareas/Master Spawning ProCreator - master.csv")
+spawnareas <- read.csv("spawnareas/Master Spawning ProCreator.csv")
 spawnareas$Verdict <- gsub("^ +| +$", "", as.character(spawnareas$Verdict))
 specieseez <- read.csv("code/fao2eez/specieseez.csv")
 
