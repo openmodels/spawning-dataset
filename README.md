@@ -73,7 +73,7 @@ attributes in the shapefile.
 
 The `code/generate/stats.R` script generates `spawning-species.csv`
 which provides information about each species and spawning region
-provided in the spawning regions dataset; ``sau-species.csv` which
+provided in the spawning regions dataset; `sau-species.csv` which
 provides information about each species in the SAU dataset; and
 `sumstats.csv` which provides a summary of this information by
 continent and fish group.
