@@ -13,24 +13,77 @@ First, clone the repository, and set the working directory in R to the
 root of the repository. All R code assumes that this is the working
 directory.
    
-### If you want to reproduce the Spawning ProCreator spreadsheet
+### To reproduce the Spawning ProCreator spreadsheet
 
-1. Merge the FishBase and SCRFA spawning records: Run the
+The Spawning ProCreator spreadsheet, `Master Spawning ProCreator.csv`,
+describes how each spwning region should be constructed. Improvements
+to these constructions can be made by editing the spreadsheet, which
+does not require reproducing it. However, if the underlying spawning
+information from FishBase and SCRFA is extended, the spreadsheet
+should be recreated and new rows should be merged with the existing
+file.
+
+To reproduce the spreadsheet, as it was prior to adding the
+information that describes how regions should be constructed, follow
+these steps:
+
+1. You may optionally regenerate the mapping of EEZs to FAO
+   regions. This is produced by `prelim/fao2eez/mapping.R`. After
+   running it, move the resulting `outputs/fao2eez.csv` to
+   `inputs/fao2eez.csv`.
+   
+2. Regenerate the `input/specieseez.csv` file if the `inputs/Region
+FAO EEZ matching-DO NOT EDIT IN EXCEL.csv` has changed. This second
+file describes the FAO regions corresponding to multinational
+descriptions in the spawnings dataset. To regenerate it, run
+`prelim/fao2eez/species2eez.R`, which produces `output/specieseez.csv`
+and move this file to `inputs/specieseez.csv`.
+
+3. Merge the FishBase and SCRFA spawning records: Run the
    `code/prelim/spawning-merge.R` script. This generates a file
    `outputs/spawning-records.csv` which should be moved to
    `inputs/spawning-records.csv` for the next step.
 
-2. Geocode spawning region names: Set `source = 'arcgis'` in
+4. Geocode spawning region names: Set `source = 'arcgis'` in
    `code/prelim/geocode.py` and run the script; then set `source =
    'geonames'` and run the script again. This script produces geocoded
    result files names `localities-arcgis.csv` and
    `localities-geonames.csv`. Move these to the `inputs/` directory.
 
-3. Run the `code/prelim/spawning-geoprep.R` script, which constructs
+5. Run the `code/prelim/spawning-geoprep.R` script, which constructs
    the raw Spawning ProCreator spreadsheet into
    `outputs/master.csv`. This can then be imported into Excel or
    Google Sheets for filling out the Verdict column.
 
-4. When the Spawning ProCreator spreadsheet is prepared (the Verdict
+6. When the Spawning ProCreator spreadsheet is prepared (the Verdict
    and other columns are manually entered), save the result as a CSV
    file at `inputs/Master Spawning ProCreator.csv`.
+
+### To reproduce the GO-FISH shapefile
+
+The `code/generate/read.R` functions translate information from the
+`inputs/Master Spawning ProCreator.csv` spreadsheet into shapefile
+regions.
+
+The `code/generate/publicdataset.R` script produces a shapefile that
+includes all available spawning regions, intersected with suitability
+information. It produces `outputs/GO-FISH.shp` and
+`outputs/GO-FISH.csv`, the latter of which corresponds to the polygon
+attributes in the shapefile.
+
+The `code/generate/stats.R` script generates `spawning-species.csv`
+which provides information about each species and spawning region
+provided in the spawning regions dataset; ``sau-species.csv` which
+provides information about each species in the SAU dataset; and
+`sumstats.csv` which provides a summary of this information by
+continent and fish group.
+
+To regenerate the public dataset, first run
+`code/generate/publicdataset.R` and then `code/generate/stats.R`.
+
+### To regnerate the figures
+
+ - `maps.R` generates spawning maps across the whole year, by season,
+   or by month.
+   
+ - `Fig2and3.R` generates the other figures in the paper.

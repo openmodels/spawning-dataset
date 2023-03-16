@@ -1,24 +1,24 @@
 library(PBSmapping)
 library(stringi)
 
-source("code/ranges/lib.R")
-source("code/names.R")
-source("~/projects/research-common/R/distance.R")
+source("code/generate/lib.R")
+source("code/generate/names.R")
+source("code/generate/distance.R")
 
-custom.shppath <- "~/Dropbox/Spawning ProCreator/shapefiles"
+custom.shppath <- "inputs/shapefiles"
 
-spawnareas <- read.csv("spawnareas/Master Spawning ProCreator.csv")
+spawnareas <- read.csv("inputs/Master Spawning ProCreator.csv")
 spawnareas$Verdict <- gsub("^ +| +$", "", as.character(spawnareas$Verdict))
-specieseez <- read.csv("code/fao2eez/specieseez.csv")
+specieseez <- read.csv("inputs/specieseez.csv")
 
-eezshp <- importShapefile(file.path(datapath, "shapefiles/World_EEZ_v8_20140228_LR/World_EEZ_v8_2014.shp"), readDBF=T)
+eezshp <- importShapefile("inputs/shapefiles/World_EEZ_v8_20140228_LR/World_EEZ_v8_2014.shp", readDBF=T)
 eezshp.polydata <- attr(eezshp, "PolyData")
 
-shorelines <- importShapefile(file.path(datapath, "shapefiles/ne_50m_coastline/ne_50m_coastline-buffer025.shp"))
+shorelines <- importShapefile("inputs/shapefiles/ne_50m_coastline/ne_50m_coastline-buffer025.shp")
 shorelines$SID <- as.numeric(factor(paste(shorelines$PID, shorelines$SID)))
 shorelines$PID <- 1
 
-allrects <- read.csv("code/allrects.csv")
+allrects <- read.csv("inputs/allrects.csv")
 
 spawning.species <- list("Lutjanus chrysurus"="Ocyurus chrysurus")
 
@@ -279,7 +279,7 @@ last.status <- NULL
 region.x.suitability <- function(species, shp, float.gridref=NULL) {
     last.status <<- NULL
     species <- as.character(species)
-    filepath <- file.path(datapath, "ranges/current", paste0(gsub(" ", "-", species), ".csv"))
+    filepath <- file.path("inputs/ranges", paste0(gsub(" ", "-", species), ".csv"))
     if (!file.exists(filepath)) {
         last.status <<- "Cannot find suitability data."
         return(data.frame())
@@ -323,19 +323,4 @@ region.x.suitability.events <- function(events, shp, float.gridref=NULL, allowed
     }
 
     found
-}
-
-if (F) {
-    spawning <- read.csv("code/spawning-records.csv")
-
-    unique(subset(spawning, is.na(Country))$Verdict)
-    subset(spawnareas, is.na(Country) & Verdict == "Google maps" & X.2..Southwest.Coordinate != "")
-    head(subset(spawning, localities == "North Sea and Mediterranean"))
-
-    specie <- spawning$species[2809]
-    country <- spawning$country[2809]
-    localities <- spawning$localities[2809]
-    poly <- get.poly(specie, country, localities)
-
-    eezshp.polydata[unique(poly$PID),]
 }

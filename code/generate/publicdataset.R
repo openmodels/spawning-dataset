@@ -1,14 +1,12 @@
-setwd("~/Dropbox/Climate Change Fish Nets")
-datapath <- "~/research/fishnets/"
-
 require(sp)
 library(rgeos)
 
-source("code/spawning/read.R")
-##source("code/ranges/lib.R")
+source("code/generate/read.R")
 
-spawning <- read.csv("code/spawning-records.csv")
-suitdir <- file.path(datapath, "ranges/current")
+spawning <- read.csv("inputs/spawning-records.csv")
+spawning <- spawning[!duplicated(spawning),]
+
+suitdir <- "inputs/ranges"
 
 allpid <- 0
 allshp <- data.frame()
@@ -96,7 +94,7 @@ for (PID in 1:length(slot(spolys, 'polygons'))) {
 
     spdf <- SpatialPolygonsDataFrame(subspolys, polydata[c(validpid, PID),])
     success <- tryCatch({
-        writeOGR(spdf, layer="GeoSpawn", "~/Dropbox/Spawning ProCreator/dataset", driver="ESRI Shapefile", overwrite_layer=T)
+        writeOGR(spdf, layer="GO-FISH", "outputs", driver="ESRI Shapefile", overwrite_layer=T)
 	T
     }, error=function(e) {
         print(e)
@@ -107,8 +105,5 @@ for (PID in 1:length(slot(spolys, 'polygons'))) {
 }
 
 spdf <- SpatialPolygonsDataFrame(subspolys, polydata[validpid, -1])
-writeOGR(spdf, layer="GeoSpawn", "~/Dropbox/Spawning ProCreator/dataset", driver="ESRI Shapefile", overwrite_layer=T)
-
-## Statistics
-
-length(unique(polydata$species[validpid]))
+writeOGR(spdf, layer="GO-FISH", "outputs", driver="ESRI Shapefile", overwrite_layer=T)
+write.csv(polydata, "outputs/GO-FISH.csv", row.names=F)

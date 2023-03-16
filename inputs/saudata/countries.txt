@@ -1,0 +1,280 @@
+~/eez/8.aspx	Albania
+~/eez/12.aspx	Algeria
+~/eez/16.aspx	American Samoa
+~/eez/357.aspx	Andaman &amp; Nicobar Isl. (India)
+~/eez/24.aspx	Angola
+~/eez/660.aspx	Anguilla (UK)
+~/eez/28.aspx	Antigua &amp; Barbuda
+~/eez/32.aspx	Argentina
+~/eez/967.aspx	Aruba (Netherlands)
+~/eez/855.aspx	Ascension Isl. (UK)
+~/eez/36.aspx	Australia
+~/eez/622.aspx	Azores Isl. (Portugal)
+~/eez/44.aspx	Bahamas
+~/eez/48.aspx	Bahrain
+~/eez/903.aspx	Balearic Island (Spain)
+~/eez/50.aspx	Bangladesh
+~/eez/52.aspx	Barbados
+~/eez/56.aspx	Belgium
+~/eez/84.aspx	Belize
+~/eez/204.aspx	Benin
+~/eez/60.aspx	Bermuda (UK)
+~/eez/907.aspx	Bonaire (Netherlands)
+~/eez/70.aspx	Bosnia &amp; Herzegovina
+~/eez/74.aspx	Bouvet Isl. (Norway)
+~/eez/76.aspx	Brazil (mainland)
+~/eez/92.aspx	British Virgin Isl. (UK)
+~/eez/96.aspx	Brunei Darussalam
+~/eez/100.aspx	Bulgaria
+~/eez/116.aspx	Cambodia
+~/eez/120.aspx	Cameroon
+~/eez/924.aspx	Canada (Arctic)
+~/eez/926.aspx	Canada (East Coast)
+~/eez/925.aspx	Canada (Pacific)
+~/eez/723.aspx	Canary Isl. (Spain)
+~/eez/132.aspx	Cape Verde
+~/eez/136.aspx	Cayman Isl. (UK)
+~/eez/86.aspx	Chagos Archipelago (UK)
+~/eez/830.aspx	Channel Isl. (UK)
+~/eez/152.aspx	Chile (mainland)
+~/eez/156.aspx	China
+~/eez/162.aspx	Christmas Isl. (Australia)
+~/eez/898.aspx	Clipperton Isl.  (France)
+~/eez/166.aspx	Cocos (Keeling) Isl. (Australia)
+~/eez/927.aspx	Colombia (Caribbean)
+~/eez/928.aspx	Colombia (Pacific)
+~/eez/174.aspx	Comoros Isl.
+~/eez/180.aspx	Congo (ex-Zaire)
+~/eez/178.aspx	Congo, R. of
+~/eez/184.aspx	Cook Islands
+~/eez/899.aspx	Corsica (France)
+~/eez/929.aspx	Costa Rica (Caribbean)
+~/eez/930.aspx	Costa Rica (Pacific)
+~/eez/384.aspx	Côte d'Ivoire
+~/eez/900.aspx	Crete (Greece)
+~/eez/191.aspx	Croatia
+~/eez/896.aspx	Crozet Isl. (France)
+~/eez/192.aspx	Cuba
+~/eez/906.aspx	Curacao (Netherlands)
+~/eez/197.aspx	Cyprus (North)
+~/eez/198.aspx	Cyprus (South)
+~/eez/931.aspx	Denmark (Baltic Sea)
+~/eez/932.aspx	Denmark (North Sea)
+~/eez/154.aspx	Desventuradas Isl. (Chile)
+~/eez/262.aspx	Djibouti
+~/eez/212.aspx	Dominica
+~/eez/214.aspx	Dominican Republic
+~/eez/153.aspx	Easter Isl. (Chile)
+~/eez/218.aspx	Ecuador (mainland)
+~/eez/933.aspx	Egypt (Mediterranean)
+~/eez/934.aspx	Egypt (Red Sea)
+~/eez/222.aspx	El Salvador
+~/eez/226.aspx	Equatorial Guinea
+~/eez/111.aspx	Eritrea
+~/eez/233.aspx	Estonia
+~/eez/234.aspx	Faeroe Isl. (Denmark)
+~/eez/238.aspx	Falkland Isl. (UK)
+~/eez/969.aspx	Fernando de Noronha (Brazil)
+~/eez/242.aspx	Fiji
+~/eez/246.aspx	Finland
+~/eez/919.aspx	France (Atlantic Coast)
+~/eez/918.aspx	France (Mediterranean)
+~/eez/254.aspx	French Guiana
+~/eez/258.aspx	French Polynesia
+~/eez/266.aspx	Gabon
+~/eez/219.aspx	Galapagos Isl. (Ecuador)
+~/eez/270.aspx	Gambia
+~/eez/274.aspx	Gaza Strip
+~/eez/268.aspx	Georgia
+~/eez/278.aspx	Germany (Baltic Sea)
+~/eez/277.aspx	Germany (North Sea)
+~/eez/288.aspx	Ghana
+~/eez/972.aspx	Glorieuse Islands (France)
+~/eez/300.aspx	Greece (without Crete)
+~/eez/304.aspx	Greenland (Denmark)
+~/eez/308.aspx	Grenada
+~/eez/312.aspx	Guadeloupe  (France)
+~/eez/316.aspx	Guam (USA)
+~/eez/935.aspx	Guatemala (Caribbean)
+~/eez/936.aspx	Guatemala (Pacific)
+~/eez/324.aspx	Guinea
+~/eez/624.aspx	Guinea-Bissau
+~/eez/328.aspx	Guyana
+~/eez/332.aspx	Haiti
+~/eez/842.aspx	Hawaii Main Islands (USA)
+~/eez/488.aspx	Hawaii Northwest Islands (USA)
+~/eez/334.aspx	Heard &amp; McDonald Isl. (Australia)
+~/eez/921.aspx	Honduras (Caribbean)
+~/eez/920.aspx	Honduras (Pacific)
+~/eez/344.aspx	Hong Kong (China)
+~/eez/846.aspx	Howland &amp; Baker Isl. (USA)
+~/eez/352.aspx	Iceland
+~/eez/356.aspx	India (mainland)
+~/eez/937.aspx	Indonesia (Central)
+~/eez/361.aspx	Indonesia (Eastern)
+~/eez/938.aspx	Indonesia (Indian Ocean)
+~/eez/922.aspx	Iran (Persian Gulf)
+~/eez/923.aspx	Iran (Sea of Oman)
+~/eez/368.aspx	Iraq
+~/eez/372.aspx	Ireland
+~/eez/939.aspx	Israel (Mediterranean)
+~/eez/940.aspx	Israel (Red Sea)
+~/eez/380.aspx	Italy (mainland)
+~/eez/388.aspx	Jamaica
+~/eez/579.aspx	Jan Mayen Isl. (Norway)
+~/eez/393.aspx	Japan (Daito Islands)
+~/eez/390.aspx	Japan (main islands)
+~/eez/971.aspx	Japan (Ogasawara Islands)
+~/eez/845.aspx	Jarvis Isl. (USA)
+~/eez/396.aspx	Johnston Atoll (USA)
+~/eez/400.aspx	Jordan
+~/eez/155.aspx	Juan Fernandez Islands (Chile)
+~/eez/404.aspx	Kenya
+~/eez/897.aspx	Kerguelen Isl. (France)
+~/eez/555.aspx	Kermadec Isl. (New Zealand)
+~/eez/941.aspx	Kiribati (Gilbert Islands)
+~/eez/942.aspx	Kiribati (Line Islands)
+~/eez/943.aspx	Kiribati (Phoenix Islands)
+~/eez/408.aspx	Korea (North)
+~/eez/410.aspx	Korea (South)
+~/eez/414.aspx	Kuwait
+~/eez/428.aspx	Latvia
+~/eez/422.aspx	Lebanon
+~/eez/430.aspx	Liberia
+~/eez/434.aspx	Libya
+~/eez/440.aspx	Lithuania
+~/eez/38.aspx	Lord Howe Isl. (Australia)
+~/eez/37.aspx	Macquarie Isl. (Australia)
+~/eez/450.aspx	Madagascar
+~/eez/621.aspx	Madeira Isl. (Portugal)
+~/eez/460.aspx	Malaysia (Peninsula East)
+~/eez/459.aspx	Malaysia (Peninsula West)
+~/eez/461.aspx	Malaysia (Sabah)
+~/eez/463.aspx	Malaysia (Sarawak)
+~/eez/462.aspx	Maldives
+~/eez/470.aspx	Malta
+~/eez/584.aspx	Marshall Isl.
+~/eez/474.aspx	Martinique (France)
+~/eez/478.aspx	Mauritania
+~/eez/480.aspx	Mauritius
+~/eez/175.aspx	Mayotte (France)
+~/eez/944.aspx	Mexico (Atlantic)
+~/eez/945.aspx	Mexico (Pacific)
+~/eez/583.aspx	Micronesia (Federated States of)
+~/eez/891.aspx	Montenegro
+~/eez/500.aspx	Montserrat (UK)
+~/eez/946.aspx	Morocco (Central)
+~/eez/947.aspx	Morocco (Mediterranean)
+~/eez/948.aspx	Morocco (South)
+~/eez/508.aspx	Mozambique
+~/eez/251.aspx	Mozambique Channel Isl. (France)
+~/eez/104.aspx	Myanmar
+~/eez/516.aspx	Namibia
+~/eez/520.aspx	Nauru
+~/eez/528.aspx	Netherlands
+~/eez/540.aspx	New Caledonia (France)
+~/eez/554.aspx	New Zealand
+~/eez/949.aspx	Nicaragua (Caribbean)
+~/eez/950.aspx	Nicaragua (Pacific)
+~/eez/566.aspx	Nigeria
+~/eez/570.aspx	Niue (New Zealand)
+~/eez/574.aspx	Norfolk Isl. (Australia)
+~/eez/580.aspx	Northern Marianas (USA)
+~/eez/578.aspx	Norway
+~/eez/512.aspx	Oman
+~/eez/911.aspx	Oman (Musandam)
+~/eez/586.aspx	Pakistan
+~/eez/585.aspx	Palau
+~/eez/844.aspx	Palmyra Atoll &amp; Kingman Reef (USA)
+~/eez/951.aspx	Panama (Caribbean)
+~/eez/952.aspx	Panama (Pacific)
+~/eez/598.aspx	Papua New Guinea
+~/eez/604.aspx	Peru
+~/eez/608.aspx	Philippines
+~/eez/612.aspx	Pitcairn (UK)
+~/eez/616.aspx	Poland
+~/eez/620.aspx	Portugal (mainland)
+~/eez/711.aspx	Prince Edward Isl. (South Africa)
+~/eez/630.aspx	Puerto Rico (USA)
+~/eez/634.aspx	Qatar
+~/eez/638.aspx	Réunion (France)
+~/eez/642.aspx	Romania
+~/eez/648.aspx	Russia (Baltic Sea)
+~/eez/645.aspx	Russia (Barents Sea)
+~/eez/647.aspx	Russia (Black Sea)
+~/eez/649.aspx	Russia (Far East)
+~/eez/912.aspx	Russia (Kara Sea)
+~/eez/913.aspx	Russia (Laptev to Chukchi Sea)
+~/eez/908.aspx	Saba and Sint Eustaius (Netherlands)
+~/eez/654.aspx	Saint Helena (UK)
+~/eez/659.aspx	Saint Kitts &amp; Nevis
+~/eez/662.aspx	Saint Lucia
+~/eez/666.aspx	Saint Pierre &amp; Miquelon (France)
+~/eez/670.aspx	Saint Vincent &amp; the Grenadines
+~/eez/882.aspx	Samoa
+~/eez/678.aspx	Sao Tome &amp; Principe
+~/eez/902.aspx	Sardinia (Italy)
+~/eez/684.aspx	Saudi Arabia (Persian Gulf)
+~/eez/683.aspx	Saudi Arabia (Red Sea)
+~/eez/686.aspx	Senegal
+~/eez/690.aspx	Seychelles
+~/eez/901.aspx	Sicily (Italy)
+~/eez/694.aspx	Sierra Leone
+~/eez/702.aspx	Singapore
+~/eez/909.aspx	Sint Maarten (Netherlands)
+~/eez/705.aspx	Slovenia
+~/eez/90.aspx	Solomon Isl.
+~/eez/706.aspx	Somalia
+~/eez/953.aspx	South Africa (Atlantic and Cape)
+~/eez/954.aspx	South Africa (Indian Ocean Coast)
+~/eez/239.aspx	South Georgia &amp; Sandwich Isl. (UK)
+~/eez/910.aspx	South Orkney Islands (UK)
+~/eez/962.aspx	Spain (mainland, Med and Gulf of Cadiz)
+~/eez/963.aspx	Spain (Northwest)
+~/eez/144.aspx	Sri Lanka
+~/eez/904.aspx	St Barthelemy (France)
+~/eez/905.aspx	St Martin (France)
+~/eez/895.aspx	St Paul &amp; Amsterdam Isl. (France)
+~/eez/970.aspx	St Paul and St. Peter Archipelago (Brazil)
+~/eez/736.aspx	Sudan
+~/eez/740.aspx	Suriname
+~/eez/744.aspx	Svalbard Isl. (Norway)
+~/eez/914.aspx	Sweden (Baltic)
+~/eez/915.aspx	Sweden (West Coast)
+~/eez/760.aspx	Syria
+~/eez/157.aspx	Taiwan
+~/eez/834.aspx	Tanzania
+~/eez/956.aspx	Thailand (Andaman Sea)
+~/eez/957.aspx	Thailand (Gulf of Thailand)
+~/eez/626.aspx	Timor Leste
+~/eez/768.aspx	Togo
+~/eez/772.aspx	Tokelau (New Zealand)
+~/eez/776.aspx	Tonga
+~/eez/77.aspx	Trindade &amp; Martim Vaz Isl. (Brazil)
+~/eez/780.aspx	Trinidad &amp; Tobago
+~/eez/856.aspx	Tristan da Cunha Isl. (UK)
+~/eez/252.aspx	Tromelin Isl. (France)
+~/eez/788.aspx	Tunisia
+~/eez/794.aspx	Turkey (Black Sea)
+~/eez/966.aspx	Turkey (Marmara Sea)
+~/eez/793.aspx	Turkey (Mediterranean Sea)
+~/eez/796.aspx	Turks &amp; Caicos Isl. (UK)
+~/eez/798.aspx	Tuvalu
+~/eez/804.aspx	Ukraine
+~/eez/784.aspx	United Arab Emirates
+~/eez/968.aspx	United Arab Emirates (Fujairah)
+~/eez/826.aspx	United Kingdom (UK)
+~/eez/858.aspx	Uruguay
+~/eez/850.aspx	US Virgin Isl.
+~/eez/958.aspx	USA (Alaska, Arctic)
+~/eez/959.aspx	USA (Alaska, Subarctic)
+~/eez/851.aspx	USA (East Coast)
+~/eez/852.aspx	USA (Gulf of Mexico)
+~/eez/848.aspx	USA (West Coast)
+~/eez/548.aspx	Vanuatu
+~/eez/862.aspx	Venezuela
+~/eez/704.aspx	Viet Nam
+~/eez/872.aspx	Wake Isl. (USA)
+~/eez/876.aspx	Wallis &amp; Futuna Isl. (France)
+~/eez/917.aspx	Yemen (Arabian Sea)
+~/eez/916.aspx	Yemen (Red Sea)
