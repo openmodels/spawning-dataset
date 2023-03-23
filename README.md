@@ -73,7 +73,7 @@ attributes in the shapefile.
 
 The `code/generate/stats.R` script generates `spawning-species.csv`
 which provides information about each species and spawning region
-provided in the spawning regions dataset; ``sau-species.csv` which
+provided in the spawning regions dataset; `sau-species.csv` which
 provides information about each species in the SAU dataset; and
 `sumstats.csv` which provides a summary of this information by
 continent and fish group.
@@ -87,3 +87,25 @@ To regenerate the public dataset, first run
    or by month.
    
  - `Fig2and3.R` generates the other figures in the paper.
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+This repository contains data extracted from public datasets, as described below:
+
+ - FishBase: The data under `inputs/spawning` and summarized in `inputs/spawning-records.csv` is dervied from FishBase (CC-BY-NC 3.0).
+
+   Froese, R. and D. Pauly. Editors. 2023. FishBase. World Wide Web electronic publication. www.fishbase.org, version (02/2023).
+
+ - Sea Around Us: The data under `inputs/saudata` is derived from Sea Around Us (CC-BY-NC 4.0)
+
+   Pauly D., Zeller D., Palomares M.L.D. (Editors), 2020. Sea Around Us Concepts, Design and Data (seaaroundus.org).
+   
+ - AquaMaps: The data under `inputs/ranges` is derived from AquaMaps (CC-BY-NC 3.0)
+
+   Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org.
+   
+ - Natural Earth: The shapefiles under `inputs/shapefiles/ne_10m_admin_0_countries` and `inputs/shapefiles/ne_50m_coastline` where made by Natural Earth (public domain).
+ 
+ - SCRFA: The file `inputs/scrfa.csv` and the summarized dataset `inputs/spawning-records.csv` contains information derived from the SCRFA Aggregations Database (https://www.scrfa.org/database/).
