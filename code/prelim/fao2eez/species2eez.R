@@ -1,3 +1,8 @@
+library(PBSmapping)
+divs <- importShapefile("inputs/shapefiles/fa_/fa_", readDBF=T)
+dbfs <- attr(divs, "PolyData")
+fao2pid <- data.frame(area=as.character(dbfs$F_AREA), subarea=as.character(dbfs$F_SUBAREA), division=dbfs$F_DIVISION, subdivis=dbfs$F_SUBDIVIS, subunit=dbfs$F_SUBUNIT, PID=dbfs$PID)
+
 fao2eez <- read.csv("outputs/fao2eez.csv")
 fao2eez$encoded <- paste(fao2eez$area, fao2eez$country, sep='.')
 species <- read.csv("inputs/Region FAO EEZ matching-DO NOT EDIT IN EXCEL.csv")
@@ -6,8 +11,10 @@ fao2eez$area <- as.character(fao2eez$area)
 fao2eez$subarea <- as.character(fao2eez$subarea)
 
 specieseez <- data.frame(region=c(), specie=c(), eez=c(), major=c())
+speciespid <- data.frame(region=c(), specie=c(), PID=c(), major=c())
 for (ii in 1:nrow(species)) {
     specieseezii <- data.frame(region=c(), specie=c(), eez=c(), major=c())
+    speciespidii <- data.frame(region=c(), specie=c(), PID=c(), major=c())
 
     specie <- strsplit(as.character(species$species[ii]), ' ')[[1]]
     specie <- gsub('-', ' ', specie)
@@ -37,6 +44,11 @@ for (ii in 1:nrow(species)) {
                     extraeezs <- c(extraeezs, minorparts[2])
                 }
 
+                pids <- unique(fao2pid$PID[!is.na(fao2pid$area) & fao2pid$area == major & ((!is.na(fao2pid$subarea) & fao2pid$subarea == minors[kk]) | (!is.na(fao2pid$division) & fao2pid$division == minors[kk]) | (!is.na(fao2pid$subdivis) & fao2pid$subdivis == minors[kk]) | (!is.na(fao2pid$subunit) & fao2pid$subunit == minors[kk]))])
+                if (length(pids) > 0)
+                    for (ll in 1:length(specie))
+                        speciespidii <- rbind(speciespidii, data.frame(region=species$region[ii], specie=specie[ll], PID=pids, major=major))
+
                 if (minors[kk] %in% c("87.2.3", "87.2.4", "87.1.22", "87.1.23", "87.1.24", "87.1.25", "87.2.22", "87.2.23", "87.2.24", "87.3.2", "41.3.3", "21.6.F", "21.6.G", "21.6.H", "27.V.a.1", "58.5.1", "58.4.1")) # Not associated with any EEZ
                     next
                 if (minors[kk] %in% c("47.A.2")) # Added since FAO region file
@@ -57,6 +69,12 @@ for (ii in 1:nrow(species)) {
             }
         } else {
             major <- trimws(subregs[jj])
+
+            pids <- unique(fao2pid$PID[((!is.na(fao2pid$area) & fao2pid$area == major) | (!is.na(fao2pid$subarea) & fao2pid$subarea == major))])
+            if (length(pids) > 0)
+                for (ll in 1:length(specie))
+                    speciespidii <- rbind(speciespidii, data.frame(region=species$region[ii], specie=specie[ll], PID=pids, major=major))
+
             eezs <- unique(fao2eez$eez[!is.na(fao2eez$eez) & ((!is.na(fao2eez$area) & fao2eez$area == major) | (!is.na(fao2eez$subarea) & fao2eez$subarea == major))])
             if (length(eezs) == 0) {
                 print(paste(species$region[ii], "Cannot find", major))
@@ -115,8 +133,11 @@ for (ii in 1:nrow(species)) {
     }
 
     specieseez <- rbind(specieseez, specieseezii)
+    speciespid <- rbind(speciespid, speciespidii)
 }
 
 specieseez <- specieseez[!duplicated(specieseez),]
+speciespid <- speciespid[!duplicated(speciespid),]
 
 write.csv(specieseez, "outputs/specieseez.csv", row.names=F)
+write.csv(speciespid, "outputs/speciespid.csv", row.names=F)
