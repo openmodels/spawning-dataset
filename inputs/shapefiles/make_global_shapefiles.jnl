@@ -1,0 +1,15 @@
+!Produces nc file of global bathymetry to be converted to a shapefile
+
+can da/all; can va/all; can mode verify
+
+se da "eez.nc"
+use etopo5
+let bathy = rose[d=2,gxy=eez[d=1]]
+
+let cont_shelf = if bathy ge -200 and bathy le 0 then 1
+save/file=cont_shelf.nc/clobber cont_shelf
+
+let cont_slope = if bathy le -200 and bathy ge -3000 then 1
+save/file=cont_slope.nc/clobber cont_slope
+
+sp rm ferret.j*

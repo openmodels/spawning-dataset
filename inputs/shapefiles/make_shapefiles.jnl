@@ -1,0 +1,43 @@
+!Produces nc files to be converted to shapefiles -- exceptions in spawning database
+can da/all; can va/all; can mode verify
+
+se da "/Users/nandini/Dropbox/High_Seas/ferret/eez.nc"
+!46 Deep waters off Chile
+let chile_eez = if eez[d=1] eq 240.0 then 1
+use etopo5
+let bathy = rose[d=2,gxy=eez[d=1]]
+let chile = if chile_eez and bathy le -200 then 1
+save/file="chile-46.nc"/clobber chile
+ 
+!477 Canada - continental slope at depths generally exceeding 300 m
+let canada_eez = if eez[d=1] eq 188.0 then 1
+let canada = if canada_eez and bathy lt -300 then 1
+save/file="canada-477.nc"/clobber canada
+
+!922 Norway - shelf and slope >300 m depth
+let norway_eez = if eez[d=1] eq 242.0 then 1
+let norway = if norway_eez and bathy lt -300 then 1
+save/file="norway-922.nc"/clobber norway
+ 
+!1101 Cuba - Offshore waters beyond the 100 fathom isobath
+let cuba_eez if eez[d=1] eq 90.0 then 1
+let cuba = if cuba_eez and bathy lt -182.88 then 1
+save/file="cuba-1101.nc"/clobber cuba
+
+!1728 NZ - Upper insular slopes 
+let nz_eez = if eez[d=1] eq 191.0 then 1
+let newzealand = if nz_eez and bathy gt -200 then 1
+save/file="newzealand-1728.nc"/clobber newzealand
+
+!1730 - FAO 31,41,21 - Western Atlantic Continental slopes
+!Write the continental slope mask to a file, further processing in R
+let depth_range = if bathy lt -100 and bathy gt -3200 then 1
+let cont_slope = if depth_range and eez[d=1] gt (-1) then 1 
+save/file="cont_slope.nc"/clobber cont_slope
+
+!1839 Jamaica - island shelves and oceanic banks
+let jamaica_eez = if eez[d=1] eq 130.0 then 1
+let jamaica = if jamaica_eez and bathy gt -300 then 1
+save/file="jamaica-1839.nc"/clobber jamaica
+
+sp rm ferret.j*
