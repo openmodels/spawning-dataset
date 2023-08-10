@@ -1,0 +1,97 @@
+Mapping parameters for Dentex barnardi (Barnard's dentex)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 34 |  47,
+Bounding Box (NSWE): ,-3,-17,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,20,28,60,100
+Temperature (°C),1,19.89,24.98,25.98,30.18
+Salinity (psu),1,26.02,29.54,35.36,35.86
+Primary Production,1,436,1508,3279,4172
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,4.5,8,51,83
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 48): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Dentex,barnardi,-14.25,12.25,3101:142:1,0.19
+Dentex,barnardi,-14.75,12.25,3101:142:3,0.19
+Dentex,barnardi,-15.75,11.75,3101:351:4,0.04
+Dentex,barnardi,-15.25,12.25,3101:352:1,0.07
+Dentex,barnardi,-15.75,12.25,3101:352:3,0.07
+Dentex,barnardi,-5.25,11.75,3001:351:2,0.31
+Dentex,barnardi,-5.75,12.25,3001:352:3,0.38
+Dentex,barnardi,-13.75,12.25,3101:132:3,0.29
+Dentex,barnardi,-5.25,12.25,3001:352:1,0.69
+Dentex,barnardi,-9.75,12.75,3001:392:4,0.72
+Dentex,barnardi,-10.75,13.25,3101:103:3,0.60
+Dentex,barnardi,-11.75,13.25,3101:113:3,0.76
+Dentex,barnardi,-3.25,9.75,3000:239:2,1.00
+Dentex,barnardi,-3.25,10.25,3001:130:1,1.00
+Dentex,barnardi,-3.25,10.75,3001:130:2,1.00
+Dentex,barnardi,-3.75,10.75,3001:130:4,1.00
+Dentex,barnardi,-3.75,11.25,3001:131:3,1.00
+Dentex,barnardi,-4.25,10.75,3001:140:2,1.00
+Dentex,barnardi,-4.25,11.25,3001:141:1,1.00
+Dentex,barnardi,-4.25,11.75,3001:141:2,1.00
+Dentex,barnardi,-4.75,11.25,3001:141:3,1.00
+Dentex,barnardi,-4.75,11.75,3001:141:4,1.00
+Dentex,barnardi,-6.25,11.75,3001:361:2,1.00
+Dentex,barnardi,-6.75,11.75,3001:361:4,1.00
+Dentex,barnardi,-6.25,12.25,3001:362:1,1.00
+Dentex,barnardi,-6.75,12.25,3001:362:3,1.00
+Dentex,barnardi,-6.75,12.75,3001:362:4,1.00
+Dentex,barnardi,-7.25,12.25,3001:372:1,1.00
+Dentex,barnardi,-7.25,12.75,3001:372:2,1.00
+Dentex,barnardi,-7.75,12.75,3001:372:4,1.00
+Dentex,barnardi,-7.75,13.25,3001:373:3,1.00
+Dentex,barnardi,-8.25,13.25,3001:383:1,1.00
+Dentex,barnardi,-8.75,13.25,3001:383:3,1.00
+Dentex,barnardi,-9.25,12.75,3001:392:2,1.00
+Dentex,barnardi,-9.25,13.25,3001:393:1,1.00
+Dentex,barnardi,-9.75,13.25,3001:393:3,1.00
+Dentex,barnardi,-10.25,13.25,3101:103:1,1.00
+Dentex,barnardi,-10.25,13.75,3101:103:2,1.00
+Dentex,barnardi,-10.75,13.75,3101:103:4,1.00
+Dentex,barnardi,-11.25,13.25,3101:113:1,0.81
+Dentex,barnardi,-11.25,13.75,3101:113:2,1.00
+Dentex,barnardi,-11.75,13.75,3101:113:4,0.93
+Dentex,barnardi,-12.75,12.75,3101:122:4,0.94
+Dentex,barnardi,-12.25,13.25,3101:123:1,0.97
+Dentex,barnardi,-12.25,13.75,3101:123:2,1.00
+Dentex,barnardi,-12.75,13.25,3101:123:3,1.00
+Dentex,barnardi,-13.25,12.75,3101:132:2,0.81
+Dentex,barnardi,-13.75,12.75,3101:132:4,0.81
+
+
+Occurrence cells used for creating environmental envelope (n = 13)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Dentex,barnardi,-16.75,11.75,3101:361:4,75,19.89,35.77,2217,0,18
+Dentex,barnardi,-12.25,13.75,3101:123:2,109,25.08,35.36,1837,0,8
+Dentex,barnardi,-12.25,13.25,3101:123:1,608,25.08,35.36,1475,0,51
+Dentex,barnardi,-11.25,13.75,3101:113:2,198,25.15,35.27,1508,0,20
+Dentex,barnardi,-10.25,13.25,3101:103:1,141,25.23,35.06,1617,0,27
+Dentex,barnardi,-9.25,13.25,3001:393:1,59,25.41,34.79,2209,0,10
+Dentex,barnardi,-7.75,12.75,3001:372:4,276,25.65,34,2072,0,51
+Dentex,barnardi,-7.25,12.75,3001:372:2,66,25.65,33.15,2527,0,24
+Dentex,barnardi,-6.25,12.25,3001:362:1,33,25.65,31.02,2962,0,25
+Dentex,barnardi,-5.25,11.75,3001:351:2,137,25.87,29.54,3894,0,83
+Dentex,barnardi,-4.75,11.75,3001:141:4,51,25.82,29.54,3279,0,23
+Dentex,barnardi,-4.25,11.25,3001:141:1,89,25.82,31.57,2771,0,26
+Dentex,barnardi,-3.75,11.25,3001:131:3,22,25.89,31.57,2054,0,6

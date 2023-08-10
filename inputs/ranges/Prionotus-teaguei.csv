@@ -1,0 +1,49 @@
+Mapping parameters for Prionotus teaguei (Long-ray searobin)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,10,8,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,22,96,200
+Temperature (°C),1,27.99,28.49,28.56,32.76
+Salinity (psu),1,31.88,32.38,32.67,33.17
+Primary Production,1,25.5,535.2,1173.6,1621.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,20,21.2,138,205.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 10): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Prionotus,teaguei,8.25,-83.25,7008:383:1,0.35
+Prionotus,teaguei,9.75,-84.75,7008:394:4,0.78
+Prionotus,teaguei,8.25,-83.75,7008:383:2,0.97
+Prionotus,teaguei,8.75,-83.25,7008:383:3,0.97
+Prionotus,teaguei,8.75,-83.75,7008:383:4,0.97
+Prionotus,teaguei,8.75,-84.25,7008:384:3,0.97
+Prionotus,teaguei,9.25,-83.75,7008:393:2,0.99
+Prionotus,teaguei,9.25,-84.25,7008:394:1,1.00
+Prionotus,teaguei,9.25,-84.75,7008:394:2,1.00
+Prionotus,teaguei,9.75,-84.25,7008:394:3,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Prionotus,teaguei,8.75,-85.75,7008:485:4,2921,28.47,32.74,476,0,166
+Prionotus,teaguei,9.25,-84.25,7008:394:1,397,28.56,32.38,772,0,26
+Prionotus,teaguei,9.75,-84.75,7008:394:4,104,28.56,32.38,1274,0,20

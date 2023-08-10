@@ -1,0 +1,264 @@
+Mapping parameters for Liza richardsonii (South African mullet)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 47 |  51,
+Bounding Box (NSWE): ,-16,-36,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,9.78,16.06,23.07,28.47
+Salinity (psu),1,34.16,34.66,35.66,36.16
+Primary Production,1,822,952,3094,4803.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,2,4,50,177
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 184): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Liza,richardsonii,-16.25,39.75,3103:469:2,0.18
+Liza,richardsonii,-17.75,36.75,3103:476:4,0.06
+Liza,richardsonii,-17.25,39.25,3103:479:1,0.10
+Liza,richardsonii,-16.75,43.75,3104:363:4,0.17
+Liza,richardsonii,-16.25,44.25,3104:364:1,0.16
+Liza,richardsonii,-16.25,44.75,3104:364:2,0.16
+Liza,richardsonii,-16.75,44.25,3104:364:3,0.16
+Liza,richardsonii,-17.25,43.25,3104:373:1,0.02
+Liza,richardsonii,-17.25,43.75,3104:373:2,0.18
+Liza,richardsonii,-17.75,43.75,3104:373:4,0.18
+Liza,richardsonii,-17.25,44.25,3104:374:1,0.18
+Liza,richardsonii,-17.75,44.25,3104:374:3,0.18
+Liza,richardsonii,-18.25,43.75,3104:383:2,0.19
+Liza,richardsonii,-18.75,43.75,3104:383:4,0.19
+Liza,richardsonii,-19.25,44.75,3104:394:2,0.05
+Liza,richardsonii,-19.75,44.75,3104:394:4,0.05
+Liza,richardsonii,-16.25,45.25,3104:465:1,0.14
+Liza,richardsonii,-16.25,45.75,3104:465:2,0.03
+Liza,richardsonii,-21.25,35.75,3203:215:2,0.10
+Liza,richardsonii,-21.75,35.75,3203:215:4,0.04
+Liza,richardsonii,-22.25,35.75,3203:225:2,0.15
+Liza,richardsonii,-24.75,35.25,3203:245:3,0.12
+Liza,richardsonii,-25.25,33.75,3203:353:2,0.03
+Liza,richardsonii,-21.75,43.75,3204:113:4,0.13
+Liza,richardsonii,-21.25,48.25,3204:218:1,0.09
+Liza,richardsonii,-25.75,44.75,3204:354:4,0.09
+Liza,richardsonii,-25.25,46.75,3204:456:2,0.02
+Liza,richardsonii,-25.75,46.25,3204:456:3,0.07
+Liza,richardsonii,-31.75,17.75,3301:217:4,0.08
+Liza,richardsonii,-32.25,29.25,3302:229:1,0.01
+Liza,richardsonii,-35.25,22.25,3302:352:1,0.04
+Liza,richardsonii,-17.25,37.75,3103:477:2,0.29
+Liza,richardsonii,-17.75,37.25,3103:477:3,0.29
+Liza,richardsonii,-17.75,37.75,3103:477:4,0.29
+Liza,richardsonii,-17.25,38.25,3103:478:1,0.27
+Liza,richardsonii,-17.25,38.75,3103:478:2,0.27
+Liza,richardsonii,-18.75,35.75,3103:485:4,0.30
+Liza,richardsonii,-18.25,36.75,3103:486:2,0.34
+Liza,richardsonii,-18.75,36.25,3103:486:3,0.34
+Liza,richardsonii,-18.75,36.75,3103:486:4,0.34
+Liza,richardsonii,-18.25,37.25,3103:487:1,0.31
+Liza,richardsonii,-19.25,35.25,3103:495:1,0.39
+Liza,richardsonii,-19.25,35.75,3103:495:2,0.39
+Liza,richardsonii,-19.75,35.25,3103:495:3,0.39
+Liza,richardsonii,-19.75,35.75,3103:495:4,0.39
+Liza,richardsonii,-18.25,44.25,3104:384:1,0.20
+Liza,richardsonii,-18.75,44.25,3104:384:3,0.20
+Liza,richardsonii,-19.25,44.25,3104:394:1,0.22
+Liza,richardsonii,-19.75,44.25,3104:394:3,0.22
+Liza,richardsonii,-20.25,12.75,3201:102:2,0.25
+Liza,richardsonii,-29.75,15.25,3201:495:3,0.21
+Liza,richardsonii,-29.25,31.25,3203:391:1,0.23
+Liza,richardsonii,-29.75,31.25,3203:391:3,0.34
+Liza,richardsonii,-20.75,43.75,3204:103:4,0.23
+Liza,richardsonii,-20.25,44.25,3204:104:1,0.25
+Liza,richardsonii,-20.75,44.25,3204:104:3,0.25
+Liza,richardsonii,-21.25,43.25,3204:113:1,0.28
+Liza,richardsonii,-21.25,43.75,3204:113:2,0.28
+Liza,richardsonii,-21.75,43.25,3204:113:3,0.28
+Liza,richardsonii,-22.25,43.25,3204:123:1,0.25
+Liza,richardsonii,-22.75,47.75,3204:227:4,0.39
+Liza,richardsonii,-33.75,23.25,3302:133:3,0.20
+Liza,richardsonii,-19.75,34.75,3103:394:4,0.41
+Liza,richardsonii,-28.75,16.25,3201:486:3,0.59
+Liza,richardsonii,-28.75,16.75,3201:486:4,0.56
+Liza,richardsonii,-29.25,16.75,3201:496:2,0.48
+Liza,richardsonii,-20.25,34.75,3203:104:2,0.41
+Liza,richardsonii,-20.75,34.75,3203:104:4,0.41
+Liza,richardsonii,-20.25,35.25,3203:205:1,0.40
+Liza,richardsonii,-20.25,35.75,3203:205:2,0.40
+Liza,richardsonii,-20.75,35.25,3203:205:3,0.40
+Liza,richardsonii,-20.75,35.75,3203:205:4,0.40
+Liza,richardsonii,-21.25,35.25,3203:215:1,0.40
+Liza,richardsonii,-21.75,35.25,3203:215:3,0.40
+Liza,richardsonii,-29.25,32.25,3203:392:1,0.56
+Liza,richardsonii,-24.25,47.25,3204:247:1,0.58
+Liza,richardsonii,-24.75,47.25,3204:247:3,0.58
+Liza,richardsonii,-33.75,22.75,3302:132:4,0.40
+Liza,richardsonii,-35.25,21.25,3302:351:1,0.54
+Liza,richardsonii,-30.75,30.25,3303:100:3,0.57
+Liza,richardsonii,-16.25,11.75,3101:361:2,0.78
+Liza,richardsonii,-16.75,11.75,3101:361:4,0.78
+Liza,richardsonii,-19.75,12.25,3101:392:3,0.62
+Liza,richardsonii,-24.25,14.25,3201:144:1,0.73
+Liza,richardsonii,-28.25,15.75,3201:485:2,0.79
+Liza,richardsonii,-25.25,32.75,3203:352:2,0.66
+Liza,richardsonii,-25.75,32.75,3203:352:4,0.66
+Liza,richardsonii,-25.25,33.25,3203:353:1,0.62
+Liza,richardsonii,-26.25,32.75,3203:362:2,0.69
+Liza,richardsonii,-25.25,44.25,3204:354:1,0.64
+Liza,richardsonii,-32.75,28.75,3302:228:4,0.64
+Liza,richardsonii,-35.25,20.25,3302:350:1,0.75
+Liza,richardsonii,-17.25,11.75,3101:371:2,1.00
+Liza,richardsonii,-17.75,11.75,3101:371:4,1.00
+Liza,richardsonii,-18.25,11.75,3101:381:2,1.00
+Liza,richardsonii,-18.25,12.25,3101:382:1,1.00
+Liza,richardsonii,-18.75,12.25,3101:382:3,1.00
+Liza,richardsonii,-18.75,12.75,3101:382:4,1.00
+Liza,richardsonii,-19.25,12.75,3101:392:2,1.00
+Liza,richardsonii,-19.75,12.75,3101:392:4,1.00
+Liza,richardsonii,-19.75,13.25,3101:393:3,1.00
+Liza,richardsonii,-20.25,13.25,3201:103:1,0.92
+Liza,richardsonii,-20.75,13.25,3201:103:3,1.00
+Liza,richardsonii,-20.75,13.75,3201:103:4,1.00
+Liza,richardsonii,-21.25,13.75,3201:113:2,0.95
+Liza,richardsonii,-21.75,13.75,3201:113:4,1.00
+Liza,richardsonii,-21.75,14.25,3201:114:3,1.00
+Liza,richardsonii,-22.25,14.25,3201:124:1,0.91
+Liza,richardsonii,-22.75,14.25,3201:124:3,0.83
+Liza,richardsonii,-22.75,14.75,3201:124:4,0.91
+Liza,richardsonii,-23.25,14.25,3201:134:1,0.90
+Liza,richardsonii,-23.25,14.75,3201:134:2,0.90
+Liza,richardsonii,-23.75,14.25,3201:134:3,0.88
+Liza,richardsonii,-23.75,14.75,3201:134:4,0.90
+Liza,richardsonii,-24.25,14.75,3201:144:2,0.94
+Liza,richardsonii,-24.75,14.75,3201:144:4,0.82
+Liza,richardsonii,-25.25,14.75,3201:354:2,0.89
+Liza,richardsonii,-25.75,14.75,3201:354:4,0.99
+Liza,richardsonii,-26.25,14.75,3201:364:2,0.91
+Liza,richardsonii,-28.25,14.75,3201:384:2,1.00
+Liza,richardsonii,-26.25,15.25,3201:465:1,1.00
+Liza,richardsonii,-26.75,15.25,3201:465:3,1.00
+Liza,richardsonii,-27.25,15.25,3201:475:1,1.00
+Liza,richardsonii,-27.75,15.25,3201:475:3,1.00
+Liza,richardsonii,-27.75,15.75,3201:475:4,1.00
+Liza,richardsonii,-28.25,16.25,3201:486:1,0.84
+Liza,richardsonii,-29.25,17.25,3201:497:1,0.82
+Liza,richardsonii,-29.75,17.25,3201:497:3,0.92
+Liza,richardsonii,-29.75,30.75,3203:390:4,0.89
+Liza,richardsonii,-29.25,31.75,3203:391:2,0.84
+Liza,richardsonii,-30.25,17.25,3301:207:1,0.83
+Liza,richardsonii,-30.75,17.25,3301:207:3,1.00
+Liza,richardsonii,-30.75,17.75,3301:207:4,0.86
+Liza,richardsonii,-31.25,17.75,3301:217:2,0.81
+Liza,richardsonii,-31.25,18.25,3301:218:1,0.98
+Liza,richardsonii,-31.75,18.25,3301:218:3,0.98
+Liza,richardsonii,-32.75,17.75,3301:227:4,1.00
+Liza,richardsonii,-32.25,18.25,3301:228:1,1.00
+Liza,richardsonii,-32.75,18.25,3301:228:3,1.00
+Liza,richardsonii,-33.25,17.75,3301:237:2,1.00
+Liza,richardsonii,-33.25,18.25,3301:238:1,1.00
+Liza,richardsonii,-33.75,18.25,3301:238:3,1.00
+Liza,richardsonii,-33.75,18.75,3301:238:4,1.00
+Liza,richardsonii,-34.25,18.25,3301:248:1,1.00
+Liza,richardsonii,-34.25,18.75,3301:248:2,1.00
+Liza,richardsonii,-34.25,19.25,3301:249:1,1.00
+Liza,richardsonii,-34.75,19.25,3301:249:3,1.00
+Liza,richardsonii,-34.75,19.75,3301:249:4,1.00
+Liza,richardsonii,-33.75,23.75,3302:133:4,1.00
+Liza,richardsonii,-33.75,24.75,3302:134:4,1.00
+Liza,richardsonii,-34.25,20.25,3302:140:1,1.00
+Liza,richardsonii,-34.25,20.75,3302:140:2,1.00
+Liza,richardsonii,-34.75,20.25,3302:140:3,1.00
+Liza,richardsonii,-34.75,20.75,3302:140:4,1.00
+Liza,richardsonii,-34.25,21.25,3302:141:1,1.00
+Liza,richardsonii,-34.25,21.75,3302:141:2,1.00
+Liza,richardsonii,-34.75,21.25,3302:141:3,1.00
+Liza,richardsonii,-34.75,21.75,3302:141:4,1.00
+Liza,richardsonii,-34.25,22.25,3302:142:1,1.00
+Liza,richardsonii,-34.25,22.75,3302:142:2,1.00
+Liza,richardsonii,-34.75,22.25,3302:142:3,1.00
+Liza,richardsonii,-34.25,23.25,3302:143:1,1.00
+Liza,richardsonii,-34.25,23.75,3302:143:2,1.00
+Liza,richardsonii,-34.25,24.25,3302:144:1,1.00
+Liza,richardsonii,-34.25,24.75,3302:144:2,1.00
+Liza,richardsonii,-31.25,29.75,3302:219:2,0.84
+Liza,richardsonii,-31.75,29.25,3302:219:3,1.00
+Liza,richardsonii,-32.75,27.75,3302:227:4,1.00
+Liza,richardsonii,-32.25,28.75,3302:228:2,1.00
+Liza,richardsonii,-32.75,28.25,3302:228:3,1.00
+Liza,richardsonii,-33.75,25.25,3302:235:3,1.00
+Liza,richardsonii,-33.75,25.75,3302:235:4,1.00
+Liza,richardsonii,-33.75,26.25,3302:236:3,1.00
+Liza,richardsonii,-33.75,26.75,3302:236:4,1.00
+Liza,richardsonii,-33.25,27.25,3302:237:1,1.00
+Liza,richardsonii,-33.25,27.75,3302:237:2,1.00
+Liza,richardsonii,-33.75,27.25,3302:237:3,1.00
+Liza,richardsonii,-33.25,28.25,3302:238:1,1.00
+Liza,richardsonii,-34.25,25.25,3302:245:1,1.00
+Liza,richardsonii,-34.25,25.75,3302:245:2,1.00
+Liza,richardsonii,-34.25,26.25,3302:246:1,1.00
+Liza,richardsonii,-35.25,20.75,3302:350:2,1.00
+Liza,richardsonii,-35.25,21.75,3302:351:2,1.00
+Liza,richardsonii,-30.25,30.75,3303:100:2,0.91
+
+
+Occurrence cells used for creating environmental envelope (n = 44)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Liza,richardsonii,-34.75,20.25,3302:140:3,52,18.01,35.34,1362,0,17
+Liza,richardsonii,-34.75,19.75,3301:249:4,65,17.61,35.31,1667,0,13
+Liza,richardsonii,-34.75,19.25,3301:249:3,112,17.61,35.31,1617,0,22
+Liza,richardsonii,-34.25,25.75,3302:245:2,187,21.31,35.36,1333,0,88
+Liza,richardsonii,-34.25,23.25,3302:143:1,114,20.11,35.38,1739,0,22
+Liza,richardsonii,-34.25,22.75,3302:142:2,106,19.35,35.38,1716,0,23
+Liza,richardsonii,-34.25,22.25,3302:142:1,74,19.35,35.38,1722,0,20
+Liza,richardsonii,-34.25,21.25,3302:141:1,16,18.63,35.36,1572,0,7
+Liza,richardsonii,-34.25,20.75,3302:140:2,33,18.01,35.34,1690,0,4
+Liza,richardsonii,-34.25,19.25,3301:249:1,49,17.61,35.31,2187,0,6
+Liza,richardsonii,-34.25,18.75,3301:248:2,66,17.47,35.47,2409,0,18
+Liza,richardsonii,-34.25,18.25,3301:248:1,202,17.47,35.47,1887,0,21
+Liza,richardsonii,-33.75,27.25,3302:237:3,417,21.94,35.4,952,0,23
+Liza,richardsonii,-33.75,26.75,3302:236:4,66,21.88,35.38,1596,0,17
+Liza,richardsonii,-33.75,25.75,3302:235:4,11,21.46,35.36,1526,0,10
+Liza,richardsonii,-33.75,25.25,3302:235:3,141,21.46,35.36,1452,0,2
+Liza,richardsonii,-33.75,18.25,3301:238:3,96,17.06,35.4,2521,0,21
+Liza,richardsonii,-33.75,17.75,3301:237:4,273,17.36,35.4,1421,0,85
+Liza,richardsonii,-33.25,27.75,3302:237:2,386,21.94,35.36,1681,0,19
+Liza,richardsonii,-33.25,27.25,3302:237:1,28,21.94,35.36,1627,0,5
+Liza,richardsonii,-33.25,18.25,3301:238:1,34,17.06,35.4,1258,0,10
+Liza,richardsonii,-33.25,17.75,3301:237:2,236,17.36,35.4,2226,0,70
+Liza,richardsonii,-32.75,17.75,3301:227:4,169,17,35.02,2774,0,22
+Liza,richardsonii,-32.75,28.25,3302:228:3,104,22.54,35.36,1597,0,12
+Liza,richardsonii,-32.75,18.25,3301:228:3,24,16.82,35.02,1761,0,7
+Liza,richardsonii,-32.25,18.25,3301:228:1,84,16.82,35.02,1891,0,17
+Liza,richardsonii,-31.75,18.25,3301:218:3,77,16.66,34.65,1425,0,12
+Liza,richardsonii,-31.75,29.75,3302:219:4,1396,23.07,35.31,822,0,22
+Liza,richardsonii,-31.75,29.25,3302:219:3,193,23.07,35.36,1278,0,7
+Liza,richardsonii,-30.75,17.75,3301:207:4,39,16.06,34.65,3307,0,5
+Liza,richardsonii,-30.75,30.25,3303:100:3,157,23.57,35.31,904,0,4
+Liza,richardsonii,-29.75,31.25,3203:391:3,167,23.94,35.34,874,0,20
+Liza,richardsonii,-29.25,31.75,3203:391:2,74,23.94,35.34,1236,0,22
+Liza,richardsonii,-29.25,16.75,3201:496:2,100,16.17,34.9,3988,0,21
+Liza,richardsonii,-28.75,16.25,3201:486:3,119,15.97,34.93,3777,0,23
+Liza,richardsonii,-27.75,15.75,3201:475:4,55,16.24,34.93,2253,0,7
+Liza,richardsonii,-27.75,15.25,3201:475:3,140,16.24,35.15,3042,0,50
+Liza,richardsonii,-24.75,13.25,3201:143:3,1173,16.39,35.13,1277,0,177
+Liza,richardsonii,-23.25,14.25,3201:134:1,109,15.43,35,3094,0,25
+Liza,richardsonii,-22.75,14.75,3201:124:4,37,15.48,35.11,2902,0,3
+Liza,richardsonii,-21.75,13.75,3201:113:4,101,16.66,35.11,2914,0,25
+Liza,richardsonii,-20.25,13.25,3201:103:1,73,16.79,35.2,3228,0,12
+Liza,richardsonii,-19.25,12.75,3101:392:2,85,17.43,35.38,2861,0,11
+Liza,richardsonii,-18.25,12.25,3101:382:1,47,18.14,35.45,2791,0,2

@@ -1,0 +1,183 @@
+Mapping parameters for Scorpaena sonorae (Sonora scorpionfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,32,22,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,4,16,30
+Temperature (°C),1,18.61,22.28,25.86,30.06
+Salinity (psu),1,34.06,34.56,35.56,36.06
+Primary Production,1,266,896,1754,2410
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,0,8,75,90
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 96): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Scorpaena,sonorae,23.75,-166.25,7216:236:3,0.15
+Scorpaena,sonorae,25.25,-170.75,7217:350:2,0.10
+Scorpaena,sonorae,26.25,-174.25,7217:364:1,0.07
+Scorpaena,sonorae,25.75,-108.75,7210:458:4,0.33
+Scorpaena,sonorae,27.75,-113.75,7211:373:4,0.22
+Scorpaena,sonorae,28.75,-113.75,7211:383:4,0.25
+Scorpaena,sonorae,22.75,-110.25,7211:120:3,0.59
+Scorpaena,sonorae,24.25,-111.75,7211:141:2,0.42
+Scorpaena,sonorae,24.75,-111.75,7211:141:4,0.42
+Scorpaena,sonorae,24.75,-112.25,7211:142:3,0.42
+Scorpaena,sonorae,25.25,-112.25,7211:352:1,0.42
+Scorpaena,sonorae,25.75,-112.25,7211:352:3,0.42
+Scorpaena,sonorae,25.75,-112.75,7211:352:4,0.42
+Scorpaena,sonorae,26.25,-112.25,7211:362:1,0.42
+Scorpaena,sonorae,26.25,-112.75,7211:362:2,0.42
+Scorpaena,sonorae,26.75,-112.75,7211:362:4,0.42
+Scorpaena,sonorae,29.75,-114.25,7211:394:3,0.49
+Scorpaena,sonorae,22.25,-105.75,7210:225:2,0.77
+Scorpaena,sonorae,22.75,-105.75,7210:225:4,0.71
+Scorpaena,sonorae,22.25,-106.25,7210:226:1,0.69
+Scorpaena,sonorae,22.75,-109.75,7210:229:4,0.62
+Scorpaena,sonorae,23.25,-109.25,7210:239:1,0.64
+Scorpaena,sonorae,23.25,-109.75,7210:239:2,0.62
+Scorpaena,sonorae,23.75,-109.25,7210:239:3,0.72
+Scorpaena,sonorae,23.75,-109.75,7210:239:4,0.74
+Scorpaena,sonorae,23.25,-110.25,7211:130:1,0.73
+Scorpaena,sonorae,23.75,-110.75,7211:130:4,0.78
+Scorpaena,sonorae,24.25,-110.75,7211:140:2,0.77
+Scorpaena,sonorae,24.25,-111.25,7211:141:1,0.78
+Scorpaena,sonorae,28.25,-112.25,7211:382:1,0.71
+Scorpaena,sonorae,28.75,-113.25,7211:383:3,0.76
+Scorpaena,sonorae,22.75,-106.25,7210:226:3,0.83
+Scorpaena,sonorae,23.25,-106.25,7210:236:1,0.89
+Scorpaena,sonorae,23.25,-106.75,7210:236:2,0.89
+Scorpaena,sonorae,23.75,-106.75,7210:236:4,0.89
+Scorpaena,sonorae,23.75,-107.25,7210:237:3,0.95
+Scorpaena,sonorae,24.25,-107.25,7210:247:1,0.99
+Scorpaena,sonorae,24.25,-107.75,7210:247:2,0.99
+Scorpaena,sonorae,24.75,-107.75,7210:247:4,0.99
+Scorpaena,sonorae,24.75,-108.25,7210:248:3,1.00
+Scorpaena,sonorae,24.25,-109.75,7210:249:2,1.00
+Scorpaena,sonorae,25.25,-108.25,7210:458:1,1.00
+Scorpaena,sonorae,25.25,-108.75,7210:458:2,1.00
+Scorpaena,sonorae,25.25,-109.25,7210:459:1,1.00
+Scorpaena,sonorae,25.75,-109.25,7210:459:3,1.00
+Scorpaena,sonorae,26.25,-109.25,7210:469:1,1.00
+Scorpaena,sonorae,26.25,-109.75,7210:469:2,1.00
+Scorpaena,sonorae,26.75,-109.25,7210:469:3,1.00
+Scorpaena,sonorae,26.75,-109.75,7210:469:4,1.00
+Scorpaena,sonorae,27.25,-109.75,7210:479:2,1.00
+Scorpaena,sonorae,23.75,-110.25,7211:130:3,0.84
+Scorpaena,sonorae,24.25,-110.25,7211:140:1,0.86
+Scorpaena,sonorae,24.75,-110.25,7211:140:3,1.00
+Scorpaena,sonorae,24.75,-110.75,7211:140:4,1.00
+Scorpaena,sonorae,25.25,-110.75,7211:350:2,1.00
+Scorpaena,sonorae,25.75,-110.75,7211:350:4,1.00
+Scorpaena,sonorae,25.75,-111.25,7211:351:3,1.00
+Scorpaena,sonorae,26.75,-110.25,7211:360:3,1.00
+Scorpaena,sonorae,26.25,-111.25,7211:361:1,1.00
+Scorpaena,sonorae,26.75,-111.25,7211:361:3,1.00
+Scorpaena,sonorae,26.75,-111.75,7211:361:4,1.00
+Scorpaena,sonorae,27.25,-110.25,7211:370:1,1.00
+Scorpaena,sonorae,27.25,-110.75,7211:370:2,1.00
+Scorpaena,sonorae,27.75,-110.75,7211:370:4,1.00
+Scorpaena,sonorae,27.25,-111.75,7211:371:2,1.00
+Scorpaena,sonorae,27.75,-111.25,7211:371:3,1.00
+Scorpaena,sonorae,27.25,-112.25,7211:372:1,1.00
+Scorpaena,sonorae,27.75,-112.25,7211:372:3,1.00
+Scorpaena,sonorae,27.75,-112.75,7211:372:4,1.00
+Scorpaena,sonorae,28.25,-111.25,7211:381:1,1.00
+Scorpaena,sonorae,28.25,-111.75,7211:381:2,0.87
+Scorpaena,sonorae,28.75,-111.75,7211:381:4,1.00
+Scorpaena,sonorae,28.25,-112.75,7211:382:2,1.00
+Scorpaena,sonorae,28.75,-112.25,7211:382:3,0.84
+Scorpaena,sonorae,28.75,-112.75,7211:382:4,0.93
+Scorpaena,sonorae,29.25,-112.25,7211:392:1,1.00
+Scorpaena,sonorae,29.75,-112.25,7211:392:3,1.00
+Scorpaena,sonorae,29.75,-112.75,7211:392:4,1.00
+Scorpaena,sonorae,29.25,-113.25,7211:393:1,1.00
+Scorpaena,sonorae,29.25,-113.75,7211:393:2,1.00
+Scorpaena,sonorae,29.75,-113.25,7211:393:3,1.00
+Scorpaena,sonorae,29.75,-113.75,7211:393:4,1.00
+Scorpaena,sonorae,30.25,-112.75,7311:102:2,1.00
+Scorpaena,sonorae,30.75,-112.75,7311:102:4,1.00
+Scorpaena,sonorae,30.75,-113.25,7311:103:3,1.00
+Scorpaena,sonorae,30.25,-114.25,7311:104:1,1.00
+Scorpaena,sonorae,30.25,-114.75,7311:104:2,1.00
+Scorpaena,sonorae,30.75,-114.25,7311:104:3,1.00
+Scorpaena,sonorae,30.75,-114.75,7311:104:4,1.00
+Scorpaena,sonorae,31.25,-113.25,7311:113:1,1.00
+Scorpaena,sonorae,31.25,-113.75,7311:113:2,1.00
+Scorpaena,sonorae,31.75,-113.75,7311:113:4,1.00
+Scorpaena,sonorae,31.25,-114.25,7311:114:1,1.00
+Scorpaena,sonorae,31.25,-114.75,7311:114:2,0.86
+Scorpaena,sonorae,31.75,-114.25,7311:114:3,1.00
+Scorpaena,sonorae,31.75,-114.75,7311:114:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 51)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Scorpaena,sonorae,22.25,-105.75,7210:225:2,52,26.81,34.79,1399,0,19
+Scorpaena,sonorae,22.75,-109.75,7210:229:4,1826,25.18,34.68,656,0,24
+Scorpaena,sonorae,23.25,-106.25,7210:236:1,63,26.34,34.79,1429,0,8
+Scorpaena,sonorae,23.25,-109.25,7210:239:1,1425,25.06,34.9,668,0,24
+Scorpaena,sonorae,23.25,-106.75,7210:236:2,431,26.34,34.93,931,0,25
+Scorpaena,sonorae,23.75,-109.25,7210:239:3,1810,25.06,35.04,718,0,25
+Scorpaena,sonorae,24.25,-111.75,7211:141:2,146,23.23,34.27,997,0,24
+Scorpaena,sonorae,24.25,-110.25,7211:140:1,189,24.24,35.04,809,0,13
+Scorpaena,sonorae,24.25,-109.75,7210:249:2,617,25.18,35.04,997,0,24
+Scorpaena,sonorae,24.25,-107.75,7210:247:2,79,25.89,35.11,1070,0,50
+Scorpaena,sonorae,24.75,-112.25,7211:142:3,123,22.47,34.27,968,0,24
+Scorpaena,sonorae,24.75,-111.75,7211:141:4,63,23.23,34.27,896,0,8
+Scorpaena,sonorae,24.75,-108.25,7210:248:3,419,25.8,35.11,1290,0,76
+Scorpaena,sonorae,25.25,-109.25,7210:459:1,1250,25.23,35.04,1007,0,90
+Scorpaena,sonorae,25.25,-108.25,7210:458:1,26,25.86,35.11,1646,0,12
+Scorpaena,sonorae,25.75,-111.25,7211:351:3,18,23.13,35.06,1171,0,11
+Scorpaena,sonorae,26.25,-109.75,7210:469:2,365,25.04,35.34,971,0,75
+Scorpaena,sonorae,26.25,-109.25,7210:469:1,51,25.04,35.34,1234,0,14
+Scorpaena,sonorae,26.75,-111.75,7211:361:4,219,23.17,35.31,1171,0,12
+Scorpaena,sonorae,26.75,-110.25,7211:360:3,915,24.19,35.34,1048,0,86
+Scorpaena,sonorae,26.75,-109.75,7210:469:4,151,25.04,35.34,1461,0,17
+Scorpaena,sonorae,27.25,-112.25,7211:372:1,314,22.89,35.31,1267,0,8
+Scorpaena,sonorae,27.25,-111.75,7211:371:2,1129,23.31,35.31,1073,0,24
+Scorpaena,sonorae,27.25,-110.25,7211:370:1,245,23.95,35.34,1602,0,12
+Scorpaena,sonorae,27.75,-111.75,7211:371:4,1209,23.31,35.31,1156,0,88
+Scorpaena,sonorae,27.75,-111.25,7211:371:3,863,23.31,35.31,1137,0,50
+Scorpaena,sonorae,27.75,-110.75,7211:370:4,371,23.95,35.31,1556,0,21
+Scorpaena,sonorae,28.25,-112.75,7211:382:2,183,23.08,35.22,1717,0,16
+Scorpaena,sonorae,28.25,-112.25,7211:382:1,618,23.08,35.22,1733,0,73
+Scorpaena,sonorae,28.25,-111.75,7211:381:2,220,23.33,35.22,1841,0,24
+Scorpaena,sonorae,28.25,-111.25,7211:381:1,143,23.33,35.31,1750,0,9
+Scorpaena,sonorae,28.75,-113.25,7211:383:3,440,21.39,35.22,1606,0,11
+Scorpaena,sonorae,28.75,-112.75,7211:382:4,376,23.08,35.22,1800,0,24
+Scorpaena,sonorae,28.75,-112.25,7211:382:3,154,23.08,35.22,1860,0,20
+Scorpaena,sonorae,28.75,-111.75,7211:381:4,13,23.33,35.22,1754,0,8
+Scorpaena,sonorae,28.75,-113.75,7211:383:4,1,21.39,35.22,1279,0,0
+Scorpaena,sonorae,29.25,-113.25,7211:393:1,282,22.58,35.22,1684,0,18
+Scorpaena,sonorae,29.25,-112.25,7211:392:1,31,22.88,35.22,1674,0,9
+Scorpaena,sonorae,29.75,-114.25,7211:394:3,111,20.39,35.34,1305,0,11
+Scorpaena,sonorae,29.75,-113.75,7211:393:4,428,22.58,35.34,1479,0,23
+Scorpaena,sonorae,29.75,-112.75,7211:392:4,112,22.88,35.34,1553,0,21
+Scorpaena,sonorae,30.25,-114.75,7311:104:2,23,22.28,35.34,1433,0,6
+Scorpaena,sonorae,30.25,-113.25,7311:103:1,121,22.38,35.34,1225,0,72
+Scorpaena,sonorae,30.25,-112.75,7311:102:2,65,22.54,35.34,1586,0,12
+Scorpaena,sonorae,30.75,-114.75,7311:104:4,19,22.28,35.34,1606,0,9
+Scorpaena,sonorae,30.75,-113.25,7311:103:3,60,22.38,35.34,1326,0,22
+Scorpaena,sonorae,31.25,-114.75,7311:114:2,29,22.31,35.34,1845,0,17
+Scorpaena,sonorae,31.25,-113.75,7311:113:2,40,22.35,35.34,1360,0,23
+Scorpaena,sonorae,31.25,-113.25,7311:113:1,28,22.35,35.34,1199,0,13
+Scorpaena,sonorae,31.75,-114.75,7311:114:4,8,22.31,35.34,1514,0,10
+Scorpaena,sonorae,31.75,-114.25,7311:114:3,7,22.31,35.34,1577,0,5

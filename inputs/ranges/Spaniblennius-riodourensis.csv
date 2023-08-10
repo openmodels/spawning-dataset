@@ -1,0 +1,158 @@
+Mapping parameters for Spaniblennius riodourensis ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 34,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,17,18,24,30
+Temperature (°C),1,17.53,19.26,21.28,22.59
+Salinity (psu),1,35.09,35.59,36.59,37.09
+Primary Production (mgC·m-3·day-1) ,1,4.45,22.38,97.96,167.37
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,114.49,161.79,234.48,296.21
+Distance to Land (km),0,16,20.2,25,28
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 119): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Spaniblennius,riodourensis,-34.75,19.25,3301:249:3,0.03
+Spaniblennius,riodourensis,-34.75,19.75,3301:249:4,0.10
+Spaniblennius,riodourensis,-34.25,20.75,3302:140:2,0.03
+Spaniblennius,riodourensis,-34.75,20.25,3302:140:3,0.19
+Spaniblennius,riodourensis,-34.25,21.25,3302:141:1,0.10
+Spaniblennius,riodourensis,-34.25,21.75,3302:141:2,0.19
+Spaniblennius,riodourensis,-32.75,28.25,3302:228:3,0.09
+Spaniblennius,riodourensis,-33.75,27.25,3302:237:3,0.14
+Spaniblennius,riodourensis,-35.25,20.25,3302:350:1,0.12
+Spaniblennius,riodourensis,17.75,-16.25,7101:476:3,0.16
+Spaniblennius,riodourensis,20.25,-16.75,7201:206:2,0.13
+Spaniblennius,riodourensis,20.75,-16.25,7201:206:3,0.16
+Spaniblennius,riodourensis,28.25,-12.75,7201:382:2,0.16
+Spaniblennius,riodourensis,28.75,-12.25,7201:382:3,0.07
+Spaniblennius,riodourensis,31.75,-9.75,7300:219:4,0.16
+Spaniblennius,riodourensis,32.75,-8.75,7300:228:4,0.06
+Spaniblennius,riodourensis,32.25,-9.25,7300:229:1,0.15
+Spaniblennius,riodourensis,33.75,-6.75,7300:236:4,0.16
+Spaniblennius,riodourensis,33.75,-7.25,7300:237:3,0.15
+Spaniblennius,riodourensis,34.75,-6.25,7300:246:3,0.06
+Spaniblennius,riodourensis,36.25,-5.75,7300:465:2,0.02
+Spaniblennius,riodourensis,36.25,-6.25,7300:466:1,0.06
+Spaniblennius,riodourensis,36.75,-6.25,7300:466:3,0.14
+Spaniblennius,riodourensis,37.25,-6.75,7300:476:2,0.18
+Spaniblennius,riodourensis,37.25,-7.75,7300:477:2,0.08
+Spaniblennius,riodourensis,37.25,-8.25,7300:478:1,0.01
+Spaniblennius,riodourensis,-17.25,11.75,3101:371:2,0.30
+Spaniblennius,riodourensis,-33.75,23.75,3302:133:4,0.34
+Spaniblennius,riodourensis,-34.75,20.75,3302:140:4,0.25
+Spaniblennius,riodourensis,-34.75,21.25,3302:141:3,0.24
+Spaniblennius,riodourensis,-34.75,21.75,3302:141:4,0.30
+Spaniblennius,riodourensis,-34.25,22.25,3302:142:1,0.29
+Spaniblennius,riodourensis,-34.25,22.75,3302:142:2,0.34
+Spaniblennius,riodourensis,-33.25,27.75,3302:237:2,0.23
+Spaniblennius,riodourensis,-35.25,20.75,3302:350:2,0.20
+Spaniblennius,riodourensis,-35.75,21.25,3302:351:3,0.39
+Spaniblennius,riodourensis,-36.25,20.25,3302:360:1,0.37
+Spaniblennius,riodourensis,19.25,-16.25,7101:496:1,0.36
+Spaniblennius,riodourensis,29.75,-9.75,7200:499:4,0.39
+Spaniblennius,riodourensis,26.75,-14.25,7201:364:3,0.32
+Spaniblennius,riodourensis,27.75,-13.25,7201:373:3,0.28
+Spaniblennius,riodourensis,28.75,-11.75,7201:381:4,0.37
+Spaniblennius,riodourensis,29.75,-10.25,7201:390:3,0.33
+Spaniblennius,riodourensis,29.25,-11.25,7201:391:1,0.22
+Spaniblennius,riodourensis,30.25,-9.75,7300:209:2,0.32
+Spaniblennius,riodourensis,30.75,-9.75,7300:209:4,0.27
+Spaniblennius,riodourensis,31.25,-9.75,7300:219:2,0.22
+Spaniblennius,riodourensis,31.75,-9.25,7300:219:3,0.22
+Spaniblennius,riodourensis,34.25,-6.75,7300:246:2,0.25
+Spaniblennius,riodourensis,36.75,-6.75,7300:466:4,0.31
+Spaniblennius,riodourensis,37.25,-7.25,7300:477:1,0.20
+Spaniblennius,riodourensis,-14.75,12.25,3101:142:3,0.43
+Spaniblennius,riodourensis,-33.75,24.75,3302:134:4,0.47
+Spaniblennius,riodourensis,-34.75,22.25,3302:142:3,0.47
+Spaniblennius,riodourensis,-34.25,23.25,3302:143:1,0.40
+Spaniblennius,riodourensis,-34.25,23.75,3302:143:2,0.47
+Spaniblennius,riodourensis,-34.25,24.25,3302:144:1,0.52
+Spaniblennius,riodourensis,-33.75,25.25,3302:235:3,0.52
+Spaniblennius,riodourensis,-33.75,25.75,3302:235:4,0.53
+Spaniblennius,riodourensis,-33.25,27.25,3302:237:1,0.59
+Spaniblennius,riodourensis,-34.25,26.25,3302:246:1,0.57
+Spaniblennius,riodourensis,-35.25,21.75,3302:351:2,0.41
+Spaniblennius,riodourensis,-36.25,20.75,3302:360:2,0.41
+Spaniblennius,riodourensis,-36.25,21.25,3302:361:1,0.45
+Spaniblennius,riodourensis,18.25,-16.25,7101:486:1,0.40
+Spaniblennius,riodourensis,19.25,-16.75,7101:496:2,0.49
+Spaniblennius,riodourensis,20.75,-16.75,7201:206:4,0.40
+Spaniblennius,riodourensis,24.75,-15.25,7201:245:3,0.50
+Spaniblennius,riodourensis,26.75,-13.75,7201:363:4,0.53
+Spaniblennius,riodourensis,27.75,-12.75,7201:372:4,0.47
+Spaniblennius,riodourensis,27.25,-13.25,7201:373:1,0.50
+Spaniblennius,riodourensis,28.75,-10.75,7201:380:4,0.52
+Spaniblennius,riodourensis,28.25,-11.75,7201:381:2,0.58
+Spaniblennius,riodourensis,28.75,-11.25,7201:381:3,0.46
+Spaniblennius,riodourensis,28.25,-12.25,7201:382:1,0.45
+Spaniblennius,riodourensis,29.25,-10.25,7201:390:1,0.44
+Spaniblennius,riodourensis,29.25,-10.75,7201:390:2,0.43
+Spaniblennius,riodourensis,-16.75,11.75,3101:361:4,0.68
+Spaniblennius,riodourensis,-34.25,24.75,3302:144:2,0.61
+Spaniblennius,riodourensis,-33.75,26.25,3302:236:3,0.62
+Spaniblennius,riodourensis,-33.75,26.75,3302:236:4,0.60
+Spaniblennius,riodourensis,-34.25,25.25,3302:245:1,0.64
+Spaniblennius,riodourensis,-34.25,25.75,3302:245:2,0.62
+Spaniblennius,riodourensis,18.75,-16.25,7101:486:3,0.69
+Spaniblennius,riodourensis,19.75,-17.25,7101:497:3,0.79
+Spaniblennius,riodourensis,24.25,-15.75,7201:245:2,0.78
+Spaniblennius,riodourensis,26.25,-14.75,7201:364:2,0.79
+Spaniblennius,riodourensis,-15.75,11.75,3101:351:4,1.00
+Spaniblennius,riodourensis,-15.25,12.25,3101:352:1,1.00
+Spaniblennius,riodourensis,-15.75,12.25,3101:352:3,1.00
+Spaniblennius,riodourensis,-16.25,11.75,3101:361:2,1.00
+Spaniblennius,riodourensis,24.75,-14.75,7201:144:4,1.00
+Spaniblennius,riodourensis,20.25,-17.25,7201:207:1,0.81
+Spaniblennius,riodourensis,20.75,-17.25,7201:207:3,1.00
+Spaniblennius,riodourensis,21.25,-16.75,7201:216:2,1.00
+Spaniblennius,riodourensis,21.75,-16.75,7201:216:4,1.00
+Spaniblennius,riodourensis,21.25,-17.25,7201:217:1,0.98
+Spaniblennius,riodourensis,21.75,-17.25,7201:217:3,1.00
+Spaniblennius,riodourensis,22.25,-16.25,7201:226:1,1.00
+Spaniblennius,riodourensis,22.25,-16.75,7201:226:2,1.00
+Spaniblennius,riodourensis,22.75,-16.25,7201:226:3,1.00
+Spaniblennius,riodourensis,22.75,-16.75,7201:226:4,0.83
+Spaniblennius,riodourensis,22.25,-17.25,7201:227:1,1.00
+Spaniblennius,riodourensis,22.75,-17.25,7201:227:3,1.00
+Spaniblennius,riodourensis,23.25,-15.75,7201:235:2,1.00
+Spaniblennius,riodourensis,23.75,-15.75,7201:235:4,0.96
+Spaniblennius,riodourensis,23.25,-16.25,7201:236:1,0.89
+Spaniblennius,riodourensis,23.25,-16.75,7201:236:2,1.00
+Spaniblennius,riodourensis,23.75,-16.25,7201:236:3,0.94
+Spaniblennius,riodourensis,24.25,-15.25,7201:245:1,1.00
+Spaniblennius,riodourensis,24.75,-15.75,7201:245:4,0.85
+Spaniblennius,riodourensis,24.25,-16.25,7201:246:1,0.99
+Spaniblennius,riodourensis,24.75,-16.25,7201:246:3,0.95
+Spaniblennius,riodourensis,25.25,-14.75,7201:354:2,0.80
+Spaniblennius,riodourensis,25.75,-14.75,7201:354:4,0.87
+Spaniblennius,riodourensis,26.75,-13.25,7201:363:3,0.86
+Spaniblennius,riodourensis,26.25,-14.25,7201:364:1,0.82
+Spaniblennius,riodourensis,25.25,-15.25,7201:455:1,0.84
+Spaniblennius,riodourensis,25.25,-15.75,7201:455:2,0.95
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Spaniblennius,riodourensis,18.75,-16.25,7101:486:3,111,21.6797275543213,22.0158786773682,35.8304176330566,35.9128494262695,98.9129990339279,0,217.373565673828,21
+Spaniblennius,riodourensis,20.75,-17.25,7201:207:3,27,19.704704284668,19.1699600219727,36.0966567993164,36.0744171142578,94.1279977560043,0,147.899002075195,26
+Spaniblennius,riodourensis,32.75,-9.25,7300:229:3,131,19.149715423584,17.4331340789795,36.3509101867676,36.5598297119141,4.44900011643767,0,238.759643554688,20

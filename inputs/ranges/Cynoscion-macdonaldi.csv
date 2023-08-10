@@ -1,0 +1,104 @@
+Mapping parameters for Totoaba macdonaldi (Totoaba)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,32,17,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,10,14,31,50
+Temperature (°C),1,21.8,22.3,24.36,26.81
+Salinity (psu),1,34.65,35.15,35.34,35.84
+Primary Production,1,964.5,1269.3,1687.5,1996.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,8.7,9.7,56.2999992370605,71
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 60): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Totoaba,macdonaldi,23.25,-106.25,7210:236:1,0.05
+Totoaba,macdonaldi,23.75,-106.75,7210:236:4,0.11
+Totoaba,macdonaldi,23.75,-107.25,7210:237:3,0.01
+Totoaba,macdonaldi,24.25,-107.75,7210:247:2,0.12
+Totoaba,macdonaldi,24.25,-109.75,7210:249:2,0.06
+Totoaba,macdonaldi,25.25,-109.25,7210:459:1,0.07
+Totoaba,macdonaldi,26.25,-109.75,7210:469:2,0.02
+Totoaba,macdonaldi,25.25,-110.75,7211:350:2,0.04
+Totoaba,macdonaldi,24.25,-107.25,7210:247:1,0.21
+Totoaba,macdonaldi,24.75,-107.75,7210:247:4,0.22
+Totoaba,macdonaldi,24.75,-108.25,7210:248:3,0.38
+Totoaba,macdonaldi,25.25,-108.25,7210:458:1,0.36
+Totoaba,macdonaldi,25.25,-108.75,7210:458:2,0.35
+Totoaba,macdonaldi,26.75,-110.25,7211:360:3,0.27
+Totoaba,macdonaldi,26.75,-111.25,7211:361:3,0.32
+Totoaba,macdonaldi,27.25,-111.75,7211:371:2,0.36
+Totoaba,macdonaldi,25.75,-109.25,7210:459:3,0.53
+Totoaba,macdonaldi,27.25,-109.75,7210:479:2,0.49
+Totoaba,macdonaldi,25.75,-111.25,7211:351:3,0.56
+Totoaba,macdonaldi,26.25,-111.25,7211:361:1,0.57
+Totoaba,macdonaldi,27.75,-111.25,7211:371:3,0.57
+Totoaba,macdonaldi,28.25,-111.75,7211:381:2,0.50
+Totoaba,macdonaldi,28.75,-112.25,7211:382:3,0.44
+Totoaba,macdonaldi,31.25,-114.75,7311:114:2,0.49
+Totoaba,macdonaldi,26.25,-109.25,7210:469:1,0.64
+Totoaba,macdonaldi,26.75,-109.25,7210:469:3,0.72
+Totoaba,macdonaldi,26.75,-109.75,7210:469:4,0.72
+Totoaba,macdonaldi,26.75,-111.75,7211:361:4,0.68
+Totoaba,macdonaldi,27.75,-112.75,7211:372:4,0.63
+Totoaba,macdonaldi,28.75,-111.75,7211:381:4,0.78
+Totoaba,macdonaldi,28.75,-112.75,7211:382:4,0.64
+Totoaba,macdonaldi,31.25,-113.25,7311:113:1,0.77
+Totoaba,macdonaldi,27.25,-110.25,7211:370:1,1.00
+Totoaba,macdonaldi,27.25,-110.75,7211:370:2,0.97
+Totoaba,macdonaldi,27.75,-110.75,7211:370:4,1.00
+Totoaba,macdonaldi,27.25,-112.25,7211:372:1,0.99
+Totoaba,macdonaldi,27.75,-112.25,7211:372:3,1.00
+Totoaba,macdonaldi,28.25,-111.25,7211:381:1,0.80
+Totoaba,macdonaldi,28.25,-112.25,7211:382:1,0.85
+Totoaba,macdonaldi,28.25,-112.75,7211:382:2,0.90
+Totoaba,macdonaldi,29.25,-112.25,7211:392:1,1.00
+Totoaba,macdonaldi,29.75,-112.25,7211:392:3,1.00
+Totoaba,macdonaldi,29.75,-112.75,7211:392:4,1.00
+Totoaba,macdonaldi,29.25,-113.25,7211:393:1,1.00
+Totoaba,macdonaldi,29.25,-113.75,7211:393:2,1.00
+Totoaba,macdonaldi,29.75,-113.25,7211:393:3,1.00
+Totoaba,macdonaldi,29.75,-113.75,7211:393:4,1.00
+Totoaba,macdonaldi,30.25,-112.75,7311:102:2,1.00
+Totoaba,macdonaldi,30.75,-112.75,7311:102:4,1.00
+Totoaba,macdonaldi,30.25,-113.25,7311:103:1,0.85
+Totoaba,macdonaldi,30.75,-113.25,7311:103:3,1.00
+Totoaba,macdonaldi,30.25,-114.25,7311:104:1,0.96
+Totoaba,macdonaldi,30.25,-114.75,7311:104:2,0.96
+Totoaba,macdonaldi,30.75,-114.25,7311:104:3,0.96
+Totoaba,macdonaldi,30.75,-114.75,7311:104:4,0.96
+Totoaba,macdonaldi,31.25,-113.75,7311:113:2,1.00
+Totoaba,macdonaldi,31.75,-113.75,7311:113:4,1.00
+Totoaba,macdonaldi,31.25,-114.25,7311:114:1,1.00
+Totoaba,macdonaldi,31.75,-114.25,7311:114:3,1.00
+Totoaba,macdonaldi,31.75,-114.75,7311:114:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 8)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Totoaba,macdonaldi,22.25,-105.75,7210:225:2,52,26.81,34.79,1399,0,19
+Totoaba,macdonaldi,27.75,-111.25,7211:371:3,863,23.31,35.31,1137,0,50
+Totoaba,macdonaldi,30.75,-114.75,7311:104:4,19,22.28,35.34,1606,0,9
+Totoaba,macdonaldi,30.75,-113.25,7311:103:3,60,22.38,35.34,1326,0,22
+Totoaba,macdonaldi,31.25,-113.75,7311:113:2,40,22.35,35.34,1360,0,23
+Totoaba,macdonaldi,31.25,-114.75,7311:114:2,29,22.31,35.34,1845,0,17
+Totoaba,macdonaldi,31.25,-114.25,7311:114:1,50,22.31,35.34,1620,0,71
+Totoaba,macdonaldi,31.75,-114.75,7311:114:4,8,22.31,35.34,1514,0,10

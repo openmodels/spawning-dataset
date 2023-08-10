@@ -1,0 +1,190 @@
+Mapping parameters for Bythaelurus canescens (Dusky catshark)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 41 |  87,
+Bounding Box (NSWE): ,-2,-56,-81,-70
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,250,303,455,700
+Temperature (°C),1,0.81,1.31,12.18,21.59
+Salinity (psu),1,31.94,33.26,34.7,36.24
+Primary Production (mgC·m-3·day-1) ,1,9.79,15.11,55.86,103.93
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),1,88.5,104.5,299.93,301.5
+Distance to Land (km),0,8,14,219,292
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 141): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Bythaelurus,canescens,-26.25,-70.75,5207:360:2,0.02
+Bythaelurus,canescens,-5.75,-80.75,5008:350:4,0.11
+Bythaelurus,canescens,-6.25,-80.75,5008:360:2,0.01
+Bythaelurus,canescens,-12.25,-76.75,5107:226:2,0.05
+Bythaelurus,canescens,-17.75,-71.25,5107:371:3,0.09
+Bythaelurus,canescens,-30.75,-71.75,5307:101:4,0.04
+Bythaelurus,canescens,-32.75,-73.75,5307:123:4,0.07
+Bythaelurus,canescens,-43.25,-74.25,5407:134:1,0.11
+Bythaelurus,canescens,-43.75,-74.25,5407:134:3,0.16
+Bythaelurus,canescens,-45.25,-73.25,5407:353:1,0.12
+Bythaelurus,canescens,-45.25,-73.75,5407:353:2,0.06
+Bythaelurus,canescens,-47.25,-74.75,5407:374:2,0.13
+Bythaelurus,canescens,-54.75,-72.25,5507:142:3,0.16
+Bythaelurus,canescens,-50.25,-75.75,5507:205:2,0.17
+Bythaelurus,canescens,-27.75,-71.25,5207:371:3,0.27
+Bythaelurus,canescens,-2.75,-80.75,5008:120:4,0.28
+Bythaelurus,canescens,-3.75,-80.75,5008:130:4,0.21
+Bythaelurus,canescens,-10.25,-77.75,5107:207:2,0.21
+Bythaelurus,canescens,-10.75,-77.75,5107:207:4,0.20
+Bythaelurus,canescens,-10.25,-79.25,5107:209:1,0.35
+Bythaelurus,canescens,-14.75,-75.75,5107:245:4,0.34
+Bythaelurus,canescens,-16.75,-73.25,5107:363:3,0.32
+Bythaelurus,canescens,-15.25,-75.25,5107:455:1,0.33
+Bythaelurus,canescens,-15.25,-75.75,5107:455:2,0.34
+Bythaelurus,canescens,-20.75,-70.25,5207:100:3,0.24
+Bythaelurus,canescens,-20.75,-70.75,5207:100:4,0.33
+Bythaelurus,canescens,-24.75,-70.75,5207:140:4,0.28
+Bythaelurus,canescens,-42.75,-73.75,5407:123:4,0.32
+Bythaelurus,canescens,-46.25,-73.75,5407:363:2,0.38
+Bythaelurus,canescens,-46.75,-73.75,5407:363:4,0.25
+Bythaelurus,canescens,-48.75,-74.25,5407:384:3,0.36
+Bythaelurus,canescens,-45.75,-75.75,5407:455:4,0.37
+Bythaelurus,canescens,-53.75,-71.75,5507:131:4,0.36
+Bythaelurus,canescens,-14.25,-76.25,5107:246:1,0.46
+Bythaelurus,canescens,-25.75,-70.75,5207:350:4,0.49
+Bythaelurus,canescens,-37.75,-74.25,5307:374:3,0.47
+Bythaelurus,canescens,-38.75,-73.75,5307:383:4,0.51
+Bythaelurus,canescens,-38.25,-74.25,5307:384:1,0.53
+Bythaelurus,canescens,-41.25,-74.75,5407:114:2,0.44
+Bythaelurus,canescens,-42.75,-75.25,5407:225:3,0.48
+Bythaelurus,canescens,-43.25,-75.25,5407:235:1,0.40
+Bythaelurus,canescens,-43.75,-75.25,5407:235:3,0.57
+Bythaelurus,canescens,-54.25,-72.25,5507:142:1,0.51
+Bythaelurus,canescens,-51.75,-75.25,5507:215:3,0.47
+Bythaelurus,canescens,-26.75,-70.75,5207:360:4,0.67
+Bythaelurus,canescens,-27.75,-70.75,5207:370:4,0.72
+Bythaelurus,canescens,-32.75,-71.75,5307:121:4,0.65
+Bythaelurus,canescens,-35.25,-73.25,5307:353:1,0.64
+Bythaelurus,canescens,-40.25,-73.75,5407:103:2,0.78
+Bythaelurus,canescens,-45.75,-73.75,5407:353:4,0.76
+Bythaelurus,canescens,-51.25,-73.75,5507:113:2,0.73
+Bythaelurus,canescens,-53.25,-70.75,5507:130:2,0.78
+Bythaelurus,canescens,-53.75,-71.25,5507:131:3,0.63
+Bythaelurus,canescens,-54.25,-70.75,5507:140:2,0.66
+Bythaelurus,canescens,-54.25,-73.25,5507:143:1,0.75
+Bythaelurus,canescens,-27.25,-70.75,5207:370:2,0.96
+Bythaelurus,canescens,-27.25,-71.25,5207:371:1,1.00
+Bythaelurus,canescens,-14.25,-76.75,5107:246:2,1.00
+Bythaelurus,canescens,-16.25,-74.25,5107:364:1,0.82
+Bythaelurus,canescens,-15.75,-75.25,5107:455:3,0.80
+Bythaelurus,canescens,-22.75,-70.75,5207:120:4,1.00
+Bythaelurus,canescens,-23.25,-70.75,5207:130:2,1.00
+Bythaelurus,canescens,-23.75,-70.75,5207:130:4,1.00
+Bythaelurus,canescens,-24.25,-70.75,5207:140:2,1.00
+Bythaelurus,canescens,-25.25,-70.25,5207:350:1,1.00
+Bythaelurus,canescens,-28.25,-71.25,5207:381:1,0.86
+Bythaelurus,canescens,-28.75,-71.25,5207:381:3,1.00
+Bythaelurus,canescens,-28.75,-71.75,5207:381:4,1.00
+Bythaelurus,canescens,-29.25,-71.75,5207:391:2,1.00
+Bythaelurus,canescens,-29.75,-71.25,5207:391:3,1.00
+Bythaelurus,canescens,-29.75,-71.75,5207:391:4,1.00
+Bythaelurus,canescens,-30.25,-71.25,5307:101:1,0.92
+Bythaelurus,canescens,-31.75,-71.75,5307:111:4,1.00
+Bythaelurus,canescens,-32.25,-71.75,5307:121:2,1.00
+Bythaelurus,canescens,-33.75,-72.25,5307:132:3,1.00
+Bythaelurus,canescens,-34.75,-72.75,5307:142:4,1.00
+Bythaelurus,canescens,-36.25,-73.75,5307:363:2,1.00
+Bythaelurus,canescens,-36.75,-73.75,5307:363:4,1.00
+Bythaelurus,canescens,-38.75,-74.25,5307:384:3,1.00
+Bythaelurus,canescens,-39.75,-73.75,5307:393:4,1.00
+Bythaelurus,canescens,-39.25,-74.25,5307:394:1,1.00
+Bythaelurus,canescens,-39.75,-74.25,5307:394:3,1.00
+Bythaelurus,canescens,-40.75,-73.75,5407:103:4,1.00
+Bythaelurus,canescens,-40.25,-74.25,5407:104:1,1.00
+Bythaelurus,canescens,-41.25,-73.75,5407:113:2,1.00
+Bythaelurus,canescens,-41.75,-73.25,5407:113:3,1.00
+Bythaelurus,canescens,-42.25,-74.25,5407:124:1,1.00
+Bythaelurus,canescens,-42.75,-74.25,5407:124:3,1.00
+Bythaelurus,canescens,-42.75,-74.75,5407:124:4,1.00
+Bythaelurus,canescens,-43.25,-74.75,5407:134:2,1.00
+Bythaelurus,canescens,-43.75,-74.75,5407:134:4,1.00
+Bythaelurus,canescens,-44.25,-73.25,5407:143:1,0.84
+Bythaelurus,canescens,-44.75,-73.25,5407:143:3,0.82
+Bythaelurus,canescens,-44.25,-74.25,5407:144:1,0.87
+Bythaelurus,canescens,-44.25,-74.75,5407:144:2,1.00
+Bythaelurus,canescens,-44.75,-74.75,5407:144:4,0.96
+Bythaelurus,canescens,-44.25,-75.25,5407:245:1,1.00
+Bythaelurus,canescens,-44.75,-75.25,5407:245:3,1.00
+Bythaelurus,canescens,-45.25,-74.75,5407:354:2,1.00
+Bythaelurus,canescens,-47.75,-74.75,5407:374:4,1.00
+Bythaelurus,canescens,-46.75,-74.75,5407:364:4,1.00
+Bythaelurus,canescens,-48.25,-75.75,5407:485:2,1.00
+Bythaelurus,canescens,-48.75,-75.75,5407:485:4,0.81
+Bythaelurus,canescens,-49.25,-75.75,5407:495:2,1.00
+Bythaelurus,canescens,-49.75,-75.25,5407:495:3,1.00
+Bythaelurus,canescens,-49.75,-75.75,5407:495:4,1.00
+Bythaelurus,canescens,-48.25,-74.75,5407:384:2,1.00
+Bythaelurus,canescens,-49.25,-74.25,5407:394:1,1.00
+Bythaelurus,canescens,-49.75,-74.25,5407:394:3,1.00
+Bythaelurus,canescens,-49.75,-74.75,5407:394:4,1.00
+Bythaelurus,canescens,-45.25,-75.25,5407:455:1,1.00
+Bythaelurus,canescens,-45.75,-75.25,5407:455:3,1.00
+Bythaelurus,canescens,-46.75,-75.75,5407:465:4,1.00
+Bythaelurus,canescens,-47.25,-75.25,5407:475:1,1.00
+Bythaelurus,canescens,-47.25,-75.75,5407:475:2,1.00
+Bythaelurus,canescens,-47.75,-75.25,5407:475:3,0.91
+Bythaelurus,canescens,-47.75,-75.75,5407:475:4,1.00
+Bythaelurus,canescens,-46.25,-75.25,5407:465:1,1.00
+Bythaelurus,canescens,-46.25,-75.75,5407:465:2,1.00
+Bythaelurus,canescens,-46.75,-75.25,5407:465:3,0.90
+Bythaelurus,canescens,-50.75,-73.75,5507:103:4,1.00
+Bythaelurus,canescens,-50.25,-74.25,5507:104:1,1.00
+Bythaelurus,canescens,-50.25,-74.75,5507:104:2,1.00
+Bythaelurus,canescens,-50.75,-74.75,5507:104:4,1.00
+Bythaelurus,canescens,-51.25,-74.25,5507:114:1,0.95
+Bythaelurus,canescens,-51.25,-74.75,5507:114:2,0.95
+Bythaelurus,canescens,-52.75,-73.75,5507:123:4,1.00
+Bythaelurus,canescens,-52.25,-74.75,5507:124:2,1.00
+Bythaelurus,canescens,-52.75,-74.25,5507:124:3,1.00
+Bythaelurus,canescens,-52.75,-74.75,5507:124:4,1.00
+Bythaelurus,canescens,-53.75,-70.25,5507:130:3,1.00
+Bythaelurus,canescens,-53.75,-70.75,5507:130:4,1.00
+Bythaelurus,canescens,-53.75,-72.25,5507:132:3,0.92
+Bythaelurus,canescens,-53.75,-73.25,5507:133:3,1.00
+Bythaelurus,canescens,-53.75,-73.75,5507:133:4,0.97
+Bythaelurus,canescens,-53.25,-74.25,5507:134:1,1.00
+Bythaelurus,canescens,-50.25,-75.25,5507:205:1,1.00
+Bythaelurus,canescens,-50.75,-75.25,5507:205:3,1.00
+Bythaelurus,canescens,-51.25,-75.25,5507:215:1,1.00
+Bythaelurus,canescens,-52.25,-75.25,5507:225:1,0.92
+Bythaelurus,canescens,-55.25,-70.25,5507:350:1,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 13)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Bythaelurus,canescens,-53.25,-73.75,5507:133:2,48,7.49064302444458,7.62021923065186,33.6585845947266,33.5554504394531,42.6129996776581,0,301.497924804688,15
+Bythaelurus,canescens,-51.25,-74.25,5507:114:1,17,7.62949895858765,8.08372402191162,33.2187423706055,33.1899909973145,21.1999993771315,0,299.93115234375,15
+Bythaelurus,canescens,-48.75,-74.25,5407:384:3,24,9.13134288787842,9.83970832824707,33.0015487670898,33.2573471069336,35.9332635998726,0,290.772430419922,8
+Bythaelurus,canescens,-40.25,-73.75,5407:103:2,182,12.2312860488892,12.4819316864014,33.4230842590332,33.4077529907227,65.2450025081635,0,275.083160400391,14
+Bythaelurus,canescens,-39.75,-73.75,5307:393:4,178,12.3219909667969,11.1388273239136,33.5368919372559,33.9319763183594,55.8560006320477,0,133.014678955078,20
+Bythaelurus,canescens,-36.25,-75.25,5307:465:1,4124,14.4325914382935,1.30343496799469,33.9293785095215,34.6951599121094,9.793000295758251,0,167.888412475586,219
+Bythaelurus,canescens,-35.25,-73.25,5307:353:1,2179,13.9101047515869,2.00498509407043,34.0021133422852,34.6299285888672,39.0149988234043,0,143.308456420898,84
+Bythaelurus,canescens,-34.25,-73.25,5307:143:1,4756,14.718768119812,1.31318402290344,34.129280090332,34.6950454711914,19.9040006846189,0,166.021759033203,125
+Bythaelurus,canescens,-33.25,-71.75,5307:131:2,509,14.0279026031494,12.1824169158936,34.0795745849609,34.2473335266113,55.8260008692741,0,88.5015258789063,17
+Bythaelurus,canescens,-32.25,-71.75,5307:121:2,1246,14.5788402557373,4.90584897994995,34.301155090332,34.3553504943848,54.2920008301735,0,108.518760681152,23
+Bythaelurus,canescens,-24.25,-70.75,5207:140:2,1882,17.4943866729736,2.49540495872498,34.6341743469238,34.5752334594727,46.6260015964508,0,113.695510864258,76
+Bythaelurus,canescens,-23.25,-70.75,5207:130:2,2532,17.5889472961426,2.78435492515564,34.6276435852051,34.5805931091309,52.8189986944199,0,104.503341674805,24
+Bythaelurus,canescens,-12.25,-79.75,5107:229:2,4739,20.8563785552979,1.42138600349426,35.1689987182617,34.6941719055176,15.107000246643999,0,139.674530029297,292

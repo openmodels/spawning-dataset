@@ -1,0 +1,233 @@
+Mapping parameters for Paralichthys triocellatus ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 41,
+Bounding Box (NSWE): ,-23,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,60,74,124,192
+Temperature (°C),1,13.27,20.05,23.59,28.05
+Salinity (psu),1,29.56,30.65,36.15,39.75
+Primary Production,1,447,517,1118,1698
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,2,14,197,382.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 172): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Paralichthys,triocellatus,-23.75,-41.25,5204:131:3,0.02
+Paralichthys,triocellatus,-23.75,-42.75,5204:132:4,0.06
+Paralichthys,triocellatus,-26.25,-48.25,5204:468:1,0.06
+Paralichthys,triocellatus,-26.75,-48.25,5204:468:3,0.03
+Paralichthys,triocellatus,-28.25,-47.25,5204:487:1,0.03
+Paralichthys,triocellatus,-30.25,-50.25,5305:100:1,0.08
+Paralichthys,triocellatus,-33.25,-50.25,5305:130:1,0.19
+Paralichthys,triocellatus,-33.25,-51.25,5305:131:1,0.19
+Paralichthys,triocellatus,-33.25,-52.75,5305:132:2,0.05
+Paralichthys,triocellatus,-34.75,-52.75,5305:142:4,0.08
+Paralichthys,triocellatus,-35.75,-53.25,5305:353:3,0.02
+Paralichthys,triocellatus,-36.25,-53.75,5305:363:2,0.13
+Paralichthys,triocellatus,-36.75,-54.25,5305:364:3,0.16
+Paralichthys,triocellatus,-36.75,-54.75,5305:364:4,0.12
+Paralichthys,triocellatus,-37.25,-54.25,5305:374:1,0.12
+Paralichthys,triocellatus,-37.75,-54.75,5305:374:4,0.19
+Paralichthys,triocellatus,-36.25,-57.25,5305:467:1,0.01
+Paralichthys,triocellatus,-37.25,-55.25,5305:475:1,0.01
+Paralichthys,triocellatus,-37.75,-55.25,5305:475:3,0.15
+Paralichthys,triocellatus,-37.75,-56.25,5305:476:3,0.16
+Paralichthys,triocellatus,-37.75,-56.75,5305:476:4,0.10
+Paralichthys,triocellatus,-37.75,-57.25,5305:477:3,0.04
+Paralichthys,triocellatus,-38.25,-55.25,5305:485:1,0.01
+Paralichthys,triocellatus,-38.25,-55.75,5305:485:2,0.05
+Paralichthys,triocellatus,-38.75,-55.75,5305:485:4,0.02
+Paralichthys,triocellatus,-38.25,-57.25,5305:487:1,0.01
+Paralichthys,triocellatus,-38.25,-57.75,5305:487:2,0.01
+Paralichthys,triocellatus,-38.75,-57.25,5305:487:3,0.01
+Paralichthys,triocellatus,-38.75,-57.75,5305:487:4,0.01
+Paralichthys,triocellatus,-38.75,-58.75,5305:488:4,0.05
+Paralichthys,triocellatus,-38.75,-59.25,5305:489:3,0.14
+Paralichthys,triocellatus,-38.75,-59.75,5305:489:4,0.08
+Paralichthys,triocellatus,-39.25,-59.25,5305:499:1,0.18
+Paralichthys,triocellatus,-39.75,-59.25,5305:499:3,0.16
+Paralichthys,triocellatus,-39.75,-59.75,5305:499:4,0.07
+Paralichthys,triocellatus,-39.25,-61.75,5306:391:2,0.03
+Paralichthys,triocellatus,-40.25,-59.25,5405:209:1,0.05
+Paralichthys,triocellatus,-40.25,-59.75,5405:209:2,0.05
+Paralichthys,triocellatus,-40.75,-59.75,5405:209:4,0.04
+Paralichthys,triocellatus,-40.25,-60.25,5406:100:1,0.15
+Paralichthys,triocellatus,-40.75,-60.25,5406:100:3,0.17
+Paralichthys,triocellatus,-40.75,-60.75,5406:100:4,0.04
+Paralichthys,triocellatus,-40.75,-64.25,5406:104:3,0.11
+Paralichthys,triocellatus,-40.75,-64.75,5406:104:4,0.07
+Paralichthys,triocellatus,-41.25,-60.25,5406:110:1,0.04
+Paralichthys,triocellatus,-41.25,-60.75,5406:110:2,0.01
+Paralichthys,triocellatus,-41.75,-60.25,5406:110:3,0.04
+Paralichthys,triocellatus,-41.75,-60.75,5406:110:4,0.02
+Paralichthys,triocellatus,-41.25,-61.25,5406:111:1,0.04
+Paralichthys,triocellatus,-41.75,-61.25,5406:111:3,0.10
+Paralichthys,triocellatus,-41.75,-61.75,5406:111:4,0.07
+Paralichthys,triocellatus,-41.75,-62.75,5406:112:4,0.01
+Paralichthys,triocellatus,-41.25,-63.75,5406:113:2,0.06
+Paralichthys,triocellatus,-41.75,-63.75,5406:113:4,0.05
+Paralichthys,triocellatus,-41.25,-64.25,5406:114:1,0.14
+Paralichthys,triocellatus,-41.25,-64.75,5406:114:2,0.14
+Paralichthys,triocellatus,-41.75,-64.25,5406:114:3,0.08
+Paralichthys,triocellatus,-41.75,-64.75,5406:114:4,0.10
+Paralichthys,triocellatus,-42.25,-62.25,5406:122:1,0.05
+Paralichthys,triocellatus,-42.25,-62.75,5406:122:2,0.03
+Paralichthys,triocellatus,-42.75,-62.25,5406:122:3,0.04
+Paralichthys,triocellatus,-42.75,-62.75,5406:122:4,0.04
+Paralichthys,triocellatus,-42.25,-63.25,5406:123:1,0.01
+Paralichthys,triocellatus,-42.75,-63.25,5406:123:3,0.06
+Paralichthys,triocellatus,-42.75,-63.75,5406:123:4,0.01
+Paralichthys,triocellatus,-42.25,-64.25,5406:124:1,0.08
+Paralichthys,triocellatus,-42.25,-64.75,5406:124:2,0.08
+Paralichthys,triocellatus,-41.25,-65.25,5406:215:1,0.10
+Paralichthys,triocellatus,-23.75,-42.25,5204:132:3,0.25
+Paralichthys,triocellatus,-24.25,-43.75,5204:143:2,0.24
+Paralichthys,triocellatus,-25.75,-45.25,5204:455:3,0.36
+Paralichthys,triocellatus,-25.25,-47.25,5204:457:1,0.21
+Paralichthys,triocellatus,-26.75,-46.75,5204:466:4,0.38
+Paralichthys,triocellatus,-29.25,-47.75,5204:497:2,0.24
+Paralichthys,triocellatus,-30.75,-50.25,5305:100:3,0.25
+Paralichthys,triocellatus,-33.75,-50.75,5305:130:4,0.27
+Paralichthys,triocellatus,-33.75,-51.75,5305:131:4,0.22
+Paralichthys,triocellatus,-34.75,-51.75,5305:141:4,0.36
+Paralichthys,triocellatus,-35.25,-52.75,5305:352:2,0.21
+Paralichthys,triocellatus,-36.75,-53.75,5305:363:4,0.26
+Paralichthys,triocellatus,-37.25,-54.75,5305:374:2,0.23
+Paralichthys,triocellatus,-37.75,-55.75,5305:475:4,0.23
+Paralichthys,triocellatus,-39.25,-62.25,5306:392:1,0.21
+Paralichthys,triocellatus,-24.75,-46.75,5204:246:4,0.50
+Paralichthys,triocellatus,-27.75,-48.25,5204:478:3,0.53
+Paralichthys,triocellatus,-30.25,-48.25,5304:208:1,0.43
+Paralichthys,triocellatus,-34.25,-52.25,5305:142:1,0.51
+Paralichthys,triocellatus,-34.75,-52.25,5305:142:3,0.41
+Paralichthys,triocellatus,-36.25,-53.25,5305:363:1,0.43
+Paralichthys,triocellatus,-23.25,-41.25,5204:131:1,0.72
+Paralichthys,triocellatus,-23.25,-41.75,5204:131:2,0.72
+Paralichthys,triocellatus,-23.75,-41.75,5204:131:4,0.72
+Paralichthys,triocellatus,-23.75,-43.25,5204:133:3,0.67
+Paralichthys,triocellatus,-26.25,-47.75,5204:467:2,0.71
+Paralichthys,triocellatus,-27.25,-48.25,5204:478:1,0.70
+Paralichthys,triocellatus,-27.25,-48.75,5204:478:2,0.69
+Paralichthys,triocellatus,-27.75,-48.75,5204:478:4,0.70
+Paralichthys,triocellatus,-28.25,-48.25,5204:488:1,0.64
+Paralichthys,triocellatus,-28.25,-48.75,5204:488:2,0.78
+Paralichthys,triocellatus,-28.75,-48.75,5204:488:4,0.64
+Paralichthys,triocellatus,-29.75,-49.25,5204:499:3,0.78
+Paralichthys,triocellatus,-30.25,-49.75,5304:209:2,0.77
+Paralichthys,triocellatus,-31.25,-49.25,5304:219:1,0.78
+Paralichthys,triocellatus,-34.25,-51.75,5305:141:2,0.71
+Paralichthys,triocellatus,-35.25,-52.25,5305:352:1,0.77
+Paralichthys,triocellatus,-35.75,-52.75,5305:352:4,0.72
+Paralichthys,triocellatus,-23.25,-42.25,5204:132:1,0.84
+Paralichthys,triocellatus,-23.25,-42.75,5204:132:2,0.84
+Paralichthys,triocellatus,-23.25,-43.25,5204:133:1,0.92
+Paralichthys,triocellatus,-23.25,-43.75,5204:133:2,0.92
+Paralichthys,triocellatus,-23.75,-43.75,5204:133:4,0.92
+Paralichthys,triocellatus,-23.25,-44.25,5204:134:1,1.00
+Paralichthys,triocellatus,-23.25,-44.75,5204:134:2,1.00
+Paralichthys,triocellatus,-23.75,-44.25,5204:134:3,1.00
+Paralichthys,triocellatus,-23.75,-44.75,5204:134:4,1.00
+Paralichthys,triocellatus,-24.25,-44.25,5204:144:1,0.96
+Paralichthys,triocellatus,-24.25,-44.75,5204:144:2,0.96
+Paralichthys,triocellatus,-23.75,-45.25,5204:235:3,1.00
+Paralichthys,triocellatus,-23.75,-45.75,5204:235:4,1.00
+Paralichthys,triocellatus,-23.75,-46.25,5204:236:3,1.00
+Paralichthys,triocellatus,-24.25,-45.25,5204:245:1,1.00
+Paralichthys,triocellatus,-24.25,-45.75,5204:245:2,1.00
+Paralichthys,triocellatus,-24.75,-45.25,5204:245:3,1.00
+Paralichthys,triocellatus,-24.75,-45.75,5204:245:4,1.00
+Paralichthys,triocellatus,-24.25,-46.25,5204:246:1,0.92
+Paralichthys,triocellatus,-24.25,-46.75,5204:246:2,1.00
+Paralichthys,triocellatus,-24.75,-46.25,5204:246:3,1.00
+Paralichthys,triocellatus,-24.25,-47.25,5204:247:1,1.00
+Paralichthys,triocellatus,-24.75,-47.25,5204:247:3,0.80
+Paralichthys,triocellatus,-25.25,-45.75,5204:455:2,1.00
+Paralichthys,triocellatus,-25.75,-45.75,5204:455:4,0.81
+Paralichthys,triocellatus,-25.25,-46.25,5204:456:1,1.00
+Paralichthys,triocellatus,-25.25,-46.75,5204:456:2,1.00
+Paralichthys,triocellatus,-25.75,-46.25,5204:456:3,1.00
+Paralichthys,triocellatus,-25.75,-46.75,5204:456:4,1.00
+Paralichthys,triocellatus,-25.75,-47.25,5204:457:3,1.00
+Paralichthys,triocellatus,-25.25,-48.25,5204:458:1,1.00
+Paralichthys,triocellatus,-25.75,-48.25,5204:458:3,1.00
+Paralichthys,triocellatus,-26.25,-46.25,5204:466:1,1.00
+Paralichthys,triocellatus,-26.25,-46.75,5204:466:2,1.00
+Paralichthys,triocellatus,-26.25,-47.25,5204:467:1,1.00
+Paralichthys,triocellatus,-26.75,-47.25,5204:467:3,1.00
+Paralichthys,triocellatus,-26.75,-47.75,5204:467:4,1.00
+Paralichthys,triocellatus,-26.75,-48.75,5204:468:4,0.83
+Paralichthys,triocellatus,-27.25,-47.25,5204:477:1,0.97
+Paralichthys,triocellatus,-27.25,-47.75,5204:477:2,1.00
+Paralichthys,triocellatus,-27.75,-47.75,5204:477:4,1.00
+Paralichthys,triocellatus,-28.25,-47.75,5204:487:2,1.00
+Paralichthys,triocellatus,-28.75,-47.75,5204:487:4,1.00
+Paralichthys,triocellatus,-28.75,-48.25,5204:488:3,1.00
+Paralichthys,triocellatus,-28.75,-49.25,5204:489:3,1.00
+Paralichthys,triocellatus,-29.25,-48.25,5204:498:1,1.00
+Paralichthys,triocellatus,-29.25,-48.75,5204:498:2,0.83
+Paralichthys,triocellatus,-29.75,-48.25,5204:498:3,1.00
+Paralichthys,triocellatus,-29.75,-48.75,5204:498:4,1.00
+Paralichthys,triocellatus,-29.25,-49.25,5204:499:1,0.88
+Paralichthys,triocellatus,-29.25,-49.75,5204:499:2,1.00
+Paralichthys,triocellatus,-29.75,-49.75,5204:499:4,0.97
+Paralichthys,triocellatus,-29.75,-50.25,5205:390:3,1.00
+Paralichthys,triocellatus,-30.75,-48.75,5304:208:4,1.00
+Paralichthys,triocellatus,-30.25,-49.25,5304:209:1,1.00
+Paralichthys,triocellatus,-30.75,-49.25,5304:209:3,1.00
+Paralichthys,triocellatus,-30.75,-49.75,5304:209:4,1.00
+Paralichthys,triocellatus,-31.25,-49.75,5304:219:2,1.00
+Paralichthys,triocellatus,-31.75,-49.75,5304:219:4,1.00
+Paralichthys,triocellatus,-30.25,-50.75,5305:100:2,1.00
+Paralichthys,triocellatus,-32.25,-50.25,5305:120:1,0.99
+Paralichthys,triocellatus,-32.25,-50.75,5305:120:2,0.89
+Paralichthys,triocellatus,-32.75,-50.25,5305:120:3,1.00
+Paralichthys,triocellatus,-32.75,-50.75,5305:120:4,0.99
+Paralichthys,triocellatus,-33.25,-50.75,5305:130:2,1.00
+Paralichthys,triocellatus,-33.75,-51.25,5305:131:3,0.92
+
+
+Occurrence cells used for creating environmental envelope (n = 25)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Paralichthys,triocellatus,-43.75,-63.75,5406:133:4,63,13.27,33.38,1195,0,109
+Paralichthys,triocellatus,-34.25,-51.75,5305:141:2,390,19.25,33.28,1232,0,191
+Paralichthys,triocellatus,-33.75,-50.75,5305:130:4,1118,20.05,32.97,491,0,225
+Paralichthys,triocellatus,-32.75,-50.75,5305:120:4,141,20.4,30.64,1081,0,168
+Paralichthys,triocellatus,-32.75,-50.25,5305:120:3,586,20.4,30.65,715,0,192
+Paralichthys,triocellatus,-32.25,-50.25,5305:120:1,319,20.4,30.64,810,0,157
+Paralichthys,triocellatus,-30.75,-49.25,5304:209:3,239,21.51,34.34,672,0,143
+Paralichthys,triocellatus,-30.25,-48.75,5304:208:2,158,21.9,35.43,447,0,159
+Paralichthys,triocellatus,-30.25,-48.25,5304:208:1,295,21.9,35.44,590,0,197
+Paralichthys,triocellatus,-29.25,-48.25,5204:498:1,150,22.25,35.93,914,0,122
+Paralichthys,triocellatus,-28.75,-48.25,5204:488:3,106,22.56,36.13,1118,0,88
+Paralichthys,triocellatus,-28.75,-47.75,5204:487:4,262,22.79,36.13,729,0,132
+Paralichthys,triocellatus,-26.75,-47.25,5204:467:3,124,22.89,35.27,613,0,163
+Paralichthys,triocellatus,-26.25,-46.25,5204:466:1,343,23.27,35.71,517,0,236
+Paralichthys,triocellatus,-25.75,-48.75,5204:458:4,4,22.48,34.79,863,0,2
+Paralichthys,triocellatus,-25.75,-48.25,5204:458:3,18,22.48,34.79,1039,0,24
+Paralichthys,triocellatus,-25.25,-47.75,5204:457:2,22,22.86,34.79,1039,0,25
+Paralichthys,triocellatus,-24.75,-45.25,5204:245:3,94,23.46,35.81,717,0,149
+Paralichthys,triocellatus,-24.25,-45.25,5204:245:1,65,23.46,35.81,1047,0,97
+Paralichthys,triocellatus,-24.25,-44.25,5204:144:1,218,23.77,36.15,570,0,149
+Paralichthys,triocellatus,-23.75,-46.25,5204:236:3,43,23.25,35.81,648,0,5
+Paralichthys,triocellatus,-23.75,-44.75,5204:134:4,58,23.59,36.15,1082,0,86
+Paralichthys,triocellatus,-23.25,-44.75,5204:134:2,39,23.59,35.9,642,0,14
+Paralichthys,triocellatus,-23.25,-44.25,5204:134:1,45,23.59,35.9,863,0,25
+Paralichthys,triocellatus,-23.25,-42.75,5204:132:2,92,24.26,36.2,670,0,86

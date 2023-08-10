@@ -1,0 +1,213 @@
+Mapping parameters for Psettodes bennettii (Spiny turbot)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas:  34 ,
+Bounding Box (NSWE): ,30,4,-19,-8
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,15,18,33,50
+Temperature (°C),1,16.64,20.63,27.83,32.03
+Salinity (psu),1,28.93,31.44,36.57,39.52
+Primary Production (mgC·m-3·day-1) ,1,0.6,4.76,111.46,139.39
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,35.39,92.3,229.75,314.88
+Distance to Land (km),0,1,14,133,211.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 155): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Psettodes,bennettii,28.75,-13.75,7201:383:4,0.12
+Psettodes,bennettii,7.25,-11.75,7001:371:2,0.33
+Psettodes,bennettii,15.75,-16.25,7101:456:3,0.33
+Psettodes,bennettii,20.75,-17.75,7201:207:4,0.20
+Psettodes,bennettii,27.25,-13.75,7201:373:2,0.24
+Psettodes,bennettii,28.25,-13.75,7201:383:2,0.25
+Psettodes,bennettii,28.75,-13.25,7201:383:3,0.23
+Psettodes,bennettii,25.75,-15.25,7201:455:3,0.20
+Psettodes,bennettii,25.25,-16.25,7201:456:1,0.39
+Psettodes,bennettii,6.75,-11.25,7001:361:3,0.45
+Psettodes,bennettii,7.75,-14.25,7001:374:3,0.53
+Psettodes,bennettii,8.75,-14.75,7001:384:4,0.42
+Psettodes,bennettii,29.75,-9.75,7200:499:4,0.55
+Psettodes,bennettii,23.75,-16.75,7201:236:4,0.48
+Psettodes,bennettii,24.25,-15.75,7201:245:2,0.56
+Psettodes,bennettii,24.75,-15.25,7201:245:3,0.44
+Psettodes,bennettii,24.75,-15.75,7201:245:4,0.59
+Psettodes,bennettii,25.25,-14.75,7201:354:2,0.57
+Psettodes,bennettii,26.75,-13.75,7201:363:4,0.59
+Psettodes,bennettii,28.75,-11.25,7201:381:3,0.59
+Psettodes,bennettii,28.75,-12.75,7201:382:4,0.53
+Psettodes,bennettii,29.25,-10.25,7201:390:1,0.57
+Psettodes,bennettii,29.25,-10.75,7201:390:2,0.59
+Psettodes,bennettii,29.75,-10.25,7201:390:3,0.57
+Psettodes,bennettii,25.25,-15.25,7201:455:1,0.59
+Psettodes,bennettii,6.75,-10.75,7001:360:4,0.74
+Psettodes,bennettii,7.25,-12.25,7001:372:1,0.72
+Psettodes,bennettii,8.25,-14.25,7001:384:1,0.62
+Psettodes,bennettii,8.75,-14.25,7001:384:3,0.78
+Psettodes,bennettii,9.25,-14.75,7001:394:2,0.68
+Psettodes,bennettii,9.25,-15.25,7001:495:1,0.69
+Psettodes,bennettii,9.25,-15.75,7001:495:2,0.68
+Psettodes,bennettii,18.75,-16.75,7101:486:4,0.76
+Psettodes,bennettii,24.75,-14.75,7201:144:4,0.70
+Psettodes,bennettii,20.75,-17.25,7201:207:3,0.77
+Psettodes,bennettii,21.25,-17.25,7201:217:1,0.69
+Psettodes,bennettii,21.75,-17.25,7201:217:3,0.66
+Psettodes,bennettii,22.25,-16.75,7201:226:2,0.79
+Psettodes,bennettii,22.75,-16.75,7201:226:4,0.69
+Psettodes,bennettii,22.25,-17.25,7201:227:1,0.73
+Psettodes,bennettii,22.75,-17.25,7201:227:3,0.78
+Psettodes,bennettii,23.75,-15.75,7201:235:4,0.64
+Psettodes,bennettii,23.25,-16.25,7201:236:1,0.63
+Psettodes,bennettii,23.25,-16.75,7201:236:2,0.67
+Psettodes,bennettii,23.75,-16.25,7201:236:3,0.63
+Psettodes,bennettii,24.25,-15.25,7201:245:1,0.66
+Psettodes,bennettii,24.25,-16.25,7201:246:1,0.68
+Psettodes,bennettii,24.75,-16.25,7201:246:3,0.79
+Psettodes,bennettii,25.75,-14.75,7201:354:4,0.60
+Psettodes,bennettii,26.75,-13.25,7201:363:3,0.64
+Psettodes,bennettii,26.25,-14.25,7201:364:1,0.60
+Psettodes,bennettii,26.25,-14.75,7201:364:2,0.77
+Psettodes,bennettii,26.75,-14.25,7201:364:3,0.73
+Psettodes,bennettii,27.75,-12.75,7201:372:4,0.62
+Psettodes,bennettii,27.25,-13.25,7201:373:1,0.61
+Psettodes,bennettii,27.75,-13.25,7201:373:3,0.65
+Psettodes,bennettii,28.75,-10.75,7201:380:4,0.60
+Psettodes,bennettii,28.25,-11.75,7201:381:2,0.60
+Psettodes,bennettii,28.75,-11.75,7201:381:4,0.64
+Psettodes,bennettii,28.25,-12.25,7201:382:1,0.66
+Psettodes,bennettii,28.25,-12.75,7201:382:2,0.72
+Psettodes,bennettii,28.75,-12.25,7201:382:3,0.74
+Psettodes,bennettii,29.25,-11.25,7201:391:1,0.70
+Psettodes,bennettii,4.25,-8.25,7000:248:1,0.98
+Psettodes,bennettii,4.75,-8.25,7000:248:3,1.00
+Psettodes,bennettii,4.75,-8.75,7000:248:4,1.00
+Psettodes,bennettii,4.75,-9.25,7000:249:3,0.97
+Psettodes,bennettii,5.25,-9.25,7000:459:1,1.00
+Psettodes,bennettii,5.25,-9.75,7000:459:2,0.98
+Psettodes,bennettii,5.75,-9.75,7000:459:4,1.00
+Psettodes,bennettii,5.75,-10.25,7001:350:3,0.99
+Psettodes,bennettii,6.25,-10.25,7001:360:1,0.87
+Psettodes,bennettii,6.25,-10.75,7001:360:2,0.82
+Psettodes,bennettii,6.25,-11.25,7001:361:1,0.99
+Psettodes,bennettii,6.75,-11.75,7001:361:4,0.84
+Psettodes,bennettii,7.25,-12.75,7001:372:2,1.00
+Psettodes,bennettii,7.75,-12.75,7001:372:4,0.83
+Psettodes,bennettii,7.25,-13.25,7001:373:1,1.00
+Psettodes,bennettii,7.75,-13.25,7001:373:3,1.00
+Psettodes,bennettii,7.75,-13.75,7001:373:4,1.00
+Psettodes,bennettii,8.25,-12.75,7001:382:2,0.84
+Psettodes,bennettii,8.25,-13.25,7001:383:1,1.00
+Psettodes,bennettii,8.25,-13.75,7001:383:2,1.00
+Psettodes,bennettii,8.75,-13.25,7001:383:3,1.00
+Psettodes,bennettii,8.75,-13.75,7001:383:4,1.00
+Psettodes,bennettii,9.25,-13.25,7001:393:1,1.00
+Psettodes,bennettii,9.25,-13.75,7001:393:2,1.00
+Psettodes,bennettii,9.75,-13.25,7001:393:3,1.00
+Psettodes,bennettii,9.75,-13.75,7001:393:4,1.00
+Psettodes,bennettii,9.25,-14.25,7001:394:1,1.00
+Psettodes,bennettii,9.75,-14.25,7001:394:3,1.00
+Psettodes,bennettii,9.75,-14.75,7001:394:4,1.00
+Psettodes,bennettii,9.75,-15.25,7001:495:3,1.00
+Psettodes,bennettii,9.75,-15.75,7001:495:4,1.00
+Psettodes,bennettii,9.75,-16.25,7001:496:3,1.00
+Psettodes,bennettii,10.25,-14.25,7101:104:1,1.00
+Psettodes,bennettii,10.25,-14.75,7101:104:2,1.00
+Psettodes,bennettii,10.75,-14.75,7101:104:4,1.00
+Psettodes,bennettii,10.25,-15.25,7101:205:1,1.00
+Psettodes,bennettii,10.25,-15.75,7101:205:2,1.00
+Psettodes,bennettii,10.75,-15.25,7101:205:3,1.00
+Psettodes,bennettii,10.75,-15.75,7101:205:4,1.00
+Psettodes,bennettii,10.25,-16.25,7101:206:1,1.00
+Psettodes,bennettii,10.25,-16.75,7101:206:2,1.00
+Psettodes,bennettii,10.75,-16.25,7101:206:3,1.00
+Psettodes,bennettii,10.75,-16.75,7101:206:4,1.00
+Psettodes,bennettii,11.25,-15.25,7101:215:1,1.00
+Psettodes,bennettii,11.25,-15.75,7101:215:2,1.00
+Psettodes,bennettii,11.75,-15.25,7101:215:3,1.00
+Psettodes,bennettii,11.75,-15.75,7101:215:4,1.00
+Psettodes,bennettii,11.25,-16.25,7101:216:1,1.00
+Psettodes,bennettii,11.25,-16.75,7101:216:2,1.00
+Psettodes,bennettii,11.75,-16.25,7101:216:3,1.00
+Psettodes,bennettii,11.75,-16.75,7101:216:4,1.00
+Psettodes,bennettii,11.25,-17.25,7101:217:1,1.00
+Psettodes,bennettii,11.75,-17.25,7101:217:3,1.00
+Psettodes,bennettii,12.25,-16.25,7101:226:1,1.00
+Psettodes,bennettii,12.25,-16.75,7101:226:2,1.00
+Psettodes,bennettii,12.75,-16.75,7101:226:4,1.00
+Psettodes,bennettii,12.25,-17.25,7101:227:1,1.00
+Psettodes,bennettii,12.75,-17.25,7101:227:3,1.00
+Psettodes,bennettii,12.75,-17.75,7101:227:4,1.00
+Psettodes,bennettii,13.25,-16.75,7101:236:2,1.00
+Psettodes,bennettii,13.75,-16.75,7101:236:4,1.00
+Psettodes,bennettii,13.25,-17.25,7101:237:1,1.00
+Psettodes,bennettii,13.75,-17.25,7101:237:3,1.00
+Psettodes,bennettii,14.25,-17.25,7101:247:1,1.00
+Psettodes,bennettii,14.75,-17.25,7101:247:3,1.00
+Psettodes,bennettii,15.25,-16.75,7101:456:2,1.00
+Psettodes,bennettii,15.75,-16.75,7101:456:4,1.00
+Psettodes,bennettii,15.25,-17.25,7101:457:1,1.00
+Psettodes,bennettii,16.25,-16.25,7101:466:1,1.00
+Psettodes,bennettii,16.25,-16.75,7101:466:2,1.00
+Psettodes,bennettii,16.75,-16.25,7101:466:3,1.00
+Psettodes,bennettii,16.75,-16.75,7101:466:4,1.00
+Psettodes,bennettii,17.25,-16.25,7101:476:1,1.00
+Psettodes,bennettii,17.25,-16.75,7101:476:2,1.00
+Psettodes,bennettii,17.75,-16.25,7101:476:3,1.00
+Psettodes,bennettii,18.25,-16.25,7101:486:1,1.00
+Psettodes,bennettii,18.75,-16.25,7101:486:3,1.00
+Psettodes,bennettii,19.25,-16.25,7101:496:1,1.00
+Psettodes,bennettii,19.25,-16.75,7101:496:2,1.00
+Psettodes,bennettii,19.75,-16.25,7101:496:3,1.00
+Psettodes,bennettii,19.75,-16.75,7101:496:4,1.00
+Psettodes,bennettii,19.75,-17.25,7101:497:3,1.00
+Psettodes,bennettii,20.25,-16.25,7201:206:1,1.00
+Psettodes,bennettii,20.25,-16.75,7201:206:2,1.00
+Psettodes,bennettii,20.75,-16.25,7201:206:3,1.00
+Psettodes,bennettii,20.25,-17.25,7201:207:1,1.00
+Psettodes,bennettii,21.25,-16.75,7201:216:2,1.00
+Psettodes,bennettii,21.75,-16.75,7201:216:4,0.90
+Psettodes,bennettii,22.25,-16.25,7201:226:1,0.96
+Psettodes,bennettii,22.75,-16.25,7201:226:3,0.80
+Psettodes,bennettii,23.25,-15.75,7201:235:2,0.80
+Psettodes,bennettii,25.25,-15.75,7201:455:2,0.80
+
+
+Occurrence cells used for creating environmental envelope (n = 22)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Psettodes,bennettii,5.75,-10.25,7001:350:3,310,27.8619575500488,18.4112300872803,31.4351978302002,35.6854400634766,10.6359999626875,0,92.2981491088867,27
+Psettodes,bennettii,7.75,-13.75,7001:373:4,175,27.7370643615723,19.8552684783936,33.4453163146973,35.7257041931152,4.76100016385317,0,140.199615478516,133
+Psettodes,bennettii,7.75,-12.75,7001:372:4,13,27.6416473388672,27.9303798675537,31.015567779541,34.334846496582,16.9510003179312,0,204.415573120117,14
+Psettodes,bennettii,7.75,-13.25,7001:373:3,203,27.6761074066162,27.989143371582,32.4322814941406,34.6347465515137,8.8919997215271,0,205.046249389648,96
+Psettodes,bennettii,8.25,-13.25,7001:383:1,135,27.7622890472412,28.0033798217773,31.9137935638428,34.7895545959473,11.4730000495911,0,209.932159423828,23
+Psettodes,bennettii,8.25,-13.75,7001:383:2,38,27.759162902832,23.9802951812744,33.1754913330078,35.4442291259766,5.70800015702844,0,200.551559448242,110
+Psettodes,bennettii,8.75,-13.75,7001:383:4,46,27.7997150421143,25.6172161102295,32.900520324707,35.2483558654785,8.73200036585331,0,210.071731567383,96
+Psettodes,bennettii,9.75,-13.75,7001:393:4,43,27.8308162689209,27.9225234985352,32.2029457092285,34.0322380065918,27.080999687313998,0,204.955017089844,19
+Psettodes,bennettii,10.75,-16.75,7101:206:4,79,26.3175830841064,18.7011318206787,34.6131744384766,35.6629447937012,13.306000269949399,0,132.393051147461,133
+Psettodes,bennettii,11.25,-16.25,7101:216:1,4,27.2431259155273,27.2369709014893,34.0894889831543,35.0003890991211,13.6190000921488,0,203.83317565918,25
+Psettodes,bennettii,11.75,-15.25,7101:215:3,7,27.0343627929688,27.5351734161377,33.1822319030762,34.7468109130859,25.0809993594885,0,202.733062744141,14
+Psettodes,bennettii,13.25,-16.75,7101:236:2,24,25.4470157623291,24.6627807617188,33.8609161376953,35.2645606994629,36.4668294787407,0,206.578414916992,16
+Psettodes,bennettii,13.75,-16.25,7101:236:3,1,25.2263641357422,24.840124130249,33.5681419372559,35.2742805480957,41.8264679610729,0,203.123733520508,1
+Psettodes,bennettii,14.75,-17.75,7101:247:4,1233,24.435827255249,6.17901611328125,35.0445404052734,34.8584594726563,27.6570003479719,0,109.903907775879,81
+Psettodes,bennettii,14.75,-17.25,7101:247:3,66,24.1432361602783,16.5816516876221,34.6518135070801,35.436595916748,39.2081178724766,0,122.901832580566,19
+Psettodes,bennettii,16.25,-16.75,7101:466:2,392,23.2991333007813,16.20534324646,33.3269309997559,35.6491851806641,59.6249997615814,0,70.8256225585938,80
+Psettodes,bennettii,16.75,-17.75,7101:467:4,2639,24.0784282684326,2.87756609916687,35.5466651916504,34.9524955749512,23.47999997437,0,230.449432373047,186
+Psettodes,bennettii,18.75,-16.25,7101:486:3,111,21.6797275543213,22.0158786773682,35.8304176330566,35.9128494262695,98.9129990339279,0,217.373565673828,21
+Psettodes,bennettii,20.25,-17.25,7201:207:1,35,20.6289691925049,20.3523731231689,36.0986862182617,36.0031433105469,111.455000936985,0,208.9423828125,108
+Psettodes,bennettii,20.75,-16.75,7201:206:4,81,21.1320991516113,20.6631393432617,36.1085891723633,36.0793495178223,139.394998550415,0,229.751800537109,20
+Psettodes,bennettii,25.75,-14.75,7201:354:4,98,19.0392456054688,18.866153717041,36.5693664550781,36.6416893005371,27.8750006109476,0,227.565170288086,20
+Psettodes,bennettii,28.25,-14.25,7201:384:1,874,20.7380046844482,20.6121768951416,36.6969375610352,36.6449775695801,0.60299999313429,0,226.862121582031,21

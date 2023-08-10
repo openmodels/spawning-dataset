@@ -1,0 +1,256 @@
+Mapping parameters for Galeus longirostris (Longnose sawtail cat shark)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 61,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,440,448,480,520
+Temperature (°C),1,1.13,1.63,6.24,10.4
+Salinity (psu),1,33.46,33.96,34.96,35.46
+Primary Production,1,181.875,279,459,528
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,24,61,225.5,339.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 214): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Galeus,longirostris,15.25,109.75,1110:459:2,0.12
+Galeus,longirostris,16.25,112.25,1111:362:1,0.14
+Galeus,longirostris,18.75,111.75,1111:381:4,0.18
+Galeus,longirostris,18.75,112.25,1111:382:3,0.18
+Galeus,longirostris,19.25,113.25,1111:393:1,0.18
+Galeus,longirostris,20.75,116.25,1211:206:3,0.07
+Galeus,longirostris,21.25,117.25,1211:217:1,0.16
+Galeus,longirostris,22.25,118.25,1211:228:1,0.04
+Galeus,longirostris,23.75,121.75,1212:131:4,0.03
+Galeus,longirostris,29.25,129.25,1212:499:1,0.16
+Galeus,longirostris,26.25,135.75,1213:465:2,0.11
+Galeus,longirostris,23.25,141.75,1214:131:2,0.18
+Galeus,longirostris,24.25,154.25,1215:144:1,0.09
+Galeus,longirostris,23.75,157.25,1215:237:3,0.04
+Galeus,longirostris,31.25,128.75,1312:218:2,0.19
+Galeus,longirostris,31.25,129.75,1312:219:2,0.16
+Galeus,longirostris,32.25,132.25,1313:122:1,0.17
+Galeus,longirostris,15.25,110.75,1111:350:2,0.38
+Galeus,longirostris,19.25,114.25,1111:394:1,0.28
+Galeus,longirostris,20.25,116.25,1211:206:1,0.32
+Galeus,longirostris,20.25,122.25,1212:102:1,0.28
+Galeus,longirostris,22.25,121.75,1212:121:2,0.36
+Galeus,longirostris,27.25,128.75,1212:478:2,0.33
+Galeus,longirostris,29.75,127.75,1212:497:4,0.29
+Galeus,longirostris,20.25,136.25,1213:206:1,0.28
+Galeus,longirostris,20.75,144.75,1214:104:4,0.22
+Galeus,longirostris,21.75,143.75,1214:113:4,0.21
+Galeus,longirostris,23.75,141.75,1214:131:4,0.23
+Galeus,longirostris,24.25,141.25,1214:141:1,0.28
+Galeus,longirostris,24.25,141.75,1214:141:2,0.21
+Galeus,longirostris,24.75,141.25,1214:141:3,0.37
+Galeus,longirostris,20.25,145.25,1214:205:1,0.23
+Galeus,longirostris,25.25,141.25,1214:351:1,0.38
+Galeus,longirostris,30.75,128.25,1312:208:3,0.27
+Galeus,longirostris,31.25,129.25,1312:219:1,0.28
+Galeus,longirostris,33.25,134.75,1313:134:2,0.22
+Galeus,longirostris,34.25,139.75,1313:249:2,0.29
+Galeus,longirostris,36.75,171.25,1317:361:3,0.30
+Galeus,longirostris,15.75,109.75,1110:459:4,0.44
+Galeus,longirostris,15.25,110.25,1111:350:1,0.44
+Galeus,longirostris,15.75,114.25,1111:354:3,0.40
+Galeus,longirostris,18.75,113.25,1111:383:3,0.57
+Galeus,longirostris,20.25,115.25,1211:205:1,0.47
+Galeus,longirostris,20.75,117.25,1211:207:3,0.49
+Galeus,longirostris,21.75,117.75,1211:217:4,0.47
+Galeus,longirostris,20.25,121.75,1212:101:2,0.57
+Galeus,longirostris,21.25,122.25,1212:112:1,0.51
+Galeus,longirostris,24.25,123.25,1212:143:1,0.55
+Galeus,longirostris,24.75,125.75,1212:245:4,0.49
+Galeus,longirostris,25.25,125.75,1212:455:2,0.54
+Galeus,longirostris,27.25,127.25,1212:477:1,0.42
+Galeus,longirostris,24.75,131.25,1213:141:3,0.58
+Galeus,longirostris,25.75,141.25,1214:351:3,0.43
+Galeus,longirostris,26.25,142.25,1214:362:1,0.52
+Galeus,longirostris,30.25,128.25,1312:208:1,0.57
+Galeus,longirostris,30.75,129.75,1312:209:4,0.50
+Galeus,longirostris,33.75,138.75,1313:238:4,0.43
+Galeus,longirostris,33.25,140.25,1314:130:1,0.58
+Galeus,longirostris,33.75,140.25,1314:130:3,0.58
+Galeus,longirostris,34.75,140.75,1314:140:4,0.45
+Galeus,longirostris,26.75,-176.25,7217:466:3,0.46
+Galeus,longirostris,27.25,-176.25,7217:476:1,0.56
+Galeus,longirostris,27.75,-177.75,7217:477:4,0.51
+Galeus,longirostris,16.75,109.75,1110:469:4,0.73
+Galeus,longirostris,16.25,111.25,1111:361:1,0.74
+Galeus,longirostris,16.75,111.75,1111:361:4,0.74
+Galeus,longirostris,19.25,113.75,1111:393:2,0.77
+Galeus,longirostris,19.75,114.25,1111:394:3,0.77
+Galeus,longirostris,22.25,118.75,1211:228:2,0.65
+Galeus,longirostris,20.75,122.25,1212:102:3,0.79
+Galeus,longirostris,24.25,125.25,1212:245:1,0.63
+Galeus,longirostris,25.75,123.75,1212:353:4,0.68
+Galeus,longirostris,26.25,124.75,1212:364:2,0.64
+Galeus,longirostris,27.75,129.25,1212:479:3,0.75
+Galeus,longirostris,27.75,141.75,1214:371:4,0.74
+Galeus,longirostris,28.25,141.75,1214:381:2,0.74
+Galeus,longirostris,27.25,145.25,1214:475:1,0.67
+Galeus,longirostris,29.75,179.25,1217:499:3,0.68
+Galeus,longirostris,30.75,128.75,1312:208:4,0.67
+Galeus,longirostris,30.25,129.75,1312:209:2,0.68
+Galeus,longirostris,32.75,133.75,1313:123:4,0.64
+Galeus,longirostris,33.25,135.75,1313:235:2,0.65
+Galeus,longirostris,33.75,139.25,1313:239:3,0.72
+Galeus,longirostris,31.75,173.25,1317:113:3,0.66
+Galeus,longirostris,34.75,172.25,1317:142:3,0.70
+Galeus,longirostris,28.25,-175.75,7217:485:2,0.70
+Galeus,longirostris,28.75,-176.75,7217:486:4,0.66
+Galeus,longirostris,28.25,-177.75,7217:487:2,0.68
+Galeus,longirostris,28.75,-178.25,7217:488:3,0.68
+Galeus,longirostris,28.75,-179.75,7217:489:4,0.66
+Galeus,longirostris,16.25,109.75,1110:469:2,1.00
+Galeus,longirostris,15.75,110.25,1111:350:3,0.93
+Galeus,longirostris,15.75,110.75,1111:350:4,0.93
+Galeus,longirostris,15.75,111.25,1111:351:3,0.94
+Galeus,longirostris,15.75,111.75,1111:351:4,1.00
+Galeus,longirostris,15.75,112.75,1111:352:4,0.88
+Galeus,longirostris,15.75,113.75,1111:353:4,1.00
+Galeus,longirostris,15.25,114.25,1111:354:1,0.91
+Galeus,longirostris,15.75,114.75,1111:354:4,1.00
+Galeus,longirostris,16.25,110.75,1111:360:2,1.00
+Galeus,longirostris,16.75,110.75,1111:360:4,1.00
+Galeus,longirostris,16.75,111.25,1111:361:3,0.94
+Galeus,longirostris,16.25,112.75,1111:362:2,1.00
+Galeus,longirostris,16.75,112.75,1111:362:4,1.00
+Galeus,longirostris,16.25,113.75,1111:363:2,0.89
+Galeus,longirostris,16.25,114.25,1111:364:1,0.93
+Galeus,longirostris,16.25,114.75,1111:364:2,0.88
+Galeus,longirostris,17.25,110.25,1111:370:1,1.00
+Galeus,longirostris,17.75,110.75,1111:370:4,0.93
+Galeus,longirostris,17.25,111.25,1111:371:1,1.00
+Galeus,longirostris,17.25,111.75,1111:371:2,0.94
+Galeus,longirostris,17.25,112.25,1111:372:1,1.00
+Galeus,longirostris,18.25,111.25,1111:381:1,1.00
+Galeus,longirostris,18.75,112.75,1111:382:4,1.00
+Galeus,longirostris,19.75,114.75,1111:394:4,1.00
+Galeus,longirostris,20.25,115.75,1211:205:2,1.00
+Galeus,longirostris,20.25,116.75,1211:206:2,1.00
+Galeus,longirostris,20.25,117.25,1211:207:1,1.00
+Galeus,longirostris,21.25,117.75,1211:217:2,1.00
+Galeus,longirostris,21.75,118.25,1211:218:3,1.00
+Galeus,longirostris,22.25,119.25,1211:229:1,1.00
+Galeus,longirostris,22.25,119.75,1211:229:2,1.00
+Galeus,longirostris,20.75,121.75,1212:101:4,1.00
+Galeus,longirostris,21.25,120.75,1212:110:2,1.00
+Galeus,longirostris,21.75,120.75,1212:110:4,0.95
+Galeus,longirostris,21.25,121.75,1212:111:2,0.86
+Galeus,longirostris,21.75,121.75,1212:111:4,1.00
+Galeus,longirostris,22.25,121.25,1212:121:1,1.00
+Galeus,longirostris,22.75,121.25,1212:121:3,0.91
+Galeus,longirostris,22.75,121.75,1212:121:4,0.86
+Galeus,longirostris,23.25,121.75,1212:131:2,1.00
+Galeus,longirostris,24.25,122.25,1212:142:1,1.00
+Galeus,longirostris,24.25,122.75,1212:142:2,1.00
+Galeus,longirostris,24.75,122.75,1212:142:4,1.00
+Galeus,longirostris,24.75,123.25,1212:143:3,1.00
+Galeus,longirostris,24.75,123.75,1212:143:4,0.98
+Galeus,longirostris,24.25,124.25,1212:144:1,0.95
+Galeus,longirostris,24.25,124.75,1212:144:2,0.90
+Galeus,longirostris,24.75,124.25,1212:144:3,1.00
+Galeus,longirostris,24.75,126.25,1212:246:3,0.95
+Galeus,longirostris,25.75,124.25,1212:354:3,1.00
+Galeus,longirostris,25.75,124.75,1212:354:4,1.00
+Galeus,longirostris,25.25,125.25,1212:455:1,1.00
+Galeus,longirostris,25.75,125.75,1212:455:4,1.00
+Galeus,longirostris,25.25,126.75,1212:456:2,1.00
+Galeus,longirostris,25.75,126.25,1212:456:3,0.88
+Galeus,longirostris,25.75,126.75,1212:456:4,0.88
+Galeus,longirostris,25.75,127.25,1212:457:3,1.00
+Galeus,longirostris,25.75,127.75,1212:457:4,1.00
+Galeus,longirostris,26.25,125.25,1212:465:1,1.00
+Galeus,longirostris,26.75,125.75,1212:465:4,1.00
+Galeus,longirostris,26.25,126.75,1212:466:2,1.00
+Galeus,longirostris,26.75,126.75,1212:466:4,1.00
+Galeus,longirostris,26.75,127.25,1212:467:3,1.00
+Galeus,longirostris,26.25,128.25,1212:468:1,1.00
+Galeus,longirostris,26.75,128.75,1212:468:4,1.00
+Galeus,longirostris,27.25,126.25,1212:476:1,1.00
+Galeus,longirostris,27.75,126.75,1212:476:4,1.00
+Galeus,longirostris,27.25,127.75,1212:477:2,0.85
+Galeus,longirostris,27.25,129.25,1212:479:1,1.00
+Galeus,longirostris,28.25,127.25,1212:487:1,1.00
+Galeus,longirostris,28.75,127.25,1212:487:3,1.00
+Galeus,longirostris,28.25,128.25,1212:488:1,1.00
+Galeus,longirostris,28.25,128.75,1212:488:2,0.87
+Galeus,longirostris,28.75,128.75,1212:488:4,1.00
+Galeus,longirostris,28.75,129.25,1212:489:3,1.00
+Galeus,longirostris,29.25,127.75,1212:497:2,1.00
+Galeus,longirostris,29.25,128.75,1212:498:2,1.00
+Galeus,longirostris,29.75,128.25,1212:498:3,1.00
+Galeus,longirostris,29.75,128.75,1212:498:4,1.00
+Galeus,longirostris,29.25,129.75,1212:499:2,1.00
+Galeus,longirostris,29.75,129.25,1212:499:3,1.00
+Galeus,longirostris,25.75,131.25,1213:351:3,0.80
+Galeus,longirostris,28.25,130.25,1213:380:1,1.00
+Galeus,longirostris,28.75,130.25,1213:380:3,1.00
+Galeus,longirostris,29.25,130.25,1213:390:1,1.00
+Galeus,longirostris,29.75,130.75,1213:390:4,1.00
+Galeus,longirostris,26.75,142.25,1214:362:3,0.88
+Galeus,longirostris,27.25,140.75,1214:370:2,0.88
+Galeus,longirostris,27.25,142.25,1214:372:1,0.86
+Galeus,longirostris,27.75,142.25,1214:372:3,0.86
+Galeus,longirostris,28.25,142.25,1214:382:1,1.00
+Galeus,longirostris,29.75,140.25,1214:390:3,1.00
+Galeus,longirostris,30.25,129.25,1312:209:1,1.00
+Galeus,longirostris,30.75,129.25,1312:209:3,1.00
+Galeus,longirostris,30.25,131.25,1313:101:1,1.00
+Galeus,longirostris,31.25,131.75,1313:111:2,1.00
+Galeus,longirostris,31.75,132.25,1313:112:3,1.00
+Galeus,longirostris,32.25,132.75,1313:122:2,1.00
+Galeus,longirostris,32.25,133.25,1313:123:1,1.00
+Galeus,longirostris,30.75,138.75,1313:208:4,1.00
+Galeus,longirostris,31.25,139.25,1313:219:1,1.00
+Galeus,longirostris,31.75,139.75,1313:219:4,1.00
+Galeus,longirostris,32.25,139.75,1313:229:2,1.00
+Galeus,longirostris,32.75,139.25,1313:229:3,1.00
+Galeus,longirostris,32.75,139.75,1313:229:4,0.99
+Galeus,longirostris,33.25,139.75,1313:239:2,0.81
+Galeus,longirostris,33.75,139.75,1313:239:4,1.00
+Galeus,longirostris,30.75,140.25,1314:100:3,1.00
+Galeus,longirostris,31.25,140.25,1314:110:1,1.00
+Galeus,longirostris,31.75,140.25,1314:110:3,1.00
+Galeus,longirostris,32.75,140.25,1314:120:3,1.00
+Galeus,longirostris,32.25,172.75,1317:122:2,0.82
+Galeus,longirostris,32.25,173.25,1317:123:1,0.84
+Galeus,longirostris,34.75,171.75,1317:141:4,1.00
+Galeus,longirostris,35.25,171.25,1317:351:1,1.00
+Galeus,longirostris,35.25,171.75,1317:351:2,1.00
+Galeus,longirostris,35.75,171.25,1317:351:3,1.00
+Galeus,longirostris,35.75,171.75,1317:351:4,1.00
+Galeus,longirostris,35.25,172.25,1317:352:1,1.00
+Galeus,longirostris,27.75,-175.75,7217:475:4,0.99
+Galeus,longirostris,28.25,-177.25,7217:487:1,1.00
+Galeus,longirostris,28.25,-178.25,7217:488:1,0.80
+Galeus,longirostris,28.75,-178.75,7217:488:4,0.80
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Galeus,longirostris,25.75,129.25,1212:459:3,6181,25.37,34.72,262,0,199
+Galeus,longirostris,27.25,142.25,1214:372:1,748,24.41,34.77,296,0,24
+Galeus,longirostris,28.75,128.75,1212:488:4,762,24.77,34.47,340,0,98
+Galeus,longirostris,31.25,138.75,1313:218:2,2524,23.02,34.58,309,0,194
+Galeus,longirostris,32.75,139.25,1313:229:3,996,22.66,34.56,390,0,119
+Galeus,longirostris,37.25,143.75,1314:373:2,7119,17.51,34.14,528,0,252

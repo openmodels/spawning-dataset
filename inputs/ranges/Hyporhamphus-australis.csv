@@ -1,0 +1,114 @@
+Mapping parameters for Hyporhamphus australis (Eastern sea garfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 71 |  81,
+Bounding Box (NSWE): ,-28,-37,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,2,11,20
+Temperature (°C),1,17.95,19.09,23.57,24.07
+Salinity (psu),1,35.09,35.59,35.81,36.31
+Primary Production,1,176.5,315,825,1124.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,0,1,116,215
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 55): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Hyporhamphus,australis,-35.25,173.25,3317:353:1,0.03
+Hyporhamphus,australis,-35.25,173.75,3317:353:2,0.03
+Hyporhamphus,australis,-35.75,173.25,3317:353:3,0.02
+Hyporhamphus,australis,-35.75,173.75,3317:353:4,0.02
+Hyporhamphus,australis,-35.25,174.25,3317:354:1,0.15
+Hyporhamphus,australis,-35.25,174.75,3317:354:2,0.15
+Hyporhamphus,australis,-35.75,174.25,3317:354:3,0.13
+Hyporhamphus,australis,-35.75,174.75,3317:354:4,0.15
+Hyporhamphus,australis,-36.75,176.25,3317:466:3,0.10
+Hyporhamphus,australis,-34.25,172.25,3317:142:1,0.32
+Hyporhamphus,australis,-34.25,172.75,3317:142:2,0.32
+Hyporhamphus,australis,-34.75,172.75,3317:142:4,0.32
+Hyporhamphus,australis,-36.75,149.75,3314:469:4,0.44
+Hyporhamphus,australis,-34.25,173.25,3317:143:1,0.45
+Hyporhamphus,australis,-34.75,173.25,3317:143:3,0.45
+Hyporhamphus,australis,-34.75,173.75,3317:143:4,0.45
+Hyporhamphus,australis,-34.75,174.25,3317:144:3,0.54
+Hyporhamphus,australis,-28.75,168.25,3216:488:3,0.73
+Hyporhamphus,australis,-29.25,-177.75,5217:497:2,0.69
+Hyporhamphus,australis,-28.25,153.25,3215:383:1,1.00
+Hyporhamphus,australis,-28.25,153.75,3215:383:2,1.00
+Hyporhamphus,australis,-28.75,153.75,3215:383:4,1.00
+Hyporhamphus,australis,-29.25,153.25,3215:393:1,1.00
+Hyporhamphus,australis,-29.25,153.75,3215:393:2,1.00
+Hyporhamphus,australis,-29.75,153.25,3215:393:3,0.86
+Hyporhamphus,australis,-29.25,159.25,3215:499:1,0.82
+Hyporhamphus,australis,-29.75,159.25,3215:499:3,1.00
+Hyporhamphus,australis,-28.75,167.75,3216:487:4,0.84
+Hyporhamphus,australis,-29.25,167.75,3216:497:2,1.00
+Hyporhamphus,australis,-29.25,168.25,3216:498:1,0.96
+Hyporhamphus,australis,-30.25,153.25,3315:103:1,0.86
+Hyporhamphus,australis,-30.75,153.25,3315:103:3,0.86
+Hyporhamphus,australis,-31.25,152.75,3315:112:2,1.00
+Hyporhamphus,australis,-31.75,152.75,3315:112:4,1.00
+Hyporhamphus,australis,-31.25,153.25,3315:113:1,1.00
+Hyporhamphus,australis,-32.75,151.75,3315:121:4,1.00
+Hyporhamphus,australis,-32.25,152.25,3315:122:1,1.00
+Hyporhamphus,australis,-32.25,152.75,3315:122:2,1.00
+Hyporhamphus,australis,-32.75,152.25,3315:122:3,1.00
+Hyporhamphus,australis,-33.25,151.25,3315:131:1,1.00
+Hyporhamphus,australis,-33.25,151.75,3315:131:2,1.00
+Hyporhamphus,australis,-33.75,151.25,3315:131:3,1.00
+Hyporhamphus,australis,-34.25,150.75,3315:140:2,1.00
+Hyporhamphus,australis,-34.75,150.75,3315:140:4,1.00
+Hyporhamphus,australis,-34.25,151.25,3315:141:1,1.00
+Hyporhamphus,australis,-31.25,159.25,3315:219:1,1.00
+Hyporhamphus,australis,-31.75,159.25,3315:219:3,1.00
+Hyporhamphus,australis,-35.25,150.25,3315:350:1,1.00
+Hyporhamphus,australis,-35.25,150.75,3315:350:2,1.00
+Hyporhamphus,australis,-35.75,150.25,3315:350:3,0.99
+Hyporhamphus,australis,-36.25,150.25,3315:360:1,1.00
+Hyporhamphus,australis,-36.75,150.25,3315:360:3,0.90
+Hyporhamphus,australis,-30.25,-178.25,5317:208:1,0.89
+Hyporhamphus,australis,-30.75,-178.75,5317:208:4,0.88
+Hyporhamphus,australis,-31.25,-178.75,5317:218:2,0.95
+
+
+Occurrence cells used for creating environmental envelope (n = 23)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Hyporhamphus,australis,-36.75,149.75,3314:469:4,9,18.45,35.65,808,0,2
+Hyporhamphus,australis,-36.25,150.25,3315:360:1,300,19.09,35.65,825,0,17
+Hyporhamphus,australis,-35.75,150.25,3315:350:3,56,19.56,35.65,829,0,12
+Hyporhamphus,australis,-35.25,150.75,3315:350:2,184,19.56,35.59,796,0,20
+Hyporhamphus,australis,-34.75,150.75,3315:140:4,25,20.23,35.61,745,0,9
+Hyporhamphus,australis,-34.25,150.75,3315:140:2,11,20.23,35.61,801,0,2
+Hyporhamphus,australis,-33.75,152.25,3315:132:3,2452,21.36,35.61,619,0,116
+Hyporhamphus,australis,-33.75,151.25,3315:131:3,38,21.15,35.61,702,0,12
+Hyporhamphus,australis,-33.25,151.75,3315:131:2,80,21.15,35.61,658,0,21
+Hyporhamphus,australis,-33.25,151.25,3315:131:1,2,21.15,35.61,538,0,1
+Hyporhamphus,australis,-32.75,152.25,3315:122:3,83,21.75,35.61,769,0,20
+Hyporhamphus,australis,-32.75,151.75,3315:121:4,20,21.47,35.61,736,0,5
+Hyporhamphus,australis,-32.25,152.25,3315:122:1,4,21.75,35.65,767,0,1
+Hyporhamphus,australis,-31.75,152.75,3315:112:4,50,22.19,35.68,705,0,13
+Hyporhamphus,australis,-31.75,159.25,3315:219:3,1595,21.35,35.78,339,0,23
+Hyporhamphus,australis,-31.25,159.25,3315:219:1,1913,21.35,35.78,347,0,103
+Hyporhamphus,australis,-30.25,159.25,3315:209:1,2494,21.65,35.79,315,0,215
+Hyporhamphus,australis,-29.75,153.25,3215:393:3,26,23.27,35.52,728,0,10
+Hyporhamphus,australis,-29.25,167.75,3216:497:2,1244,21.2,35.81,334,0,24
+Hyporhamphus,australis,-29.25,153.25,3215:393:1,19,23.27,35.61,740,0,6
+Hyporhamphus,australis,-28.75,167.75,3216:487:4,857,21.65,35.83,297,0,104
+Hyporhamphus,australis,-28.75,153.75,3215:383:4,219,23.57,35.59,532,0,21
+Hyporhamphus,australis,-28.25,153.25,3215:383:1,3,23.57,35.59,593,0,0

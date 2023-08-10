@@ -1,0 +1,262 @@
+Mapping parameters for Hemiramphus robustus (Three-by-two garfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 57 |  71 |  81,
+Bounding Box (NSWE): ,-32,-40,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,2,13,25
+Temperature (°C),1,11.47,16.6,21.26,26.74
+Salinity (psu),1,35,35.5,35.76,36.26
+Primary Production,1,371.875,518.5,677.5,830.875
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,5,7.5,53,85
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 220): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Hemiramphus,robustus,-33.75,124.75,3312:134:4,0.10
+Hemiramphus,robustus,-32.75,127.75,3312:227:4,0.13
+Hemiramphus,robustus,-32.75,128.25,3312:228:3,0.02
+Hemiramphus,robustus,-32.75,128.75,3312:228:4,0.02
+Hemiramphus,robustus,-32.75,129.25,3312:229:3,0.19
+Hemiramphus,robustus,-32.25,130.25,3313:120:1,0.08
+Hemiramphus,robustus,-32.25,130.75,3313:120:2,0.03
+Hemiramphus,robustus,-32.25,131.75,3313:121:2,0.06
+Hemiramphus,robustus,-33.75,133.25,3313:133:3,0.13
+Hemiramphus,robustus,-32.75,137.75,3313:227:4,0.14
+Hemiramphus,robustus,-34.75,137.75,3313:247:4,0.06
+Hemiramphus,robustus,-35.75,139.25,3313:459:3,0.18
+Hemiramphus,robustus,-37.75,139.75,3313:479:4,0.19
+Hemiramphus,robustus,-39.75,143.25,3314:393:3,0.06
+Hemiramphus,robustus,-36.75,149.75,3314:469:4,0.15
+Hemiramphus,robustus,-37.75,145.25,3314:475:3,0.14
+Hemiramphus,robustus,-37.75,148.75,3314:478:4,0.03
+Hemiramphus,robustus,-34.25,150.75,3315:140:2,0.19
+Hemiramphus,robustus,-35.25,150.25,3315:350:1,0.14
+Hemiramphus,robustus,-35.75,150.25,3315:350:3,0.01
+Hemiramphus,robustus,-36.25,150.25,3315:360:1,0.04
+Hemiramphus,robustus,-37.75,176.75,3317:476:4,0.17
+Hemiramphus,robustus,-37.75,178.25,3317:478:3,0.15
+Hemiramphus,robustus,-39.25,178.25,3317:498:1,0.04
+Hemiramphus,robustus,-33.25,114.75,3311:134:2,0.25
+Hemiramphus,robustus,-33.75,120.75,3312:130:4,0.34
+Hemiramphus,robustus,-32.25,126.25,3312:226:1,0.20
+Hemiramphus,robustus,-32.75,126.75,3312:226:4,0.23
+Hemiramphus,robustus,-32.25,127.25,3312:227:1,0.22
+Hemiramphus,robustus,-32.25,127.75,3312:227:2,0.32
+Hemiramphus,robustus,-32.75,127.25,3312:227:3,0.39
+Hemiramphus,robustus,-32.75,132.75,3313:122:4,0.29
+Hemiramphus,robustus,-33.25,133.75,3313:133:2,0.27
+Hemiramphus,robustus,-33.25,134.25,3313:134:1,0.28
+Hemiramphus,robustus,-34.25,137.75,3313:247:2,0.24
+Hemiramphus,robustus,-35.75,139.75,3313:459:4,0.31
+Hemiramphus,robustus,-37.75,140.75,3314:370:4,0.22
+Hemiramphus,robustus,-38.25,140.25,3314:380:1,0.25
+Hemiramphus,robustus,-38.25,144.75,3314:384:2,0.32
+Hemiramphus,robustus,-38.75,144.25,3314:384:3,0.33
+Hemiramphus,robustus,-39.75,144.75,3314:394:4,0.31
+Hemiramphus,robustus,-38.25,145.25,3314:485:1,0.35
+Hemiramphus,robustus,-38.75,145.25,3314:485:3,0.25
+Hemiramphus,robustus,-38.75,145.75,3314:485:4,0.38
+Hemiramphus,robustus,-38.75,147.25,3314:487:3,0.39
+Hemiramphus,robustus,-32.25,152.25,3315:122:1,0.38
+Hemiramphus,robustus,-32.75,152.25,3315:122:3,0.37
+Hemiramphus,robustus,-35.25,150.75,3315:350:2,0.23
+Hemiramphus,robustus,-35.75,174.25,3317:354:3,0.31
+Hemiramphus,robustus,-36.25,174.75,3317:364:2,0.33
+Hemiramphus,robustus,-36.25,175.75,3317:465:2,0.29
+Hemiramphus,robustus,-39.75,177.25,3317:497:3,0.20
+Hemiramphus,robustus,-33.25,123.75,3312:133:2,0.55
+Hemiramphus,robustus,-32.75,125.25,3312:225:3,0.59
+Hemiramphus,robustus,-32.25,128.25,3312:228:1,0.48
+Hemiramphus,robustus,-32.25,133.75,3313:123:2,0.42
+Hemiramphus,robustus,-33.75,134.25,3313:134:3,0.51
+Hemiramphus,robustus,-33.75,135.25,3313:235:3,0.59
+Hemiramphus,robustus,-33.75,136.25,3313:236:3,0.50
+Hemiramphus,robustus,-34.75,135.75,3313:245:4,0.57
+Hemiramphus,robustus,-35.25,138.75,3313:458:2,0.42
+Hemiramphus,robustus,-36.25,137.25,3313:467:1,0.40
+Hemiramphus,robustus,-37.25,139.75,3313:479:2,0.58
+Hemiramphus,robustus,-37.25,140.25,3314:370:1,0.55
+Hemiramphus,robustus,-37.75,140.25,3314:370:3,0.47
+Hemiramphus,robustus,-38.75,141.75,3314:381:4,0.53
+Hemiramphus,robustus,-38.25,142.25,3314:382:1,0.56
+Hemiramphus,robustus,-38.25,142.75,3314:382:2,0.56
+Hemiramphus,robustus,-38.75,142.25,3314:382:3,0.56
+Hemiramphus,robustus,-38.75,142.75,3314:382:4,0.56
+Hemiramphus,robustus,-38.75,143.25,3314:383:3,0.55
+Hemiramphus,robustus,-38.75,143.75,3314:383:4,0.44
+Hemiramphus,robustus,-38.25,144.25,3314:384:1,0.45
+Hemiramphus,robustus,-39.25,144.25,3314:394:1,0.58
+Hemiramphus,robustus,-39.75,144.25,3314:394:3,0.44
+Hemiramphus,robustus,-38.25,145.75,3314:485:2,0.51
+Hemiramphus,robustus,-38.75,147.75,3314:487:4,0.55
+Hemiramphus,robustus,-39.25,147.25,3314:497:1,0.56
+Hemiramphus,robustus,-32.75,151.75,3315:121:4,0.59
+Hemiramphus,robustus,-32.25,152.75,3315:122:2,0.50
+Hemiramphus,robustus,-34.75,150.75,3315:140:4,0.56
+Hemiramphus,robustus,-39.75,174.25,3317:394:3,0.41
+Hemiramphus,robustus,-35.75,175.25,3317:455:3,0.42
+Hemiramphus,robustus,-36.75,175.75,3317:465:4,0.59
+Hemiramphus,robustus,-37.25,175.25,3317:475:1,0.40
+Hemiramphus,robustus,-37.75,175.75,3317:475:4,0.42
+Hemiramphus,robustus,-37.75,177.75,3317:477:4,0.42
+Hemiramphus,robustus,-34.25,114.75,3311:144:2,0.75
+Hemiramphus,robustus,-33.75,115.25,3311:235:3,0.63
+Hemiramphus,robustus,-32.75,124.25,3312:124:3,0.64
+Hemiramphus,robustus,-32.75,124.75,3312:124:4,0.64
+Hemiramphus,robustus,-33.25,124.25,3312:134:1,0.70
+Hemiramphus,robustus,-34.25,122.25,3312:142:1,0.76
+Hemiramphus,robustus,-34.25,123.75,3312:143:2,0.68
+Hemiramphus,robustus,-32.75,126.25,3312:226:3,0.69
+Hemiramphus,robustus,-34.75,133.75,3313:143:4,0.79
+Hemiramphus,robustus,-34.75,136.75,3313:246:4,0.76
+Hemiramphus,robustus,-35.25,134.75,3313:354:2,0.62
+Hemiramphus,robustus,-36.75,139.75,3313:469:4,0.70
+Hemiramphus,robustus,-37.25,137.75,3313:477:2,0.76
+Hemiramphus,robustus,-37.25,138.75,3313:478:2,0.70
+Hemiramphus,robustus,-37.75,144.75,3314:374:4,0.68
+Hemiramphus,robustus,-38.25,140.75,3314:380:2,0.74
+Hemiramphus,robustus,-38.25,141.25,3314:381:1,0.71
+Hemiramphus,robustus,-38.25,141.75,3314:381:2,0.72
+Hemiramphus,robustus,-38.75,146.25,3314:486:3,0.65
+Hemiramphus,robustus,-38.75,146.75,3314:486:4,0.63
+Hemiramphus,robustus,-39.25,146.25,3314:496:1,0.71
+Hemiramphus,robustus,-39.25,146.75,3314:496:2,0.71
+Hemiramphus,robustus,-39.75,147.25,3314:497:3,0.75
+Hemiramphus,robustus,-39.75,147.75,3314:497:4,0.75
+Hemiramphus,robustus,-39.75,148.75,3314:498:4,0.61
+Hemiramphus,robustus,-34.25,151.25,3315:141:1,0.63
+Hemiramphus,robustus,-34.25,172.75,3317:142:2,0.75
+Hemiramphus,robustus,-34.75,172.75,3317:142:4,0.68
+Hemiramphus,robustus,-35.25,173.75,3317:353:2,0.70
+Hemiramphus,robustus,-36.25,173.75,3317:363:2,0.74
+Hemiramphus,robustus,-36.25,174.25,3317:364:1,0.69
+Hemiramphus,robustus,-37.75,174.75,3317:374:4,0.76
+Hemiramphus,robustus,-37.25,177.25,3317:477:1,0.69
+Hemiramphus,robustus,-33.75,114.75,3311:134:4,1.00
+Hemiramphus,robustus,-32.25,115.25,3311:225:1,1.00
+Hemiramphus,robustus,-32.25,115.75,3311:225:2,1.00
+Hemiramphus,robustus,-32.75,115.25,3311:225:3,1.00
+Hemiramphus,robustus,-32.75,115.75,3311:225:4,0.83
+Hemiramphus,robustus,-33.25,115.25,3311:235:1,1.00
+Hemiramphus,robustus,-33.75,119.75,3311:239:4,0.98
+Hemiramphus,robustus,-34.25,115.25,3311:245:1,1.00
+Hemiramphus,robustus,-34.25,115.75,3311:245:2,0.90
+Hemiramphus,robustus,-34.75,115.25,3311:245:3,1.00
+Hemiramphus,robustus,-34.75,115.75,3311:245:4,1.00
+Hemiramphus,robustus,-34.75,116.25,3311:246:3,1.00
+Hemiramphus,robustus,-34.75,116.75,3311:246:4,1.00
+Hemiramphus,robustus,-34.75,117.25,3311:247:3,1.00
+Hemiramphus,robustus,-34.75,117.75,3311:247:4,1.00
+Hemiramphus,robustus,-34.25,118.75,3311:248:2,0.98
+Hemiramphus,robustus,-34.75,118.25,3311:248:3,1.00
+Hemiramphus,robustus,-34.75,118.75,3311:248:4,1.00
+Hemiramphus,robustus,-34.25,119.25,3311:249:1,0.90
+Hemiramphus,robustus,-34.25,119.75,3311:249:2,0.98
+Hemiramphus,robustus,-34.75,119.25,3311:249:3,1.00
+Hemiramphus,robustus,-34.75,119.75,3311:249:4,0.98
+Hemiramphus,robustus,-35.25,115.75,3311:455:2,1.00
+Hemiramphus,robustus,-35.25,116.25,3311:456:1,1.00
+Hemiramphus,robustus,-35.25,116.75,3311:456:2,1.00
+Hemiramphus,robustus,-35.25,117.25,3311:457:1,1.00
+Hemiramphus,robustus,-35.25,117.75,3311:457:2,1.00
+Hemiramphus,robustus,-35.25,118.25,3311:458:1,1.00
+Hemiramphus,robustus,-35.25,118.75,3311:458:2,1.00
+Hemiramphus,robustus,-33.75,120.25,3312:130:3,0.98
+Hemiramphus,robustus,-33.75,121.75,3312:131:4,0.94
+Hemiramphus,robustus,-33.75,122.75,3312:132:4,0.94
+Hemiramphus,robustus,-33.75,123.25,3312:133:3,0.94
+Hemiramphus,robustus,-34.25,121.75,3312:141:2,0.94
+Hemiramphus,robustus,-34.25,122.75,3312:142:2,0.94
+Hemiramphus,robustus,-34.75,122.25,3312:142:3,0.86
+Hemiramphus,robustus,-34.75,122.75,3312:142:4,0.94
+Hemiramphus,robustus,-34.25,123.25,3312:143:1,0.94
+Hemiramphus,robustus,-34.75,123.25,3312:143:3,0.94
+Hemiramphus,robustus,-34.25,124.25,3312:144:1,1.00
+Hemiramphus,robustus,-34.25,124.75,3312:144:2,1.00
+Hemiramphus,robustus,-32.75,125.75,3312:225:4,0.84
+Hemiramphus,robustus,-32.25,126.75,3312:226:2,0.90
+Hemiramphus,robustus,-33.75,125.25,3312:235:3,0.84
+Hemiramphus,robustus,-33.75,125.75,3312:235:4,0.84
+Hemiramphus,robustus,-33.25,126.25,3312:236:1,0.90
+Hemiramphus,robustus,-33.25,126.75,3312:236:2,0.90
+Hemiramphus,robustus,-33.25,127.25,3312:237:1,0.90
+Hemiramphus,robustus,-33.25,127.75,3312:237:2,0.90
+Hemiramphus,robustus,-33.25,128.75,3312:238:2,0.84
+Hemiramphus,robustus,-33.25,129.25,3312:239:1,0.82
+Hemiramphus,robustus,-32.25,134.25,3313:124:1,0.80
+Hemiramphus,robustus,-32.75,134.25,3313:124:3,0.80
+Hemiramphus,robustus,-33.25,134.75,3313:134:2,0.80
+Hemiramphus,robustus,-34.75,134.75,3313:144:4,0.98
+Hemiramphus,robustus,-33.25,137.25,3313:237:1,1.00
+Hemiramphus,robustus,-33.25,137.75,3313:237:2,1.00
+Hemiramphus,robustus,-33.75,137.75,3313:237:4,0.97
+Hemiramphus,robustus,-33.25,138.25,3313:238:1,1.00
+Hemiramphus,robustus,-34.25,135.25,3313:245:1,0.98
+Hemiramphus,robustus,-34.25,135.75,3313:245:2,1.00
+Hemiramphus,robustus,-34.75,135.25,3313:245:3,0.98
+Hemiramphus,robustus,-34.25,138.25,3313:248:1,1.00
+Hemiramphus,robustus,-34.75,138.75,3313:248:4,1.00
+Hemiramphus,robustus,-35.25,136.25,3313:456:1,1.00
+Hemiramphus,robustus,-35.25,136.75,3313:456:2,0.84
+Hemiramphus,robustus,-35.75,136.75,3313:456:4,1.00
+Hemiramphus,robustus,-35.75,138.25,3313:458:3,1.00
+Hemiramphus,robustus,-35.75,138.75,3313:458:4,1.00
+Hemiramphus,robustus,-36.25,136.75,3313:466:2,0.92
+Hemiramphus,robustus,-36.75,137.25,3313:467:3,0.87
+Hemiramphus,robustus,-36.25,138.75,3313:468:2,0.94
+Hemiramphus,robustus,-36.25,139.75,3313:469:2,0.80
+Hemiramphus,robustus,-37.25,138.25,3313:478:1,0.84
+Hemiramphus,robustus,-37.75,147.75,3314:477:4,0.94
+Hemiramphus,robustus,-37.75,148.25,3314:478:3,1.00
+Hemiramphus,robustus,-38.25,147.25,3314:487:1,0.85
+Hemiramphus,robustus,-38.25,147.75,3314:487:2,0.85
+Hemiramphus,robustus,-33.25,151.25,3315:131:1,1.00
+Hemiramphus,robustus,-33.25,151.75,3315:131:2,1.00
+Hemiramphus,robustus,-33.75,151.25,3315:131:3,0.84
+Hemiramphus,robustus,-34.25,172.25,3317:142:1,1.00
+Hemiramphus,robustus,-34.25,173.25,3317:143:1,1.00
+Hemiramphus,robustus,-34.75,173.25,3317:143:3,0.85
+Hemiramphus,robustus,-34.75,173.75,3317:143:4,1.00
+Hemiramphus,robustus,-34.75,174.25,3317:144:3,1.00
+Hemiramphus,robustus,-35.25,173.25,3317:353:1,1.00
+Hemiramphus,robustus,-35.75,173.25,3317:353:3,0.82
+Hemiramphus,robustus,-35.75,173.75,3317:353:4,1.00
+Hemiramphus,robustus,-35.25,174.25,3317:354:1,1.00
+Hemiramphus,robustus,-35.25,174.75,3317:354:2,1.00
+Hemiramphus,robustus,-35.75,174.75,3317:354:4,1.00
+Hemiramphus,robustus,-36.75,174.25,3317:364:3,0.85
+Hemiramphus,robustus,-36.75,174.75,3317:364:4,1.00
+Hemiramphus,robustus,-37.25,174.75,3317:374:2,1.00
+Hemiramphus,robustus,-38.75,174.25,3317:384:3,0.84
+Hemiramphus,robustus,-36.25,175.25,3317:465:1,1.00
+Hemiramphus,robustus,-37.25,175.75,3317:475:2,1.00
+Hemiramphus,robustus,-37.75,176.25,3317:476:3,0.93
+Hemiramphus,robustus,-39.25,177.25,3317:497:1,0.86
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Hemiramphus,robustus,-37.75,148.25,3314:478:3,31,16.93,35.5,659,0,10
+Hemiramphus,robustus,-37.75,147.75,3314:477:4,9,16.27,35.5,531,0,5
+Hemiramphus,robustus,-33.25,152.25,3315:132:1,632,21.36,35.61,696,0,85
+Hemiramphus,robustus,-33.25,151.75,3315:131:2,80,21.15,35.61,658,0,21
+Hemiramphus,robustus,-33.25,124.25,3312:134:1,39,17.99,35.88,506,0,20
+Hemiramphus,robustus,-32.25,115.75,3311:225:2,14,20.6,35.65,583,0,14

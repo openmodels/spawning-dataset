@@ -1,0 +1,161 @@
+Mapping parameters for Acipenser gueldenstaedtii (Danube sturgeon)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 27 |  37,
+Bounding Box (NSWE): ,61,35,26,54
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,2,10,25,100
+Temperature (°C),1,13.4,15,18.58,22.59
+Salinity (psu),1,10.57,15.24,23.67,39.21
+Primary Production (mgC·m-3·day-1) ,1,3.83,5.18,86.53,88.3
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,164.87,179.91,309.97,351.77
+Distance to Land (km),0,4.5,11,17.2,24.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 116): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Acipenser,gueldenstaedtii,38.25,26.75,1302:486:2,0.01
+Acipenser,gueldenstaedtii,38.75,26.75,1302:486:4,0.03
+Acipenser,gueldenstaedtii,38.25,27.25,1302:487:1,0.06
+Acipenser,gueldenstaedtii,38.75,27.25,1302:487:3,0.17
+Acipenser,gueldenstaedtii,39.25,26.25,1302:496:1,0.10
+Acipenser,gueldenstaedtii,36.25,36.25,1303:466:1,0.01
+Acipenser,gueldenstaedtii,36.75,36.25,1303:466:3,0.02
+Acipenser,gueldenstaedtii,40.75,38.25,1403:208:3,0.13
+Acipenser,gueldenstaedtii,40.75,38.75,1403:208:4,0.14
+Acipenser,gueldenstaedtii,44.75,36.75,1403:246:4,0.07
+Acipenser,gueldenstaedtii,45.75,35.75,1403:455:4,0.06
+Acipenser,gueldenstaedtii,46.25,35.75,1403:465:2,0.04
+Acipenser,gueldenstaedtii,47.25,37.25,1403:477:1,0.05
+Acipenser,gueldenstaedtii,47.25,37.75,1403:477:2,0.18
+Acipenser,gueldenstaedtii,41.25,41.25,1404:111:1,0.04
+Acipenser,gueldenstaedtii,42.25,41.25,1404:121:1,0.01
+Acipenser,gueldenstaedtii,39.25,26.75,1302:496:2,0.24
+Acipenser,gueldenstaedtii,41.25,27.75,1402:217:2,0.25
+Acipenser,gueldenstaedtii,41.75,34.75,1403:114:4,0.39
+Acipenser,gueldenstaedtii,45.75,34.75,1403:354:4,0.39
+Acipenser,gueldenstaedtii,46.75,30.75,1403:360:4,0.37
+Acipenser,gueldenstaedtii,46.75,31.25,1403:361:3,0.37
+Acipenser,gueldenstaedtii,46.75,31.75,1403:361:4,0.37
+Acipenser,gueldenstaedtii,46.75,32.25,1403:362:3,0.38
+Acipenser,gueldenstaedtii,45.75,36.25,1403:456:3,0.30
+Acipenser,gueldenstaedtii,46.25,36.25,1403:466:1,0.29
+Acipenser,gueldenstaedtii,46.75,36.25,1403:466:3,0.22
+Acipenser,gueldenstaedtii,46.75,36.75,1403:466:4,0.36
+Acipenser,gueldenstaedtii,46.75,37.25,1403:467:3,0.35
+Acipenser,gueldenstaedtii,46.75,37.75,1403:467:4,0.34
+Acipenser,gueldenstaedtii,46.75,38.25,1403:468:3,0.34
+Acipenser,gueldenstaedtii,47.25,38.25,1403:478:1,0.21
+Acipenser,gueldenstaedtii,47.25,38.75,1403:478:2,0.30
+Acipenser,gueldenstaedtii,47.25,39.25,1403:479:1,0.39
+Acipenser,gueldenstaedtii,40.75,40.25,1404:100:3,0.30
+Acipenser,gueldenstaedtii,41.25,40.75,1404:110:2,0.22
+Acipenser,gueldenstaedtii,39.75,26.25,1302:496:3,0.47
+Acipenser,gueldenstaedtii,39.75,26.75,1302:496:4,0.49
+Acipenser,gueldenstaedtii,43.75,29.25,1402:239:3,0.52
+Acipenser,gueldenstaedtii,44.25,29.25,1402:249:1,0.56
+Acipenser,gueldenstaedtii,44.25,30.25,1403:140:1,0.46
+Acipenser,gueldenstaedtii,46.25,30.25,1403:360:1,0.52
+Acipenser,gueldenstaedtii,46.25,30.75,1403:360:2,0.51
+Acipenser,gueldenstaedtii,46.25,31.25,1403:361:1,0.50
+Acipenser,gueldenstaedtii,46.25,31.75,1403:361:2,0.49
+Acipenser,gueldenstaedtii,46.25,32.25,1403:362:1,0.52
+Acipenser,gueldenstaedtii,46.25,32.75,1403:362:2,0.54
+Acipenser,gueldenstaedtii,46.25,33.25,1403:363:1,0.57
+Acipenser,gueldenstaedtii,46.25,33.75,1403:363:2,0.59
+Acipenser,gueldenstaedtii,46.25,34.75,1403:364:2,0.44
+Acipenser,gueldenstaedtii,46.25,35.25,1403:465:1,0.51
+Acipenser,gueldenstaedtii,46.75,35.75,1403:465:4,0.40
+Acipenser,gueldenstaedtii,46.25,36.75,1403:466:2,0.54
+Acipenser,gueldenstaedtii,46.25,37.25,1403:467:1,0.56
+Acipenser,gueldenstaedtii,46.75,38.75,1403:468:4,0.46
+Acipenser,gueldenstaedtii,40.25,26.25,1402:206:1,0.70
+Acipenser,gueldenstaedtii,40.25,26.75,1402:206:2,0.71
+Acipenser,gueldenstaedtii,40.75,26.25,1402:206:3,0.76
+Acipenser,gueldenstaedtii,40.25,27.25,1402:207:1,0.74
+Acipenser,gueldenstaedtii,40.75,27.25,1402:207:3,0.60
+Acipenser,gueldenstaedtii,43.25,28.75,1402:238:2,0.64
+Acipenser,gueldenstaedtii,44.75,28.75,1402:248:4,0.71
+Acipenser,gueldenstaedtii,44.25,29.75,1402:249:2,0.71
+Acipenser,gueldenstaedtii,44.75,30.25,1403:140:3,0.75
+Acipenser,gueldenstaedtii,44.75,30.75,1403:140:4,0.68
+Acipenser,gueldenstaedtii,45.75,32.75,1403:352:4,0.77
+Acipenser,gueldenstaedtii,45.25,36.25,1403:456:1,0.76
+Acipenser,gueldenstaedtii,45.25,37.75,1403:457:2,0.62
+Acipenser,gueldenstaedtii,46.25,37.75,1403:467:2,0.60
+Acipenser,gueldenstaedtii,46.25,38.25,1403:468:1,0.66
+Acipenser,gueldenstaedtii,46.25,38.75,1403:468:2,0.68
+Acipenser,gueldenstaedtii,40.75,26.75,1402:206:4,0.83
+Acipenser,gueldenstaedtii,40.25,27.75,1402:207:2,0.80
+Acipenser,gueldenstaedtii,40.75,27.75,1402:207:4,0.99
+Acipenser,gueldenstaedtii,40.25,28.25,1402:208:1,0.86
+Acipenser,gueldenstaedtii,40.25,28.75,1402:208:2,0.92
+Acipenser,gueldenstaedtii,40.75,28.25,1402:208:3,1.00
+Acipenser,gueldenstaedtii,40.75,28.75,1402:208:4,1.00
+Acipenser,gueldenstaedtii,40.25,29.25,1402:209:1,0.98
+Acipenser,gueldenstaedtii,40.75,29.25,1402:209:3,1.00
+Acipenser,gueldenstaedtii,40.75,29.75,1402:209:4,1.00
+Acipenser,gueldenstaedtii,41.25,29.75,1402:219:2,0.83
+Acipenser,gueldenstaedtii,43.25,27.75,1402:237:2,1.00
+Acipenser,gueldenstaedtii,43.25,28.25,1402:238:1,1.00
+Acipenser,gueldenstaedtii,43.75,28.75,1402:238:4,1.00
+Acipenser,gueldenstaedtii,44.25,28.75,1402:248:2,1.00
+Acipenser,gueldenstaedtii,44.75,29.75,1402:249:4,1.00
+Acipenser,gueldenstaedtii,45.75,29.75,1402:459:4,0.88
+Acipenser,gueldenstaedtii,41.25,30.25,1403:110:1,1.00
+Acipenser,gueldenstaedtii,41.25,30.75,1403:110:2,1.00
+Acipenser,gueldenstaedtii,41.75,35.25,1403:215:3,1.00
+Acipenser,gueldenstaedtii,41.75,35.75,1403:215:4,1.00
+Acipenser,gueldenstaedtii,41.25,36.25,1403:216:1,0.90
+Acipenser,gueldenstaedtii,44.75,37.25,1403:247:3,1.00
+Acipenser,gueldenstaedtii,44.75,37.75,1403:247:4,1.00
+Acipenser,gueldenstaedtii,44.75,38.25,1403:248:3,1.00
+Acipenser,gueldenstaedtii,44.25,39.25,1403:249:1,0.86
+Acipenser,gueldenstaedtii,45.25,30.25,1403:350:1,1.00
+Acipenser,gueldenstaedtii,45.25,30.75,1403:350:2,0.99
+Acipenser,gueldenstaedtii,45.75,30.25,1403:350:3,0.86
+Acipenser,gueldenstaedtii,45.75,30.75,1403:350:4,0.90
+Acipenser,gueldenstaedtii,45.75,31.25,1403:351:3,0.94
+Acipenser,gueldenstaedtii,45.75,31.75,1403:351:4,0.92
+Acipenser,gueldenstaedtii,45.75,32.25,1403:352:3,0.86
+Acipenser,gueldenstaedtii,45.75,33.25,1403:353:3,0.87
+Acipenser,gueldenstaedtii,45.75,33.75,1403:353:4,0.91
+Acipenser,gueldenstaedtii,45.25,36.75,1403:456:2,1.00
+Acipenser,gueldenstaedtii,45.75,36.75,1403:456:4,0.80
+Acipenser,gueldenstaedtii,45.25,37.25,1403:457:1,1.00
+Acipenser,gueldenstaedtii,45.75,37.25,1403:457:3,0.82
+Acipenser,gueldenstaedtii,45.75,37.75,1403:457:4,1.00
+Acipenser,gueldenstaedtii,41.75,41.75,1404:111:4,1.00
+Acipenser,gueldenstaedtii,42.25,41.75,1404:121:2,1.00
+Acipenser,gueldenstaedtii,42.75,41.25,1404:121:3,1.00
+Acipenser,gueldenstaedtii,42.75,41.75,1404:121:4,1.00
+Acipenser,gueldenstaedtii,43.25,40.75,1404:130:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 9)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Acipenser,gueldenstaedtii,36.75,30.75,1303:360:4,587,22.5851860046387,14.2728004455566,39.209056854248,38.7436561584473,8.60199984163046,0,183.671508789063,15
+Acipenser,gueldenstaedtii,41.25,28.75,1402:218:2,49,16.372371673584,11.0963220596313,19.7894058227539,20.7417755126953,3.82831180468202,0,164.872451782227,7
+Acipenser,gueldenstaedtii,42.75,41.25,1404:121:3,493,17.5793571472168,8.94841957092285,18.9071712493896,19.4175701141357,8.47399979829788,0,258.210540771484,15
+Acipenser,gueldenstaedtii,43.25,28.25,1402:238:1,67,15.7214326858521,12.3301811218262,17.6626129150391,18.3189640045166,5.51899988204241,0,295.634735107422,17
+Acipenser,gueldenstaedtii,44.25,28.75,1402:248:2,55,15.4027948379517,12.0970401763916,15.5730619430542,18.2214393615723,35.49699857831,0,292.925018310547,13
+Acipenser,gueldenstaedtii,44.75,29.75,1402:249:4,41,15.5624914169312,9.96930885314941,15.3121843338013,18.4490051269531,86.0830023884773,0,281.626678466797,18
+Acipenser,gueldenstaedtii,45.25,29.75,1402:459:2,21,15.1837377548218,14.4657306671143,14.9722604751587,17.3413257598877,88.3010029792786,0,329.065856933594,12
+Acipenser,gueldenstaedtii,45.75,32.75,1403:352:4,29,14.6367721557617,12.5690040588379,16.3319606781006,17.8943996429443,9.45299956947565,0,305.197662353516,17
+Acipenser,gueldenstaedtii,45.75,37.75,1403:457:4,22,15.0924415588379,14.7540235519409,17.867130279541,18.0907363891602,16.212023794651,0,283.230560302734,12

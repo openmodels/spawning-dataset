@@ -1,0 +1,165 @@
+Mapping parameters for Cilus gilberti (Corvina drum)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,-6,-37,-80,-70
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,22,96,200
+Temperature (°C),1,7.71,13.81,18.92,24.56
+Salinity (psu),1,32.46,33.93,34.98,36.46
+Primary Production (mgC·m-3·day-1) ,1,6.8,15.11,85.77,131.43
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,7.27,29.38,167.89,244.94
+Distance to Land (km),0,2,4,219,292
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 118): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Cilus,gilberti,-16.25,-72.75,5107:362:2,0.14
+Cilus,gilberti,-36.75,-73.25,5307:363:3,0.10
+Cilus,gilberti,-31.75,-71.25,5307:111:3,0.29
+Cilus,gilberti,-35.75,-73.25,5307:353:3,0.23
+Cilus,gilberti,-12.25,-77.75,5107:227:2,0.41
+Cilus,gilberti,-12.75,-77.25,5107:227:3,0.43
+Cilus,gilberti,-17.25,-71.75,5107:371:2,0.42
+Cilus,gilberti,-36.75,-72.75,5307:362:4,0.49
+Cilus,gilberti,-9.25,-79.75,5007:499:2,0.73
+Cilus,gilberti,-9.75,-79.25,5007:499:3,0.64
+Cilus,gilberti,-13.75,-76.75,5107:236:4,0.65
+Cilus,gilberti,-15.75,-73.75,5107:353:4,0.60
+Cilus,gilberti,-16.75,-72.25,5107:362:3,0.60
+Cilus,gilberti,-16.25,-74.25,5107:364:1,0.73
+Cilus,gilberti,-17.25,-72.25,5107:372:1,0.78
+Cilus,gilberti,-24.75,-70.25,5207:140:3,0.79
+Cilus,gilberti,-25.25,-70.25,5207:350:1,0.70
+Cilus,gilberti,-30.25,-71.25,5307:101:1,0.77
+Cilus,gilberti,-32.25,-71.25,5307:121:1,0.65
+Cilus,gilberti,-32.75,-71.25,5307:121:3,0.73
+Cilus,gilberti,-36.25,-72.75,5307:362:2,0.60
+Cilus,gilberti,-36.25,-73.25,5307:363:1,0.62
+Cilus,gilberti,-36.75,-73.75,5307:363:4,0.66
+Cilus,gilberti,-26.25,-70.75,5207:360:2,1.00
+Cilus,gilberti,-26.75,-70.75,5207:360:4,1.00
+Cilus,gilberti,-27.25,-70.75,5207:370:2,1.00
+Cilus,gilberti,-27.75,-70.75,5207:370:4,0.82
+Cilus,gilberti,-27.75,-71.25,5207:371:3,1.00
+Cilus,gilberti,-6.75,-79.75,5007:469:4,0.86
+Cilus,gilberti,-7.25,-79.75,5007:479:2,1.00
+Cilus,gilberti,-7.75,-79.25,5007:479:3,0.93
+Cilus,gilberti,-7.75,-79.75,5007:479:4,1.00
+Cilus,gilberti,-8.25,-78.75,5007:488:2,0.91
+Cilus,gilberti,-8.75,-78.75,5007:488:4,0.98
+Cilus,gilberti,-8.25,-79.25,5007:489:1,1.00
+Cilus,gilberti,-8.25,-79.75,5007:489:2,0.91
+Cilus,gilberti,-8.75,-79.25,5007:489:3,0.97
+Cilus,gilberti,-8.75,-79.75,5007:489:4,0.82
+Cilus,gilberti,-9.25,-78.25,5007:498:1,0.97
+Cilus,gilberti,-9.25,-78.75,5007:498:2,1.00
+Cilus,gilberti,-9.75,-78.25,5007:498:3,1.00
+Cilus,gilberti,-9.75,-78.75,5007:498:4,0.97
+Cilus,gilberti,-9.25,-79.25,5007:499:1,0.88
+Cilus,gilberti,-10.25,-77.75,5107:207:2,1.00
+Cilus,gilberti,-10.75,-77.75,5107:207:4,1.00
+Cilus,gilberti,-10.25,-78.25,5107:208:1,1.00
+Cilus,gilberti,-10.25,-78.75,5107:208:2,0.86
+Cilus,gilberti,-10.75,-78.25,5107:208:3,0.98
+Cilus,gilberti,-11.25,-77.25,5107:217:1,1.00
+Cilus,gilberti,-11.25,-77.75,5107:217:2,0.99
+Cilus,gilberti,-11.75,-77.25,5107:217:3,0.82
+Cilus,gilberti,-11.75,-77.75,5107:217:4,0.99
+Cilus,gilberti,-12.25,-76.75,5107:226:2,0.99
+Cilus,gilberti,-12.75,-76.25,5107:226:3,1.00
+Cilus,gilberti,-12.75,-76.75,5107:226:4,1.00
+Cilus,gilberti,-12.25,-77.25,5107:227:1,1.00
+Cilus,gilberti,-13.25,-76.25,5107:236:1,1.00
+Cilus,gilberti,-13.25,-76.75,5107:236:2,0.99
+Cilus,gilberti,-13.75,-76.25,5107:236:3,1.00
+Cilus,gilberti,-14.25,-75.75,5107:245:2,1.00
+Cilus,gilberti,-14.75,-75.25,5107:245:3,1.00
+Cilus,gilberti,-14.75,-75.75,5107:245:4,1.00
+Cilus,gilberti,-14.25,-76.25,5107:246:1,1.00
+Cilus,gilberti,-14.75,-76.25,5107:246:3,0.85
+Cilus,gilberti,-15.25,-74.75,5107:354:2,1.00
+Cilus,gilberti,-15.75,-74.25,5107:354:3,1.00
+Cilus,gilberti,-15.75,-74.75,5107:354:4,1.00
+Cilus,gilberti,-16.75,-72.75,5107:362:4,1.00
+Cilus,gilberti,-16.25,-73.25,5107:363:1,0.90
+Cilus,gilberti,-16.25,-73.75,5107:363:2,0.98
+Cilus,gilberti,-16.75,-73.25,5107:363:3,0.96
+Cilus,gilberti,-17.75,-70.75,5107:370:4,0.92
+Cilus,gilberti,-17.25,-71.25,5107:371:1,0.80
+Cilus,gilberti,-17.75,-71.25,5107:371:3,0.92
+Cilus,gilberti,-18.25,-70.25,5107:380:1,0.92
+Cilus,gilberti,-18.25,-70.75,5107:380:2,0.93
+Cilus,gilberti,-18.75,-70.25,5107:380:3,0.95
+Cilus,gilberti,-19.25,-70.25,5107:390:1,0.98
+Cilus,gilberti,-19.75,-70.25,5107:390:3,1.00
+Cilus,gilberti,-15.25,-75.25,5107:455:1,1.00
+Cilus,gilberti,-15.25,-75.75,5107:455:2,0.88
+Cilus,gilberti,-20.25,-70.25,5207:100:1,1.00
+Cilus,gilberti,-20.75,-70.25,5207:100:3,1.00
+Cilus,gilberti,-21.25,-70.25,5207:110:1,1.00
+Cilus,gilberti,-21.75,-70.25,5207:110:3,1.00
+Cilus,gilberti,-22.25,-70.25,5207:120:1,1.00
+Cilus,gilberti,-22.75,-70.25,5207:120:3,1.00
+Cilus,gilberti,-23.25,-70.25,5207:130:1,1.00
+Cilus,gilberti,-23.25,-70.75,5207:130:2,1.00
+Cilus,gilberti,-23.75,-70.25,5207:130:3,1.00
+Cilus,gilberti,-23.75,-70.75,5207:130:4,0.99
+Cilus,gilberti,-24.25,-70.25,5207:140:1,0.90
+Cilus,gilberti,-24.25,-70.75,5207:140:2,1.00
+Cilus,gilberti,-24.75,-70.75,5207:140:4,1.00
+Cilus,gilberti,-25.25,-70.75,5207:350:2,1.00
+Cilus,gilberti,-25.75,-70.75,5207:350:4,1.00
+Cilus,gilberti,-28.25,-71.25,5207:381:1,1.00
+Cilus,gilberti,-28.75,-71.25,5207:381:3,1.00
+Cilus,gilberti,-28.75,-71.75,5207:381:4,1.00
+Cilus,gilberti,-29.25,-71.25,5207:391:1,1.00
+Cilus,gilberti,-29.25,-71.75,5207:391:2,1.00
+Cilus,gilberti,-29.75,-71.25,5207:391:3,0.89
+Cilus,gilberti,-29.75,-71.75,5207:391:4,1.00
+Cilus,gilberti,-30.25,-71.75,5307:101:2,1.00
+Cilus,gilberti,-30.75,-71.75,5307:101:4,1.00
+Cilus,gilberti,-31.25,-71.75,5307:111:2,1.00
+Cilus,gilberti,-31.75,-71.75,5307:111:4,1.00
+Cilus,gilberti,-32.25,-71.75,5307:121:2,1.00
+Cilus,gilberti,-32.75,-71.75,5307:121:4,1.00
+Cilus,gilberti,-33.25,-71.75,5307:131:2,1.00
+Cilus,gilberti,-33.75,-71.75,5307:131:4,1.00
+Cilus,gilberti,-33.75,-72.25,5307:132:3,1.00
+Cilus,gilberti,-34.25,-71.75,5307:141:2,1.00
+Cilus,gilberti,-34.25,-72.25,5307:142:1,1.00
+Cilus,gilberti,-34.75,-72.25,5307:142:3,0.96
+Cilus,gilberti,-35.25,-72.25,5307:352:1,0.93
+Cilus,gilberti,-35.25,-72.75,5307:352:2,0.92
+Cilus,gilberti,-35.75,-72.75,5307:352:4,0.87
+
+
+Occurrence cells used for creating environmental envelope (n = 11)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Cilus,gilberti,-36.75,-73.25,5307:363:3,139,12.7341899871826,11.696400642395,32.6299171447754,34.0956649780273,84.696002304554,0,83.1979827880859,19
+Cilus,gilberti,-36.25,-75.25,5307:465:1,4124,14.4325914382935,1.30343496799469,33.9293785095215,34.6951599121094,9.793000295758251,0,167.888412475586,219
+Cilus,gilberti,-34.25,-71.75,5307:141:2,84,13.8052253723145,11.5328950881958,34.0885620117188,34.4024696350098,56.659746915102,0,69.5007553100586,2
+Cilus,gilberti,-33.25,-71.75,5307:131:2,509,14.0279026031494,12.1824169158936,34.0795745849609,34.2473335266113,55.8260008692741,0,88.5015258789063,17
+Cilus,gilberti,-32.25,-71.75,5307:121:2,1246,14.5788402557373,4.90584897994995,34.301155090332,34.3553504943848,54.2920008301735,0,108.518760681152,23
+Cilus,gilberti,-23.75,-70.25,5207:130:3,135,17.6213150024414,8.84118556976318,33.9579811096191,34.5312309265137,53.5389743745327,0,83.5275726318359,4
+Cilus,gilberti,-16.75,-72.75,5107:362:4,490,18.9245052337646,13.4061994552612,34.8480911254883,34.8495559692383,85.76700091362,0,29.3760986328125,23
+Cilus,gilberti,-13.25,-76.25,5107:236:1,107,18.136510848999,15.2010402679443,34.942512512207,34.968677520752,76.3788819313049,0,79.4307861328125,13
+Cilus,gilberti,-12.25,-77.25,5107:227:1,173,18.2420444488525,13.7115068435669,34.9794998168945,34.9337692260742,65.3809979557991,0,7.27287292480469,26
+Cilus,gilberti,-12.25,-79.75,5107:229:2,4739,20.8563785552979,1.42138600349426,35.1689987182617,34.6941719055176,15.107000246643999,0,139.674530029297,292
+Cilus,gilberti,-11.75,-77.25,5107:217:3,87,18.2189998626709,17.7786464691162,34.9571685791016,35.1131286621094,93.9470008015633,0,181.702758789063,19

@@ -1,0 +1,46 @@
+Mapping parameters for Bathyraja meridionalis (Dark-belly skate)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In Bounding Box
+FAOAreas: 41 |  48,
+Bounding Box (NSWE): ,-53,-56,-180,180
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,100,352,800
+Temperature (°C),1,0.99,1.49,1.96,2.46
+Salinity (psu),1,33.27,33.77,33.79,34.29
+Primary Production (mgC·m-3·day-1) ,1,1.78,2.83,4.96,6.11
+Sea Ice Concentration (0-1 fraction),1,0,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,143.9,209.21,274.73,327.46
+Distance to Land (km),0,12,49.5,200.5,304
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 4): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Bathyraja,meridionalis,-53.25,74.75,3507:134:2,0.11
+Bathyraja,meridionalis,-53.25,77.75,3507:237:2,0.01
+Bathyraja,meridionalis,-53.25,73.75,3507:133:2,0.36
+Bathyraja,meridionalis,-53.25,74.25,3507:134:1,0.35
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Bathyraja,meridionalis,-55.25,-36.25,5503:456:1,1191,1.49113094806671,1.50387597084045,33.7697563171387,34.5911865234375,3.0519999563694,0.0000720000025467016,221.70491027832,87
+Bathyraja,meridionalis,-55.25,-35.75,5503:455:2,364,1.5029970407486,0.83161997795105,33.7692718505859,34.1575622558594,2.83699994906783,0.00007999999797903,278.522491455078,87
+Bathyraja,meridionalis,-54.25,-36.25,5503:246:1,131,1.80281794071198,0.875362992286682,33.7658042907715,34.1337280273438,6.11199997365475,0.0000430000000051223,270.932006835938,12
+Bathyraja,meridionalis,-53.75,-35.75,5503:235:4,1446,1.49719405174255,1.12916696071625,33.7995872497559,34.7139015197754,3.0129998922348,0.0000450000006821938,212.171844482422,97
+Bathyraja,meridionalis,-53.75,-36.25,5503:236:3,765,1.69127905368805,0.914188027381897,33.7848472595215,34.7040405273438,3.80400009453297,0.0000379999983124435,214.419189453125,89
+Bathyraja,meridionalis,-53.25,-42.25,5504:132:1,858,2.11076498031616,1.23079597949982,33.7788162231445,34.7034454345703,2.82899988815188,0.00000799999997980194,206.25715637207,304

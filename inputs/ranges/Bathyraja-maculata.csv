@@ -1,0 +1,252 @@
+Mapping parameters for Bathyraja maculata (White-blotched skate)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 61,
+Bounding Box (NSWE): ,59,51,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,70,214,554,1193
+Temperature (°C),1,2.38,4.23,6.08,7.98
+Salinity (psu),1,32.06,32.56,33.02,33.52
+Primary Production,1,226,483,824,994
+Sea Ice Concentration,1,-1,0,0.00999999977648258,0.02
+Distance to Land (km),0,14,16,371,707
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 184): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Bathyraja,maculata,58.25,169.75,1516:489:2,0.14
+Bathyraja,maculata,58.75,169.75,1516:489:4,0.07
+Bathyraja,maculata,52.75,175.75,1517:225:4,0.13
+Bathyraja,maculata,52.75,179.25,1517:229:3,0.04
+Bathyraja,maculata,54.25,178.75,1517:248:2,0.02
+Bathyraja,maculata,58.25,170.25,1517:380:1,0.05
+Bathyraja,maculata,58.75,171.25,1517:381:3,0.07
+Bathyraja,maculata,55.25,177.75,1517:457:2,0.12
+Bathyraja,maculata,55.25,178.75,1517:458:2,0.12
+Bathyraja,maculata,51.25,-176.25,7517:216:1,0.03
+Bathyraja,maculata,51.25,-177.25,7517:217:1,0.16
+Bathyraja,maculata,52.25,-177.25,7517:227:1,0.10
+Bathyraja,maculata,53.25,-179.25,7517:239:1,0.13
+Bathyraja,maculata,51.25,151.25,1515:111:1,0.23
+Bathyraja,maculata,51.25,151.75,1515:111:2,0.33
+Bathyraja,maculata,53.75,169.25,1516:239:3,0.23
+Bathyraja,maculata,53.75,169.75,1516:239:4,0.31
+Bathyraja,maculata,54.25,169.25,1516:249:1,0.39
+Bathyraja,maculata,54.75,177.25,1517:247:3,0.34
+Bathyraja,maculata,54.75,179.75,1517:249:4,0.24
+Bathyraja,maculata,57.25,170.25,1517:370:1,0.38
+Bathyraja,maculata,57.25,170.75,1517:370:2,0.36
+Bathyraja,maculata,55.25,177.25,1517:457:1,0.30
+Bathyraja,maculata,55.25,178.25,1517:458:1,0.21
+Bathyraja,maculata,53.75,-179.25,7517:239:3,0.31
+Bathyraja,maculata,51.75,151.25,1515:111:3,0.48
+Bathyraja,maculata,51.25,152.25,1515:112:1,0.40
+Bathyraja,maculata,51.75,152.75,1515:112:4,0.55
+Bathyraja,maculata,51.25,153.25,1515:113:1,0.54
+Bathyraja,maculata,53.25,154.75,1515:134:2,0.50
+Bathyraja,maculata,52.75,160.25,1516:120:3,0.52
+Bathyraja,maculata,52.75,160.75,1516:120:4,0.57
+Bathyraja,maculata,53.75,160.75,1516:130:4,0.52
+Bathyraja,maculata,53.25,179.75,1517:239:2,0.49
+Bathyraja,maculata,53.75,179.75,1517:239:4,0.59
+Bathyraja,maculata,54.75,176.75,1517:246:4,0.58
+Bathyraja,maculata,54.75,178.25,1517:248:3,0.55
+Bathyraja,maculata,54.75,178.75,1517:248:4,0.53
+Bathyraja,maculata,54.25,179.25,1517:249:1,0.43
+Bathyraja,maculata,54.25,179.75,1517:249:2,0.44
+Bathyraja,maculata,54.75,179.25,1517:249:3,0.43
+Bathyraja,maculata,57.75,170.25,1517:370:3,0.40
+Bathyraja,maculata,57.75,171.25,1517:371:3,0.58
+Bathyraja,maculata,55.25,176.75,1517:456:2,0.57
+Bathyraja,maculata,52.25,-179.25,7517:229:1,0.59
+Bathyraja,maculata,53.75,-179.75,7517:239:4,0.56
+Bathyraja,maculata,54.25,-179.75,7517:249:2,0.59
+Bathyraja,maculata,51.25,152.75,1515:112:2,0.67
+Bathyraja,maculata,51.75,152.25,1515:112:3,0.63
+Bathyraja,maculata,51.25,154.75,1515:114:2,0.77
+Bathyraja,maculata,52.25,151.75,1515:121:2,0.63
+Bathyraja,maculata,52.75,151.75,1515:121:4,0.67
+Bathyraja,maculata,53.75,154.75,1515:134:4,0.74
+Bathyraja,maculata,54.25,168.75,1516:248:2,0.67
+Bathyraja,maculata,55.75,166.25,1516:456:3,0.72
+Bathyraja,maculata,52.25,172.75,1517:122:2,0.69
+Bathyraja,maculata,54.75,176.25,1517:246:3,0.70
+Bathyraja,maculata,57.75,170.75,1517:370:4,0.65
+Bathyraja,maculata,51.75,151.75,1515:111:4,1.00
+Bathyraja,maculata,51.25,153.75,1515:113:2,1.00
+Bathyraja,maculata,51.75,153.25,1515:113:3,0.84
+Bathyraja,maculata,51.75,153.75,1515:113:4,1.00
+Bathyraja,maculata,51.25,154.25,1515:114:1,1.00
+Bathyraja,maculata,51.75,154.25,1515:114:3,1.00
+Bathyraja,maculata,51.75,154.75,1515:114:4,1.00
+Bathyraja,maculata,52.25,152.25,1515:122:1,0.83
+Bathyraja,maculata,52.25,152.75,1515:122:2,0.95
+Bathyraja,maculata,52.75,152.25,1515:122:3,0.93
+Bathyraja,maculata,52.75,152.75,1515:122:4,1.00
+Bathyraja,maculata,52.25,153.25,1515:123:1,1.00
+Bathyraja,maculata,52.25,153.75,1515:123:2,1.00
+Bathyraja,maculata,52.75,153.25,1515:123:3,1.00
+Bathyraja,maculata,52.75,153.75,1515:123:4,1.00
+Bathyraja,maculata,52.25,154.25,1515:124:1,1.00
+Bathyraja,maculata,52.25,154.75,1515:124:2,1.00
+Bathyraja,maculata,52.75,154.25,1515:124:3,1.00
+Bathyraja,maculata,52.75,154.75,1515:124:4,1.00
+Bathyraja,maculata,53.25,152.75,1515:132:2,1.00
+Bathyraja,maculata,53.25,153.25,1515:133:1,1.00
+Bathyraja,maculata,53.25,153.75,1515:133:2,1.00
+Bathyraja,maculata,53.75,153.25,1515:133:3,1.00
+Bathyraja,maculata,53.75,153.75,1515:133:4,1.00
+Bathyraja,maculata,53.25,154.25,1515:134:1,1.00
+Bathyraja,maculata,53.75,154.25,1515:134:3,1.00
+Bathyraja,maculata,54.25,153.75,1515:143:2,1.00
+Bathyraja,maculata,54.25,154.25,1515:144:1,1.00
+Bathyraja,maculata,51.25,155.25,1515:215:1,0.92
+Bathyraja,maculata,51.25,155.75,1515:215:2,1.00
+Bathyraja,maculata,51.75,155.25,1515:215:3,1.00
+Bathyraja,maculata,51.75,155.75,1515:215:4,1.00
+Bathyraja,maculata,51.25,158.25,1515:218:1,1.00
+Bathyraja,maculata,51.25,158.75,1515:218:2,1.00
+Bathyraja,maculata,51.75,158.75,1515:218:4,1.00
+Bathyraja,maculata,52.25,155.25,1515:225:1,1.00
+Bathyraja,maculata,54.75,166.75,1516:246:4,1.00
+Bathyraja,maculata,54.25,167.25,1516:247:1,0.87
+Bathyraja,maculata,54.25,167.75,1516:247:2,0.96
+Bathyraja,maculata,54.75,167.25,1516:247:3,0.96
+Bathyraja,maculata,54.75,167.75,1516:247:4,0.96
+Bathyraja,maculata,54.25,168.25,1516:248:1,0.92
+Bathyraja,maculata,54.75,168.25,1516:248:3,0.92
+Bathyraja,maculata,55.75,164.75,1516:354:4,1.00
+Bathyraja,maculata,55.25,165.25,1516:455:1,1.00
+Bathyraja,maculata,55.25,165.75,1516:455:2,1.00
+Bathyraja,maculata,55.75,165.25,1516:455:3,1.00
+Bathyraja,maculata,55.75,165.75,1516:455:4,1.00
+Bathyraja,maculata,55.25,166.75,1516:456:2,1.00
+Bathyraja,maculata,55.25,167.25,1516:457:1,1.00
+Bathyraja,maculata,51.75,174.75,1517:114:4,0.88
+Bathyraja,maculata,52.75,170.75,1517:120:4,1.00
+Bathyraja,maculata,52.75,171.25,1517:121:3,1.00
+Bathyraja,maculata,52.75,171.75,1517:121:4,0.91
+Bathyraja,maculata,52.75,172.25,1517:122:3,1.00
+Bathyraja,maculata,52.75,172.75,1517:122:4,1.00
+Bathyraja,maculata,52.25,173.25,1517:123:1,1.00
+Bathyraja,maculata,52.25,173.75,1517:123:2,1.00
+Bathyraja,maculata,52.75,173.75,1517:123:4,1.00
+Bathyraja,maculata,52.25,174.25,1517:124:1,1.00
+Bathyraja,maculata,52.25,174.75,1517:124:2,1.00
+Bathyraja,maculata,52.75,174.25,1517:124:3,1.00
+Bathyraja,maculata,52.75,174.75,1517:124:4,1.00
+Bathyraja,maculata,53.25,170.75,1517:130:2,0.98
+Bathyraja,maculata,53.25,171.25,1517:131:1,1.00
+Bathyraja,maculata,53.25,171.75,1517:131:2,1.00
+Bathyraja,maculata,53.25,172.25,1517:132:1,1.00
+Bathyraja,maculata,53.25,172.75,1517:132:2,1.00
+Bathyraja,maculata,53.25,173.25,1517:133:1,1.00
+Bathyraja,maculata,51.75,175.25,1517:215:3,1.00
+Bathyraja,maculata,51.75,175.75,1517:215:4,1.00
+Bathyraja,maculata,51.75,176.25,1517:216:3,1.00
+Bathyraja,maculata,51.75,176.75,1517:216:4,1.00
+Bathyraja,maculata,51.75,177.25,1517:217:3,1.00
+Bathyraja,maculata,51.75,177.75,1517:217:4,1.00
+Bathyraja,maculata,51.25,178.25,1517:218:1,1.00
+Bathyraja,maculata,51.25,178.75,1517:218:2,1.00
+Bathyraja,maculata,51.75,178.25,1517:218:3,1.00
+Bathyraja,maculata,51.75,178.75,1517:218:4,1.00
+Bathyraja,maculata,51.25,179.25,1517:219:1,1.00
+Bathyraja,maculata,51.25,179.75,1517:219:2,1.00
+Bathyraja,maculata,51.75,179.25,1517:219:3,1.00
+Bathyraja,maculata,51.75,179.75,1517:219:4,1.00
+Bathyraja,maculata,52.25,175.25,1517:225:1,1.00
+Bathyraja,maculata,52.25,175.75,1517:225:2,1.00
+Bathyraja,maculata,52.75,175.25,1517:225:3,1.00
+Bathyraja,maculata,52.25,176.25,1517:226:1,1.00
+Bathyraja,maculata,52.25,176.75,1517:226:2,0.98
+Bathyraja,maculata,52.25,177.25,1517:227:1,1.00
+Bathyraja,maculata,52.25,177.75,1517:227:2,0.89
+Bathyraja,maculata,52.25,178.25,1517:228:1,0.89
+Bathyraja,maculata,52.25,178.75,1517:228:2,0.82
+Bathyraja,maculata,52.25,179.25,1517:229:1,0.83
+Bathyraja,maculata,52.25,179.75,1517:229:2,0.88
+Bathyraja,maculata,52.75,179.75,1517:229:4,0.86
+Bathyraja,maculata,51.75,-175.25,7517:215:3,0.96
+Bathyraja,maculata,51.75,-175.75,7517:215:4,0.96
+Bathyraja,maculata,51.25,-176.75,7517:216:2,1.00
+Bathyraja,maculata,51.75,-176.75,7517:216:4,1.00
+Bathyraja,maculata,51.25,-177.75,7517:217:2,0.86
+Bathyraja,maculata,51.75,-177.25,7517:217:3,1.00
+Bathyraja,maculata,51.75,-177.75,7517:217:4,1.00
+Bathyraja,maculata,51.25,-178.25,7517:218:1,1.00
+Bathyraja,maculata,51.25,-178.75,7517:218:2,1.00
+Bathyraja,maculata,51.75,-178.25,7517:218:3,1.00
+Bathyraja,maculata,51.75,-178.75,7517:218:4,1.00
+Bathyraja,maculata,51.25,-179.25,7517:219:1,1.00
+Bathyraja,maculata,51.25,-179.75,7517:219:2,1.00
+Bathyraja,maculata,51.75,-179.25,7517:219:3,1.00
+Bathyraja,maculata,51.75,-179.75,7517:219:4,1.00
+Bathyraja,maculata,52.25,-175.25,7517:225:1,1.00
+Bathyraja,maculata,52.25,-175.75,7517:225:2,1.00
+Bathyraja,maculata,52.25,-176.25,7517:226:1,1.00
+Bathyraja,maculata,52.25,-176.75,7517:226:2,1.00
+Bathyraja,maculata,52.25,-179.75,7517:229:2,1.00
+Bathyraja,maculata,52.75,-179.25,7517:229:3,1.00
+Bathyraja,maculata,52.75,-179.75,7517:229:4,1.00
+Bathyraja,maculata,53.25,-179.75,7517:239:2,0.81
+Bathyraja,maculata,58.25,-175.25,7517:485:1,1.00
+Bathyraja,maculata,58.25,-175.75,7517:485:2,1.00
+Bathyraja,maculata,58.75,-175.75,7517:485:4,1.00
+Bathyraja,maculata,58.75,-176.25,7517:486:3,1.00
+Bathyraja,maculata,58.75,-176.75,7517:486:4,1.00
+Bathyraja,maculata,58.75,-177.25,7517:487:3,1.00
+Bathyraja,maculata,58.75,-177.75,7517:487:4,1.00
+Bathyraja,maculata,58.75,-178.25,7517:488:3,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 32)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Bathyraja,maculata,51.25,-179.25,7517:219:1,1653,5.88,32.93,632,0.00056667,17
+Bathyraja,maculata,51.25,179.25,1517:219:1,1195,5.8,32.95,548,0.00084417,17
+Bathyraja,maculata,51.75,-179.25,7517:219:3,1168,5.88,32.93,608,0.00059417,69
+Bathyraja,maculata,51.75,-178.25,7517:218:3,770,5.95,32.93,483,0.00402417,16
+Bathyraja,maculata,51.75,-177.75,7517:217:4,434,6.01,32.9,536,0.00314839,14
+Bathyraja,maculata,51.75,-176.25,7517:216:3,313,6.08,32.88,521,0.02,16
+Bathyraja,maculata,51.75,-175.75,7517:215:4,703,6.15,32.86,543,0.00281667,17
+Bathyraja,maculata,51.75,-175.25,7517:215:3,1289,6.15,32.86,564,0.00087333,69
+Bathyraja,maculata,51.75,179.25,1517:219:3,555,5.8,32.95,488,0.00333,17
+Bathyraja,maculata,51.75,178.25,1517:218:3,299,5.77,32.95,501,0.00099833,17
+Bathyraja,maculata,52.25,179.25,1517:229:1,689,5.55,33.02,440,0.00085833,90
+Bathyraja,maculata,52.25,173.75,1517:123:2,870,5.76,32.97,537,0.000845,16
+Bathyraja,maculata,52.25,-179.75,7517:229:2,454,5.62,33.02,567,0.00045583,122
+Bathyraja,maculata,52.25,-179.25,7517:229:1,2590,5.62,33.02,589,0.0004275,99
+Bathyraja,maculata,52.25,-177.75,7517:227:2,3100,5.77,32.99,516,0.0043175,90
+Bathyraja,maculata,52.25,-175.75,7517:225:2,1668,5.88,32.93,521,0.00204,17
+Bathyraja,maculata,52.75,174.75,1517:124:4,2322,5.75,32.97,494,0.00040083,101
+Bathyraja,maculata,52.75,170.75,1517:120:4,3434,5.74,33.01,498,0.0002475,168
+Bathyraja,maculata,52.75,160.25,1516:120:3,1240,5.14,32.66,906,0.00242833,89
+Bathyraja,maculata,52.75,-176.75,7517:226:4,3669,5.84,32.97,539,0.00034417,99
+Bathyraja,maculata,53.25,170.75,1517:130:2,1153,5.56,33.03,514,0.00026167,166
+Bathyraja,maculata,57.75,174.75,1517:374:4,3700,4.21,33.07,363,0.000455,371
+Bathyraja,maculata,58.25,-175.75,7517:485:2,1889,4.23,32.56,769,0.00478833,310
+Bathyraja,maculata,58.25,-175.25,7517:485:1,1057,4.23,32.56,824,0.00316583,293
+Bathyraja,maculata,58.75,-178.75,7517:488:4,3363,4.48,32.86,706,0.00082917,406
+Bathyraja,maculata,58.75,-178.25,7517:488:3,2063,4.48,32.86,737,0.00131667,381
+Bathyraja,maculata,58.75,-177.75,7517:487:4,797,4.48,32.78,614,0.00194167,357
+Bathyraja,maculata,58.75,-177.25,7517:487:3,658,4.48,32.78,585,0.00524667,333
+Bathyraja,maculata,58.75,-176.75,7517:486:4,334,4.41,32.68,663,0.00734417,309
+Bathyraja,maculata,58.75,-176.25,7517:486:3,294,4.41,32.68,744,0.01,287
+Bathyraja,maculata,58.75,-175.75,7517:485:4,182,4.23,32.56,813,0.01,267
+Bathyraja,maculata,58.75,-175.25,7517:485:3,219,4.23,32.56,868,0.02,247

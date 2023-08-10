@@ -1,0 +1,58 @@
+Mapping parameters for Brama australis (Southern rays bream)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,-18,-55,-78,-68
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,15,26,67,120
+Temperature (°C),1,7.86,12.77,18.08,21.12
+Salinity (psu),1,31.63,32.76,34.18,35.18
+Primary Production (mgC·m-3·day-1) ,1,61.33,71.02,82.57,90.21
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,26.38,48.19,85.47,119.56
+Distance to Land (km),0,0.8,1.8,16.2,25.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 19): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Brama,australis,-20.25,-70.25,5207:100:1,0.16
+Brama,australis,-20.75,-70.25,5207:100:3,0.19
+Brama,australis,-35.25,-72.75,5307:352:2,0.14
+Brama,australis,-38.25,-73.25,5307:383:1,0.09
+Brama,australis,-38.75,-73.75,5307:383:4,0.12
+Brama,australis,-18.25,-70.75,5107:380:2,0.21
+Brama,australis,-18.75,-70.25,5107:380:3,0.25
+Brama,australis,-19.25,-70.25,5107:390:1,0.21
+Brama,australis,-19.75,-70.25,5107:390:3,0.25
+Brama,australis,-35.25,-72.25,5307:352:1,0.22
+Brama,australis,-36.25,-73.25,5307:363:1,0.29
+Brama,australis,-40.25,-73.75,5407:103:2,0.36
+Brama,australis,-18.25,-70.25,5107:380:1,0.45
+Brama,australis,-37.75,-73.25,5307:373:3,0.59
+Brama,australis,-36.75,-73.25,5307:363:3,0.63
+Brama,australis,-35.75,-72.75,5307:352:4,1.00
+Brama,australis,-36.25,-72.75,5307:362:2,1.00
+Brama,australis,-36.75,-72.75,5307:362:4,0.92
+Brama,australis,-37.25,-73.25,5307:373:1,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Brama,australis,-36.75,-72.75,5307:362:4,46,12.9339752197266,11.3986511230469,33.2956314086914,34.1406707763672,70.2575892210007,0,86.0385589599609,1
+Brama,australis,-36.75,-73.25,5307:363:3,139,12.7341899871826,11.696400642395,32.6299171447754,34.0956649780273,84.696002304554,0,83.1979827880859,19
+Brama,australis,-18.25,-70.25,5107:380:1,94,19.3659152984619,13.6195993423462,34.4046745300293,34.8120574951172,74.0602239966393,0,39.4440155029297,5

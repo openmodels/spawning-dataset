@@ -1,0 +1,216 @@
+Mapping parameters for Mustelus whitneyi (Humpback smooth-hound)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,1,-45,-83,-70
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,16,70,100,211
+Temperature (°C),1,13.58,15,26.15,30.35
+Salinity (psu),1,31.02,32.74,35.22,37.31
+Primary Production,1,623,666,2854,4652
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,2,19,292,293
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 166): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Mustelus,whitneyi,-6.25,-80.25,5008:360:1,0.15
+Mustelus,whitneyi,-39.25,-73.25,5307:393:1,0.13
+Mustelus,whitneyi,-39.25,-73.75,5307:393:2,0.15
+Mustelus,whitneyi,-39.75,-73.25,5307:393:3,0.13
+Mustelus,whitneyi,-39.75,-73.75,5307:393:4,0.15
+Mustelus,whitneyi,-40.25,-74.25,5407:104:1,0.01
+Mustelus,whitneyi,-40.75,-74.25,5407:104:3,0.02
+Mustelus,whitneyi,-35.75,-73.25,5307:353:3,0.29
+Mustelus,whitneyi,-37.25,-73.25,5307:373:1,0.31
+Mustelus,whitneyi,-38.25,-73.25,5307:383:1,0.30
+Mustelus,whitneyi,-38.25,-73.75,5307:383:2,0.30
+Mustelus,whitneyi,-38.75,-73.25,5307:383:3,0.30
+Mustelus,whitneyi,-38.75,-73.75,5307:383:4,0.30
+Mustelus,whitneyi,-12.25,-77.75,5107:227:2,0.50
+Mustelus,whitneyi,-12.75,-77.25,5107:227:3,0.50
+Mustelus,whitneyi,-37.25,-73.75,5307:373:2,0.44
+Mustelus,whitneyi,-37.75,-73.25,5307:373:3,0.44
+Mustelus,whitneyi,-37.75,-73.75,5307:373:4,0.44
+Mustelus,whitneyi,-38.25,-74.25,5307:384:1,0.42
+Mustelus,whitneyi,-3.25,-79.75,5007:239:2,0.74
+Mustelus,whitneyi,-0.75,-80.25,5008:100:3,0.61
+Mustelus,whitneyi,-8.25,-80.25,5008:380:1,0.66
+Mustelus,whitneyi,-13.75,-76.75,5107:236:4,0.72
+Mustelus,whitneyi,-16.25,-74.25,5107:364:1,0.78
+Mustelus,whitneyi,-36.25,-72.75,5307:362:2,0.70
+Mustelus,whitneyi,-36.75,-72.75,5307:362:4,0.70
+Mustelus,whitneyi,-36.25,-73.25,5307:363:1,0.61
+Mustelus,whitneyi,-36.75,-73.25,5307:363:3,0.61
+Mustelus,whitneyi,-36.75,-73.75,5307:363:4,0.61
+Mustelus,whitneyi,0.75,-79.75,7007:209:4,0.61
+Mustelus,whitneyi,-26.25,-70.75,5207:360:2,1.00
+Mustelus,whitneyi,-26.75,-70.75,5207:360:4,1.00
+Mustelus,whitneyi,-27.25,-70.75,5207:370:2,1.00
+Mustelus,whitneyi,-27.75,-70.75,5207:370:4,1.00
+Mustelus,whitneyi,-27.75,-71.25,5207:371:3,1.00
+Mustelus,whitneyi,-2.75,-79.75,5007:229:4,1.00
+Mustelus,whitneyi,-6.75,-79.75,5007:469:4,1.00
+Mustelus,whitneyi,-7.25,-79.75,5007:479:2,1.00
+Mustelus,whitneyi,-7.75,-79.25,5007:479:3,1.00
+Mustelus,whitneyi,-7.75,-79.75,5007:479:4,1.00
+Mustelus,whitneyi,-8.25,-78.75,5007:488:2,1.00
+Mustelus,whitneyi,-8.75,-78.75,5007:488:4,1.00
+Mustelus,whitneyi,-8.25,-79.25,5007:489:1,1.00
+Mustelus,whitneyi,-8.25,-79.75,5007:489:2,1.00
+Mustelus,whitneyi,-8.75,-79.25,5007:489:3,1.00
+Mustelus,whitneyi,-8.75,-79.75,5007:489:4,1.00
+Mustelus,whitneyi,-9.25,-78.25,5007:498:1,1.00
+Mustelus,whitneyi,-9.25,-78.75,5007:498:2,1.00
+Mustelus,whitneyi,-9.75,-78.25,5007:498:3,1.00
+Mustelus,whitneyi,-9.75,-78.75,5007:498:4,1.00
+Mustelus,whitneyi,-9.25,-79.25,5007:499:1,1.00
+Mustelus,whitneyi,-9.25,-79.75,5007:499:2,1.00
+Mustelus,whitneyi,-9.75,-79.25,5007:499:3,0.86
+Mustelus,whitneyi,-0.25,-80.25,5008:100:1,1.00
+Mustelus,whitneyi,-0.75,-80.75,5008:100:4,1.00
+Mustelus,whitneyi,-1.25,-80.75,5008:110:2,1.00
+Mustelus,whitneyi,-1.75,-80.75,5008:110:4,1.00
+Mustelus,whitneyi,-1.25,-81.25,5008:111:1,1.00
+Mustelus,whitneyi,-1.75,-81.25,5008:111:3,1.00
+Mustelus,whitneyi,-2.25,-80.75,5008:120:2,1.00
+Mustelus,whitneyi,-2.75,-80.25,5008:120:3,1.00
+Mustelus,whitneyi,-2.75,-80.75,5008:120:4,1.00
+Mustelus,whitneyi,-2.25,-81.25,5008:121:1,1.00
+Mustelus,whitneyi,-3.25,-80.25,5008:130:1,1.00
+Mustelus,whitneyi,-3.25,-80.75,5008:130:2,1.00
+Mustelus,whitneyi,-3.75,-80.75,5008:130:4,1.00
+Mustelus,whitneyi,-3.25,-81.25,5008:131:1,0.93
+Mustelus,whitneyi,-3.75,-81.25,5008:131:3,1.00
+Mustelus,whitneyi,-4.25,-81.25,5008:141:1,1.00
+Mustelus,whitneyi,-4.75,-81.25,5008:141:3,1.00
+Mustelus,whitneyi,-5.25,-80.75,5008:350:2,1.00
+Mustelus,whitneyi,-5.75,-80.75,5008:350:4,1.00
+Mustelus,whitneyi,-5.25,-81.25,5008:351:1,1.00
+Mustelus,whitneyi,-5.75,-81.25,5008:351:3,1.00
+Mustelus,whitneyi,-6.25,-80.75,5008:360:2,1.00
+Mustelus,whitneyi,-6.75,-80.25,5008:360:3,1.00
+Mustelus,whitneyi,-6.75,-80.75,5008:360:4,1.00
+Mustelus,whitneyi,-6.25,-81.25,5008:361:1,1.00
+Mustelus,whitneyi,-7.25,-80.25,5008:370:1,1.00
+Mustelus,whitneyi,-7.25,-80.75,5008:370:2,1.00
+Mustelus,whitneyi,-7.75,-80.25,5008:370:3,1.00
+Mustelus,whitneyi,-10.25,-77.75,5107:207:2,1.00
+Mustelus,whitneyi,-10.75,-77.75,5107:207:4,1.00
+Mustelus,whitneyi,-10.25,-78.25,5107:208:1,1.00
+Mustelus,whitneyi,-10.25,-78.75,5107:208:2,1.00
+Mustelus,whitneyi,-10.75,-78.25,5107:208:3,1.00
+Mustelus,whitneyi,-11.25,-77.25,5107:217:1,1.00
+Mustelus,whitneyi,-11.25,-77.75,5107:217:2,1.00
+Mustelus,whitneyi,-11.75,-77.25,5107:217:3,1.00
+Mustelus,whitneyi,-11.75,-77.75,5107:217:4,1.00
+Mustelus,whitneyi,-12.25,-76.75,5107:226:2,1.00
+Mustelus,whitneyi,-12.75,-76.25,5107:226:3,1.00
+Mustelus,whitneyi,-12.75,-76.75,5107:226:4,1.00
+Mustelus,whitneyi,-12.25,-77.25,5107:227:1,1.00
+Mustelus,whitneyi,-13.25,-76.25,5107:236:1,1.00
+Mustelus,whitneyi,-13.25,-76.75,5107:236:2,1.00
+Mustelus,whitneyi,-13.75,-76.25,5107:236:3,1.00
+Mustelus,whitneyi,-14.25,-75.75,5107:245:2,1.00
+Mustelus,whitneyi,-14.75,-75.25,5107:245:3,1.00
+Mustelus,whitneyi,-14.75,-75.75,5107:245:4,1.00
+Mustelus,whitneyi,-14.25,-76.25,5107:246:1,1.00
+Mustelus,whitneyi,-14.75,-76.25,5107:246:3,0.89
+Mustelus,whitneyi,-15.25,-74.75,5107:354:2,1.00
+Mustelus,whitneyi,-15.75,-74.25,5107:354:3,1.00
+Mustelus,whitneyi,-15.75,-74.75,5107:354:4,1.00
+Mustelus,whitneyi,-16.75,-72.25,5107:362:3,1.00
+Mustelus,whitneyi,-16.75,-72.75,5107:362:4,1.00
+Mustelus,whitneyi,-16.25,-73.25,5107:363:1,1.00
+Mustelus,whitneyi,-16.25,-73.75,5107:363:2,1.00
+Mustelus,whitneyi,-16.75,-73.25,5107:363:3,1.00
+Mustelus,whitneyi,-17.75,-70.75,5107:370:4,1.00
+Mustelus,whitneyi,-17.25,-71.25,5107:371:1,1.00
+Mustelus,whitneyi,-17.25,-71.75,5107:371:2,1.00
+Mustelus,whitneyi,-17.75,-71.25,5107:371:3,1.00
+Mustelus,whitneyi,-17.25,-72.25,5107:372:1,0.93
+Mustelus,whitneyi,-18.25,-70.25,5107:380:1,1.00
+Mustelus,whitneyi,-18.25,-70.75,5107:380:2,1.00
+Mustelus,whitneyi,-18.75,-70.25,5107:380:3,1.00
+Mustelus,whitneyi,-19.25,-70.25,5107:390:1,1.00
+Mustelus,whitneyi,-19.75,-70.25,5107:390:3,1.00
+Mustelus,whitneyi,-15.25,-75.25,5107:455:1,1.00
+Mustelus,whitneyi,-15.25,-75.75,5107:455:2,0.93
+Mustelus,whitneyi,-20.25,-70.25,5207:100:1,1.00
+Mustelus,whitneyi,-20.75,-70.25,5207:100:3,1.00
+Mustelus,whitneyi,-21.25,-70.25,5207:110:1,1.00
+Mustelus,whitneyi,-21.75,-70.25,5207:110:3,1.00
+Mustelus,whitneyi,-22.25,-70.25,5207:120:1,1.00
+Mustelus,whitneyi,-22.75,-70.25,5207:120:3,1.00
+Mustelus,whitneyi,-23.25,-70.25,5207:130:1,1.00
+Mustelus,whitneyi,-23.25,-70.75,5207:130:2,1.00
+Mustelus,whitneyi,-23.75,-70.25,5207:130:3,1.00
+Mustelus,whitneyi,-23.75,-70.75,5207:130:4,1.00
+Mustelus,whitneyi,-24.25,-70.25,5207:140:1,1.00
+Mustelus,whitneyi,-24.25,-70.75,5207:140:2,1.00
+Mustelus,whitneyi,-24.75,-70.25,5207:140:3,1.00
+Mustelus,whitneyi,-24.75,-70.75,5207:140:4,1.00
+Mustelus,whitneyi,-25.25,-70.25,5207:350:1,1.00
+Mustelus,whitneyi,-25.25,-70.75,5207:350:2,1.00
+Mustelus,whitneyi,-25.75,-70.75,5207:350:4,1.00
+Mustelus,whitneyi,-28.25,-71.25,5207:381:1,1.00
+Mustelus,whitneyi,-28.75,-71.25,5207:381:3,1.00
+Mustelus,whitneyi,-28.75,-71.75,5207:381:4,1.00
+Mustelus,whitneyi,-29.25,-71.25,5207:391:1,1.00
+Mustelus,whitneyi,-29.25,-71.75,5207:391:2,1.00
+Mustelus,whitneyi,-29.75,-71.25,5207:391:3,1.00
+Mustelus,whitneyi,-29.75,-71.75,5207:391:4,1.00
+Mustelus,whitneyi,-30.25,-71.25,5307:101:1,1.00
+Mustelus,whitneyi,-30.25,-71.75,5307:101:2,1.00
+Mustelus,whitneyi,-30.75,-71.75,5307:101:4,1.00
+Mustelus,whitneyi,-31.25,-71.75,5307:111:2,1.00
+Mustelus,whitneyi,-31.75,-71.75,5307:111:4,1.00
+Mustelus,whitneyi,-32.25,-71.25,5307:121:1,1.00
+Mustelus,whitneyi,-32.25,-71.75,5307:121:2,1.00
+Mustelus,whitneyi,-32.75,-71.25,5307:121:3,1.00
+Mustelus,whitneyi,-32.75,-71.75,5307:121:4,1.00
+Mustelus,whitneyi,-33.25,-71.75,5307:131:2,1.00
+Mustelus,whitneyi,-33.75,-71.75,5307:131:4,1.00
+Mustelus,whitneyi,-33.75,-72.25,5307:132:3,1.00
+Mustelus,whitneyi,-34.25,-71.75,5307:141:2,1.00
+Mustelus,whitneyi,-34.25,-72.25,5307:142:1,1.00
+Mustelus,whitneyi,-34.75,-72.25,5307:142:3,1.00
+Mustelus,whitneyi,-35.25,-72.25,5307:352:1,0.84
+Mustelus,whitneyi,-35.25,-72.75,5307:352:2,0.84
+Mustelus,whitneyi,-35.75,-72.75,5307:352:4,0.84
+Mustelus,whitneyi,0.25,-80.25,7008:100:1,1.00
+Mustelus,whitneyi,0.75,-80.25,7008:100:3,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 14)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Mustelus,whitneyi,-36.75,-73.25,5307:363:3,139,14.45,33.91,2647,0,19
+Mustelus,whitneyi,-36.25,-75.25,5307:465:1,4124,15,33.87,841,0,219
+Mustelus,whitneyi,-12.25,-79.75,5107:229:2,4739,21.3,35.22,733,0,292
+Mustelus,whitneyi,-11.75,-77.25,5107:217:3,87,19.85,35.04,1982,0,19
+Mustelus,whitneyi,-6.75,-80.25,5008:360:3,28,20.48,35,1929,0,25
+Mustelus,whitneyi,-6.25,-80.25,5008:360:1,11,20.48,34.95,1995,0,2
+Mustelus,whitneyi,-5.75,-81.25,5008:351:3,902,21.22,34.72,2291,0,25
+Mustelus,whitneyi,-5.25,-81.25,5008:351:1,543,21.22,34.72,2854,0,25
+Mustelus,whitneyi,-4.75,-81.25,5008:141:3,462,21.56,34.72,2519,0,19
+Mustelus,whitneyi,-4.25,-81.25,5008:141:1,1015,21.56,34.36,1889,0,19
+Mustelus,whitneyi,-0.75,-81.75,5008:101:4,1507,25.08,33.38,666,0,148
+Mustelus,whitneyi,-0.75,-80.75,5008:100:4,216,25.87,33.38,717,0,25
+Mustelus,whitneyi,-0.25,-80.75,5008:100:2,638,25.87,32.74,623,0,83
+Mustelus,whitneyi,0.25,-80.25,7008:100:1,220,26.15,32.74,714,0,27

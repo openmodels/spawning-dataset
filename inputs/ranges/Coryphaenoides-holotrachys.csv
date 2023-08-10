@@ -1,0 +1,273 @@
+Mapping parameters for Macrourus holotrachys (Bigeye grenadier)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 41 |  48,
+Bounding Box (NSWE): ,-39,-57,-62,-38
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,300,440,775,1400
+Temperature (°C),1,0.27,2.49,6.31,8.46
+Salinity (psu),1,33.22,33.72,34.46,34.96
+Primary Production,1,480,592,1526,2178.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,15,89,428,640.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 186): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Macrourus,holotrachys,-39.25,-54.25,5305:394:1,0.11
+Macrourus,holotrachys,-39.75,-54.75,5305:394:4,0.07
+Macrourus,holotrachys,-40.25,-55.25,5405:205:1,0.11
+Macrourus,holotrachys,-40.75,-55.75,5405:205:4,0.09
+Macrourus,holotrachys,-41.25,-56.25,5405:216:1,0.11
+Macrourus,holotrachys,-42.25,-57.25,5405:227:1,0.17
+Macrourus,holotrachys,-42.25,-58.75,5405:228:2,0.16
+Macrourus,holotrachys,-44.75,-59.25,5405:249:3,0.17
+Macrourus,holotrachys,-49.25,-54.25,5405:394:1,0.01
+Macrourus,holotrachys,-49.25,-54.75,5405:394:2,0.09
+Macrourus,holotrachys,-49.75,-54.25,5405:394:3,0.06
+Macrourus,holotrachys,-45.25,-58.75,5405:458:2,0.02
+Macrourus,holotrachys,-45.75,-58.75,5405:458:4,0.01
+Macrourus,holotrachys,-47.75,-58.75,5405:478:4,0.09
+Macrourus,holotrachys,-48.75,-55.25,5405:485:3,0.07
+Macrourus,holotrachys,-48.25,-57.25,5405:487:1,0.07
+Macrourus,holotrachys,-48.25,-57.75,5405:487:2,0.16
+Macrourus,holotrachys,-49.75,-59.75,5405:499:4,0.13
+Macrourus,holotrachys,-43.75,-60.25,5406:130:3,0.07
+Macrourus,holotrachys,-53.25,-44.25,5504:134:1,0.04
+Macrourus,holotrachys,-50.25,-54.25,5505:104:1,0.12
+Macrourus,holotrachys,-50.75,-54.25,5505:104:3,0.01
+Macrourus,holotrachys,-51.25,-54.75,5505:114:2,0.10
+Macrourus,holotrachys,-51.75,-54.75,5505:114:4,0.02
+Macrourus,holotrachys,-52.25,-55.25,5505:225:1,0.06
+Macrourus,holotrachys,-52.25,-55.75,5505:225:2,0.12
+Macrourus,holotrachys,-52.75,-56.25,5505:226:3,0.06
+Macrourus,holotrachys,-52.75,-59.75,5505:229:4,0.14
+Macrourus,holotrachys,-54.25,-57.25,5505:247:1,0.02
+Macrourus,holotrachys,-41.75,-56.75,5405:216:4,0.21
+Macrourus,holotrachys,-44.25,-59.25,5405:249:1,0.21
+Macrourus,holotrachys,-45.25,-59.25,5405:459:1,0.35
+Macrourus,holotrachys,-45.75,-59.25,5405:459:3,0.37
+Macrourus,holotrachys,-46.25,-59.25,5405:469:1,0.36
+Macrourus,holotrachys,-48.25,-58.25,5405:488:1,0.24
+Macrourus,holotrachys,-49.75,-57.75,5405:497:4,0.39
+Macrourus,holotrachys,-48.75,-60.75,5406:380:4,0.29
+Macrourus,holotrachys,-50.75,-54.75,5505:104:4,0.30
+Macrourus,holotrachys,-50.25,-57.75,5505:207:2,0.21
+Macrourus,holotrachys,-50.75,-57.25,5505:207:3,0.26
+Macrourus,holotrachys,-51.75,-55.25,5505:215:3,0.29
+Macrourus,holotrachys,-53.25,-57.25,5505:237:1,0.39
+Macrourus,holotrachys,-53.75,-57.25,5505:237:3,0.31
+Macrourus,holotrachys,-54.25,-55.25,5505:245:1,0.21
+Macrourus,holotrachys,-54.25,-55.75,5505:245:2,0.21
+Macrourus,holotrachys,-54.25,-56.25,5505:246:1,0.38
+Macrourus,holotrachys,-52.25,-61.75,5506:121:2,0.28
+Macrourus,holotrachys,-54.75,-61.25,5506:141:3,0.37
+Macrourus,holotrachys,-54.75,-61.75,5506:141:4,0.25
+Macrourus,holotrachys,-39.25,-55.75,5305:495:2,0.50
+Macrourus,holotrachys,-39.75,-55.75,5305:495:4,0.45
+Macrourus,holotrachys,-40.25,-56.25,5405:206:1,0.56
+Macrourus,holotrachys,-40.75,-56.75,5405:206:4,0.51
+Macrourus,holotrachys,-42.75,-58.25,5405:228:3,0.48
+Macrourus,holotrachys,-43.25,-58.75,5405:238:2,0.40
+Macrourus,holotrachys,-43.75,-59.25,5405:239:3,0.52
+Macrourus,holotrachys,-49.75,-54.75,5405:394:4,0.54
+Macrourus,holotrachys,-46.75,-59.25,5405:469:3,0.51
+Macrourus,holotrachys,-47.25,-59.25,5405:479:1,0.40
+Macrourus,holotrachys,-48.75,-55.75,5405:485:4,0.41
+Macrourus,holotrachys,-49.25,-55.25,5405:495:1,0.43
+Macrourus,holotrachys,-49.25,-60.25,5406:390:1,0.46
+Macrourus,holotrachys,-51.25,-55.25,5505:215:1,0.40
+Macrourus,holotrachys,-52.25,-56.25,5505:226:1,0.50
+Macrourus,holotrachys,-52.75,-59.25,5505:229:3,0.41
+Macrourus,holotrachys,-54.25,-57.75,5505:247:2,0.56
+Macrourus,holotrachys,-52.25,-61.25,5506:121:1,0.41
+Macrourus,holotrachys,-39.25,-55.25,5305:495:1,0.74
+Macrourus,holotrachys,-39.75,-55.25,5305:495:3,0.73
+Macrourus,holotrachys,-40.75,-56.25,5405:206:3,0.78
+Macrourus,holotrachys,-41.25,-56.75,5405:216:2,0.71
+Macrourus,holotrachys,-42.25,-57.75,5405:227:2,0.64
+Macrourus,holotrachys,-48.75,-56.25,5405:486:3,0.63
+Macrourus,holotrachys,-48.25,-58.75,5405:488:2,0.61
+Macrourus,holotrachys,-49.75,-57.25,5405:497:3,0.74
+Macrourus,holotrachys,-49.75,-58.25,5405:498:3,0.74
+Macrourus,holotrachys,-49.75,-58.75,5405:498:4,0.78
+Macrourus,holotrachys,-49.75,-59.25,5405:499:3,0.67
+Macrourus,holotrachys,-48.25,-60.75,5406:380:2,0.76
+Macrourus,holotrachys,-50.25,-54.75,5505:104:2,0.60
+Macrourus,holotrachys,-50.75,-55.25,5505:205:3,0.73
+Macrourus,holotrachys,-50.25,-57.25,5505:207:1,0.68
+Macrourus,holotrachys,-51.75,-55.75,5505:215:4,0.69
+Macrourus,holotrachys,-52.75,-56.75,5505:226:4,0.69
+Macrourus,holotrachys,-52.25,-57.75,5505:227:2,0.76
+Macrourus,holotrachys,-53.75,-57.75,5505:237:4,0.62
+Macrourus,holotrachys,-54.75,-58.75,5505:248:4,0.79
+Macrourus,holotrachys,-54.75,-59.25,5505:249:3,0.61
+Macrourus,holotrachys,-52.75,-61.25,5506:121:3,0.74
+Macrourus,holotrachys,-39.25,-54.75,5305:394:2,1.00
+Macrourus,holotrachys,-39.75,-56.25,5305:496:3,1.00
+Macrourus,holotrachys,-40.25,-55.75,5405:205:2,0.86
+Macrourus,holotrachys,-41.25,-57.25,5405:217:1,1.00
+Macrourus,holotrachys,-41.75,-57.25,5405:217:3,0.92
+Macrourus,holotrachys,-41.75,-57.75,5405:217:4,1.00
+Macrourus,holotrachys,-42.25,-58.25,5405:228:1,1.00
+Macrourus,holotrachys,-42.75,-58.75,5405:228:4,1.00
+Macrourus,holotrachys,-42.75,-59.25,5405:229:3,1.00
+Macrourus,holotrachys,-43.25,-59.25,5405:239:1,1.00
+Macrourus,holotrachys,-43.25,-59.75,5405:239:2,0.90
+Macrourus,holotrachys,-43.75,-59.75,5405:239:4,1.00
+Macrourus,holotrachys,-44.25,-59.75,5405:249:2,1.00
+Macrourus,holotrachys,-44.75,-59.75,5405:249:4,1.00
+Macrourus,holotrachys,-45.25,-59.75,5405:459:2,1.00
+Macrourus,holotrachys,-45.75,-59.75,5405:459:4,1.00
+Macrourus,holotrachys,-46.25,-59.75,5405:469:2,1.00
+Macrourus,holotrachys,-46.75,-59.75,5405:469:4,1.00
+Macrourus,holotrachys,-47.25,-59.75,5405:479:2,1.00
+Macrourus,holotrachys,-47.75,-59.25,5405:479:3,0.87
+Macrourus,holotrachys,-47.75,-59.75,5405:479:4,1.00
+Macrourus,holotrachys,-48.75,-56.75,5405:486:4,0.99
+Macrourus,holotrachys,-48.75,-57.25,5405:487:3,1.00
+Macrourus,holotrachys,-48.75,-57.75,5405:487:4,1.00
+Macrourus,holotrachys,-48.75,-58.25,5405:488:3,1.00
+Macrourus,holotrachys,-48.75,-58.75,5405:488:4,1.00
+Macrourus,holotrachys,-48.25,-59.25,5405:489:1,1.00
+Macrourus,holotrachys,-48.25,-59.75,5405:489:2,1.00
+Macrourus,holotrachys,-48.75,-59.25,5405:489:3,1.00
+Macrourus,holotrachys,-48.75,-59.75,5405:489:4,1.00
+Macrourus,holotrachys,-49.25,-55.75,5405:495:2,0.92
+Macrourus,holotrachys,-49.75,-55.25,5405:495:3,0.89
+Macrourus,holotrachys,-49.75,-55.75,5405:495:4,1.00
+Macrourus,holotrachys,-49.25,-56.25,5405:496:1,1.00
+Macrourus,holotrachys,-49.25,-56.75,5405:496:2,1.00
+Macrourus,holotrachys,-49.75,-56.25,5405:496:3,1.00
+Macrourus,holotrachys,-49.75,-56.75,5405:496:4,1.00
+Macrourus,holotrachys,-49.25,-57.25,5405:497:1,1.00
+Macrourus,holotrachys,-49.25,-57.75,5405:497:2,1.00
+Macrourus,holotrachys,-49.25,-58.25,5405:498:1,1.00
+Macrourus,holotrachys,-49.25,-58.75,5405:498:2,1.00
+Macrourus,holotrachys,-49.25,-59.25,5405:499:1,1.00
+Macrourus,holotrachys,-49.25,-59.75,5405:499:2,1.00
+Macrourus,holotrachys,-45.75,-60.25,5406:350:3,1.00
+Macrourus,holotrachys,-46.25,-60.25,5406:360:1,1.00
+Macrourus,holotrachys,-46.75,-60.25,5406:360:3,1.00
+Macrourus,holotrachys,-46.75,-60.75,5406:360:4,1.00
+Macrourus,holotrachys,-47.25,-60.25,5406:370:1,1.00
+Macrourus,holotrachys,-47.25,-60.75,5406:370:2,1.00
+Macrourus,holotrachys,-47.75,-60.25,5406:370:3,1.00
+Macrourus,holotrachys,-47.75,-60.75,5406:370:4,1.00
+Macrourus,holotrachys,-48.25,-60.25,5406:380:1,1.00
+Macrourus,holotrachys,-48.75,-60.25,5406:380:3,1.00
+Macrourus,holotrachys,-50.25,-55.25,5505:205:1,1.00
+Macrourus,holotrachys,-50.25,-55.75,5505:205:2,1.00
+Macrourus,holotrachys,-50.75,-55.75,5505:205:4,1.00
+Macrourus,holotrachys,-50.25,-56.25,5505:206:1,1.00
+Macrourus,holotrachys,-50.25,-56.75,5505:206:2,1.00
+Macrourus,holotrachys,-50.75,-56.25,5505:206:3,1.00
+Macrourus,holotrachys,-50.75,-56.75,5505:206:4,1.00
+Macrourus,holotrachys,-51.25,-55.75,5505:215:2,1.00
+Macrourus,holotrachys,-51.25,-56.25,5505:216:1,1.00
+Macrourus,holotrachys,-51.25,-56.75,5505:216:2,1.00
+Macrourus,holotrachys,-51.75,-56.25,5505:216:3,1.00
+Macrourus,holotrachys,-51.75,-56.75,5505:216:4,1.00
+Macrourus,holotrachys,-51.75,-57.25,5505:217:3,1.00
+Macrourus,holotrachys,-52.25,-56.75,5505:226:2,1.00
+Macrourus,holotrachys,-52.25,-57.25,5505:227:1,1.00
+Macrourus,holotrachys,-52.75,-57.25,5505:227:3,1.00
+Macrourus,holotrachys,-52.75,-57.75,5505:227:4,1.00
+Macrourus,holotrachys,-52.25,-58.25,5505:228:1,1.00
+Macrourus,holotrachys,-52.75,-58.25,5505:228:3,1.00
+Macrourus,holotrachys,-52.75,-58.75,5505:228:4,1.00
+Macrourus,holotrachys,-53.25,-57.75,5505:237:2,1.00
+Macrourus,holotrachys,-53.25,-58.25,5505:238:1,1.00
+Macrourus,holotrachys,-53.25,-58.75,5505:238:2,1.00
+Macrourus,holotrachys,-53.75,-58.25,5505:238:3,1.00
+Macrourus,holotrachys,-53.75,-58.75,5505:238:4,1.00
+Macrourus,holotrachys,-53.25,-59.25,5505:239:1,1.00
+Macrourus,holotrachys,-53.25,-59.75,5505:239:2,1.00
+Macrourus,holotrachys,-53.75,-59.25,5505:239:3,1.00
+Macrourus,holotrachys,-53.75,-59.75,5505:239:4,1.00
+Macrourus,holotrachys,-54.75,-59.75,5505:249:4,0.93
+Macrourus,holotrachys,-52.75,-60.25,5506:120:3,1.00
+Macrourus,holotrachys,-52.75,-60.75,5506:120:4,0.91
+Macrourus,holotrachys,-52.75,-61.75,5506:121:4,0.82
+Macrourus,holotrachys,-53.25,-60.25,5506:130:1,1.00
+Macrourus,holotrachys,-53.25,-60.75,5506:130:2,1.00
+Macrourus,holotrachys,-53.75,-60.25,5506:130:3,1.00
+Macrourus,holotrachys,-53.75,-60.75,5506:130:4,1.00
+Macrourus,holotrachys,-53.25,-61.25,5506:131:1,1.00
+Macrourus,holotrachys,-53.25,-61.75,5506:131:2,1.00
+Macrourus,holotrachys,-53.75,-61.25,5506:131:3,1.00
+Macrourus,holotrachys,-53.75,-61.75,5506:131:4,1.00
+Macrourus,holotrachys,-54.75,-60.25,5506:140:3,1.00
+Macrourus,holotrachys,-54.75,-60.75,5506:140:4,0.82
+Macrourus,holotrachys,-54.25,-61.75,5506:141:2,0.97
+
+
+Occurrence cells used for creating environmental envelope (n = 51)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Macrourus,holotrachys,-55.25,-59.25,5505:459:1,3260,5.56,34.04,480,0,324
+Macrourus,holotrachys,-54.25,-61.25,5506:141:1,141,6.29,33.96,624,0,203
+Macrourus,holotrachys,-54.25,-60.25,5506:140:1,94,6.27,33.99,607,0,255
+Macrourus,holotrachys,-54.25,-56.75,5505:246:2,584,5.72,34.06,524,0.00001333,292
+Macrourus,holotrachys,-54.25,-55.75,5505:245:2,1186,5.59,34.06,504,0,331
+Macrourus,holotrachys,-53.75,-59.75,5505:239:4,729,6.8,34.06,811,0,200
+Macrourus,holotrachys,-53.75,-58.25,5505:238:3,1055,6.68,34.06,592,0,203
+Macrourus,holotrachys,-52.75,-60.25,5506:120:3,277,7.26,33.72,1158,0,89
+Macrourus,holotrachys,-52.75,-59.25,5505:229:3,129,7.26,34.06,1144,0,89
+Macrourus,holotrachys,-52.75,-58.25,5505:228:3,432,7.11,34.06,1042,0,99
+Macrourus,holotrachys,-52.25,-61.25,5506:121:1,188,7.28,33.7,1275,0,68
+Macrourus,holotrachys,-52.25,-60.25,5506:120:1,53,7.26,33.72,1223,0,15
+Macrourus,holotrachys,-51.75,-56.75,5505:216:4,519,6.54,33.97,1132,0,103
+Macrourus,holotrachys,-51.25,-61.25,5506:111:1,98,7.85,33.5,1150,0,17
+Macrourus,holotrachys,-50.25,-55.75,5505:205:2,742,6.41,34.05,942,0,215
+Macrourus,holotrachys,-49.75,-60.75,5406:390:4,165,8.31,33.85,1620,0,203
+Macrourus,holotrachys,-49.75,-60.25,5406:390:3,170,8.31,33.85,1382,0,203
+Macrourus,holotrachys,-49.75,-59.75,5405:499:4,209,8.05,33.92,1256,0,203
+Macrourus,holotrachys,-49.75,-57.75,5405:497:4,309,7.34,34.01,1078,0,203
+Macrourus,holotrachys,-49.75,-55.25,5405:495:3,935,7.1,34.1,640,0,279
+Macrourus,holotrachys,-49.25,-61.25,5406:391:1,165,8.59,33.74,1581,0,259
+Macrourus,holotrachys,-49.25,-60.75,5406:390:2,189,8.31,33.85,1546,0,259
+Macrourus,holotrachys,-49.25,-58.75,5405:498:2,437,7.69,33.96,1084,0,259
+Macrourus,holotrachys,-49.25,-57.25,5405:497:1,411,7.34,34.01,1054,0,262
+Macrourus,holotrachys,-49.25,-56.75,5405:496:2,594,7.12,34.06,994,0,270
+Macrourus,holotrachys,-48.75,-61.25,5406:381:3,165,8.84,33.75,1571,0,315
+Macrourus,holotrachys,-48.75,-60.75,5406:380:4,246,8.47,33.86,1456,0,315
+Macrourus,holotrachys,-48.75,-57.25,5405:487:3,806,7.68,34.08,863,0,317
+Macrourus,holotrachys,-48.75,-56.75,5405:486:4,931,7.7,34.13,675,0,324
+Macrourus,holotrachys,-48.25,-61.25,5406:381:1,151,8.84,33.75,1491,0,358
+Macrourus,holotrachys,-48.25,-60.75,5406:380:2,287,8.47,33.86,1227,0,371
+Macrourus,holotrachys,-48.25,-60.25,5406:380:1,441,8.47,33.86,1190,0,371
+Macrourus,holotrachys,-47.75,-61.25,5406:371:3,148,9.1,33.73,1510,0,355
+Macrourus,holotrachys,-47.75,-60.75,5406:370:4,341,8.57,33.85,1253,0,392
+Macrourus,holotrachys,-47.75,-60.25,5406:370:3,549,8.57,33.85,1103,0,427
+Macrourus,holotrachys,-47.25,-61.25,5406:371:1,140,9.1,33.73,1494,0,361
+Macrourus,holotrachys,-47.25,-60.75,5406:370:2,300,8.57,33.85,1358,0,398
+Macrourus,holotrachys,-47.25,-60.25,5406:370:1,581,8.57,33.85,1099,0,435
+Macrourus,holotrachys,-46.75,-60.75,5406:360:4,189,8.88,33.84,1526,0,411
+Macrourus,holotrachys,-46.25,-60.25,5406:360:1,300,8.88,33.84,1369,0,462
+Macrourus,holotrachys,-45.75,-60.75,5406:350:4,119,9.39,33.81,572,0,408
+Macrourus,holotrachys,-45.75,-59.75,5405:459:4,848,9.41,33.93,943,0,481
+Macrourus,holotrachys,-45.25,-61.25,5406:351:1,106,10.09,33.68,714,0,353
+Macrourus,holotrachys,-45.25,-60.25,5406:350:1,117,9.39,33.81,1007,0,428
+Macrourus,holotrachys,-45.25,-57.75,5405:457:2,3659,9.53,34.15,726,0,594
+Macrourus,holotrachys,-43.75,-59.75,5405:239:4,447,10.66,33.85,1468,0,383
+Macrourus,holotrachys,-41.75,-57.75,5405:217:4,321,10.61,33.96,1178,0,378
+Macrourus,holotrachys,-41.25,-57.25,5405:217:1,349,10.61,33.96,1170,0,336
+Macrourus,holotrachys,-41.25,-55.25,5405:215:1,4310,12.05,34.28,791,0,427
+Macrourus,holotrachys,-39.75,-56.25,5305:496:3,112,11.83,33.74,1218,0,252
+Macrourus,holotrachys,-39.25,-56.25,5305:496:1,94,11.83,33.74,965,0,214

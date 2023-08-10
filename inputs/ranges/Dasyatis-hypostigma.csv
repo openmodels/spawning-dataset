@@ -1,0 +1,109 @@
+Mapping parameters for Dasyatis hypostigma ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 41,
+Bounding Box (NSWE): ,-22,-41,-62,-41
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,5,5,40,80
+Temperature (°C),1,12.57,14.25,15.91,17.4
+Salinity (psu),1,30.43,32.38,33.68,35.63
+Primary Production,1,330,971.4,2046.6,2441
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,17.8,18.8,88.4000015258789,185
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 68): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Dasyatis,hypostigma,-35.75,-54.25,5305:354:3,0.08
+Dasyatis,hypostigma,-36.25,-53.25,5305:363:1,0.05
+Dasyatis,hypostigma,-36.25,-53.75,5305:363:2,0.05
+Dasyatis,hypostigma,-36.75,-53.75,5305:363:4,0.05
+Dasyatis,hypostigma,-37.25,-54.75,5305:374:2,0.15
+Dasyatis,hypostigma,-38.75,-55.25,5305:485:3,0.16
+Dasyatis,hypostigma,-39.25,-55.75,5305:495:2,0.04
+Dasyatis,hypostigma,-40.75,-59.25,5405:209:3,0.01
+Dasyatis,hypostigma,-40.75,-59.75,5405:209:4,0.16
+Dasyatis,hypostigma,-37.75,-57.75,5305:477:4,0.31
+Dasyatis,hypostigma,-38.25,-56.25,5305:486:1,0.27
+Dasyatis,hypostigma,-38.25,-56.75,5305:486:2,0.29
+Dasyatis,hypostigma,-38.75,-56.25,5305:486:3,0.29
+Dasyatis,hypostigma,-38.75,-56.75,5305:486:4,0.27
+Dasyatis,hypostigma,-39.75,-58.25,5305:498:3,0.35
+Dasyatis,hypostigma,-39.75,-58.75,5305:498:4,0.38
+Dasyatis,hypostigma,-40.25,-59.25,5405:209:1,0.24
+Dasyatis,hypostigma,-36.25,-54.75,5305:364:2,0.49
+Dasyatis,hypostigma,-37.25,-55.25,5305:475:1,0.52
+Dasyatis,hypostigma,-37.25,-55.75,5305:475:2,0.44
+Dasyatis,hypostigma,-38.25,-57.25,5305:487:1,0.45
+Dasyatis,hypostigma,-38.25,-57.75,5305:487:2,0.45
+Dasyatis,hypostigma,-38.75,-57.25,5305:487:3,0.41
+Dasyatis,hypostigma,-38.75,-57.75,5305:487:4,0.45
+Dasyatis,hypostigma,-38.75,-58.75,5305:488:4,0.50
+Dasyatis,hypostigma,-39.25,-58.25,5305:498:1,0.42
+Dasyatis,hypostigma,-39.25,-58.75,5305:498:2,0.42
+Dasyatis,hypostigma,-40.25,-59.75,5405:209:2,0.54
+Dasyatis,hypostigma,-36.25,-54.25,5305:364:1,0.64
+Dasyatis,hypostigma,-36.75,-54.25,5305:364:3,0.64
+Dasyatis,hypostigma,-36.75,-54.75,5305:364:4,0.64
+Dasyatis,hypostigma,-37.75,-55.25,5305:475:3,0.78
+Dasyatis,hypostigma,-38.25,-55.25,5305:485:1,0.64
+Dasyatis,hypostigma,-38.25,-55.75,5305:485:2,0.64
+Dasyatis,hypostigma,-38.75,-55.75,5305:485:4,0.64
+Dasyatis,hypostigma,-38.25,-58.25,5305:488:1,0.68
+Dasyatis,hypostigma,-38.75,-58.25,5305:488:3,0.68
+Dasyatis,hypostigma,-39.75,-59.25,5305:499:3,0.68
+Dasyatis,hypostigma,-39.75,-61.75,5306:391:4,0.60
+Dasyatis,hypostigma,-37.25,-54.25,5305:374:1,0.85
+Dasyatis,hypostigma,-37.75,-55.75,5305:475:4,0.87
+Dasyatis,hypostigma,-37.75,-56.25,5305:476:3,1.00
+Dasyatis,hypostigma,-37.75,-56.75,5305:476:4,1.00
+Dasyatis,hypostigma,-37.75,-57.25,5305:477:3,0.95
+Dasyatis,hypostigma,-38.75,-59.25,5305:489:3,1.00
+Dasyatis,hypostigma,-38.75,-59.75,5305:489:4,1.00
+Dasyatis,hypostigma,-39.25,-59.25,5305:499:1,1.00
+Dasyatis,hypostigma,-39.25,-59.75,5305:499:2,1.00
+Dasyatis,hypostigma,-39.75,-59.75,5305:499:4,1.00
+Dasyatis,hypostigma,-38.75,-60.25,5306:380:3,1.00
+Dasyatis,hypostigma,-38.75,-60.75,5306:380:4,1.00
+Dasyatis,hypostigma,-38.75,-61.25,5306:381:3,1.00
+Dasyatis,hypostigma,-38.75,-61.75,5306:381:4,1.00
+Dasyatis,hypostigma,-39.25,-60.25,5306:390:1,1.00
+Dasyatis,hypostigma,-39.25,-60.75,5306:390:2,1.00
+Dasyatis,hypostigma,-39.75,-60.25,5306:390:3,1.00
+Dasyatis,hypostigma,-39.75,-60.75,5306:390:4,0.98
+Dasyatis,hypostigma,-39.25,-61.25,5306:391:1,0.85
+Dasyatis,hypostigma,-39.25,-61.75,5306:391:2,0.85
+Dasyatis,hypostigma,-39.75,-61.25,5306:391:3,0.83
+Dasyatis,hypostigma,-40.25,-60.25,5406:100:1,0.85
+Dasyatis,hypostigma,-40.25,-60.75,5406:100:2,1.00
+Dasyatis,hypostigma,-40.75,-60.25,5406:100:3,0.95
+Dasyatis,hypostigma,-40.75,-60.75,5406:100:4,1.00
+Dasyatis,hypostigma,-40.25,-61.25,5406:101:1,1.00
+Dasyatis,hypostigma,-40.25,-61.75,5406:101:2,0.97
+Dasyatis,hypostigma,-40.75,-61.25,5406:101:3,1.00
+Dasyatis,hypostigma,-40.75,-61.75,5406:101:4,0.97
+
+
+Occurrence cells used for creating environmental envelope (n = 5)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Dasyatis,hypostigma,-40.25,-61.75,5406:101:2,16,15.59,33.68,949,0,64
+Dasyatis,hypostigma,-39.25,-61.25,5306:391:1,20,16.13,33.68,1005,0,86
+Dasyatis,hypostigma,-39.25,-60.75,5306:390:2,26,15.56,33.65,1018,0,90
+Dasyatis,hypostigma,-37.75,-57.25,5305:477:3,16,14.17,32.38,1455,0,18
+Dasyatis,hypostigma,-37.25,-56.75,5305:476:2,11,14.38,32.38,2441,0,20

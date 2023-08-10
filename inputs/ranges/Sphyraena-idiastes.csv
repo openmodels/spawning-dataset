@@ -1,0 +1,173 @@
+Mapping parameters for Sphyraena idiastes (Pelican barracuda)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77 |  87,
+Bounding Box (NSWE): ,7,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,3,5,14,24
+Temperature (°C),1,19.85,20.48,27.28,31.48
+Salinity (psu),1,31.72,32.22,34.95,35.45
+Primary Production,1,321,456,2300,3566
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,2,14,111,167
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 107): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Sphyraena,idiastes,-7.75,-79.25,5007:479:3,0.19
+Sphyraena,idiastes,-7.75,-140.25,5014:370:3,0.01
+Sphyraena,idiastes,-7.75,-140.75,5014:370:4,0.02
+Sphyraena,idiastes,4.25,-77.25,7007:247:1,0.14
+Sphyraena,idiastes,4.75,-77.25,7007:247:3,0.14
+Sphyraena,idiastes,4.75,-160.25,7016:140:3,0.17
+Sphyraena,idiastes,5.75,-162.25,7016:352:3,0.10
+Sphyraena,idiastes,6.25,-162.25,7016:362:1,0.08
+Sphyraena,idiastes,-7.25,-79.75,5007:479:2,0.21
+Sphyraena,idiastes,-7.75,-79.75,5007:479:4,0.21
+Sphyraena,idiastes,-0.25,-159.75,5015:209:2,0.31
+Sphyraena,idiastes,-10.25,-77.75,5107:207:2,0.36
+Sphyraena,idiastes,-10.75,-77.75,5107:207:4,0.36
+Sphyraena,idiastes,-16.25,-72.75,5107:362:2,0.36
+Sphyraena,idiastes,-16.75,-72.25,5107:362:3,0.36
+Sphyraena,idiastes,-16.75,-72.75,5107:362:4,0.36
+Sphyraena,idiastes,-16.25,-73.25,5107:363:1,0.26
+Sphyraena,idiastes,-16.25,-73.75,5107:363:2,0.26
+Sphyraena,idiastes,1.75,-157.25,7015:217:3,0.39
+Sphyraena,idiastes,1.75,-157.75,7015:217:4,0.39
+Sphyraena,idiastes,3.75,-159.25,7015:239:3,0.28
+Sphyraena,idiastes,-9.25,-78.25,5007:498:1,0.50
+Sphyraena,idiastes,-9.25,-78.75,5007:498:2,0.50
+Sphyraena,idiastes,-9.75,-78.25,5007:498:3,0.42
+Sphyraena,idiastes,-5.25,-81.25,5008:351:1,0.56
+Sphyraena,idiastes,-20.25,-70.25,5207:100:1,0.51
+Sphyraena,idiastes,-20.75,-70.25,5207:100:3,0.51
+Sphyraena,idiastes,1.75,-91.75,7009:111:4,0.53
+Sphyraena,idiastes,2.25,-157.25,7015:227:1,0.46
+Sphyraena,idiastes,-8.25,-78.75,5007:488:2,0.69
+Sphyraena,idiastes,-8.75,-78.75,5007:488:4,0.69
+Sphyraena,idiastes,-8.25,-79.25,5007:489:1,0.68
+Sphyraena,idiastes,-8.75,-79.75,5007:489:4,0.68
+Sphyraena,idiastes,-2.75,-80.75,5008:120:4,0.70
+Sphyraena,idiastes,-10.25,-78.25,5107:208:1,0.60
+Sphyraena,idiastes,-17.75,-70.75,5107:370:4,0.78
+Sphyraena,idiastes,-17.25,-71.25,5107:371:1,0.74
+Sphyraena,idiastes,-17.25,-71.75,5107:371:2,0.74
+Sphyraena,idiastes,-17.75,-71.25,5107:371:3,0.78
+Sphyraena,idiastes,-18.25,-70.25,5107:380:1,0.78
+Sphyraena,idiastes,-18.25,-70.75,5107:380:2,0.78
+Sphyraena,idiastes,-18.75,-70.25,5107:380:3,0.78
+Sphyraena,idiastes,-19.25,-70.25,5107:390:1,0.78
+Sphyraena,idiastes,-19.75,-70.25,5107:390:3,0.78
+Sphyraena,idiastes,-2.75,-79.75,5007:229:4,1.00
+Sphyraena,idiastes,-3.25,-79.75,5007:239:2,1.00
+Sphyraena,idiastes,-6.75,-79.75,5007:469:4,0.87
+Sphyraena,idiastes,-0.25,-80.25,5008:100:1,1.00
+Sphyraena,idiastes,-0.25,-80.75,5008:100:2,1.00
+Sphyraena,idiastes,-0.75,-80.25,5008:100:3,1.00
+Sphyraena,idiastes,-0.75,-80.75,5008:100:4,1.00
+Sphyraena,idiastes,-1.25,-80.75,5008:110:2,1.00
+Sphyraena,idiastes,-1.75,-80.75,5008:110:4,1.00
+Sphyraena,idiastes,-1.25,-81.25,5008:111:1,1.00
+Sphyraena,idiastes,-1.75,-81.25,5008:111:3,1.00
+Sphyraena,idiastes,-2.25,-80.75,5008:120:2,1.00
+Sphyraena,idiastes,-2.75,-80.25,5008:120:3,1.00
+Sphyraena,idiastes,-2.25,-81.25,5008:121:1,1.00
+Sphyraena,idiastes,-3.25,-80.25,5008:130:1,1.00
+Sphyraena,idiastes,-3.25,-80.75,5008:130:2,1.00
+Sphyraena,idiastes,-3.75,-80.75,5008:130:4,1.00
+Sphyraena,idiastes,-4.25,-81.25,5008:141:1,1.00
+Sphyraena,idiastes,-4.75,-81.25,5008:141:3,0.83
+Sphyraena,idiastes,-0.75,-89.25,5008:209:3,1.00
+Sphyraena,idiastes,-0.75,-89.75,5008:209:4,1.00
+Sphyraena,idiastes,-1.25,-89.75,5008:219:2,1.00
+Sphyraena,idiastes,-5.25,-80.75,5008:350:2,1.00
+Sphyraena,idiastes,-5.75,-80.75,5008:350:4,1.00
+Sphyraena,idiastes,-5.75,-81.25,5008:351:3,1.00
+Sphyraena,idiastes,-6.25,-80.25,5008:360:1,1.00
+Sphyraena,idiastes,-6.25,-80.75,5008:360:2,0.88
+Sphyraena,idiastes,-6.75,-80.25,5008:360:3,0.90
+Sphyraena,idiastes,-6.75,-80.75,5008:360:4,0.97
+Sphyraena,idiastes,-6.25,-81.25,5008:361:1,0.87
+Sphyraena,idiastes,-7.25,-80.25,5008:370:1,0.90
+Sphyraena,idiastes,-7.75,-80.25,5008:370:3,0.90
+Sphyraena,idiastes,-0.25,-90.25,5009:100:1,1.00
+Sphyraena,idiastes,-0.25,-90.75,5009:100:2,1.00
+Sphyraena,idiastes,-0.75,-90.25,5009:100:3,1.00
+Sphyraena,idiastes,-0.75,-90.75,5009:100:4,1.00
+Sphyraena,idiastes,-0.25,-91.25,5009:101:1,1.00
+Sphyraena,idiastes,-0.25,-91.75,5009:101:2,1.00
+Sphyraena,idiastes,-0.75,-91.25,5009:101:3,1.00
+Sphyraena,idiastes,-1.25,-90.25,5009:110:1,1.00
+Sphyraena,idiastes,-1.25,-90.75,5009:110:2,0.80
+Sphyraena,idiastes,-1.25,-91.25,5009:111:1,1.00
+Sphyraena,idiastes,0.75,-79.75,7007:209:4,1.00
+Sphyraena,idiastes,1.25,-78.75,7007:218:2,1.00
+Sphyraena,idiastes,1.75,-78.75,7007:218:4,1.00
+Sphyraena,idiastes,1.25,-79.25,7007:219:1,1.00
+Sphyraena,idiastes,1.25,-79.75,7007:219:2,1.00
+Sphyraena,idiastes,2.75,-77.75,7007:227:4,0.98
+Sphyraena,idiastes,2.25,-78.75,7007:228:2,1.00
+Sphyraena,idiastes,2.75,-78.25,7007:228:3,1.00
+Sphyraena,idiastes,2.75,-78.75,7007:228:4,1.00
+Sphyraena,idiastes,3.25,-77.25,7007:237:1,0.99
+Sphyraena,idiastes,3.25,-77.75,7007:237:2,0.99
+Sphyraena,idiastes,3.75,-77.25,7007:237:3,0.99
+Sphyraena,idiastes,3.25,-78.25,7007:238:1,1.00
+Sphyraena,idiastes,0.25,-80.25,7008:100:1,1.00
+Sphyraena,idiastes,0.75,-80.25,7008:100:3,1.00
+Sphyraena,idiastes,4.25,-81.75,7008:141:2,0.99
+Sphyraena,idiastes,0.25,-89.75,7008:209:2,0.96
+Sphyraena,idiastes,0.25,-90.25,7009:100:1,1.00
+Sphyraena,idiastes,0.75,-90.75,7009:100:4,0.92
+Sphyraena,idiastes,0.25,-91.25,7009:101:1,1.00
+Sphyraena,idiastes,0.25,-91.75,7009:101:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 30)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Sphyraena,idiastes,-11.75,-77.25,5107:217:3,87,19.85,35.04,1982,0,19
+Sphyraena,idiastes,-8.75,-78.75,5007:488:4,80,20.41,35.06,2300,0,18
+Sphyraena,idiastes,-6.75,-80.75,5008:360:4,436,20.48,34.95,2336,0,96
+Sphyraena,idiastes,-6.25,-80.75,5008:360:2,112,20.48,34.95,2449,0,15
+Sphyraena,idiastes,-6.25,-80.25,5008:360:1,11,20.48,34.95,1995,0,2
+Sphyraena,idiastes,-1.25,-91.25,5009:111:1,3013,23.38,34.65,652,0,111
+Sphyraena,idiastes,-1.25,-90.75,5009:110:2,1842,23.53,34.58,583,0,111
+Sphyraena,idiastes,-1.25,-90.25,5009:110:1,342,23.53,34.58,538,0,28
+Sphyraena,idiastes,-1.25,-89.75,5008:219:2,437,23.66,34.5,510,0,28
+Sphyraena,idiastes,-0.75,-88.25,5008:208:3,1466,24.03,34.25,501,0,167
+Sphyraena,idiastes,-0.75,-80.75,5008:100:4,216,25.87,33.38,717,0,25
+Sphyraena,idiastes,-0.75,-91.25,5009:101:3,400,23.55,34.45,826,0,14
+Sphyraena,idiastes,-0.75,-90.75,5009:100:4,138,23.73,34.45,584,0,22
+Sphyraena,idiastes,-0.75,-90.25,5009:100:3,129,23.73,34.45,510,0,22
+Sphyraena,idiastes,-0.75,-89.75,5008:209:4,357,23.91,34.31,522,0,28
+Sphyraena,idiastes,-0.75,-89.25,5008:209:3,518,23.91,34.31,489,0,26
+Sphyraena,idiastes,-0.25,-91.75,5009:101:2,2692,23.55,34.11,791,0,26
+Sphyraena,idiastes,-0.25,-91.25,5009:101:1,480,23.55,34.11,751,0,16
+Sphyraena,idiastes,-0.25,-90.75,5009:100:2,680,23.73,34.45,515,0,24
+Sphyraena,idiastes,-0.25,-90.25,5009:100:1,832,23.73,34.45,470,0,28
+Sphyraena,idiastes,0.25,-91.75,7009:101:2,2748,24.39,34.11,573,0,28
+Sphyraena,idiastes,0.25,-91.25,7009:101:1,2311,24.39,34.11,543,0,25
+Sphyraena,idiastes,0.25,-90.75,7009:100:2,2210,24.56,34.09,494,0,111
+Sphyraena,idiastes,0.25,-90.25,7009:100:1,1115,24.56,34.09,456,0,28
+Sphyraena,idiastes,1.25,-90.75,7009:110:2,1898,25.7,33.75,416,0,111
+Sphyraena,idiastes,2.75,-78.25,7007:228:3,164,27.13,32.22,1727,0,26
+Sphyraena,idiastes,3.75,-81.75,7008:131:4,1973,27.03,32.45,497,0,111
+Sphyraena,idiastes,3.75,-77.25,7007:237:3,22,27.33,32.22,2245,0,20
+Sphyraena,idiastes,4.75,-77.25,7007:247:3,170,27.28,31.79,1964,0,12
+Sphyraena,idiastes,5.75,-87.25,7008:457:3,2149,28.06,32.91,321,0,27

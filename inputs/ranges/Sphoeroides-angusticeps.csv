@@ -1,0 +1,57 @@
+Mapping parameters for Sphoeroides angusticeps (Narrow-headed puffer)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,,-1,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,5,6,12,18
+Temperature (°C),1,23.14,23.64,24.89,25.87
+Salinity (psu),1,33.1,33.6,34.6,35.1
+Primary Production,1,266.25,492.5,734,934.25
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,15.375,19,28,34.375
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 15): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Sphoeroides,angusticeps,1.75,-91.75,7009:111:4,0.16
+Sphoeroides,angusticeps,-0.25,-91.75,5009:101:2,0.59
+Sphoeroides,angusticeps,-0.75,-91.25,5009:101:3,0.44
+Sphoeroides,angusticeps,-0.25,-91.25,5009:101:1,0.75
+Sphoeroides,angusticeps,0.75,-90.75,7009:100:4,0.79
+Sphoeroides,angusticeps,-0.75,-89.25,5008:209:3,0.98
+Sphoeroides,angusticeps,-0.75,-89.75,5008:209:4,1.00
+Sphoeroides,angusticeps,-0.25,-90.25,5009:100:1,0.90
+Sphoeroides,angusticeps,-0.25,-90.75,5009:100:2,1.00
+Sphoeroides,angusticeps,-0.75,-90.25,5009:100:3,1.00
+Sphoeroides,angusticeps,-0.75,-90.75,5009:100:4,1.00
+Sphoeroides,angusticeps,0.25,-89.75,7008:209:2,0.82
+Sphoeroides,angusticeps,0.25,-90.25,7009:100:1,0.84
+Sphoeroides,angusticeps,0.25,-91.25,7009:101:1,1.00
+Sphoeroides,angusticeps,0.25,-91.75,7009:101:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Sphoeroides,angusticeps,-0.75,-90.75,5009:100:4,138,23.73,34.45,584,0,22
+Sphoeroides,angusticeps,-0.75,-89.75,5008:209:4,357,23.91,34.31,522,0,28
+Sphoeroides,angusticeps,-0.75,-80.75,5008:100:4,216,25.87,33.38,717,0,25
+Sphoeroides,angusticeps,-0.25,-91.25,5009:101:1,480,23.55,34.11,751,0,16
+Sphoeroides,angusticeps,-0.25,-90.75,5009:100:2,680,23.73,34.45,515,0,24
+Sphoeroides,angusticeps,-0.25,-90.25,5009:100:1,832,23.73,34.45,470,0,28

@@ -1,0 +1,215 @@
+Mapping parameters for Micropogonias ectenes (Slender croaker)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,27,16,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,6,26,50
+Temperature (°C),1,20.26,22.47,28.41,32.61
+Salinity (psu),1,33.12,34.06,35.11,36.19
+Primary Production,1,141.5,692,1608,2153.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,1,5,50,90
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 155): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Micropogonias,ectenes,19.25,-154.75,7115:394:2,0.16
+Micropogonias,ectenes,19.75,-154.75,7115:394:4,0.18
+Micropogonias,ectenes,18.75,-155.75,7115:485:4,0.17
+Micropogonias,ectenes,19.25,-155.25,7115:495:1,0.18
+Micropogonias,ectenes,19.25,-155.75,7115:495:2,0.18
+Micropogonias,ectenes,19.75,-155.25,7115:495:3,0.19
+Micropogonias,ectenes,19.75,-155.75,7115:495:4,0.19
+Micropogonias,ectenes,16.75,-169.25,7116:469:3,0.15
+Micropogonias,ectenes,16.75,-169.75,7116:469:4,0.09
+Micropogonias,ectenes,26.25,-113.75,7211:363:2,0.18
+Micropogonias,ectenes,20.25,-155.25,7215:205:1,0.19
+Micropogonias,ectenes,20.25,-155.75,7215:205:2,0.19
+Micropogonias,ectenes,20.75,-155.75,7215:205:4,0.17
+Micropogonias,ectenes,20.75,-156.25,7215:206:3,0.18
+Micropogonias,ectenes,20.75,-156.75,7215:206:4,0.09
+Micropogonias,ectenes,20.75,-157.75,7215:207:4,0.04
+Micropogonias,ectenes,21.25,-156.25,7215:216:1,0.12
+Micropogonias,ectenes,21.75,-157.75,7215:217:4,0.19
+Micropogonias,ectenes,21.25,-158.25,7215:218:1,0.18
+Micropogonias,ectenes,21.75,-158.25,7215:218:3,0.18
+Micropogonias,ectenes,21.75,-159.25,7215:219:3,0.14
+Micropogonias,ectenes,21.75,-159.75,7215:219:4,0.16
+Micropogonias,ectenes,22.25,-159.25,7215:229:1,0.16
+Micropogonias,ectenes,21.75,-160.25,7216:110:3,0.15
+Micropogonias,ectenes,22.25,-160.25,7216:120:1,0.14
+Micropogonias,ectenes,22.75,-160.75,7216:120:4,0.15
+Micropogonias,ectenes,22.75,-161.25,7216:121:3,0.03
+Micropogonias,ectenes,22.75,-162.25,7216:122:3,0.16
+Micropogonias,ectenes,23.25,-161.75,7216:131:2,0.15
+Micropogonias,ectenes,23.25,-162.25,7216:132:1,0.16
+Micropogonias,ectenes,23.25,-164.25,7216:134:1,0.18
+Micropogonias,ectenes,23.25,-164.75,7216:134:2,0.03
+Micropogonias,ectenes,23.75,-164.25,7216:134:3,0.13
+Micropogonias,ectenes,24.25,-167.25,7216:247:1,0.16
+Micropogonias,ectenes,24.75,-167.75,7216:247:4,0.09
+Micropogonias,ectenes,24.75,-168.25,7216:248:3,0.15
+Micropogonias,ectenes,25.25,-167.75,7216:457:2,0.15
+Micropogonias,ectenes,25.25,-168.25,7216:458:1,0.15
+Micropogonias,ectenes,25.75,-169.25,7216:459:3,0.14
+Micropogonias,ectenes,25.25,-170.25,7217:350:1,0.13
+Micropogonias,ectenes,25.75,-170.75,7217:350:4,0.15
+Micropogonias,ectenes,25.25,-171.25,7217:351:1,0.12
+Micropogonias,ectenes,25.75,-171.25,7217:351:3,0.13
+Micropogonias,ectenes,25.75,-171.75,7217:351:4,0.17
+Micropogonias,ectenes,25.25,-172.25,7217:352:1,0.11
+Micropogonias,ectenes,25.75,-173.25,7217:353:3,0.13
+Micropogonias,ectenes,25.75,-173.75,7217:353:4,0.04
+Micropogonias,ectenes,26.25,-173.25,7217:363:1,0.13
+Micropogonias,ectenes,26.25,-173.75,7217:363:2,0.14
+Micropogonias,ectenes,26.25,-174.75,7217:364:2,0.03
+Micropogonias,ectenes,18.75,-110.75,7111:380:4,0.36
+Micropogonias,ectenes,19.25,-110.75,7111:390:2,0.37
+Micropogonias,ectenes,25.75,-108.75,7210:458:4,0.20
+Micropogonias,ectenes,26.25,-113.25,7211:363:1,0.22
+Micropogonias,ectenes,26.75,-113.25,7211:363:3,0.26
+Micropogonias,ectenes,26.75,-113.75,7211:363:4,0.26
+Micropogonias,ectenes,21.25,-156.75,7215:216:2,0.20
+Micropogonias,ectenes,21.25,-157.25,7215:217:1,0.22
+Micropogonias,ectenes,21.25,-157.75,7215:217:2,0.20
+Micropogonias,ectenes,22.25,-159.75,7215:229:2,0.20
+Micropogonias,ectenes,23.75,-164.75,7216:134:4,0.20
+Micropogonias,ectenes,23.75,-166.25,7216:236:3,0.39
+Micropogonias,ectenes,25.25,-170.75,7217:350:2,0.30
+Micropogonias,ectenes,26.25,-174.25,7217:364:1,0.26
+Micropogonias,ectenes,16.25,-97.75,7109:467:2,0.59
+Micropogonias,ectenes,18.25,-114.75,7111:384:2,0.50
+Micropogonias,ectenes,24.25,-108.25,7210:248:1,0.54
+Micropogonias,ectenes,23.75,-111.75,7211:131:4,0.42
+Micropogonias,ectenes,16.25,-94.25,7109:364:1,0.71
+Micropogonias,ectenes,16.25,-94.75,7109:364:2,0.71
+Micropogonias,ectenes,16.25,-98.75,7109:468:2,0.77
+Micropogonias,ectenes,16.75,-100.25,7110:360:3,0.70
+Micropogonias,ectenes,22.75,-105.75,7210:225:4,0.63
+Micropogonias,ectenes,26.25,-109.25,7210:469:1,0.79
+Micropogonias,ectenes,26.25,-109.75,7210:469:2,0.79
+Micropogonias,ectenes,26.75,-109.25,7210:469:3,0.79
+Micropogonias,ectenes,26.75,-109.75,7210:469:4,0.79
+Micropogonias,ectenes,25.25,-112.75,7211:352:2,0.68
+Micropogonias,ectenes,26.75,-110.25,7211:360:3,0.79
+Micropogonias,ectenes,26.25,-111.25,7211:361:1,0.79
+Micropogonias,ectenes,16.25,-95.25,7109:465:1,0.86
+Micropogonias,ectenes,16.25,-98.25,7109:468:1,0.80
+Micropogonias,ectenes,16.75,-98.75,7109:468:4,0.82
+Micropogonias,ectenes,16.75,-99.25,7109:469:3,0.84
+Micropogonias,ectenes,16.75,-99.75,7109:469:4,0.84
+Micropogonias,ectenes,17.25,-100.25,7110:370:1,0.94
+Micropogonias,ectenes,17.25,-100.75,7110:370:2,0.94
+Micropogonias,ectenes,17.25,-101.25,7110:371:1,0.95
+Micropogonias,ectenes,17.75,-101.25,7110:371:3,0.97
+Micropogonias,ectenes,17.75,-101.75,7110:371:4,0.97
+Micropogonias,ectenes,17.75,-102.25,7110:372:3,1.00
+Micropogonias,ectenes,18.25,-102.25,7110:382:1,1.00
+Micropogonias,ectenes,18.25,-102.75,7110:382:2,1.00
+Micropogonias,ectenes,18.25,-103.25,7110:383:1,1.00
+Micropogonias,ectenes,18.25,-103.75,7110:383:2,1.00
+Micropogonias,ectenes,18.75,-103.75,7110:383:4,1.00
+Micropogonias,ectenes,18.75,-104.25,7110:384:3,1.00
+Micropogonias,ectenes,19.25,-104.25,7110:394:1,1.00
+Micropogonias,ectenes,19.25,-104.75,7110:394:2,1.00
+Micropogonias,ectenes,19.25,-105.25,7110:495:1,0.92
+Micropogonias,ectenes,19.75,-105.25,7110:495:3,1.00
+Micropogonias,ectenes,20.25,-105.25,7210:205:1,1.00
+Micropogonias,ectenes,20.25,-105.75,7210:205:2,1.00
+Micropogonias,ectenes,20.75,-105.25,7210:205:3,1.00
+Micropogonias,ectenes,20.75,-105.75,7210:205:4,1.00
+Micropogonias,ectenes,21.25,-105.25,7210:215:1,1.00
+Micropogonias,ectenes,21.75,-105.25,7210:215:3,1.00
+Micropogonias,ectenes,21.75,-105.75,7210:215:4,1.00
+Micropogonias,ectenes,21.25,-106.25,7210:216:1,1.00
+Micropogonias,ectenes,21.75,-106.25,7210:216:3,1.00
+Micropogonias,ectenes,21.75,-106.75,7210:216:4,1.00
+Micropogonias,ectenes,22.25,-105.75,7210:225:2,1.00
+Micropogonias,ectenes,22.25,-106.25,7210:226:1,1.00
+Micropogonias,ectenes,22.75,-106.25,7210:226:3,1.00
+Micropogonias,ectenes,22.75,-109.75,7210:229:4,0.93
+Micropogonias,ectenes,23.25,-106.25,7210:236:1,1.00
+Micropogonias,ectenes,23.25,-106.75,7210:236:2,1.00
+Micropogonias,ectenes,23.75,-106.75,7210:236:4,1.00
+Micropogonias,ectenes,23.75,-107.25,7210:237:3,1.00
+Micropogonias,ectenes,23.25,-109.25,7210:239:1,0.96
+Micropogonias,ectenes,23.25,-109.75,7210:239:2,0.93
+Micropogonias,ectenes,23.75,-109.25,7210:239:3,1.00
+Micropogonias,ectenes,23.75,-109.75,7210:239:4,1.00
+Micropogonias,ectenes,24.25,-107.25,7210:247:1,1.00
+Micropogonias,ectenes,24.25,-107.75,7210:247:2,1.00
+Micropogonias,ectenes,24.75,-107.75,7210:247:4,1.00
+Micropogonias,ectenes,24.75,-108.25,7210:248:3,1.00
+Micropogonias,ectenes,24.25,-109.75,7210:249:2,1.00
+Micropogonias,ectenes,25.25,-108.25,7210:458:1,0.93
+Micropogonias,ectenes,25.25,-108.75,7210:458:2,0.84
+Micropogonias,ectenes,25.25,-109.25,7210:459:1,1.00
+Micropogonias,ectenes,25.75,-109.25,7210:459:3,0.88
+Micropogonias,ectenes,22.75,-110.25,7211:120:3,0.90
+Micropogonias,ectenes,23.25,-110.25,7211:130:1,1.00
+Micropogonias,ectenes,23.75,-110.25,7211:130:3,1.00
+Micropogonias,ectenes,23.75,-110.75,7211:130:4,1.00
+Micropogonias,ectenes,24.25,-110.25,7211:140:1,1.00
+Micropogonias,ectenes,24.25,-110.75,7211:140:2,1.00
+Micropogonias,ectenes,24.75,-110.25,7211:140:3,1.00
+Micropogonias,ectenes,24.75,-110.75,7211:140:4,1.00
+Micropogonias,ectenes,24.25,-111.25,7211:141:1,1.00
+Micropogonias,ectenes,24.25,-111.75,7211:141:2,1.00
+Micropogonias,ectenes,24.75,-111.75,7211:141:4,1.00
+Micropogonias,ectenes,24.75,-112.25,7211:142:3,1.00
+Micropogonias,ectenes,25.25,-110.75,7211:350:2,1.00
+Micropogonias,ectenes,25.75,-110.75,7211:350:4,1.00
+Micropogonias,ectenes,25.75,-111.25,7211:351:3,1.00
+Micropogonias,ectenes,25.25,-112.25,7211:352:1,0.91
+Micropogonias,ectenes,25.75,-112.25,7211:352:3,0.91
+Micropogonias,ectenes,25.75,-112.75,7211:352:4,0.91
+Micropogonias,ectenes,26.75,-111.25,7211:361:3,0.81
+Micropogonias,ectenes,26.75,-111.75,7211:361:4,0.81
+Micropogonias,ectenes,26.25,-112.25,7211:362:1,0.94
+Micropogonias,ectenes,26.25,-112.75,7211:362:2,0.94
+Micropogonias,ectenes,26.75,-112.75,7211:362:4,0.94
+
+
+Occurrence cells used for creating environmental envelope (n = 24)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Micropogonias,ectenes,16.75,-99.75,7109:469:4,705,29.1,34.06,907,0,17
+Micropogonias,ectenes,17.75,-102.75,7110:372:4,1970,28.41,34.06,692,0,85
+Micropogonias,ectenes,17.75,-102.25,7110:372:3,932,28.41,34.06,938,0,26
+Micropogonias,ectenes,18.25,-102.25,7110:382:1,15,28.16,34.06,854,0,1
+Micropogonias,ectenes,19.25,-104.25,7110:394:1,111,27.47,34.43,955,0,5
+Micropogonias,ectenes,21.25,-105.25,7210:215:1,79,26.89,34.68,1305,0,16
+Micropogonias,ectenes,21.75,-105.25,7210:215:3,19,26.89,34.68,1192,0,6
+Micropogonias,ectenes,22.25,-105.75,7210:225:2,52,26.81,34.79,1399,0,19
+Micropogonias,ectenes,22.75,-109.75,7210:229:4,1826,25.18,34.68,656,0,24
+Micropogonias,ectenes,22.75,-106.25,7210:226:3,176,26.56,34.79,998,0,25
+Micropogonias,ectenes,22.75,-105.75,7210:225:4,21,26.81,34.79,1808,0,8
+Micropogonias,ectenes,23.25,-106.25,7210:236:1,63,26.34,34.79,1429,0,8
+Micropogonias,ectenes,23.75,-106.75,7210:236:4,28,26.34,34.93,1608,0,11
+Micropogonias,ectenes,24.25,-111.75,7211:141:2,146,23.23,34.27,997,0,24
+Micropogonias,ectenes,24.25,-110.75,7211:140:2,78,24.24,34.45,890,0,5
+Micropogonias,ectenes,24.25,-110.25,7211:140:1,189,24.24,35.04,809,0,13
+Micropogonias,ectenes,24.25,-107.75,7210:247:2,79,25.89,35.11,1070,0,50
+Micropogonias,ectenes,24.75,-112.25,7211:142:3,123,22.47,34.27,968,0,24
+Micropogonias,ectenes,24.75,-111.75,7211:141:4,63,23.23,34.27,896,0,8
+Micropogonias,ectenes,25.25,-109.25,7210:459:1,1250,25.23,35.04,1007,0,90
+Micropogonias,ectenes,25.75,-109.25,7210:459:3,158,25.23,35.06,1673,0,16
+Micropogonias,ectenes,26.25,-112.25,7211:362:1,5,22.33,34.27,1228,0,6
+Micropogonias,ectenes,26.75,-111.75,7211:361:4,219,23.17,35.31,1171,0,12
+Micropogonias,ectenes,26.75,-109.75,7210:469:4,151,25.04,35.34,1461,0,17

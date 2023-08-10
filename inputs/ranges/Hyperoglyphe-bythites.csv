@@ -1,0 +1,109 @@
+Mapping parameters for Hyperoglyphe bythites (Black driftfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 31,
+Bounding Box (NSWE): ,30,29,-87,-89
+
+Pelagic: True,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,47,184,403
+Temperature (°C),1,23.38,24.07,25.07,29.27
+Salinity (psu),1,18.12,26.83,36.32,36.82
+Primary Production (mgC·m-3·day-1) ,1,2.35,3.35,36.63,58.96
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,152.29,182.43,235.03,259.38
+Distance to Land (km),0,15,18,244.5,385
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 67): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Hyperoglyphe,bythites,29.75,-71.25,7207:391:3,0.08
+Hyperoglyphe,bythites,29.75,-71.75,7207:391:4,0.17
+Hyperoglyphe,bythites,29.25,-73.25,7207:393:1,0.01
+Hyperoglyphe,bythites,29.25,-73.75,7207:393:2,0.11
+Hyperoglyphe,bythites,29.25,-74.25,7207:394:1,0.07
+Hyperoglyphe,bythites,29.75,-74.75,7207:394:4,0.18
+Hyperoglyphe,bythites,29.75,-75.25,7207:495:3,0.07
+Hyperoglyphe,bythites,29.75,-75.75,7207:495:4,0.13
+Hyperoglyphe,bythites,29.25,-77.25,7207:497:1,0.02
+Hyperoglyphe,bythites,29.25,-78.75,7207:498:2,0.11
+Hyperoglyphe,bythites,29.25,-82.75,7208:392:2,0.08
+Hyperoglyphe,bythites,29.25,-83.25,7208:393:1,0.14
+Hyperoglyphe,bythites,29.25,-83.75,7208:393:2,0.09
+Hyperoglyphe,bythites,29.75,-83.75,7208:393:4,0.01
+Hyperoglyphe,bythites,29.25,-84.25,7208:394:1,0.05
+Hyperoglyphe,bythites,29.75,-84.25,7208:394:3,0.07
+Hyperoglyphe,bythites,29.75,-84.75,7208:394:4,0.08
+Hyperoglyphe,bythites,29.75,-89.25,7208:499:3,0.05
+Hyperoglyphe,bythites,29.75,-89.75,7208:499:4,0.10
+Hyperoglyphe,bythites,29.75,-91.25,7209:391:3,0.09
+Hyperoglyphe,bythites,29.75,-91.75,7209:391:4,0.08
+Hyperoglyphe,bythites,29.75,-92.25,7209:392:3,0.13
+Hyperoglyphe,bythites,29.75,-92.75,7209:392:4,0.11
+Hyperoglyphe,bythites,29.25,-93.25,7209:393:1,0.06
+Hyperoglyphe,bythites,29.75,-93.25,7209:393:3,0.04
+Hyperoglyphe,bythites,29.25,-94.25,7209:394:1,0.12
+Hyperoglyphe,bythites,29.25,-94.75,7209:394:2,0.02
+Hyperoglyphe,bythites,29.25,-95.25,7209:495:1,0.03
+Hyperoglyphe,bythites,29.75,-72.25,7207:392:3,0.22
+Hyperoglyphe,bythites,29.75,-72.75,7207:392:4,0.25
+Hyperoglyphe,bythites,29.75,-73.25,7207:393:3,0.33
+Hyperoglyphe,bythites,29.75,-73.75,7207:393:4,0.39
+Hyperoglyphe,bythites,29.75,-74.25,7207:394:3,0.38
+Hyperoglyphe,bythites,29.75,-76.25,7207:496:3,0.31
+Hyperoglyphe,bythites,29.75,-76.75,7207:496:4,0.39
+Hyperoglyphe,bythites,29.75,-77.25,7207:497:3,0.33
+Hyperoglyphe,bythites,29.75,-77.75,7207:497:4,0.30
+Hyperoglyphe,bythites,29.75,-78.25,7207:498:3,0.20
+Hyperoglyphe,bythites,29.75,-78.75,7207:498:4,0.28
+Hyperoglyphe,bythites,29.25,-81.25,7208:391:1,0.30
+Hyperoglyphe,bythites,29.75,-81.25,7208:391:3,0.21
+Hyperoglyphe,bythites,29.75,-85.25,7208:495:3,0.32
+Hyperoglyphe,bythites,29.25,-86.75,7208:496:2,0.31
+Hyperoglyphe,bythites,29.25,-93.75,7209:393:2,0.27
+Hyperoglyphe,bythites,29.25,-79.75,7207:499:2,0.54
+Hyperoglyphe,bythites,29.75,-79.75,7207:499:4,0.55
+Hyperoglyphe,bythites,29.25,-91.25,7209:391:1,0.41
+Hyperoglyphe,bythites,29.25,-92.75,7209:392:2,0.41
+Hyperoglyphe,bythites,29.25,-79.25,7207:499:1,0.63
+Hyperoglyphe,bythites,29.75,-79.25,7207:499:3,0.65
+Hyperoglyphe,bythites,29.25,-80.25,7208:390:1,0.79
+Hyperoglyphe,bythites,29.75,-80.25,7208:390:3,0.75
+Hyperoglyphe,bythites,29.25,-84.75,7208:394:2,0.71
+Hyperoglyphe,bythites,29.75,-85.75,7208:495:4,0.74
+Hyperoglyphe,bythites,29.25,-89.75,7208:499:2,0.67
+Hyperoglyphe,bythites,29.25,-91.75,7209:391:2,0.67
+Hyperoglyphe,bythites,29.25,-92.25,7209:392:1,0.63
+Hyperoglyphe,bythites,29.25,-80.75,7208:390:2,1.00
+Hyperoglyphe,bythites,29.75,-80.75,7208:390:4,0.89
+Hyperoglyphe,bythites,29.25,-85.25,7208:495:1,1.00
+Hyperoglyphe,bythites,29.25,-85.75,7208:495:2,1.00
+Hyperoglyphe,bythites,29.25,-86.25,7208:496:1,0.84
+Hyperoglyphe,bythites,29.75,-86.25,7208:496:3,1.00
+Hyperoglyphe,bythites,29.75,-86.75,7208:496:4,1.00
+Hyperoglyphe,bythites,29.25,-89.25,7208:499:1,0.94
+Hyperoglyphe,bythites,29.25,-90.25,7209:390:1,0.85
+Hyperoglyphe,bythites,29.25,-90.75,7209:390:2,0.97
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Hyperoglyphe,bythites,29.25,-80.75,7208:390:2,17,24.4598178863525,24.6653156280518,36.2400360107422,36.1438941955566,12.4159995466471,0,212.57878112793,22
+Hyperoglyphe,bythites,29.25,-85.25,7208:495:1,38,24.260705947876,23.2078990936279,35.130313873291,36.106819152832,3.89700010418892,0,223.099807739258,97
+Hyperoglyphe,bythites,29.25,-89.75,7208:499:2,17,24.0517978668213,24.6642093658447,26.4630584716797,35.0210342407227,42.8650006651878,0,234.340377807617,21
+Hyperoglyphe,bythites,29.25,-90.25,7209:390:1,5,24.1209011077881,24.3510475158691,27.1976985931396,33.0015029907227,30.3923077881336,0,228.489501953125,15
+Hyperoglyphe,bythites,29.75,-76.75,7207:496:4,1617,25.3565044403076,4.16088104248047,36.3996124267578,35.029613494873,2.84299999475479,0,235.719299316406,385
+Hyperoglyphe,bythites,29.75,-86.75,7208:496:4,198,24.7441692352295,18.4456233978271,33.7076950073242,36.2440910339355,3.8479999639093903,0,152.285140991211,104

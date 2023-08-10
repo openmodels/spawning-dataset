@@ -1,0 +1,184 @@
+Mapping parameters for Pontinus helena ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 31,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,200,222,295,400
+Temperature (°C),1,26.38,26.91,27.91,32.11
+Salinity (psu),1,31.37,34.12,36.27,39.05
+Primary Production,1,458.75,506.3,606.7,694.75
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,24,49.5,354.700012207031,720.25
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 144): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Pontinus,helena,-16.75,-38.75,5103:468:4,0.04
+Pontinus,helena,2.25,-47.75,7004:227:2,0.01
+Pontinus,helena,9.25,-77.75,7007:497:2,0.07
+Pontinus,helena,8.75,-80.75,7008:380:4,0.07
+Pontinus,helena,12.25,-61.25,7106:121:1,0.10
+Pontinus,helena,13.75,-63.25,7106:133:3,0.07
+Pontinus,helena,10.75,-65.25,7106:205:3,0.03
+Pontinus,helena,12.25,-66.25,7106:226:1,0.18
+Pontinus,helena,12.25,-68.25,7106:228:1,0.11
+Pontinus,helena,16.25,-86.75,7108:466:2,0.05
+Pontinus,helena,18.75,-94.75,7109:384:4,0.17
+Pontinus,helena,19.25,-95.25,7109:495:1,0.09
+Pontinus,helena,19.25,-95.75,7109:495:2,0.06
+Pontinus,helena,22.25,-75.75,7207:225:2,0.10
+Pontinus,helena,22.25,-77.75,7207:227:2,0.09
+Pontinus,helena,22.75,-79.25,7207:229:3,0.05
+Pontinus,helena,23.75,-78.75,7207:238:4,0.01
+Pontinus,helena,23.75,-79.75,7207:239:4,0.09
+Pontinus,helena,24.25,-77.75,7207:247:2,0.12
+Pontinus,helena,26.25,-77.75,7207:467:2,0.05
+Pontinus,helena,26.75,-77.25,7207:467:3,0.05
+Pontinus,helena,26.75,-77.75,7207:467:4,0.03
+Pontinus,helena,23.25,-81.25,7208:131:1,0.17
+Pontinus,helena,25.25,-80.25,7208:350:1,0.13
+Pontinus,helena,20.25,-92.25,7209:102:1,0.14
+Pontinus,helena,-2.75,-40.75,5004:120:4,0.36
+Pontinus,helena,-2.75,-41.25,5004:121:3,0.32
+Pontinus,helena,-12.75,-38.25,5103:228:3,0.32
+Pontinus,helena,8.25,-58.25,7005:488:1,0.26
+Pontinus,helena,8.75,-58.25,7005:488:3,0.28
+Pontinus,helena,9.25,-80.75,7008:390:2,0.34
+Pontinus,helena,13.75,-61.25,7106:131:3,0.36
+Pontinus,helena,10.75,-66.75,7106:206:4,0.24
+Pontinus,helena,11.75,-73.25,7107:113:3,0.27
+Pontinus,helena,16.25,-88.25,7108:468:1,0.26
+Pontinus,helena,18.75,-94.25,7109:384:3,0.21
+Pontinus,helena,21.75,-78.75,7207:218:4,0.29
+Pontinus,helena,22.75,-78.75,7207:228:4,0.21
+Pontinus,helena,23.75,-79.25,7207:239:3,0.38
+Pontinus,helena,24.75,-77.75,7207:247:4,0.30
+Pontinus,helena,25.25,-76.75,7207:456:2,0.23
+Pontinus,helena,25.25,-77.75,7207:457:2,0.27
+Pontinus,helena,25.75,-77.75,7207:457:4,0.38
+Pontinus,helena,26.75,-78.25,7207:468:3,0.32
+Pontinus,helena,22.25,-82.75,7208:122:2,0.21
+Pontinus,helena,22.75,-83.25,7208:123:3,0.33
+Pontinus,helena,24.75,-80.25,7208:140:3,0.35
+Pontinus,helena,25.75,-80.25,7208:350:3,0.34
+Pontinus,helena,-15.75,-38.75,5103:458:4,0.59
+Pontinus,helena,7.75,-57.75,7005:477:4,0.45
+Pontinus,helena,9.75,-59.25,7005:499:3,0.50
+Pontinus,helena,8.75,-81.25,7008:381:3,0.56
+Pontinus,helena,12.25,-72.75,7107:122:2,0.59
+Pontinus,helena,15.75,-88.25,7108:458:3,0.45
+Pontinus,helena,16.25,-87.25,7108:467:1,0.48
+Pontinus,helena,16.25,-87.75,7108:467:2,0.57
+Pontinus,helena,19.25,-93.25,7109:393:1,0.56
+Pontinus,helena,19.25,-93.75,7109:393:2,0.43
+Pontinus,helena,21.25,-72.25,7207:112:1,0.42
+Pontinus,helena,20.25,-77.75,7207:207:2,0.45
+Pontinus,helena,20.75,-78.75,7207:208:4,0.50
+Pontinus,helena,21.25,-79.75,7207:219:2,0.47
+Pontinus,helena,23.25,-75.75,7207:235:2,0.48
+Pontinus,helena,26.25,-79.25,7207:469:1,0.40
+Pontinus,helena,21.75,-81.75,7208:111:4,0.53
+Pontinus,helena,21.75,-82.25,7208:112:3,0.59
+Pontinus,helena,-9.75,-35.75,5003:495:4,0.60
+Pontinus,helena,1.25,-46.75,7004:216:2,0.77
+Pontinus,helena,7.25,-56.25,7005:476:1,0.69
+Pontinus,helena,7.75,-56.25,7005:476:3,0.76
+Pontinus,helena,7.75,-57.25,7005:477:3,0.62
+Pontinus,helena,9.25,-59.25,7005:499:1,0.73
+Pontinus,helena,9.25,-77.25,7007:497:1,0.72
+Pontinus,helena,10.75,-67.25,7106:207:3,0.74
+Pontinus,helena,10.75,-67.75,7106:207:4,0.74
+Pontinus,helena,12.75,-72.25,7107:122:3,0.72
+Pontinus,helena,16.25,-84.25,7108:364:1,0.61
+Pontinus,helena,16.25,-85.25,7108:465:1,0.79
+Pontinus,helena,17.25,-87.75,7108:477:2,0.73
+Pontinus,helena,19.25,-87.75,7108:497:2,0.64
+Pontinus,helena,19.25,-91.75,7109:391:2,0.77
+Pontinus,helena,19.25,-92.75,7109:392:2,0.69
+Pontinus,helena,22.25,-77.25,7207:227:1,0.60
+Pontinus,helena,24.75,-78.75,7207:248:4,0.72
+Pontinus,helena,24.25,-79.25,7207:249:1,0.66
+Pontinus,helena,21.75,-81.25,7208:111:3,0.64
+Pontinus,helena,23.25,-82.25,7208:132:1,0.79
+Pontinus,helena,-4.75,-36.25,5003:246:3,1.00
+Pontinus,helena,-10.25,-36.25,5103:206:1,0.95
+Pontinus,helena,-12.25,-37.75,5103:227:2,0.94
+Pontinus,helena,0.75,-45.75,7004:205:4,1.00
+Pontinus,helena,7.25,-55.25,7005:475:1,1.00
+Pontinus,helena,7.25,-55.75,7005:475:2,0.95
+Pontinus,helena,7.75,-56.75,7005:476:4,1.00
+Pontinus,helena,8.25,-57.25,7005:487:1,0.85
+Pontinus,helena,8.25,-57.75,7005:487:2,1.00
+Pontinus,helena,8.75,-57.75,7005:487:4,1.00
+Pontinus,helena,9.75,-78.25,7007:498:3,0.97
+Pontinus,helena,9.75,-80.25,7008:390:3,0.95
+Pontinus,helena,10.25,-59.75,7105:209:2,0.89
+Pontinus,helena,12.75,-61.25,7106:121:3,1.00
+Pontinus,helena,13.25,-61.25,7106:131:1,1.00
+Pontinus,helena,11.25,-65.75,7106:215:2,1.00
+Pontinus,helena,11.25,-66.25,7106:216:1,0.99
+Pontinus,helena,11.25,-66.75,7106:216:2,0.99
+Pontinus,helena,11.75,-66.25,7106:216:3,0.90
+Pontinus,helena,11.25,-67.75,7106:217:2,0.97
+Pontinus,helena,11.75,-67.25,7106:217:3,0.97
+Pontinus,helena,11.75,-67.75,7106:217:4,0.97
+Pontinus,helena,11.25,-68.25,7106:218:1,0.97
+Pontinus,helena,11.75,-68.75,7106:218:4,0.80
+Pontinus,helena,12.25,-66.75,7106:226:2,1.00
+Pontinus,helena,12.25,-67.25,7106:227:1,0.97
+Pontinus,helena,12.25,-67.75,7106:227:2,0.83
+Pontinus,helena,12.25,-69.75,7106:229:2,1.00
+Pontinus,helena,12.75,-70.25,7107:120:3,1.00
+Pontinus,helena,12.75,-71.25,7107:121:3,1.00
+Pontinus,helena,10.25,-76.25,7107:206:1,0.92
+Pontinus,helena,16.25,-84.75,7108:364:2,0.99
+Pontinus,helena,15.75,-87.25,7108:457:3,0.92
+Pontinus,helena,16.25,-85.75,7108:465:2,0.99
+Pontinus,helena,16.25,-86.25,7108:466:1,0.89
+Pontinus,helena,16.75,-87.75,7108:467:4,0.95
+Pontinus,helena,17.75,-87.75,7108:477:4,0.91
+Pontinus,helena,18.75,-87.75,7108:487:4,1.00
+Pontinus,helena,19.75,-87.75,7108:497:4,1.00
+Pontinus,helena,19.75,-91.75,7109:391:4,1.00
+Pontinus,helena,19.75,-92.25,7109:392:3,0.91
+Pontinus,helena,19.75,-92.75,7109:392:4,0.90
+Pontinus,helena,20.75,-78.25,7207:208:3,0.98
+Pontinus,helena,21.25,-78.75,7207:218:2,0.83
+Pontinus,helena,21.75,-79.75,7207:219:4,1.00
+Pontinus,helena,22.25,-76.75,7207:226:2,0.85
+Pontinus,helena,22.75,-78.25,7207:228:3,0.89
+Pontinus,helena,23.25,-76.25,7207:236:1,0.90
+Pontinus,helena,23.75,-76.25,7207:236:3,0.90
+Pontinus,helena,24.25,-77.25,7207:247:1,0.84
+Pontinus,helena,24.25,-78.75,7207:248:2,0.95
+Pontinus,helena,21.75,-84.75,7208:114:4,1.00
+Pontinus,helena,22.25,-80.75,7208:120:2,1.00
+Pontinus,helena,22.25,-81.25,7208:121:1,1.00
+Pontinus,helena,22.25,-81.75,7208:121:2,1.00
+Pontinus,helena,22.75,-83.75,7208:123:4,1.00
+Pontinus,helena,23.25,-81.75,7208:131:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Pontinus,helena,8.75,-54.75,7005:384:4,2638,27.72,34.03,606,0,333
+Pontinus,helena,9.75,-56.75,7005:496:4,3533,27.77,34.32,479,0,364
+Pontinus,helena,11.25,-68.25,7106:218:1,356,27.26,36.34,570,0,24
+Pontinus,helena,11.75,-65.75,7106:215:4,1395,26.98,36.11,607,0,109

@@ -1,0 +1,146 @@
+Mapping parameters for Ventrifossa misakia (Misaki grenadier)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 61,
+Bounding Box (NSWE): ,38,25,125,144
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,387,394,422,455
+Temperature (°C),1,1.38,1.88,17.66,28.46
+Salinity (psu),1,33.86,34.36,34.62,35.12
+Primary Production,1,393.5,548.5,953.5,1181
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,10.5,11.5,184.5,269.625
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 104): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Ventrifossa,misakia,26.75,125.25,1212:465:3,0.16
+Ventrifossa,misakia,29.75,128.75,1212:498:4,0.12
+Ventrifossa,misakia,30.25,129.75,1312:209:2,0.08
+Ventrifossa,misakia,30.25,130.25,1313:100:1,0.05
+Ventrifossa,misakia,32.75,131.75,1313:121:4,0.17
+Ventrifossa,misakia,32.25,133.25,1313:123:1,0.05
+Ventrifossa,misakia,33.25,139.75,1313:239:2,0.18
+Ventrifossa,misakia,33.25,140.25,1314:130:1,0.19
+Ventrifossa,misakia,37.75,141.75,1314:371:4,0.16
+Ventrifossa,misakia,29.25,127.25,1212:497:1,0.31
+Ventrifossa,misakia,29.75,128.25,1212:498:3,0.25
+Ventrifossa,misakia,29.75,130.75,1213:390:4,0.25
+Ventrifossa,misakia,30.25,129.25,1312:209:1,0.28
+Ventrifossa,misakia,30.75,129.25,1312:209:3,0.34
+Ventrifossa,misakia,30.75,129.75,1312:209:4,0.27
+Ventrifossa,misakia,36.75,129.75,1312:469:4,0.33
+Ventrifossa,misakia,30.75,130.25,1313:100:3,0.35
+Ventrifossa,misakia,30.25,131.25,1313:101:1,0.27
+Ventrifossa,misakia,31.25,131.25,1313:111:1,0.33
+Ventrifossa,misakia,31.25,131.75,1313:111:2,0.25
+Ventrifossa,misakia,31.75,132.25,1313:112:3,0.35
+Ventrifossa,misakia,32.75,132.75,1313:122:4,0.34
+Ventrifossa,misakia,33.75,139.75,1313:239:4,0.30
+Ventrifossa,misakia,35.75,133.75,1313:353:4,0.35
+Ventrifossa,misakia,36.25,133.75,1313:363:2,0.34
+Ventrifossa,misakia,37.25,138.25,1313:478:1,0.38
+Ventrifossa,misakia,33.75,140.25,1314:130:3,0.28
+Ventrifossa,misakia,37.25,141.75,1314:371:2,0.29
+Ventrifossa,misakia,29.75,127.75,1212:497:4,0.51
+Ventrifossa,misakia,30.25,128.25,1312:208:1,0.51
+Ventrifossa,misakia,31.25,128.75,1312:218:2,0.59
+Ventrifossa,misakia,37.75,128.75,1312:478:4,0.44
+Ventrifossa,misakia,30.25,130.75,1313:100:2,0.49
+Ventrifossa,misakia,30.75,131.25,1313:101:3,0.44
+Ventrifossa,misakia,31.25,130.25,1313:110:1,0.58
+Ventrifossa,misakia,32.25,132.75,1313:122:2,0.40
+Ventrifossa,misakia,32.75,133.75,1313:123:4,0.58
+Ventrifossa,misakia,33.25,135.75,1313:235:2,0.58
+Ventrifossa,misakia,33.75,139.25,1313:239:3,0.55
+Ventrifossa,misakia,35.75,134.25,1313:354:3,0.40
+Ventrifossa,misakia,36.75,136.25,1313:466:3,0.43
+Ventrifossa,misakia,36.75,137.25,1313:467:3,0.52
+Ventrifossa,misakia,37.75,136.75,1313:476:4,0.57
+Ventrifossa,misakia,37.25,137.25,1313:477:1,0.57
+Ventrifossa,misakia,37.75,138.75,1313:478:4,0.54
+Ventrifossa,misakia,34.75,140.75,1314:140:4,0.44
+Ventrifossa,misakia,36.75,141.25,1314:361:3,0.44
+Ventrifossa,misakia,30.25,127.75,1312:207:2,0.74
+Ventrifossa,misakia,30.75,128.25,1312:208:3,0.66
+Ventrifossa,misakia,31.25,129.25,1312:219:1,0.65
+Ventrifossa,misakia,31.25,129.75,1312:219:2,0.68
+Ventrifossa,misakia,32.25,131.75,1313:121:2,0.64
+Ventrifossa,misakia,32.25,132.25,1313:122:1,0.79
+Ventrifossa,misakia,33.25,134.75,1313:134:2,0.74
+Ventrifossa,misakia,33.75,134.75,1313:134:4,0.74
+Ventrifossa,misakia,33.75,138.75,1313:238:4,0.67
+Ventrifossa,misakia,34.25,139.75,1313:249:2,0.66
+Ventrifossa,misakia,35.75,134.75,1313:354:4,0.68
+Ventrifossa,misakia,35.75,141.25,1314:351:3,0.72
+Ventrifossa,misakia,31.25,128.25,1312:218:1,0.80
+Ventrifossa,misakia,31.75,128.25,1312:218:3,1.00
+Ventrifossa,misakia,31.75,128.75,1312:218:4,0.97
+Ventrifossa,misakia,31.75,129.75,1312:219:4,0.91
+Ventrifossa,misakia,32.25,128.25,1312:228:1,1.00
+Ventrifossa,misakia,32.25,128.75,1312:228:2,1.00
+Ventrifossa,misakia,32.75,128.25,1312:228:3,1.00
+Ventrifossa,misakia,32.25,129.25,1312:229:1,0.90
+Ventrifossa,misakia,32.25,129.75,1312:229:2,1.00
+Ventrifossa,misakia,31.75,131.75,1313:111:4,1.00
+Ventrifossa,misakia,32.75,132.25,1313:122:3,1.00
+Ventrifossa,misakia,32.75,133.25,1313:123:3,0.81
+Ventrifossa,misakia,33.25,133.75,1313:133:2,1.00
+Ventrifossa,misakia,33.25,134.25,1313:134:1,0.82
+Ventrifossa,misakia,33.75,135.25,1313:235:3,1.00
+Ventrifossa,misakia,33.75,135.75,1313:235:4,0.90
+Ventrifossa,misakia,33.75,136.25,1313:236:3,1.00
+Ventrifossa,misakia,34.25,136.25,1313:246:1,0.80
+Ventrifossa,misakia,34.25,136.75,1313:246:2,0.90
+Ventrifossa,misakia,34.25,137.25,1313:247:1,1.00
+Ventrifossa,misakia,34.75,137.75,1313:247:4,1.00
+Ventrifossa,misakia,34.25,138.25,1313:248:1,1.00
+Ventrifossa,misakia,34.25,138.75,1313:248:2,1.00
+Ventrifossa,misakia,34.75,138.25,1313:248:3,1.00
+Ventrifossa,misakia,34.75,138.75,1313:248:4,1.00
+Ventrifossa,misakia,34.25,139.25,1313:249:1,1.00
+Ventrifossa,misakia,34.75,139.25,1313:249:3,0.86
+Ventrifossa,misakia,34.75,139.75,1313:249:4,1.00
+Ventrifossa,misakia,35.75,135.25,1313:455:3,0.84
+Ventrifossa,misakia,35.25,138.75,1313:458:2,1.00
+Ventrifossa,misakia,35.25,139.25,1313:459:1,1.00
+Ventrifossa,misakia,35.25,139.75,1313:459:2,1.00
+Ventrifossa,misakia,37.75,137.25,1313:477:3,0.82
+Ventrifossa,misakia,34.75,140.25,1314:140:3,1.00
+Ventrifossa,misakia,35.25,140.25,1314:350:1,0.87
+Ventrifossa,misakia,35.25,140.75,1314:350:2,1.00
+Ventrifossa,misakia,35.75,140.25,1314:350:3,0.82
+Ventrifossa,misakia,35.75,140.75,1314:350:4,0.82
+Ventrifossa,misakia,35.25,141.25,1314:351:1,1.00
+Ventrifossa,misakia,36.25,140.75,1314:360:2,0.90
+Ventrifossa,misakia,36.75,140.75,1314:360:4,0.99
+Ventrifossa,misakia,36.25,141.25,1314:361:1,0.86
+Ventrifossa,misakia,36.75,141.75,1314:361:4,1.00
+Ventrifossa,misakia,37.25,141.25,1314:371:1,0.90
+Ventrifossa,misakia,37.75,142.25,1314:372:3,0.87
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Ventrifossa,misakia,34.75,136.75,1313:246:4,16,21.39,34.34,1181,0,15
+Ventrifossa,misakia,35.25,141.25,1314:351:1,1787,20.54,34.47,651,0,117
+Ventrifossa,misakia,35.25,139.25,1313:459:1,421,20.45,34.43,620,0,11
+Ventrifossa,misakia,36.75,141.75,1314:361:4,1446,19.4,34.2,569,0,111
+Ventrifossa,misakia,36.75,140.75,1314:360:4,89,19.95,34.2,726,0,12
+Ventrifossa,misakia,37.25,143.75,1314:373:2,7119,17.51,34.14,528,0,252

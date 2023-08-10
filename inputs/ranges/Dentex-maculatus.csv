@@ -1,0 +1,225 @@
+Mapping parameters for Semicossyphus darwini (Gal√°pagos sheephead wrasse)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 87,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,3,13,51,100
+Temperature (∞C),1,14.45,17.02,25.59,29.79
+Salinity (psu),1,33.36,33.86,34.95,35.45
+Primary Production,1,392,445,2336,2647
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,2,7,111,211.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 155): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Semicossyphus,darwini,-9.25,-79.75,5007:499:2,0.03
+Semicossyphus,darwini,-0.75,-80.75,5008:100:4,0.04
+Semicossyphus,darwini,-10.25,-78.75,5107:208:2,0.06
+Semicossyphus,darwini,-13.25,-76.75,5107:236:2,0.19
+Semicossyphus,darwini,-16.25,-72.75,5107:362:2,0.15
+Semicossyphus,darwini,-16.75,-73.25,5107:363:3,0.15
+Semicossyphus,darwini,-23.75,-70.75,5207:130:4,0.06
+Semicossyphus,darwini,-34.25,-72.25,5307:142:1,0.17
+Semicossyphus,darwini,-33.75,-79.25,5307:239:3,0.01
+Semicossyphus,darwini,-35.25,-72.25,5307:352:1,0.12
+Semicossyphus,darwini,-35.25,-72.75,5307:352:2,0.04
+Semicossyphus,darwini,-35.75,-72.75,5307:352:4,0.12
+Semicossyphus,darwini,-36.25,-72.75,5307:362:2,0.05
+Semicossyphus,darwini,-36.75,-72.75,5307:362:4,0.05
+Semicossyphus,darwini,-9.25,-79.25,5007:499:1,0.24
+Semicossyphus,darwini,-31.75,-71.25,5307:111:3,0.38
+Semicossyphus,darwini,-33.25,-71.75,5307:131:2,0.35
+Semicossyphus,darwini,-33.75,-71.75,5307:131:4,0.35
+Semicossyphus,darwini,-33.75,-72.25,5307:132:3,0.36
+Semicossyphus,darwini,-34.25,-71.75,5307:141:2,0.28
+Semicossyphus,darwini,-34.75,-72.25,5307:142:3,0.23
+Semicossyphus,darwini,-4.75,-81.25,5008:141:3,0.41
+Semicossyphus,darwini,-6.25,-81.25,5008:361:1,0.58
+Semicossyphus,darwini,-10.75,-78.25,5107:208:3,0.47
+Semicossyphus,darwini,-11.25,-77.25,5107:217:1,0.54
+Semicossyphus,darwini,-11.25,-77.75,5107:217:2,0.48
+Semicossyphus,darwini,-11.75,-77.75,5107:217:4,0.54
+Semicossyphus,darwini,-30.25,-71.25,5307:101:1,0.59
+Semicossyphus,darwini,-30.25,-71.75,5307:101:2,0.59
+Semicossyphus,darwini,-30.75,-71.75,5307:101:4,0.59
+Semicossyphus,darwini,-31.25,-71.75,5307:111:2,0.51
+Semicossyphus,darwini,-31.75,-71.75,5307:111:4,0.51
+Semicossyphus,darwini,-32.25,-71.25,5307:121:1,0.43
+Semicossyphus,darwini,-32.25,-71.75,5307:121:2,0.43
+Semicossyphus,darwini,-32.75,-71.25,5307:121:3,0.43
+Semicossyphus,darwini,-32.75,-71.75,5307:121:4,0.43
+Semicossyphus,darwini,-7.75,-79.25,5007:479:3,0.78
+Semicossyphus,darwini,-8.25,-78.75,5007:488:2,0.78
+Semicossyphus,darwini,-8.75,-78.75,5007:488:4,0.78
+Semicossyphus,darwini,-8.25,-79.25,5007:489:1,0.78
+Semicossyphus,darwini,-8.25,-79.75,5007:489:2,0.78
+Semicossyphus,darwini,-8.75,-79.25,5007:489:3,0.72
+Semicossyphus,darwini,-8.75,-79.75,5007:489:4,0.78
+Semicossyphus,darwini,-9.25,-78.25,5007:498:1,0.72
+Semicossyphus,darwini,-9.25,-78.75,5007:498:2,0.72
+Semicossyphus,darwini,-9.75,-78.25,5007:498:3,0.60
+Semicossyphus,darwini,-9.75,-78.75,5007:498:4,0.72
+Semicossyphus,darwini,-1.25,-80.75,5008:110:2,0.78
+Semicossyphus,darwini,-1.75,-80.75,5008:110:4,0.78
+Semicossyphus,darwini,-1.25,-81.25,5008:111:1,0.78
+Semicossyphus,darwini,-1.75,-81.25,5008:111:3,0.78
+Semicossyphus,darwini,-6.25,-80.75,5008:360:2,0.64
+Semicossyphus,darwini,-10.25,-77.75,5107:207:2,0.60
+Semicossyphus,darwini,-10.75,-77.75,5107:207:4,0.60
+Semicossyphus,darwini,-10.25,-78.25,5107:208:1,0.60
+Semicossyphus,darwini,-12.75,-76.25,5107:226:3,0.76
+Semicossyphus,darwini,-13.25,-76.25,5107:236:1,0.67
+Semicossyphus,darwini,-15.75,-73.75,5107:353:4,0.78
+Semicossyphus,darwini,-15.25,-74.75,5107:354:2,0.78
+Semicossyphus,darwini,-15.75,-74.25,5107:354:3,0.78
+Semicossyphus,darwini,-15.75,-74.75,5107:354:4,0.78
+Semicossyphus,darwini,-16.75,-72.25,5107:362:3,0.74
+Semicossyphus,darwini,-16.75,-72.75,5107:362:4,0.74
+Semicossyphus,darwini,-16.25,-73.25,5107:363:1,0.78
+Semicossyphus,darwini,-16.25,-73.75,5107:363:2,0.78
+Semicossyphus,darwini,-17.75,-70.75,5107:370:4,0.78
+Semicossyphus,darwini,-17.25,-71.25,5107:371:1,0.74
+Semicossyphus,darwini,-17.25,-71.75,5107:371:2,0.74
+Semicossyphus,darwini,-17.75,-71.25,5107:371:3,0.78
+Semicossyphus,darwini,-18.25,-70.25,5107:380:1,0.78
+Semicossyphus,darwini,-18.25,-70.75,5107:380:2,0.78
+Semicossyphus,darwini,-18.75,-70.25,5107:380:3,0.78
+Semicossyphus,darwini,-19.25,-70.25,5107:390:1,0.78
+Semicossyphus,darwini,-19.75,-70.25,5107:390:3,0.78
+Semicossyphus,darwini,-29.25,-71.25,5207:391:1,0.69
+Semicossyphus,darwini,-29.25,-71.75,5207:391:2,0.69
+Semicossyphus,darwini,-29.75,-71.25,5207:391:3,0.69
+Semicossyphus,darwini,-29.75,-71.75,5207:391:4,0.69
+Semicossyphus,darwini,-26.25,-70.75,5207:360:2,1.00
+Semicossyphus,darwini,-26.75,-70.75,5207:360:4,1.00
+Semicossyphus,darwini,-27.25,-70.75,5207:370:2,1.00
+Semicossyphus,darwini,-27.75,-70.75,5207:370:4,1.00
+Semicossyphus,darwini,-27.75,-71.25,5207:371:3,1.00
+Semicossyphus,darwini,-2.75,-79.75,5007:229:4,1.00
+Semicossyphus,darwini,-3.25,-79.75,5007:239:2,1.00
+Semicossyphus,darwini,-6.75,-79.75,5007:469:4,0.90
+Semicossyphus,darwini,-7.25,-79.75,5007:479:2,0.90
+Semicossyphus,darwini,-7.75,-79.75,5007:479:4,0.90
+Semicossyphus,darwini,-2.25,-80.75,5008:120:2,1.00
+Semicossyphus,darwini,-2.75,-80.25,5008:120:3,1.00
+Semicossyphus,darwini,-2.75,-80.75,5008:120:4,1.00
+Semicossyphus,darwini,-2.25,-81.25,5008:121:1,1.00
+Semicossyphus,darwini,-3.25,-80.25,5008:130:1,1.00
+Semicossyphus,darwini,-3.25,-80.75,5008:130:2,1.00
+Semicossyphus,darwini,-3.75,-80.75,5008:130:4,1.00
+Semicossyphus,darwini,-3.75,-81.25,5008:131:3,0.96
+Semicossyphus,darwini,-4.25,-81.25,5008:141:1,1.00
+Semicossyphus,darwini,-0.75,-89.25,5008:209:3,1.00
+Semicossyphus,darwini,-0.75,-89.75,5008:209:4,1.00
+Semicossyphus,darwini,-1.25,-89.75,5008:219:2,1.00
+Semicossyphus,darwini,-5.25,-80.75,5008:350:2,1.00
+Semicossyphus,darwini,-5.75,-80.75,5008:350:4,1.00
+Semicossyphus,darwini,-5.75,-81.25,5008:351:3,1.00
+Semicossyphus,darwini,-6.25,-80.25,5008:360:1,1.00
+Semicossyphus,darwini,-6.75,-80.25,5008:360:3,0.90
+Semicossyphus,darwini,-6.75,-80.75,5008:360:4,1.00
+Semicossyphus,darwini,-7.25,-80.25,5008:370:1,0.90
+Semicossyphus,darwini,-7.25,-80.75,5008:370:2,0.90
+Semicossyphus,darwini,-7.75,-80.25,5008:370:3,0.90
+Semicossyphus,darwini,-0.25,-90.25,5009:100:1,1.00
+Semicossyphus,darwini,-0.25,-90.75,5009:100:2,1.00
+Semicossyphus,darwini,-0.75,-90.25,5009:100:3,1.00
+Semicossyphus,darwini,-0.75,-90.75,5009:100:4,1.00
+Semicossyphus,darwini,-0.25,-91.25,5009:101:1,1.00
+Semicossyphus,darwini,-0.25,-91.75,5009:101:2,1.00
+Semicossyphus,darwini,-0.75,-91.25,5009:101:3,1.00
+Semicossyphus,darwini,-1.25,-90.25,5009:110:1,1.00
+Semicossyphus,darwini,-1.25,-90.75,5009:110:2,1.00
+Semicossyphus,darwini,-1.25,-91.25,5009:111:1,1.00
+Semicossyphus,darwini,-11.75,-77.25,5107:217:3,0.82
+Semicossyphus,darwini,-12.25,-76.75,5107:226:2,0.82
+Semicossyphus,darwini,-12.75,-76.75,5107:226:4,0.82
+Semicossyphus,darwini,-12.25,-77.25,5107:227:1,0.82
+Semicossyphus,darwini,-13.75,-76.25,5107:236:3,0.92
+Semicossyphus,darwini,-14.25,-75.75,5107:245:2,0.92
+Semicossyphus,darwini,-14.75,-75.25,5107:245:3,0.92
+Semicossyphus,darwini,-14.75,-75.75,5107:245:4,0.92
+Semicossyphus,darwini,-14.25,-76.25,5107:246:1,0.92
+Semicossyphus,darwini,-15.25,-75.25,5107:455:1,0.86
+Semicossyphus,darwini,-20.25,-70.25,5207:100:1,0.82
+Semicossyphus,darwini,-20.75,-70.25,5207:100:3,0.82
+Semicossyphus,darwini,-21.25,-70.25,5207:110:1,1.00
+Semicossyphus,darwini,-21.75,-70.25,5207:110:3,1.00
+Semicossyphus,darwini,-22.25,-70.25,5207:120:1,1.00
+Semicossyphus,darwini,-22.75,-70.25,5207:120:3,1.00
+Semicossyphus,darwini,-23.25,-70.25,5207:130:1,1.00
+Semicossyphus,darwini,-23.25,-70.75,5207:130:2,1.00
+Semicossyphus,darwini,-23.75,-70.25,5207:130:3,1.00
+Semicossyphus,darwini,-24.25,-70.25,5207:140:1,1.00
+Semicossyphus,darwini,-24.25,-70.75,5207:140:2,1.00
+Semicossyphus,darwini,-24.75,-70.25,5207:140:3,1.00
+Semicossyphus,darwini,-24.75,-70.75,5207:140:4,1.00
+Semicossyphus,darwini,-25.25,-70.25,5207:350:1,1.00
+Semicossyphus,darwini,-25.25,-70.75,5207:350:2,1.00
+Semicossyphus,darwini,-25.75,-70.75,5207:350:4,1.00
+Semicossyphus,darwini,-28.25,-71.25,5207:381:1,0.83
+Semicossyphus,darwini,-28.75,-71.25,5207:381:3,0.83
+Semicossyphus,darwini,-28.75,-71.75,5207:381:4,0.83
+Semicossyphus,darwini,-33.75,-77.75,5307:237:4,0.87
+Semicossyphus,darwini,-33.75,-78.75,5307:238:4,0.96
+Semicossyphus,darwini,0.25,-89.75,7008:209:2,1.00
+Semicossyphus,darwini,0.25,-90.25,7009:100:1,1.00
+Semicossyphus,darwini,0.75,-90.75,7009:100:4,1.00
+Semicossyphus,darwini,0.25,-91.25,7009:101:1,1.00
+Semicossyphus,darwini,0.25,-91.75,7009:101:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 34)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Semicossyphus,darwini,-36.75,-73.25,5307:363:3,139,14.45,33.91,2647,0,19
+Semicossyphus,darwini,-32.75,-77.75,5307:227:4,4195,17.02,34.24,483,0,192
+Semicossyphus,darwini,-29.25,-71.75,5207:391:2,2236,16.22,34.33,1305,0,73
+Semicossyphus,darwini,-29.25,-71.25,5207:391:1,26,16.22,34.33,1280,0,7
+Semicossyphus,darwini,-27.25,-70.75,5207:370:2,262,17.38,34.56,1280,0,7
+Semicossyphus,darwini,-23.75,-70.25,5207:130:3,135,18.97,34.79,1285,0,4
+Semicossyphus,darwini,-23.25,-70.25,5207:130:1,138,18.97,34.79,1336,0,2
+Semicossyphus,darwini,-11.75,-77.25,5107:217:3,87,19.85,35.04,1982,0,19
+Semicossyphus,darwini,-6.75,-80.75,5008:360:4,436,20.48,34.95,2336,0,96
+Semicossyphus,darwini,-6.25,-80.75,5008:360:2,112,20.48,34.95,2449,0,15
+Semicossyphus,darwini,-4.25,-81.25,5008:141:1,1015,21.56,34.36,1889,0,19
+Semicossyphus,darwini,-1.25,-91.25,5009:111:1,3013,23.38,34.65,652,0,111
+Semicossyphus,darwini,-1.25,-90.75,5009:110:2,1842,23.53,34.58,583,0,111
+Semicossyphus,darwini,-1.25,-90.25,5009:110:1,342,23.53,34.58,538,0,28
+Semicossyphus,darwini,-1.25,-89.75,5008:219:2,437,23.66,34.5,510,0,28
+Semicossyphus,darwini,-0.75,-89.25,5008:209:3,518,23.91,34.31,489,0,26
+Semicossyphus,darwini,-0.75,-80.75,5008:100:4,216,25.87,33.38,717,0,25
+Semicossyphus,darwini,-0.75,-91.75,5009:101:4,3165,23.55,34.56,817,0,111
+Semicossyphus,darwini,-0.75,-91.25,5009:101:3,400,23.55,34.45,826,0,14
+Semicossyphus,darwini,-0.75,-90.75,5009:100:4,138,23.73,34.45,584,0,22
+Semicossyphus,darwini,-0.75,-90.25,5009:100:3,129,23.73,34.45,510,0,22
+Semicossyphus,darwini,-0.75,-89.75,5008:209:4,357,23.91,34.31,522,0,28
+Semicossyphus,darwini,-0.25,-91.75,5009:101:2,2692,23.55,34.11,791,0,26
+Semicossyphus,darwini,-0.25,-91.25,5009:101:1,480,23.55,34.11,751,0,16
+Semicossyphus,darwini,-0.25,-90.75,5009:100:2,680,23.73,34.45,515,0,24
+Semicossyphus,darwini,-0.25,-90.25,5009:100:1,832,23.73,34.45,470,0,28
+Semicossyphus,darwini,0.25,-91.25,7009:101:1,2311,24.39,34.11,543,0,25
+Semicossyphus,darwini,0.25,-90.75,7009:100:2,2210,24.56,34.09,494,0,111
+Semicossyphus,darwini,0.25,-90.25,7009:100:1,1115,24.56,34.09,456,0,28
+Semicossyphus,darwini,0.25,-89.75,7008:209:2,1605,24.73,34.02,451,0,111
+Semicossyphus,darwini,0.75,-90.75,7009:100:4,1643,24.56,34.09,445,0,28
+Semicossyphus,darwini,1.25,-91.75,7009:111:2,2079,25.59,33.81,429,0,111
+Semicossyphus,darwini,1.75,-92.25,7009:112:3,2333,25.54,33.86,398,0,111
+Semicossyphus,darwini,1.75,-91.75,7009:111:4,2100,25.59,33.81,392,0,27

@@ -1,0 +1,95 @@
+Mapping parameters for Brotula townsendi (Townsend's cusk eel)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,28,-15,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,2,11,20
+Temperature (°C),1,24.29,25.29,26.4,30.6
+Salinity (psu),1,34.22,34.72,34.92,35.42
+Primary Production,1,162.75,196.8,242.4,276.75
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,20.4,21.4,90.1999969482422,129.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 56): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Brotula,townsendi,-8.75,-172.25,5017:382:3,0.17
+Brotula,townsendi,-9.25,-171.25,5017:391:1,0.19
+Brotula,townsendi,-9.25,-171.75,5017:391:2,0.19
+Brotula,townsendi,-14.25,-169.25,5116:249:1,0.05
+Brotula,townsendi,-14.25,-169.75,5116:249:2,0.06
+Brotula,townsendi,-14.75,-169.75,5116:249:4,0.05
+Brotula,townsendi,-11.25,-171.25,5117:111:1,0.11
+Brotula,townsendi,-13.75,-171.25,5117:131:3,0.18
+Brotula,townsendi,-14.25,-170.75,5117:140:2,0.11
+Brotula,townsendi,22.75,-162.25,7216:122:3,0.08
+Brotula,townsendi,23.25,-162.25,7216:132:1,0.13
+Brotula,townsendi,24.75,-168.25,7216:248:3,0.09
+Brotula,townsendi,25.25,-167.75,7216:457:2,0.04
+Brotula,townsendi,25.25,-168.25,7216:458:1,0.03
+Brotula,townsendi,25.75,-169.25,7216:459:3,0.06
+Brotula,townsendi,25.25,-170.25,7217:350:1,0.08
+Brotula,townsendi,25.75,-170.75,7217:350:4,0.08
+Brotula,townsendi,25.75,-171.25,7217:351:3,0.05
+Brotula,townsendi,25.75,-171.75,7217:351:4,0.07
+Brotula,townsendi,25.75,-173.25,7217:353:3,0.13
+Brotula,townsendi,-13.75,-171.75,5117:131:4,0.23
+Brotula,townsendi,-13.25,-172.25,5117:132:1,0.21
+Brotula,townsendi,-13.25,-172.75,5117:132:2,0.26
+Brotula,townsendi,-13.75,-172.25,5117:132:3,0.27
+Brotula,townsendi,-13.75,-172.75,5117:132:4,0.27
+Brotula,townsendi,-14.25,-171.25,5117:141:1,0.21
+Brotula,townsendi,23.25,-161.75,7216:131:2,0.36
+Brotula,townsendi,23.75,-164.75,7216:134:4,0.31
+Brotula,townsendi,24.25,-167.25,7216:247:1,0.25
+Brotula,townsendi,24.75,-167.75,7216:247:4,0.23
+Brotula,townsendi,21.25,-157.25,7215:217:1,0.47
+Brotula,townsendi,22.25,-159.75,7215:229:2,0.53
+Brotula,townsendi,23.25,-164.25,7216:134:1,0.40
+Brotula,townsendi,21.25,-156.75,7215:216:2,0.64
+Brotula,townsendi,21.25,-157.75,7215:217:2,0.67
+Brotula,townsendi,22.25,-159.25,7215:229:1,0.66
+Brotula,townsendi,22.25,-160.25,7216:120:1,0.69
+Brotula,townsendi,19.25,-154.75,7115:394:2,1.00
+Brotula,townsendi,19.75,-154.75,7115:394:4,1.00
+Brotula,townsendi,18.75,-155.75,7115:485:4,0.86
+Brotula,townsendi,19.25,-155.25,7115:495:1,1.00
+Brotula,townsendi,19.25,-155.75,7115:495:2,0.98
+Brotula,townsendi,19.75,-155.25,7115:495:3,0.87
+Brotula,townsendi,19.75,-155.75,7115:495:4,0.90
+Brotula,townsendi,16.75,-169.25,7116:469:3,0.87
+Brotula,townsendi,20.25,-155.25,7215:205:1,0.84
+Brotula,townsendi,20.25,-155.75,7215:205:2,0.90
+Brotula,townsendi,20.75,-155.75,7215:205:4,0.97
+Brotula,townsendi,20.75,-156.25,7215:206:3,0.98
+Brotula,townsendi,20.75,-156.75,7215:206:4,0.81
+Brotula,townsendi,21.75,-157.75,7215:217:4,0.81
+Brotula,townsendi,21.25,-158.25,7215:218:1,1.00
+Brotula,townsendi,21.75,-158.25,7215:218:3,0.84
+Brotula,townsendi,21.75,-159.25,7215:219:3,0.94
+Brotula,townsendi,21.75,-159.75,7215:219:4,0.94
+Brotula,townsendi,21.75,-160.25,7216:110:3,0.90
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Brotula,townsendi,16.75,-169.75,7116:469:4,3767,26.65,34.68,220,0,107
+Brotula,townsendi,20.75,-156.75,7215:206:4,259,25.41,34.93,191,0,21
+Brotula,townsendi,21.75,-157.75,7215:217:4,1866,25.26,34.88,248,0,23

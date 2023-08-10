@@ -1,0 +1,64 @@
+Mapping parameters for Strangomera bentincki (Araucanian herring)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 41 |  87,
+Bounding Box (NSWE): ,-30,-37,-74,-70
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,7,35,70
+Temperature (°C),1,11.5,12.91,14.7,15.93
+Salinity (psu),1,32.29,32.92,34.07,35.11
+Primary Production (mgC·m-3·day-1) ,1,33.98,52.14,78.1,88.72
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,34.68,49.23,98.8,123.85
+Distance to Land (km),0,3,7.2,40,49
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 24): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Strangomera,bentincki,-34.25,-72.25,5307:142:1,0.15
+Strangomera,bentincki,-36.75,-73.25,5307:363:3,0.18
+Strangomera,bentincki,-30.25,-71.75,5307:101:2,0.38
+Strangomera,bentincki,-30.75,-71.75,5307:101:4,0.56
+Strangomera,bentincki,-31.25,-71.75,5307:111:2,0.55
+Strangomera,bentincki,-31.75,-71.75,5307:111:4,0.52
+Strangomera,bentincki,-30.25,-71.25,5307:101:1,0.69
+Strangomera,bentincki,-32.25,-71.75,5307:121:2,0.78
+Strangomera,bentincki,-33.75,-72.25,5307:132:3,0.77
+Strangomera,bentincki,-31.75,-71.25,5307:111:3,0.99
+Strangomera,bentincki,-32.25,-71.25,5307:121:1,1.00
+Strangomera,bentincki,-32.75,-71.25,5307:121:3,1.00
+Strangomera,bentincki,-32.75,-71.75,5307:121:4,0.88
+Strangomera,bentincki,-33.25,-71.75,5307:131:2,0.99
+Strangomera,bentincki,-33.75,-71.75,5307:131:4,0.99
+Strangomera,bentincki,-34.25,-71.75,5307:141:2,0.98
+Strangomera,bentincki,-34.75,-72.25,5307:142:3,1.00
+Strangomera,bentincki,-35.25,-72.25,5307:352:1,1.00
+Strangomera,bentincki,-35.25,-72.75,5307:352:2,1.00
+Strangomera,bentincki,-35.75,-72.75,5307:352:4,1.00
+Strangomera,bentincki,-36.25,-72.75,5307:362:2,1.00
+Strangomera,bentincki,-36.75,-72.75,5307:362:4,1.00
+Strangomera,bentincki,-36.25,-73.25,5307:363:1,1.00
+Strangomera,bentincki,-36.75,-73.75,5307:363:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Strangomera,bentincki,-36.75,-73.25,5307:363:3,139,12.7341899871826,11.696400642395,32.6299171447754,34.0956649780273,84.696002304554,0,83.1979827880859,19
+Strangomera,bentincki,-35.25,-72.75,5307:352:2,460,13.305718421936,10.338098526001,34.0418815612793,34.5565299987793,62.6929998397827,0,34.6772232055664,49
+Strangomera,bentincki,-33.25,-71.75,5307:131:2,509,14.0279026031494,12.1824169158936,34.0795745849609,34.2473335266113,55.8260008692741,0,88.5015258789063,17
+Strangomera,bentincki,-30.25,-71.25,5307:101:1,114,14.9940071105957,9.71956157684326,33.5847434997559,34.2129898071289,50.5536198616028,0,103.212020874023,3

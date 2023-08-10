@@ -1,0 +1,84 @@
+Mapping parameters for Paralichthys microps ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,-18,-51,-77,-70
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,6,26,50
+Temperature (°C),1,9.64,12.71,16.47,17.98
+Salinity (psu),1,32.62,33.12,34.12,34.65
+Primary Production (mgC·m-3·day-1) ,1,50.02,52.03,70.74,84.7
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,27.01,55.82,99.6,123.27
+Distance to Land (km),0,2,4.5,21,35.125
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 42): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Paralichthys,microps,-26.25,-70.75,5207:360:2,0.07
+Paralichthys,microps,-23.25,-70.25,5207:130:1,0.11
+Paralichthys,microps,-23.25,-70.75,5207:130:2,0.01
+Paralichthys,microps,-25.25,-70.75,5207:350:2,0.01
+Paralichthys,microps,-25.75,-70.75,5207:350:4,0.05
+Paralichthys,microps,-28.25,-71.25,5207:381:1,0.17
+Paralichthys,microps,-29.25,-71.25,5207:391:1,0.11
+Paralichthys,microps,-29.75,-71.25,5207:391:3,0.08
+Paralichthys,microps,-38.25,-73.25,5307:383:1,0.08
+Paralichthys,microps,-23.75,-70.25,5207:130:3,0.24
+Paralichthys,microps,-24.25,-70.25,5207:140:1,0.37
+Paralichthys,microps,-28.75,-71.25,5207:381:3,0.27
+Paralichthys,microps,-30.25,-71.25,5307:101:1,0.27
+Paralichthys,microps,-37.75,-73.75,5307:373:4,0.22
+Paralichthys,microps,-24.75,-70.25,5207:140:3,0.50
+Paralichthys,microps,-37.75,-73.25,5307:373:3,0.57
+Paralichthys,microps,-26.75,-70.75,5207:360:4,0.71
+Paralichthys,microps,-25.25,-70.25,5207:350:1,0.63
+Paralichthys,microps,-32.25,-71.75,5307:121:2,0.66
+Paralichthys,microps,-32.75,-71.75,5307:121:4,0.76
+Paralichthys,microps,-37.25,-73.25,5307:373:1,0.60
+Paralichthys,microps,-27.25,-70.75,5207:370:2,1.00
+Paralichthys,microps,-27.75,-70.75,5207:370:4,1.00
+Paralichthys,microps,-31.75,-71.25,5307:111:3,1.00
+Paralichthys,microps,-32.25,-71.25,5307:121:1,1.00
+Paralichthys,microps,-32.75,-71.25,5307:121:3,1.00
+Paralichthys,microps,-33.25,-71.75,5307:131:2,1.00
+Paralichthys,microps,-33.75,-71.75,5307:131:4,1.00
+Paralichthys,microps,-34.25,-71.75,5307:141:2,1.00
+Paralichthys,microps,-34.75,-72.25,5307:142:3,1.00
+Paralichthys,microps,-35.25,-72.25,5307:352:1,1.00
+Paralichthys,microps,-35.25,-72.75,5307:352:2,1.00
+Paralichthys,microps,-35.75,-72.75,5307:352:4,0.91
+Paralichthys,microps,-36.25,-72.75,5307:362:2,0.82
+Paralichthys,microps,-36.75,-72.75,5307:362:4,1.00
+Paralichthys,microps,-36.25,-73.25,5307:363:1,1.00
+Paralichthys,microps,-36.75,-73.75,5307:363:4,1.00
+Paralichthys,microps,-37.25,-73.75,5307:373:2,1.00
+Paralichthys,microps,-38.25,-73.75,5307:383:2,0.99
+Paralichthys,microps,-38.75,-73.75,5307:383:4,1.00
+Paralichthys,microps,-39.75,-73.75,5307:393:4,0.87
+Paralichthys,microps,-40.25,-73.75,5407:103:2,0.84
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Paralichthys,microps,-38.25,-73.75,5307:383:2,187,12.6821622848511,10.8384132385254,33.7080917358398,34.3780136108398,54.322998970747,0,51.0466728210449,22
+Paralichthys,microps,-37.25,-73.75,5307:373:2,642,12.8788356781006,11.1242866516113,33.6396446228027,34.314266204834,56.7860007286072,0,60.591724395752,20
+Paralichthys,microps,-36.75,-73.25,5307:363:3,139,12.7341899871826,11.696400642395,32.6299171447754,34.0956649780273,84.696002304554,0,83.1979827880859,19
+Paralichthys,microps,-33.25,-71.75,5307:131:2,509,14.0279026031494,12.1824169158936,34.0795745849609,34.2473335266113,55.8260008692741,0,88.5015258789063,17
+Paralichthys,microps,-29.25,-71.25,5207:391:1,26,15.1301355361938,11.2863121032715,33.9792137145996,34.2747344970703,50.248671323061004,0,110.698844909668,7
+Paralichthys,microps,-23.25,-70.25,5207:130:1,138,17.8090858459473,8.908935546875,34.1494827270508,34.5949096679688,53.8072474300861,0,70.6635589599609,2

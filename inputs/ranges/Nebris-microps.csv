@@ -1,0 +1,63 @@
+Mapping parameters for Nebris microps (Smalleye croaker)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 31 |  41,
+Bounding Box (NSWE): ,12,-28,-34,-76
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,27.07,27.57,28.57,32.77
+Salinity (psu),1,25.53,30,34.82,37.58
+Primary Production (mgC·m-3·day-1) ,1,1.44,2.8,11.8,18.9
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,132.98,161.84,199.34,226.73
+Distance to Land (km),0,2,5.8,181.8,286.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 24): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Nebris,microps,-3.75,-32.25,5003:132:3,0.10
+Nebris,microps,7.75,-76.75,7007:476:4,0.05
+Nebris,microps,8.75,-76.25,7007:486:3,0.15
+Nebris,microps,11.75,-83.75,7108:113:4,0.10
+Nebris,microps,9.25,-77.75,7007:497:2,0.28
+Nebris,microps,9.25,-81.25,7008:391:1,0.21
+Nebris,microps,8.25,-76.75,7007:486:2,0.52
+Nebris,microps,9.25,-78.25,7007:498:1,0.56
+Nebris,microps,9.75,-82.25,7008:392:3,0.51
+Nebris,microps,8.75,-77.75,7007:487:4,0.73
+Nebris,microps,9.25,-79.75,7007:499:2,0.68
+Nebris,microps,8.75,-80.75,7008:380:4,0.73
+Nebris,microps,8.75,-76.75,7007:486:4,1.00
+Nebris,microps,8.25,-77.25,7007:487:1,0.87
+Nebris,microps,8.75,-77.25,7007:487:3,0.87
+Nebris,microps,9.75,-76.25,7007:496:3,0.97
+Nebris,microps,8.75,-81.25,7008:381:3,0.86
+Nebris,microps,8.75,-81.75,7008:381:4,0.82
+Nebris,microps,9.25,-80.25,7008:390:1,0.96
+Nebris,microps,9.25,-81.75,7008:391:2,0.94
+Nebris,microps,9.25,-82.25,7008:392:1,1.00
+Nebris,microps,9.75,-82.75,7008:392:4,0.90
+Nebris,microps,10.25,-83.25,7108:103:1,0.90
+Nebris,microps,10.75,-83.25,7108:103:3,0.80
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Nebris,microps,-3.75,-33.75,5003:133:4,2524,27.6723861694336,5.48343992233276,35.9943313598633,34.5068626403809,1.4449999434873502,0,178.628890991211,222
+Nebris,microps,8.25,-77.25,7007:487:1,102,28.1539287567139,22.273904800415,29.972282409668,35.6449546813965,12.6934600993991,0,157.648880004883,2
+Nebris,microps,8.75,-76.75,7007:486:4,88,28.4170207977295,28.4152431488037,30.1230545043945,35.5469627380371,8.23900010436773,0,204.521926879883,21

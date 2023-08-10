@@ -1,0 +1,246 @@
+Mapping parameters for Sarda chiliensis (Eastern Pacific bonito)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 67 |  87,
+Bounding Box (NSWE): ,60,-37,-149,-70
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,10,50,100
+Temperature (°C),1,-0.04,11.31,20.36,25.27
+Salinity (psu),1,29.52,32.63,34.98,38.2
+Primary Production (mgC·m-3·day-1) ,1,25.84,29.68,84.7,117.51
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,7.27,10.06,207.68,363.3
+Distance to Land (km),0,2,12,96,146
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 186): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Sarda,chiliensis,-2.25,-79.75,5007:229:2,0.01
+Sarda,chiliensis,-9.25,-79.75,5007:499:2,0.04
+Sarda,chiliensis,-1.25,-80.75,5008:110:2,0.06
+Sarda,chiliensis,-1.75,-80.75,5008:110:4,0.12
+Sarda,chiliensis,-1.25,-81.25,5008:111:1,0.13
+Sarda,chiliensis,-2.25,-80.25,5008:120:1,0.02
+Sarda,chiliensis,-2.25,-80.75,5008:120:2,0.18
+Sarda,chiliensis,-2.75,-80.25,5008:120:3,0.13
+Sarda,chiliensis,-3.25,-80.25,5008:130:1,0.16
+Sarda,chiliensis,-3.75,-80.25,5008:130:3,0.03
+Sarda,chiliensis,-0.75,-89.75,5008:209:4,0.18
+Sarda,chiliensis,-10.25,-78.75,5107:208:2,0.10
+Sarda,chiliensis,-17.25,-71.75,5107:371:2,0.19
+Sarda,chiliensis,-23.75,-70.75,5207:130:4,0.06
+Sarda,chiliensis,44.25,-124.75,7412:144:2,0.13
+Sarda,chiliensis,47.25,-124.25,7412:374:1,0.01
+Sarda,chiliensis,47.25,-124.75,7412:374:2,0.09
+Sarda,chiliensis,49.25,-126.25,7412:496:1,0.03
+Sarda,chiliensis,49.75,-126.75,7412:496:4,0.10
+Sarda,chiliensis,50.25,-127.25,7512:207:1,0.07
+Sarda,chiliensis,51.25,-127.25,7512:217:1,0.16
+Sarda,chiliensis,51.75,-127.25,7512:217:3,0.05
+Sarda,chiliensis,52.25,-127.25,7512:227:1,0.04
+Sarda,chiliensis,52.75,-127.25,7512:227:3,0.01
+Sarda,chiliensis,52.75,-127.75,7512:227:4,0.03
+Sarda,chiliensis,52.25,-128.25,7512:228:1,0.04
+Sarda,chiliensis,53.25,-128.25,7512:238:1,0.02
+Sarda,chiliensis,53.25,-128.75,7512:238:2,0.04
+Sarda,chiliensis,53.75,-128.25,7512:238:3,0.01
+Sarda,chiliensis,53.75,-128.75,7512:238:4,0.06
+Sarda,chiliensis,53.75,-129.25,7512:239:3,0.03
+Sarda,chiliensis,53.75,-129.75,7512:239:4,0.06
+Sarda,chiliensis,58.25,-136.25,7513:486:1,0.05
+Sarda,chiliensis,-2.75,-79.75,5007:229:4,0.22
+Sarda,chiliensis,-3.25,-79.75,5007:239:2,0.31
+Sarda,chiliensis,-9.25,-79.25,5007:499:1,0.32
+Sarda,chiliensis,-1.75,-81.25,5008:111:3,0.23
+Sarda,chiliensis,-2.75,-80.75,5008:120:4,0.25
+Sarda,chiliensis,-2.25,-81.25,5008:121:1,0.31
+Sarda,chiliensis,-3.25,-80.75,5008:130:2,0.24
+Sarda,chiliensis,-0.25,-90.75,5009:100:2,0.23
+Sarda,chiliensis,-0.75,-90.25,5009:100:3,0.32
+Sarda,chiliensis,-0.75,-90.75,5009:100:4,0.35
+Sarda,chiliensis,-0.25,-91.25,5009:101:1,0.36
+Sarda,chiliensis,-1.25,-90.75,5009:110:2,0.35
+Sarda,chiliensis,-13.25,-76.75,5107:236:2,0.22
+Sarda,chiliensis,-16.25,-72.75,5107:362:2,0.29
+Sarda,chiliensis,-16.75,-73.25,5107:363:3,0.22
+Sarda,chiliensis,0.25,-91.75,7009:101:2,0.29
+Sarda,chiliensis,43.25,-124.75,7412:134:2,0.28
+Sarda,chiliensis,44.75,-124.25,7412:144:3,0.36
+Sarda,chiliensis,49.75,-127.25,7412:497:3,0.35
+Sarda,chiliensis,51.75,-127.75,7512:217:4,0.21
+Sarda,chiliensis,52.25,-127.75,7512:227:2,0.39
+Sarda,chiliensis,-3.75,-80.75,5008:130:4,0.46
+Sarda,chiliensis,-3.75,-81.25,5008:131:3,0.46
+Sarda,chiliensis,-6.25,-80.75,5008:360:2,0.53
+Sarda,chiliensis,-0.25,-91.75,5009:101:2,0.50
+Sarda,chiliensis,-0.75,-91.25,5009:101:3,0.43
+Sarda,chiliensis,-1.25,-91.25,5009:111:1,0.40
+Sarda,chiliensis,-16.75,-72.25,5107:362:3,0.43
+Sarda,chiliensis,42.25,-124.75,7412:124:2,0.44
+Sarda,chiliensis,44.25,-124.25,7412:144:1,0.57
+Sarda,chiliensis,-4.25,-81.25,5008:141:1,0.78
+Sarda,chiliensis,-10.75,-78.25,5107:208:3,0.76
+Sarda,chiliensis,-11.75,-77.25,5107:217:3,0.72
+Sarda,chiliensis,-17.25,-71.25,5107:371:1,0.78
+Sarda,chiliensis,-34.25,-72.25,5307:142:1,0.72
+Sarda,chiliensis,40.75,-124.75,7412:104:4,0.74
+Sarda,chiliensis,43.25,-124.25,7412:134:1,0.75
+Sarda,chiliensis,43.75,-124.25,7412:134:3,0.68
+Sarda,chiliensis,-26.25,-70.75,5207:360:2,1.00
+Sarda,chiliensis,-26.75,-70.75,5207:360:4,1.00
+Sarda,chiliensis,-27.25,-70.75,5207:370:2,1.00
+Sarda,chiliensis,-27.75,-70.75,5207:370:4,1.00
+Sarda,chiliensis,-27.75,-71.25,5207:371:3,1.00
+Sarda,chiliensis,-6.75,-79.75,5007:469:4,1.00
+Sarda,chiliensis,-7.25,-79.75,5007:479:2,1.00
+Sarda,chiliensis,-7.75,-79.25,5007:479:3,1.00
+Sarda,chiliensis,-7.75,-79.75,5007:479:4,1.00
+Sarda,chiliensis,-8.25,-78.75,5007:488:2,1.00
+Sarda,chiliensis,-8.75,-78.75,5007:488:4,1.00
+Sarda,chiliensis,-8.25,-79.25,5007:489:1,1.00
+Sarda,chiliensis,-8.25,-79.75,5007:489:2,1.00
+Sarda,chiliensis,-8.75,-79.25,5007:489:3,0.90
+Sarda,chiliensis,-8.75,-79.75,5007:489:4,1.00
+Sarda,chiliensis,-9.25,-78.25,5007:498:1,1.00
+Sarda,chiliensis,-9.25,-78.75,5007:498:2,1.00
+Sarda,chiliensis,-9.75,-78.25,5007:498:3,1.00
+Sarda,chiliensis,-9.75,-78.75,5007:498:4,1.00
+Sarda,chiliensis,-4.75,-81.25,5008:141:3,1.00
+Sarda,chiliensis,-5.25,-80.75,5008:350:2,0.97
+Sarda,chiliensis,-5.75,-80.75,5008:350:4,1.00
+Sarda,chiliensis,-5.25,-81.25,5008:351:1,1.00
+Sarda,chiliensis,-5.75,-81.25,5008:351:3,1.00
+Sarda,chiliensis,-6.25,-80.25,5008:360:1,1.00
+Sarda,chiliensis,-6.75,-80.25,5008:360:3,0.88
+Sarda,chiliensis,-6.75,-80.75,5008:360:4,1.00
+Sarda,chiliensis,-6.25,-81.25,5008:361:1,1.00
+Sarda,chiliensis,-7.25,-80.25,5008:370:1,1.00
+Sarda,chiliensis,-7.25,-80.75,5008:370:2,1.00
+Sarda,chiliensis,-7.75,-80.25,5008:370:3,1.00
+Sarda,chiliensis,-10.25,-77.75,5107:207:2,1.00
+Sarda,chiliensis,-10.75,-77.75,5107:207:4,1.00
+Sarda,chiliensis,-10.25,-78.25,5107:208:1,1.00
+Sarda,chiliensis,-11.25,-77.25,5107:217:1,0.99
+Sarda,chiliensis,-11.25,-77.75,5107:217:2,0.95
+Sarda,chiliensis,-11.75,-77.75,5107:217:4,1.00
+Sarda,chiliensis,-12.25,-76.75,5107:226:2,0.96
+Sarda,chiliensis,-12.75,-76.25,5107:226:3,1.00
+Sarda,chiliensis,-12.75,-76.75,5107:226:4,1.00
+Sarda,chiliensis,-12.25,-77.25,5107:227:1,1.00
+Sarda,chiliensis,-13.25,-76.25,5107:236:1,1.00
+Sarda,chiliensis,-13.75,-76.25,5107:236:3,1.00
+Sarda,chiliensis,-14.25,-75.75,5107:245:2,1.00
+Sarda,chiliensis,-14.75,-75.25,5107:245:3,1.00
+Sarda,chiliensis,-14.75,-75.75,5107:245:4,1.00
+Sarda,chiliensis,-14.25,-76.25,5107:246:1,1.00
+Sarda,chiliensis,-15.75,-73.75,5107:353:4,0.92
+Sarda,chiliensis,-15.25,-74.75,5107:354:2,1.00
+Sarda,chiliensis,-15.75,-74.25,5107:354:3,1.00
+Sarda,chiliensis,-15.75,-74.75,5107:354:4,1.00
+Sarda,chiliensis,-16.75,-72.75,5107:362:4,0.97
+Sarda,chiliensis,-16.25,-73.25,5107:363:1,0.82
+Sarda,chiliensis,-16.25,-73.75,5107:363:2,0.94
+Sarda,chiliensis,-17.75,-70.75,5107:370:4,1.00
+Sarda,chiliensis,-17.75,-71.25,5107:371:3,1.00
+Sarda,chiliensis,-18.25,-70.25,5107:380:1,1.00
+Sarda,chiliensis,-18.25,-70.75,5107:380:2,1.00
+Sarda,chiliensis,-18.75,-70.25,5107:380:3,1.00
+Sarda,chiliensis,-19.25,-70.25,5107:390:1,1.00
+Sarda,chiliensis,-19.75,-70.25,5107:390:3,1.00
+Sarda,chiliensis,-15.25,-75.25,5107:455:1,1.00
+Sarda,chiliensis,-20.25,-70.25,5207:100:1,1.00
+Sarda,chiliensis,-20.75,-70.25,5207:100:3,1.00
+Sarda,chiliensis,-21.25,-70.25,5207:110:1,1.00
+Sarda,chiliensis,-21.75,-70.25,5207:110:3,1.00
+Sarda,chiliensis,-22.25,-70.25,5207:120:1,1.00
+Sarda,chiliensis,-22.75,-70.25,5207:120:3,1.00
+Sarda,chiliensis,-23.25,-70.25,5207:130:1,1.00
+Sarda,chiliensis,-23.25,-70.75,5207:130:2,1.00
+Sarda,chiliensis,-23.75,-70.25,5207:130:3,1.00
+Sarda,chiliensis,-24.25,-70.25,5207:140:1,1.00
+Sarda,chiliensis,-24.25,-70.75,5207:140:2,1.00
+Sarda,chiliensis,-24.75,-70.25,5207:140:3,1.00
+Sarda,chiliensis,-24.75,-70.75,5207:140:4,1.00
+Sarda,chiliensis,-25.25,-70.25,5207:350:1,1.00
+Sarda,chiliensis,-25.25,-70.75,5207:350:2,1.00
+Sarda,chiliensis,-25.75,-70.75,5207:350:4,1.00
+Sarda,chiliensis,-28.25,-71.25,5207:381:1,1.00
+Sarda,chiliensis,-28.75,-71.25,5207:381:3,1.00
+Sarda,chiliensis,-28.75,-71.75,5207:381:4,1.00
+Sarda,chiliensis,-29.25,-71.25,5207:391:1,1.00
+Sarda,chiliensis,-29.25,-71.75,5207:391:2,1.00
+Sarda,chiliensis,-29.75,-71.25,5207:391:3,1.00
+Sarda,chiliensis,-29.75,-71.75,5207:391:4,1.00
+Sarda,chiliensis,-30.25,-71.25,5307:101:1,1.00
+Sarda,chiliensis,-30.25,-71.75,5307:101:2,1.00
+Sarda,chiliensis,-30.75,-71.75,5307:101:4,1.00
+Sarda,chiliensis,-31.25,-71.75,5307:111:2,1.00
+Sarda,chiliensis,-31.75,-71.25,5307:111:3,1.00
+Sarda,chiliensis,-31.75,-71.75,5307:111:4,1.00
+Sarda,chiliensis,-32.25,-71.25,5307:121:1,1.00
+Sarda,chiliensis,-32.25,-71.75,5307:121:2,1.00
+Sarda,chiliensis,-32.75,-71.25,5307:121:3,1.00
+Sarda,chiliensis,-32.75,-71.75,5307:121:4,1.00
+Sarda,chiliensis,-33.25,-71.75,5307:131:2,1.00
+Sarda,chiliensis,-33.75,-71.75,5307:131:4,1.00
+Sarda,chiliensis,-33.75,-72.25,5307:132:3,1.00
+Sarda,chiliensis,-34.25,-71.75,5307:141:2,1.00
+Sarda,chiliensis,-34.75,-72.25,5307:142:3,1.00
+Sarda,chiliensis,-35.25,-72.25,5307:352:1,1.00
+Sarda,chiliensis,-35.25,-72.75,5307:352:2,1.00
+Sarda,chiliensis,-35.75,-72.75,5307:352:4,1.00
+Sarda,chiliensis,-36.25,-72.75,5307:362:2,1.00
+Sarda,chiliensis,-36.75,-72.75,5307:362:4,1.00
+Sarda,chiliensis,-36.25,-73.25,5307:363:1,1.00
+Sarda,chiliensis,-36.75,-73.25,5307:363:3,1.00
+Sarda,chiliensis,-36.75,-73.75,5307:363:4,1.00
+Sarda,chiliensis,40.75,-124.25,7412:104:3,1.00
+Sarda,chiliensis,41.25,-124.25,7412:114:1,1.00
+Sarda,chiliensis,41.25,-124.75,7412:114:2,1.00
+Sarda,chiliensis,41.75,-124.25,7412:114:3,0.98
+Sarda,chiliensis,42.25,-124.25,7412:124:1,0.93
+Sarda,chiliensis,42.75,-124.25,7412:124:3,0.84
+Sarda,chiliensis,42.75,-124.75,7412:124:4,0.84
+
+
+Occurrence cells used for creating environmental envelope (n = 24)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Sarda,chiliensis,-36.75,-73.25,5307:363:3,139,12.7341899871826,11.696400642395,32.6299171447754,34.0956649780273,84.696002304554,0,83.1979827880859,19
+Sarda,chiliensis,-33.25,-71.75,5307:131:2,509,14.0279026031494,12.1824169158936,34.0795745849609,34.2473335266113,55.8260008692741,0,88.5015258789063,17
+Sarda,chiliensis,-23.25,-70.25,5207:130:1,138,17.8090858459473,8.908935546875,34.1494827270508,34.5949096679688,53.8072474300861,0,70.6635589599609,2
+Sarda,chiliensis,-14.25,-76.25,5107:246:1,291,17.1838054656982,16.2321910858154,34.9791221618652,34.9869956970215,55.893998593092,0,160.092102050781,22
+Sarda,chiliensis,-13.75,-76.75,5107:236:4,776,17.8166046142578,9.37240314483643,35.0016860961914,34.6949996948242,43.1739985942841,0,18.2431335449219,81
+Sarda,chiliensis,-13.25,-76.25,5107:236:1,107,18.136510848999,15.2010402679443,34.942512512207,34.968677520752,76.3788819313049,0,79.4307861328125,13
+Sarda,chiliensis,-12.25,-77.25,5107:227:1,173,18.2420444488525,13.7115068435669,34.9794998168945,34.9337692260742,65.3809979557991,0,7.27287292480469,26
+Sarda,chiliensis,-11.75,-77.25,5107:217:3,87,18.2189998626709,17.7786464691162,34.9571685791016,35.1131286621094,93.9470008015633,0,181.702758789063,19
+Sarda,chiliensis,-9.25,-79.75,5007:499:2,870,20.3552856445313,6.7831711769104,34.9588813781738,34.5824699401855,29.6759996563196,0,11.6432542800903,146
+Sarda,chiliensis,-8.75,-78.75,5007:488:4,80,19.0518226623535,15.985390663147,34.716495513916,34.9280281066895,72.9080513119698,0,61.3276062011719,18
+Sarda,chiliensis,-6.75,-80.75,5008:360:4,436,19.4374828338623,15.5827522277832,34.7377052307129,34.988338470459,70.471003651619,0,61.7130241394043,96
+Sarda,chiliensis,-6.25,-81.25,5008:361:1,1656,19.7529010772705,4.3349871635437,34.7041549682617,34.5456047058105,82.0439979434013,0,49.3006553649902,27
+Sarda,chiliensis,-6.25,-80.75,5008:360:2,112,19.3272113800049,19.7034778594971,34.720573425293,34.9753723144531,100.03600269556,0,205.779190063477,15
+Sarda,chiliensis,-5.25,-81.25,5008:351:1,543,19.6362857818604,16.0670337677002,34.4325866699219,35.0261764526367,53.3230006694794,0,84.6623382568359,25
+Sarda,chiliensis,-4.75,-81.25,5008:141:3,462,20.1257457733154,21.1447200775146,34.484058380127,34.8156661987305,49.7220009565353,0,207.677337646484,19
+Sarda,chiliensis,-4.25,-81.25,5008:141:1,1015,21.4521026611328,14.601939201355,34.356330871582,34.7249450683594,47.0229983329773,0,124.207214355469,19
+Sarda,chiliensis,-0.75,-80.75,5008:100:4,216,25.2663993835449,16.6329441070557,32.7602233886719,35.073974609375,37.1610000729561,0,103.642486572266,25
+Sarda,chiliensis,40.75,-125.25,7412:205:3,2829,12.2822513580322,1.49920105934143,32.6774024963379,34.654972076416,25.8370004594326,0,95.1157073974609,105
+Sarda,chiliensis,40.75,-124.25,7412:104:3,130,11.3092622756958,11.5626392364502,32.8399543762207,32.5129470825195,55.9110008180141,0,269.099822998047,12
+Sarda,chiliensis,40.75,-124.75,7412:104:4,1647,11.683798789978,3.78710198402405,32.7867012023926,34.4263801574707,41.737999767065,0,12.9916105270386,63
+Sarda,chiliensis,41.25,-124.25,7412:114:1,236,11.4336385726929,10.2497234344482,32.8372993469238,32.847225189209,64.1029998660088,0,156.446029663086,18
+Sarda,chiliensis,41.25,-124.75,7412:114:2,1361,11.767430305481,2.96338105201721,32.6667251586914,34.4796600341797,38.3879989385605,0,24.618314743042,63
+Sarda,chiliensis,41.75,-124.25,7412:114:3,131,11.0563440322876,10.9292669296265,32.7723426818848,32.6898498535156,64.9169981479645,0,222.04557800293,16
+Sarda,chiliensis,41.75,-124.75,7412:114:4,862,11.4350881576538,4.06118106842041,32.5751342773438,34.3342514038086,43.9979992806911,0,10.059287071228,62

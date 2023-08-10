@@ -1,0 +1,87 @@
+Mapping parameters for Galeus sauteri (Blacktip sawtail catshark)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 61 |  71,
+Bounding Box (NSWE): ,25,21,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,60,63,76,90
+Temperature (°C),1,23.87,24.7,26.32,30.52
+Salinity (psu),1,33.23,33.73,34.73,35.23
+Primary Production,1,420.75,525.6,846.6,966.75
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,5,6.8,84.4000015258789,107.75
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 44): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Galeus,sauteri,21.75,117.25,1211:217:3,0.04
+Galeus,sauteri,22.75,116.25,1211:226:3,0.09
+Galeus,sauteri,22.75,116.75,1211:226:4,0.12
+Galeus,sauteri,24.25,120.25,1212:140:1,0.08
+Galeus,sauteri,24.75,122.75,1212:142:4,0.02
+Galeus,sauteri,21.25,115.75,1211:215:2,0.29
+Galeus,sauteri,22.75,119.75,1211:229:4,0.36
+Galeus,sauteri,21.75,120.75,1212:110:4,0.21
+Galeus,sauteri,22.75,121.25,1212:121:3,0.35
+Galeus,sauteri,22.25,115.75,1211:225:2,0.57
+Galeus,sauteri,22.25,118.75,1211:228:2,0.57
+Galeus,sauteri,21.75,112.25,1211:112:3,0.76
+Galeus,sauteri,21.25,113.75,1211:113:2,0.76
+Galeus,sauteri,21.25,115.25,1211:215:1,0.71
+Galeus,sauteri,21.75,116.25,1211:216:3,0.71
+Galeus,sauteri,22.25,118.25,1211:228:1,0.77
+Galeus,sauteri,21.25,110.75,1211:110:2,1.00
+Galeus,sauteri,21.25,114.25,1211:114:1,1.00
+Galeus,sauteri,21.25,114.75,1211:114:2,0.93
+Galeus,sauteri,22.75,114.75,1211:124:4,1.00
+Galeus,sauteri,21.75,115.25,1211:215:3,1.00
+Galeus,sauteri,21.75,115.75,1211:215:4,1.00
+Galeus,sauteri,21.75,116.75,1211:216:4,1.00
+Galeus,sauteri,22.25,116.25,1211:226:1,1.00
+Galeus,sauteri,22.25,116.75,1211:226:2,1.00
+Galeus,sauteri,22.25,117.25,1211:227:1,1.00
+Galeus,sauteri,22.25,117.75,1211:227:2,0.96
+Galeus,sauteri,22.75,117.25,1211:227:3,1.00
+Galeus,sauteri,22.75,117.75,1211:227:4,1.00
+Galeus,sauteri,22.75,118.25,1211:228:3,0.90
+Galeus,sauteri,22.75,118.75,1211:228:4,1.00
+Galeus,sauteri,22.75,119.25,1211:229:3,1.00
+Galeus,sauteri,23.25,119.75,1211:239:2,0.87
+Galeus,sauteri,22.25,120.25,1212:120:1,1.00
+Galeus,sauteri,22.25,120.75,1212:120:2,1.00
+Galeus,sauteri,22.75,120.25,1212:120:3,1.00
+Galeus,sauteri,22.75,120.75,1212:120:4,1.00
+Galeus,sauteri,23.25,120.25,1212:130:1,1.00
+Galeus,sauteri,23.75,120.25,1212:130:3,1.00
+Galeus,sauteri,23.25,121.25,1212:131:1,0.91
+Galeus,sauteri,23.75,121.75,1212:131:4,1.00
+Galeus,sauteri,24.25,121.75,1212:141:2,1.00
+Galeus,sauteri,24.75,121.75,1212:141:4,1.00
+Galeus,sauteri,24.75,122.25,1212:142:3,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 7)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Galeus,sauteri,22.25,120.75,1212:120:2,249,26.32,34.4,532,0,15
+Galeus,sauteri,22.25,120.25,1212:120:1,721,26.32,34.09,785,0,97
+Galeus,sauteri,22.75,120.25,1212:120:3,179,26.32,34.09,737,0,15
+Galeus,sauteri,23.25,121.25,1212:131:1,147,26.05,34.4,516,0,5
+Galeus,sauteri,24.25,120.25,1212:140:1,41,24.17,33.75,939,0,24
+Galeus,sauteri,24.75,122.25,1212:142:3,582,25.63,34.5,739,0,76
+Galeus,sauteri,24.75,121.75,1212:141:4,251,25.05,34.5,719,0,8

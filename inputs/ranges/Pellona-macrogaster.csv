@@ -1,0 +1,226 @@
+Mapping parameters for Ilisha macrogaster (Kalimantan ilisha)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 71,
+Bounding Box (NSWE): ,9,-3,105,119
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,28.29,28.79,29.03,33.23
+Salinity (psu),1,32.4,32.9,33.9,34.4
+Primary Production,1,427.25,737,1085,1297.25
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,19.3999996185303,20.3999996185303,21.7999992370605,22.7999992370605
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 187): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Ilisha,macrogaster,0.25,105.25,1010:205:1,0.18
+Ilisha,macrogaster,0.25,105.75,1010:205:2,0.14
+Ilisha,macrogaster,0.75,105.25,1010:205:3,0.18
+Ilisha,macrogaster,0.75,105.75,1010:205:4,0.10
+Ilisha,macrogaster,1.75,105.75,1010:215:4,0.14
+Ilisha,macrogaster,2.75,106.75,1010:226:4,0.16
+Ilisha,macrogaster,2.25,107.25,1010:227:1,0.02
+Ilisha,macrogaster,2.75,108.25,1010:228:3,0.03
+Ilisha,macrogaster,3.25,105.25,1010:235:1,0.02
+Ilisha,macrogaster,3.25,106.75,1010:236:2,0.16
+Ilisha,macrogaster,3.75,106.25,1010:236:3,0.09
+Ilisha,macrogaster,3.75,106.75,1010:236:4,0.06
+Ilisha,macrogaster,3.25,107.25,1010:237:1,0.05
+Ilisha,macrogaster,3.75,107.25,1010:237:3,0.02
+Ilisha,macrogaster,3.75,107.75,1010:237:4,0.12
+Ilisha,macrogaster,3.25,109.75,1010:239:2,0.02
+Ilisha,macrogaster,4.25,107.25,1010:247:1,0.01
+Ilisha,macrogaster,4.25,107.75,1010:247:2,0.04
+Ilisha,macrogaster,4.25,108.25,1010:248:1,0.08
+Ilisha,macrogaster,4.25,108.75,1010:248:2,0.05
+Ilisha,macrogaster,7.75,105.25,1010:475:3,0.01
+Ilisha,macrogaster,7.75,105.75,1010:475:4,0.01
+Ilisha,macrogaster,3.25,110.25,1011:130:1,0.05
+Ilisha,macrogaster,3.75,110.75,1011:130:4,0.05
+Ilisha,macrogaster,3.25,111.25,1011:131:1,0.10
+Ilisha,macrogaster,3.25,111.75,1011:131:2,0.01
+Ilisha,macrogaster,3.75,111.25,1011:131:3,0.02
+Ilisha,macrogaster,3.75,111.75,1011:131:4,0.06
+Ilisha,macrogaster,4.25,112.25,1011:142:1,0.16
+Ilisha,macrogaster,4.25,112.75,1011:142:2,0.02
+Ilisha,macrogaster,4.75,112.25,1011:142:3,0.12
+Ilisha,macrogaster,0.75,117.75,1011:207:4,0.19
+Ilisha,macrogaster,1.25,117.75,1011:217:2,0.01
+Ilisha,macrogaster,2.25,118.25,1011:228:1,0.12
+Ilisha,macrogaster,3.25,117.25,1011:237:1,0.02
+Ilisha,macrogaster,3.75,117.25,1011:237:3,0.09
+Ilisha,macrogaster,5.25,112.25,1011:352:1,0.04
+Ilisha,macrogaster,6.75,116.75,1011:466:4,0.17
+Ilisha,macrogaster,8.75,117.25,1011:487:3,0.13
+Ilisha,macrogaster,-1.25,106.75,3010:216:2,0.19
+Ilisha,macrogaster,-1.75,106.75,3010:216:4,0.02
+Ilisha,macrogaster,-2.75,109.25,3010:229:3,0.03
+Ilisha,macrogaster,-1.75,116.75,3011:216:4,0.02
+Ilisha,macrogaster,0.75,106.25,1010:206:3,0.26
+Ilisha,macrogaster,1.25,106.25,1010:216:1,0.29
+Ilisha,macrogaster,1.75,107.75,1010:217:4,0.25
+Ilisha,macrogaster,2.75,107.75,1010:227:4,0.35
+Ilisha,macrogaster,2.25,108.25,1010:228:1,0.38
+Ilisha,macrogaster,3.25,105.75,1010:235:2,0.24
+Ilisha,macrogaster,3.25,106.25,1010:236:1,0.23
+Ilisha,macrogaster,3.25,107.75,1010:237:2,0.21
+Ilisha,macrogaster,3.25,108.25,1010:238:1,0.20
+Ilisha,macrogaster,3.75,108.25,1010:238:3,0.23
+Ilisha,macrogaster,3.75,108.75,1010:238:4,0.30
+Ilisha,macrogaster,4.75,112.75,1011:142:4,0.25
+Ilisha,macrogaster,4.25,117.25,1011:247:1,0.20
+Ilisha,macrogaster,5.25,112.75,1011:352:2,0.23
+Ilisha,macrogaster,7.25,116.75,1011:476:2,0.33
+Ilisha,macrogaster,7.75,116.75,1011:476:4,0.31
+Ilisha,macrogaster,7.25,117.25,1011:477:1,0.36
+Ilisha,macrogaster,7.75,117.75,1011:477:4,0.31
+Ilisha,macrogaster,7.25,118.75,1011:478:2,0.30
+Ilisha,macrogaster,7.75,118.75,1011:478:4,0.37
+Ilisha,macrogaster,8.25,116.75,1011:486:2,0.32
+Ilisha,macrogaster,8.75,117.75,1011:487:4,0.33
+Ilisha,macrogaster,-1.25,106.25,3010:216:1,0.23
+Ilisha,macrogaster,0.25,106.25,1010:206:1,0.46
+Ilisha,macrogaster,1.25,105.75,1010:215:2,0.47
+Ilisha,macrogaster,1.75,108.25,1010:218:3,0.46
+Ilisha,macrogaster,2.25,105.25,1010:225:1,0.54
+Ilisha,macrogaster,2.25,105.75,1010:225:2,0.57
+Ilisha,macrogaster,2.75,105.25,1010:225:3,0.44
+Ilisha,macrogaster,2.75,105.75,1010:225:4,0.44
+Ilisha,macrogaster,2.25,106.25,1010:226:1,0.49
+Ilisha,macrogaster,2.75,106.25,1010:226:3,0.51
+Ilisha,macrogaster,2.75,109.75,1010:229:4,0.59
+Ilisha,macrogaster,3.25,109.25,1010:239:1,0.54
+Ilisha,macrogaster,3.25,110.75,1011:130:2,0.41
+Ilisha,macrogaster,4.75,113.25,1011:143:3,0.43
+Ilisha,macrogaster,4.25,114.25,1011:144:1,0.40
+Ilisha,macrogaster,0.25,117.25,1011:207:1,0.40
+Ilisha,macrogaster,0.75,118.25,1011:208:3,0.56
+Ilisha,macrogaster,1.75,117.75,1011:217:4,0.41
+Ilisha,macrogaster,1.25,118.25,1011:218:1,0.40
+Ilisha,macrogaster,4.25,117.75,1011:247:2,0.47
+Ilisha,macrogaster,4.25,118.25,1011:248:1,0.43
+Ilisha,macrogaster,5.25,118.25,1011:458:1,0.40
+Ilisha,macrogaster,6.75,115.75,1011:465:4,0.43
+Ilisha,macrogaster,6.75,118.75,1011:468:4,0.47
+Ilisha,macrogaster,7.25,118.25,1011:478:1,0.58
+Ilisha,macrogaster,7.75,118.25,1011:478:3,0.59
+Ilisha,macrogaster,8.25,117.75,1011:487:2,0.59
+Ilisha,macrogaster,8.75,118.25,1011:488:3,0.55
+Ilisha,macrogaster,-0.25,106.25,3010:206:1,0.52
+Ilisha,macrogaster,-0.25,106.75,3010:206:2,0.41
+Ilisha,macrogaster,-0.25,107.25,3010:207:1,0.44
+Ilisha,macrogaster,-0.75,107.25,3010:207:3,0.56
+Ilisha,macrogaster,-0.75,108.25,3010:208:3,0.41
+Ilisha,macrogaster,-1.75,107.25,3010:217:3,0.43
+Ilisha,macrogaster,-2.25,106.75,3010:226:2,0.48
+Ilisha,macrogaster,-2.75,106.25,3010:226:3,0.44
+Ilisha,macrogaster,-2.75,106.75,3010:226:4,0.43
+Ilisha,macrogaster,-2.75,107.25,3010:227:3,0.46
+Ilisha,macrogaster,-2.25,117.25,3011:227:1,0.58
+Ilisha,macrogaster,0.75,106.75,1010:206:4,0.72
+Ilisha,macrogaster,1.75,105.25,1010:215:3,0.69
+Ilisha,macrogaster,1.25,106.75,1010:216:2,0.76
+Ilisha,macrogaster,1.75,106.25,1010:216:3,0.70
+Ilisha,macrogaster,1.75,106.75,1010:216:4,0.71
+Ilisha,macrogaster,2.25,109.25,1010:229:1,0.70
+Ilisha,macrogaster,2.25,109.75,1010:229:2,0.70
+Ilisha,macrogaster,2.75,109.25,1010:229:3,0.70
+Ilisha,macrogaster,3.25,108.75,1010:238:2,0.75
+Ilisha,macrogaster,4.75,114.25,1011:144:3,0.64
+Ilisha,macrogaster,6.25,115.25,1011:465:1,0.67
+Ilisha,macrogaster,6.25,117.75,1011:467:2,0.70
+Ilisha,macrogaster,6.75,117.25,1011:467:3,0.60
+Ilisha,macrogaster,6.25,118.75,1011:468:2,0.77
+Ilisha,macrogaster,-0.75,106.25,3010:206:3,0.64
+Ilisha,macrogaster,-0.75,106.75,3010:206:4,0.70
+Ilisha,macrogaster,-0.25,107.75,3010:207:2,0.72
+Ilisha,macrogaster,-0.75,107.75,3010:207:4,0.72
+Ilisha,macrogaster,-1.75,106.25,3010:216:3,0.74
+Ilisha,macrogaster,-1.25,107.75,3010:217:2,0.67
+Ilisha,macrogaster,-1.75,108.25,3010:218:3,0.62
+Ilisha,macrogaster,0.25,106.75,1010:206:2,0.82
+Ilisha,macrogaster,0.25,107.25,1010:207:1,1.00
+Ilisha,macrogaster,0.25,107.75,1010:207:2,1.00
+Ilisha,macrogaster,0.75,107.25,1010:207:3,1.00
+Ilisha,macrogaster,0.75,107.75,1010:207:4,1.00
+Ilisha,macrogaster,1.25,105.25,1010:215:1,1.00
+Ilisha,macrogaster,1.25,107.25,1010:217:1,0.85
+Ilisha,macrogaster,1.25,107.75,1010:217:2,1.00
+Ilisha,macrogaster,1.25,108.25,1010:218:1,1.00
+Ilisha,macrogaster,2.75,108.75,1010:228:4,1.00
+Ilisha,macrogaster,4.25,113.25,1011:143:1,0.82
+Ilisha,macrogaster,4.75,114.75,1011:144:4,1.00
+Ilisha,macrogaster,0.75,118.75,1011:208:4,0.99
+Ilisha,macrogaster,1.25,118.75,1011:218:2,0.88
+Ilisha,macrogaster,1.75,118.25,1011:218:3,0.99
+Ilisha,macrogaster,1.75,118.75,1011:218:4,0.99
+Ilisha,macrogaster,2.25,118.75,1011:228:2,1.00
+Ilisha,macrogaster,2.75,118.25,1011:228:3,1.00
+Ilisha,macrogaster,4.75,115.25,1011:245:3,1.00
+Ilisha,macrogaster,4.25,118.75,1011:248:2,0.90
+Ilisha,macrogaster,4.75,118.25,1011:248:3,0.90
+Ilisha,macrogaster,5.25,114.75,1011:354:2,0.94
+Ilisha,macrogaster,5.75,114.75,1011:354:4,1.00
+Ilisha,macrogaster,5.25,115.25,1011:455:1,0.96
+Ilisha,macrogaster,5.25,115.75,1011:455:2,0.96
+Ilisha,macrogaster,5.75,115.25,1011:455:3,0.96
+Ilisha,macrogaster,5.75,115.75,1011:455:4,0.93
+Ilisha,macrogaster,5.75,116.25,1011:456:3,1.00
+Ilisha,macrogaster,5.25,118.75,1011:458:2,0.90
+Ilisha,macrogaster,5.75,118.25,1011:458:3,1.00
+Ilisha,macrogaster,5.75,118.75,1011:458:4,1.00
+Ilisha,macrogaster,6.25,115.75,1011:465:2,0.96
+Ilisha,macrogaster,6.25,116.25,1011:466:1,0.80
+Ilisha,macrogaster,6.75,116.25,1011:466:3,0.98
+Ilisha,macrogaster,6.75,117.75,1011:467:4,1.00
+Ilisha,macrogaster,6.25,118.25,1011:468:1,1.00
+Ilisha,macrogaster,6.75,118.25,1011:468:3,0.85
+Ilisha,macrogaster,7.25,117.75,1011:477:2,1.00
+Ilisha,macrogaster,-1.75,105.75,3010:215:4,0.87
+Ilisha,macrogaster,-1.25,107.25,3010:217:1,1.00
+Ilisha,macrogaster,-1.75,107.75,3010:217:4,1.00
+Ilisha,macrogaster,-1.25,108.25,3010:218:1,0.82
+Ilisha,macrogaster,-1.75,108.75,3010:218:4,0.82
+Ilisha,macrogaster,-2.25,106.25,3010:226:1,1.00
+Ilisha,macrogaster,-2.25,107.25,3010:227:1,1.00
+Ilisha,macrogaster,-2.25,107.75,3010:227:2,1.00
+Ilisha,macrogaster,-2.75,107.75,3010:227:4,1.00
+Ilisha,macrogaster,-2.25,108.25,3010:228:1,1.00
+Ilisha,macrogaster,-2.25,108.75,3010:228:2,1.00
+Ilisha,macrogaster,-2.75,108.25,3010:228:3,1.00
+Ilisha,macrogaster,-2.75,108.75,3010:228:4,1.00
+Ilisha,macrogaster,-0.25,117.25,3011:207:1,1.00
+Ilisha,macrogaster,-1.25,116.75,3011:216:2,0.87
+Ilisha,macrogaster,-1.75,116.25,3011:216:3,0.80
+Ilisha,macrogaster,-1.25,117.25,3011:217:1,1.00
+Ilisha,macrogaster,-1.25,117.75,3011:217:2,1.00
+Ilisha,macrogaster,-1.75,117.25,3011:217:3,1.00
+Ilisha,macrogaster,-2.25,116.25,3011:226:1,0.80
+Ilisha,macrogaster,-2.75,116.25,3011:226:3,1.00
+Ilisha,macrogaster,-2.25,117.75,3011:227:2,1.00
+Ilisha,macrogaster,-2.75,118.25,3011:228:3,0.84
+Ilisha,macrogaster,-2.75,118.75,3011:228:4,0.80
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Ilisha,macrogaster,1.75,118.25,1011:218:3,63,29.07,33.86,781,0,21
+Ilisha,macrogaster,4.75,114.25,1011:144:3,35,28.85,33.09,1161,0,21
+Ilisha,macrogaster,5.75,115.75,1011:455:4,28,28.77,33.09,726,0,22

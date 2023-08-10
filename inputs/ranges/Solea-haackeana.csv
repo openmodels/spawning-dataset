@@ -1,0 +1,260 @@
+Mapping parameters for Aseraggodes haackeanus (Southern sole)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 57,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,20,21,26,30
+Temperature (°C),1,15.14,16.8,18.41,20.07
+Salinity (psu),1,35.11,35.61,35.75,36.25
+Primary Production,1,136,236.8,616.2,869
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,2,5.2,35.4000015258789,89
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 215): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Aseraggodes,haackeanus,-33.25,114.75,3311:134:2,0.08
+Aseraggodes,haackeanus,-33.75,114.75,3311:134:4,0.08
+Aseraggodes,haackeanus,-32.75,127.75,3312:227:4,0.14
+Aseraggodes,haackeanus,-32.75,128.25,3312:228:3,0.12
+Aseraggodes,haackeanus,-32.75,128.75,3312:228:4,0.15
+Aseraggodes,haackeanus,-32.25,129.75,3312:229:2,0.05
+Aseraggodes,haackeanus,-32.75,129.25,3312:229:3,0.18
+Aseraggodes,haackeanus,-31.75,130.25,3313:110:3,0.05
+Aseraggodes,haackeanus,-31.75,130.75,3313:110:4,0.08
+Aseraggodes,haackeanus,-31.75,131.25,3313:111:3,0.01
+Aseraggodes,haackeanus,-31.75,131.75,3313:111:4,0.14
+Aseraggodes,haackeanus,-31.75,132.25,3313:112:3,0.18
+Aseraggodes,haackeanus,-31.75,132.75,3313:112:4,0.13
+Aseraggodes,haackeanus,-32.25,130.25,3313:120:1,0.16
+Aseraggodes,haackeanus,-32.25,131.75,3313:121:2,0.17
+Aseraggodes,haackeanus,-32.25,132.25,3313:122:1,0.01
+Aseraggodes,haackeanus,-32.75,133.25,3313:123:3,0.07
+Aseraggodes,haackeanus,-34.25,137.25,3313:247:1,0.05
+Aseraggodes,haackeanus,-36.75,138.25,3313:468:3,0.10
+Aseraggodes,haackeanus,-36.75,139.25,3313:469:3,0.01
+Aseraggodes,haackeanus,-37.25,139.75,3313:479:2,0.19
+Aseraggodes,haackeanus,-37.75,140.25,3314:370:3,0.13
+Aseraggodes,haackeanus,-37.75,140.75,3314:370:4,0.08
+Aseraggodes,haackeanus,-38.25,140.25,3314:380:1,0.08
+Aseraggodes,haackeanus,-38.25,140.75,3314:380:2,0.06
+Aseraggodes,haackeanus,-38.25,141.25,3314:381:1,0.04
+Aseraggodes,haackeanus,-38.25,141.75,3314:381:2,0.05
+Aseraggodes,haackeanus,-38.75,141.75,3314:381:4,0.03
+Aseraggodes,haackeanus,-38.25,142.25,3314:382:1,0.03
+Aseraggodes,haackeanus,-38.25,142.75,3314:382:2,0.03
+Aseraggodes,haackeanus,-38.75,142.25,3314:382:3,0.03
+Aseraggodes,haackeanus,-38.75,142.75,3314:382:4,0.04
+Aseraggodes,haackeanus,-38.75,143.25,3314:383:3,0.02
+Aseraggodes,haackeanus,-38.75,143.75,3314:383:4,0.01
+Aseraggodes,haackeanus,-38.25,144.25,3314:384:1,0.03
+Aseraggodes,haackeanus,-38.25,144.75,3314:384:2,0.03
+Aseraggodes,haackeanus,-38.75,144.25,3314:384:3,0.03
+Aseraggodes,haackeanus,-37.75,145.25,3314:475:3,0.07
+Aseraggodes,haackeanus,-37.75,148.75,3314:478:4,0.13
+Aseraggodes,haackeanus,-38.25,145.25,3314:485:1,0.05
+Aseraggodes,haackeanus,-38.25,145.75,3314:485:2,0.06
+Aseraggodes,haackeanus,-38.75,145.25,3314:485:3,0.04
+Aseraggodes,haackeanus,-38.75,145.75,3314:485:4,0.05
+Aseraggodes,haackeanus,-38.75,146.25,3314:486:3,0.12
+Aseraggodes,haackeanus,-38.75,146.75,3314:486:4,0.18
+Aseraggodes,haackeanus,-38.75,147.25,3314:487:3,0.13
+Aseraggodes,haackeanus,-38.75,147.75,3314:487:4,0.17
+Aseraggodes,haackeanus,-39.25,146.25,3314:496:1,0.15
+Aseraggodes,haackeanus,-39.25,146.75,3314:496:2,0.12
+Aseraggodes,haackeanus,-39.25,147.25,3314:497:1,0.15
+Aseraggodes,haackeanus,-40.25,145.25,3414:205:1,0.03
+Aseraggodes,haackeanus,-40.25,145.75,3414:205:2,0.03
+Aseraggodes,haackeanus,-40.75,145.25,3414:205:3,0.01
+Aseraggodes,haackeanus,-40.75,145.75,3414:205:4,0.03
+Aseraggodes,haackeanus,-40.25,146.75,3414:206:2,0.16
+Aseraggodes,haackeanus,-40.75,146.25,3414:206:3,0.16
+Aseraggodes,haackeanus,-40.75,146.75,3414:206:4,0.16
+Aseraggodes,haackeanus,-40.25,147.25,3414:207:1,0.19
+Aseraggodes,haackeanus,-40.25,148.25,3414:208:1,0.19
+Aseraggodes,haackeanus,-40.25,148.75,3414:208:2,0.17
+Aseraggodes,haackeanus,-40.75,148.25,3414:208:3,0.19
+Aseraggodes,haackeanus,-40.75,148.75,3414:208:4,0.19
+Aseraggodes,haackeanus,-41.25,148.25,3414:218:1,0.04
+Aseraggodes,haackeanus,-41.75,148.25,3414:218:3,0.04
+Aseraggodes,haackeanus,-33.75,124.25,3312:134:3,0.32
+Aseraggodes,haackeanus,-31.75,129.75,3312:219:4,0.38
+Aseraggodes,haackeanus,-32.75,127.25,3312:227:3,0.37
+Aseraggodes,haackeanus,-32.25,130.75,3313:120:2,0.26
+Aseraggodes,haackeanus,-32.75,132.75,3313:122:4,0.25
+Aseraggodes,haackeanus,-32.25,133.75,3313:123:2,0.32
+Aseraggodes,haackeanus,-33.25,133.75,3313:133:2,0.31
+Aseraggodes,haackeanus,-33.25,134.25,3313:134:1,0.28
+Aseraggodes,haackeanus,-32.75,137.75,3313:227:4,0.22
+Aseraggodes,haackeanus,-36.75,138.75,3313:468:4,0.27
+Aseraggodes,haackeanus,-36.25,139.25,3313:469:1,0.21
+Aseraggodes,haackeanus,-36.75,139.75,3313:469:4,0.36
+Aseraggodes,haackeanus,-37.25,137.75,3313:477:2,0.28
+Aseraggodes,haackeanus,-37.25,138.25,3313:478:1,0.35
+Aseraggodes,haackeanus,-37.25,138.75,3313:478:2,0.29
+Aseraggodes,haackeanus,-37.75,139.75,3313:479:4,0.25
+Aseraggodes,haackeanus,-37.25,140.25,3314:370:1,0.25
+Aseraggodes,haackeanus,-37.75,144.75,3314:374:4,0.20
+Aseraggodes,haackeanus,-38.25,147.25,3314:487:1,0.31
+Aseraggodes,haackeanus,-38.25,147.75,3314:487:2,0.26
+Aseraggodes,haackeanus,-39.75,147.25,3314:497:3,0.20
+Aseraggodes,haackeanus,-39.75,147.75,3314:497:4,0.22
+Aseraggodes,haackeanus,-39.75,148.25,3314:498:3,0.36
+Aseraggodes,haackeanus,-39.75,148.75,3314:498:4,0.22
+Aseraggodes,haackeanus,-40.25,147.75,3414:207:2,0.20
+Aseraggodes,haackeanus,-40.75,147.25,3414:207:3,0.20
+Aseraggodes,haackeanus,-40.75,147.75,3414:207:4,0.20
+Aseraggodes,haackeanus,-34.25,114.75,3311:144:2,0.54
+Aseraggodes,haackeanus,-34.25,115.25,3311:245:1,0.46
+Aseraggodes,haackeanus,-34.25,115.75,3311:245:2,0.46
+Aseraggodes,haackeanus,-34.75,115.25,3311:245:3,0.46
+Aseraggodes,haackeanus,-34.75,115.75,3311:245:4,0.46
+Aseraggodes,haackeanus,-31.75,128.25,3312:218:3,0.46
+Aseraggodes,haackeanus,-31.75,128.75,3312:218:4,0.46
+Aseraggodes,haackeanus,-34.75,123.75,3312:143:4,0.46
+Aseraggodes,haackeanus,-31.75,129.25,3312:219:3,0.42
+Aseraggodes,haackeanus,-32.75,126.25,3312:226:3,0.54
+Aseraggodes,haackeanus,-32.75,126.75,3312:226:4,0.40
+Aseraggodes,haackeanus,-32.25,127.25,3312:227:1,0.46
+Aseraggodes,haackeanus,-32.25,127.75,3312:227:2,0.46
+Aseraggodes,haackeanus,-32.25,128.25,3312:228:1,0.46
+Aseraggodes,haackeanus,-31.25,131.25,3313:111:1,0.45
+Aseraggodes,haackeanus,-33.75,134.25,3313:134:3,0.42
+Aseraggodes,haackeanus,-34.75,133.25,3313:143:3,0.50
+Aseraggodes,haackeanus,-33.75,135.25,3313:235:3,0.49
+Aseraggodes,haackeanus,-36.25,139.75,3313:469:2,0.58
+Aseraggodes,haackeanus,-37.75,147.75,3314:477:4,0.53
+Aseraggodes,haackeanus,-38.25,148.25,3314:488:1,0.51
+Aseraggodes,haackeanus,-38.75,148.25,3314:488:3,0.51
+Aseraggodes,haackeanus,-32.75,124.25,3312:124:3,0.74
+Aseraggodes,haackeanus,-32.75,124.75,3312:124:4,0.74
+Aseraggodes,haackeanus,-33.75,123.75,3312:133:4,0.74
+Aseraggodes,haackeanus,-33.25,124.25,3312:134:1,0.74
+Aseraggodes,haackeanus,-33.25,124.75,3312:134:2,0.74
+Aseraggodes,haackeanus,-33.75,124.75,3312:134:4,0.74
+Aseraggodes,haackeanus,-34.25,122.75,3312:142:2,0.73
+Aseraggodes,haackeanus,-34.25,123.25,3312:143:1,0.72
+Aseraggodes,haackeanus,-33.25,126.25,3312:236:1,0.78
+Aseraggodes,haackeanus,-33.25,128.75,3312:238:2,0.78
+Aseraggodes,haackeanus,-32.25,134.25,3313:124:1,0.78
+Aseraggodes,haackeanus,-32.75,134.25,3313:124:3,0.78
+Aseraggodes,haackeanus,-33.75,133.25,3313:133:3,0.78
+Aseraggodes,haackeanus,-33.25,134.75,3313:134:2,0.78
+Aseraggodes,haackeanus,-33.25,137.25,3313:237:1,0.79
+Aseraggodes,haackeanus,-35.25,136.75,3313:456:2,0.66
+Aseraggodes,haackeanus,-36.25,136.25,3313:466:1,0.68
+Aseraggodes,haackeanus,-36.25,136.75,3313:466:2,0.68
+Aseraggodes,haackeanus,-36.25,137.25,3313:467:1,0.72
+Aseraggodes,haackeanus,-36.25,137.75,3313:467:2,0.72
+Aseraggodes,haackeanus,-36.75,137.25,3313:467:3,0.72
+Aseraggodes,haackeanus,-36.25,138.25,3313:468:1,0.70
+Aseraggodes,haackeanus,-36.25,138.75,3313:468:2,0.70
+Aseraggodes,haackeanus,-37.75,148.25,3314:478:3,0.65
+Aseraggodes,haackeanus,-33.75,119.75,3311:239:4,0.86
+Aseraggodes,haackeanus,-34.75,116.25,3311:246:3,0.81
+Aseraggodes,haackeanus,-34.25,118.75,3311:248:2,1.00
+Aseraggodes,haackeanus,-34.75,118.25,3311:248:3,1.00
+Aseraggodes,haackeanus,-34.75,118.75,3311:248:4,1.00
+Aseraggodes,haackeanus,-34.25,119.25,3311:249:1,0.96
+Aseraggodes,haackeanus,-34.25,119.75,3311:249:2,0.96
+Aseraggodes,haackeanus,-34.75,119.25,3311:249:3,1.00
+Aseraggodes,haackeanus,-34.75,119.75,3311:249:4,0.96
+Aseraggodes,haackeanus,-35.25,115.75,3311:455:2,1.00
+Aseraggodes,haackeanus,-35.25,116.25,3311:456:1,1.00
+Aseraggodes,haackeanus,-35.25,116.75,3311:456:2,1.00
+Aseraggodes,haackeanus,-35.25,117.25,3311:457:1,1.00
+Aseraggodes,haackeanus,-35.25,117.75,3311:457:2,1.00
+Aseraggodes,haackeanus,-35.25,118.25,3311:458:1,1.00
+Aseraggodes,haackeanus,-35.25,118.75,3311:458:2,1.00
+Aseraggodes,haackeanus,-33.75,120.25,3312:130:3,0.96
+Aseraggodes,haackeanus,-33.75,120.75,3312:130:4,0.96
+Aseraggodes,haackeanus,-33.75,121.25,3312:131:3,0.92
+Aseraggodes,haackeanus,-33.75,121.75,3312:131:4,0.92
+Aseraggodes,haackeanus,-33.75,122.75,3312:132:4,0.92
+Aseraggodes,haackeanus,-33.75,123.25,3312:133:3,0.92
+Aseraggodes,haackeanus,-34.25,120.25,3312:140:1,0.96
+Aseraggodes,haackeanus,-34.25,120.75,3312:140:2,0.96
+Aseraggodes,haackeanus,-34.25,121.25,3312:141:1,0.92
+Aseraggodes,haackeanus,-34.25,121.75,3312:141:2,0.92
+Aseraggodes,haackeanus,-34.25,122.25,3312:142:1,0.92
+Aseraggodes,haackeanus,-34.75,122.25,3312:142:3,0.92
+Aseraggodes,haackeanus,-34.75,122.75,3312:142:4,0.92
+Aseraggodes,haackeanus,-34.25,123.75,3312:143:2,0.92
+Aseraggodes,haackeanus,-34.75,123.25,3312:143:3,0.92
+Aseraggodes,haackeanus,-34.25,124.25,3312:144:1,1.00
+Aseraggodes,haackeanus,-34.25,124.75,3312:144:2,1.00
+Aseraggodes,haackeanus,-32.25,125.75,3312:225:2,0.82
+Aseraggodes,haackeanus,-32.75,125.25,3312:225:3,0.82
+Aseraggodes,haackeanus,-32.75,125.75,3312:225:4,0.82
+Aseraggodes,haackeanus,-32.25,126.25,3312:226:1,0.88
+Aseraggodes,haackeanus,-32.25,126.75,3312:226:2,0.88
+Aseraggodes,haackeanus,-33.25,125.25,3312:235:1,0.82
+Aseraggodes,haackeanus,-33.25,125.75,3312:235:2,0.82
+Aseraggodes,haackeanus,-33.75,125.25,3312:235:3,0.82
+Aseraggodes,haackeanus,-33.75,125.75,3312:235:4,0.82
+Aseraggodes,haackeanus,-33.25,126.75,3312:236:2,0.85
+Aseraggodes,haackeanus,-33.25,127.25,3312:237:1,0.84
+Aseraggodes,haackeanus,-33.25,127.75,3312:237:2,0.86
+Aseraggodes,haackeanus,-33.25,129.25,3312:239:1,0.80
+Aseraggodes,haackeanus,-33.25,129.75,3312:239:2,0.80
+Aseraggodes,haackeanus,-33.25,131.75,3313:131:2,0.82
+Aseraggodes,haackeanus,-34.75,133.75,3313:143:4,1.00
+Aseraggodes,haackeanus,-34.75,134.75,3313:144:4,0.96
+Aseraggodes,haackeanus,-33.75,136.75,3313:236:4,1.00
+Aseraggodes,haackeanus,-33.25,137.75,3313:237:2,1.00
+Aseraggodes,haackeanus,-33.75,137.75,3313:237:4,1.00
+Aseraggodes,haackeanus,-33.25,138.25,3313:238:1,0.86
+Aseraggodes,haackeanus,-34.25,135.25,3313:245:1,0.85
+Aseraggodes,haackeanus,-34.75,135.25,3313:245:3,0.95
+Aseraggodes,haackeanus,-34.75,135.75,3313:245:4,1.00
+Aseraggodes,haackeanus,-34.25,136.25,3313:246:1,1.00
+Aseraggodes,haackeanus,-34.75,136.25,3313:246:3,1.00
+Aseraggodes,haackeanus,-34.75,136.75,3313:246:4,1.00
+Aseraggodes,haackeanus,-34.25,137.75,3313:247:2,1.00
+Aseraggodes,haackeanus,-34.75,137.25,3313:247:3,1.00
+Aseraggodes,haackeanus,-34.75,137.75,3313:247:4,1.00
+Aseraggodes,haackeanus,-34.25,138.25,3313:248:1,1.00
+Aseraggodes,haackeanus,-34.75,138.25,3313:248:3,1.00
+Aseraggodes,haackeanus,-34.75,138.75,3313:248:4,1.00
+Aseraggodes,haackeanus,-35.25,134.75,3313:354:2,1.00
+Aseraggodes,haackeanus,-35.25,135.25,3313:455:1,1.00
+Aseraggodes,haackeanus,-35.25,136.25,3313:456:1,0.88
+Aseraggodes,haackeanus,-35.75,136.75,3313:456:4,0.96
+Aseraggodes,haackeanus,-35.25,137.25,3313:457:1,1.00
+Aseraggodes,haackeanus,-35.75,137.25,3313:457:3,1.00
+Aseraggodes,haackeanus,-35.75,137.75,3313:457:4,1.00
+Aseraggodes,haackeanus,-35.25,138.25,3313:458:1,0.99
+Aseraggodes,haackeanus,-35.25,138.75,3313:458:2,0.99
+Aseraggodes,haackeanus,-35.75,138.25,3313:458:3,0.99
+Aseraggodes,haackeanus,-35.75,138.75,3313:458:4,0.99
+Aseraggodes,haackeanus,-35.75,139.25,3313:459:3,0.86
+
+
+Occurrence cells used for creating environmental envelope (n = 9)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Aseraggodes,haackeanus,-35.75,137.75,3313:457:4,14,16.8,35.61,262,0,15
+Aseraggodes,haackeanus,-35.25,138.25,3313:458:1,34,16.78,35.65,309,0,20
+Aseraggodes,haackeanus,-35.25,137.75,3313:457:2,24,16.8,35.61,136,0,21
+Aseraggodes,haackeanus,-35.25,118.25,3311:458:1,503,17.91,35.68,616,0,89
+Aseraggodes,haackeanus,-35.25,117.75,3311:457:2,205,17.84,35.68,617,0,22
+Aseraggodes,haackeanus,-34.75,138.75,3313:248:4,14,17.04,35.65,533,0,2
+Aseraggodes,haackeanus,-34.75,137.75,3313:247:4,10,17.07,35.61,381,0,9
+Aseraggodes,haackeanus,-33.75,115.25,3311:235:3,55,20.07,35.72,464,0,6
+Aseraggodes,haackeanus,-33.25,124.25,3312:134:1,39,17.99,35.88,506,0,20

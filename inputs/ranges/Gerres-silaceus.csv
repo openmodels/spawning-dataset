@@ -1,0 +1,195 @@
+Mapping parameters for Gerres silaceus (Malayan silver-biddy)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 71,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,1,2,2
+Temperature (°C),1,28.31,28.81,29.11,33.31
+Salinity (psu),1,31.08,31.9,32.9,33.4
+Primary Production,1,606.5,750.2,942.2,1086.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,6,8.2,21,31.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 156): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Gerres,silaceus,2.25,100.75,1010:120:2,0.18
+Gerres,silaceus,2.75,104.25,1010:124:3,0.16
+Gerres,silaceus,4.75,103.75,1010:143:4,0.08
+Gerres,silaceus,2.25,109.75,1010:229:2,0.01
+Gerres,silaceus,5.25,103.25,1010:353:1,0.11
+Gerres,silaceus,8.25,100.75,1010:380:2,0.11
+Gerres,silaceus,4.75,114.75,1011:144:4,0.12
+Gerres,silaceus,6.75,117.25,1011:467:3,0.01
+Gerres,silaceus,6.75,117.75,1011:467:4,0.18
+Gerres,silaceus,7.25,117.75,1011:477:2,0.18
+Gerres,silaceus,11.25,102.75,1110:112:2,0.12
+Gerres,silaceus,-3.25,108.75,3010:238:2,0.10
+Gerres,silaceus,-5.75,104.75,3010:354:4,0.12
+Gerres,silaceus,-5.75,105.25,3010:455:3,0.06
+Gerres,silaceus,-6.25,105.25,3010:465:1,0.09
+Gerres,silaceus,-1.75,116.25,3011:216:3,0.06
+Gerres,silaceus,-1.25,117.25,3011:217:1,0.04
+Gerres,silaceus,-3.75,118.75,3011:238:4,0.05
+Gerres,silaceus,-3.75,119.75,3011:239:4,0.01
+Gerres,silaceus,-6.75,111.75,3011:361:4,0.08
+Gerres,silaceus,-6.75,112.25,3011:362:3,0.08
+Gerres,silaceus,-6.75,113.25,3011:363:3,0.06
+Gerres,silaceus,-7.25,112.75,3011:372:2,0.07
+Gerres,silaceus,-7.75,112.75,3011:372:4,0.04
+Gerres,silaceus,-7.25,113.25,3011:373:1,0.06
+Gerres,silaceus,-7.25,113.75,3011:373:2,0.16
+Gerres,silaceus,-7.75,113.25,3011:373:3,0.07
+Gerres,silaceus,-5.25,118.25,3011:458:1,0.17
+Gerres,silaceus,0.75,104.75,1010:104:4,0.21
+Gerres,silaceus,1.25,104.75,1010:114:2,0.23
+Gerres,silaceus,2.75,103.75,1010:123:4,0.37
+Gerres,silaceus,2.75,104.75,1010:124:4,0.35
+Gerres,silaceus,3.75,103.75,1010:133:4,0.38
+Gerres,silaceus,1.25,106.75,1010:216:2,0.25
+Gerres,silaceus,1.25,107.25,1010:217:1,0.38
+Gerres,silaceus,3.25,108.75,1010:238:2,0.23
+Gerres,silaceus,5.75,103.25,1010:353:3,0.25
+Gerres,silaceus,6.75,101.75,1010:361:4,0.36
+Gerres,silaceus,9.75,102.75,1010:392:4,0.39
+Gerres,silaceus,5.25,115.25,1011:455:1,0.22
+Gerres,silaceus,6.25,116.25,1011:466:1,0.30
+Gerres,silaceus,10.75,103.25,1110:103:3,0.25
+Gerres,silaceus,11.25,103.25,1110:113:1,0.37
+Gerres,silaceus,12.25,102.75,1110:122:2,0.21
+Gerres,silaceus,-1.75,106.25,3010:216:3,0.23
+Gerres,silaceus,-2.25,108.75,3010:228:2,0.25
+Gerres,silaceus,-6.75,109.25,3010:469:3,0.28
+Gerres,silaceus,-2.25,116.25,3011:226:1,0.33
+Gerres,silaceus,-3.75,119.25,3011:239:3,0.36
+Gerres,silaceus,-4.25,116.25,3011:246:1,0.20
+Gerres,silaceus,-4.25,119.75,3011:249:2,0.31
+Gerres,silaceus,-4.75,119.25,3011:249:3,0.36
+Gerres,silaceus,-4.75,119.75,3011:249:4,0.34
+Gerres,silaceus,-6.75,112.75,3011:362:4,0.26
+Gerres,silaceus,-7.75,113.75,3011:373:4,0.29
+Gerres,silaceus,-7.25,114.25,3011:374:1,0.36
+Gerres,silaceus,-7.25,114.75,3011:374:2,0.36
+Gerres,silaceus,-7.75,114.25,3011:374:3,0.36
+Gerres,silaceus,-5.25,118.75,3011:458:2,0.30
+Gerres,silaceus,-5.25,119.25,3011:459:1,0.30
+Gerres,silaceus,-5.75,119.25,3011:459:3,0.30
+Gerres,silaceus,-6.75,115.25,3011:465:3,0.33
+Gerres,silaceus,-6.75,116.25,3011:466:3,0.23
+Gerres,silaceus,-3.75,120.25,3012:130:3,0.33
+Gerres,silaceus,9.25,99.25,1009:499:1,0.50
+Gerres,silaceus,0.75,106.75,1010:206:4,0.55
+Gerres,silaceus,0.75,107.75,1010:207:4,0.58
+Gerres,silaceus,2.75,108.75,1010:228:4,0.48
+Gerres,silaceus,2.25,109.25,1010:229:1,0.42
+Gerres,silaceus,6.25,102.75,1010:362:2,0.52
+Gerres,silaceus,5.25,115.75,1011:455:2,0.57
+Gerres,silaceus,5.75,115.75,1011:455:4,0.47
+Gerres,silaceus,6.25,115.75,1011:465:2,0.57
+Gerres,silaceus,10.25,102.75,1110:102:2,0.44
+Gerres,silaceus,10.75,103.75,1110:103:4,0.57
+Gerres,silaceus,11.25,103.75,1110:113:2,0.53
+Gerres,silaceus,11.75,103.25,1110:113:3,0.43
+Gerres,silaceus,-2.75,108.75,3010:228:4,0.56
+Gerres,silaceus,-3.25,107.75,3010:237:2,0.54
+Gerres,silaceus,-3.25,108.25,3010:238:1,0.52
+Gerres,silaceus,-5.75,107.25,3010:457:3,0.51
+Gerres,silaceus,-6.25,108.25,3010:468:1,0.52
+Gerres,silaceus,-5.25,114.25,3011:354:1,0.52
+Gerres,silaceus,-6.75,114.25,3011:364:3,0.51
+Gerres,silaceus,-5.25,117.25,3011:457:1,0.51
+Gerres,silaceus,-6.25,115.75,3011:465:2,0.40
+Gerres,silaceus,1.25,107.75,1010:217:2,0.64
+Gerres,silaceus,4.75,115.25,1011:245:3,0.62
+Gerres,silaceus,5.75,116.25,1011:456:3,0.61
+Gerres,silaceus,11.25,99.75,1109:219:2,0.63
+Gerres,silaceus,-2.25,106.25,3010:226:1,0.68
+Gerres,silaceus,-2.75,106.75,3010:226:4,0.76
+Gerres,silaceus,-3.25,105.75,3010:235:2,0.79
+Gerres,silaceus,-3.25,106.75,3010:236:2,0.71
+Gerres,silaceus,-4.75,105.75,3010:245:4,0.78
+Gerres,silaceus,-5.25,105.25,3010:455:1,0.68
+Gerres,silaceus,-5.25,106.25,3010:456:1,0.79
+Gerres,silaceus,-5.75,106.25,3010:456:3,0.67
+Gerres,silaceus,-6.25,105.75,3010:465:2,0.74
+Gerres,silaceus,-6.25,106.75,3010:466:2,0.70
+Gerres,silaceus,-6.25,107.25,3010:467:1,0.75
+Gerres,silaceus,-6.25,107.75,3010:467:2,0.78
+Gerres,silaceus,-5.75,110.75,3011:350:4,0.70
+Gerres,silaceus,-5.25,117.75,3011:457:2,0.68
+Gerres,silaceus,8.75,99.75,1009:489:4,1.00
+Gerres,silaceus,9.25,99.75,1009:499:2,1.00
+Gerres,silaceus,9.75,99.25,1009:499:3,1.00
+Gerres,silaceus,9.75,99.75,1009:499:4,0.81
+Gerres,silaceus,2.25,104.75,1010:124:2,1.00
+Gerres,silaceus,0.25,107.25,1010:207:1,0.90
+Gerres,silaceus,0.75,107.25,1010:207:3,0.90
+Gerres,silaceus,2.75,109.25,1010:229:3,0.96
+Gerres,silaceus,5.75,102.75,1010:352:4,0.93
+Gerres,silaceus,6.25,101.75,1010:361:2,0.99
+Gerres,silaceus,6.75,101.25,1010:361:3,0.99
+Gerres,silaceus,6.25,102.25,1010:362:1,0.87
+Gerres,silaceus,7.25,100.75,1010:370:2,0.97
+Gerres,silaceus,8.75,100.25,1010:380:3,0.99
+Gerres,silaceus,9.25,103.75,1010:393:2,0.95
+Gerres,silaceus,9.75,104.25,1010:394:3,0.85
+Gerres,silaceus,9.75,104.75,1010:394:4,0.86
+Gerres,silaceus,4.25,114.25,1011:144:1,0.90
+Gerres,silaceus,10.25,99.25,1109:209:1,0.84
+Gerres,silaceus,10.25,99.75,1109:209:2,1.00
+Gerres,silaceus,10.75,99.25,1109:209:3,1.00
+Gerres,silaceus,10.75,99.75,1109:209:4,1.00
+Gerres,silaceus,10.25,104.75,1110:104:2,0.95
+Gerres,silaceus,10.75,104.25,1110:104:3,0.95
+Gerres,silaceus,-0.25,105.25,3010:205:1,0.81
+Gerres,silaceus,-0.75,105.75,3010:205:4,0.87
+Gerres,silaceus,-1.25,105.25,3010:215:1,1.00
+Gerres,silaceus,-1.25,105.75,3010:215:2,1.00
+Gerres,silaceus,-1.75,108.75,3010:218:4,0.81
+Gerres,silaceus,-2.75,107.25,3010:227:3,1.00
+Gerres,silaceus,-2.75,107.75,3010:227:4,0.80
+Gerres,silaceus,-2.75,108.25,3010:228:3,0.80
+Gerres,silaceus,-3.75,105.75,3010:235:4,1.00
+Gerres,silaceus,-3.25,107.25,3010:237:1,1.00
+Gerres,silaceus,-5.25,105.75,3010:455:2,1.00
+Gerres,silaceus,-5.25,106.75,3010:456:2,1.00
+Gerres,silaceus,-6.25,108.75,3010:468:2,0.88
+Gerres,silaceus,-6.75,108.75,3010:468:4,0.88
+Gerres,silaceus,-4.25,114.75,3011:144:2,1.00
+Gerres,silaceus,-2.75,116.25,3011:226:3,0.90
+Gerres,silaceus,-2.25,117.75,3011:227:2,0.90
+Gerres,silaceus,-3.25,116.25,3011:236:1,1.00
+Gerres,silaceus,-4.75,117.25,3011:247:3,0.89
+Gerres,silaceus,-5.75,110.25,3011:350:3,0.86
+Gerres,silaceus,-5.75,112.75,3011:352:4,1.00
+Gerres,silaceus,-5.75,114.25,3011:354:3,1.00
+Gerres,silaceus,-5.75,114.75,3011:354:4,1.00
+Gerres,silaceus,-6.25,110.75,3011:360:2,0.86
+Gerres,silaceus,-6.75,110.25,3011:360:3,0.86
+Gerres,silaceus,-6.75,110.75,3011:360:4,0.86
+Gerres,silaceus,-6.25,111.25,3011:361:1,0.84
+Gerres,silaceus,-6.75,111.25,3011:361:3,0.86
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Gerres,silaceus,5.75,115.75,1011:455:4,28,28.77,33.09,726,0,22
+Gerres,silaceus,6.75,101.25,1010:361:3,9,29.15,31.94,847,0,6
+Gerres,silaceus,10.25,99.25,1109:209:1,15,28.97,31.94,966,0,17

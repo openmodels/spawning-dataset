@@ -1,0 +1,134 @@
+Mapping parameters for Parahucho perryi (Japanese huchen)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 61,
+Bounding Box (NSWE): ,50,42,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,10,50,100
+Temperature (°C),1,0.17,5.56,11.14,15.65
+Salinity (psu),1,31.97,32.47,33.67,34.17
+Primary Production,1,658.25,771.5,963,1090.25
+Sea Ice Concentration,1,0.02,0.02,0.155000001192093,0.18
+Distance to Land (km),0,1,3,14,20.875
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 92): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Parahucho,perryi,45.25,137.25,1413:457:1,0.13
+Parahucho,perryi,46.25,138.25,1413:468:1,0.08
+Parahucho,perryi,46.75,138.75,1413:468:4,0.05
+Parahucho,perryi,47.25,138.75,1413:478:2,0.02
+Parahucho,perryi,47.25,139.25,1413:479:1,0.08
+Parahucho,perryi,42.75,141.25,1414:121:3,0.06
+Parahucho,perryi,44.75,143.25,1414:143:3,0.17
+Parahucho,perryi,44.75,143.75,1414:143:4,0.13
+Parahucho,perryi,45.25,142.75,1414:352:2,0.16
+Parahucho,perryi,45.25,143.75,1414:353:2,0.10
+Parahucho,perryi,45.75,143.75,1414:353:4,0.10
+Parahucho,perryi,47.25,142.75,1414:372:2,0.15
+Parahucho,perryi,48.75,142.75,1414:382:4,0.16
+Parahucho,perryi,42.75,130.75,1413:120:4,0.36
+Parahucho,perryi,42.75,132.25,1413:122:3,0.25
+Parahucho,perryi,43.75,135.25,1413:235:3,0.38
+Parahucho,perryi,47.75,139.75,1413:479:4,0.25
+Parahucho,perryi,42.75,144.75,1414:124:4,0.32
+Parahucho,perryi,43.25,141.25,1414:131:1,0.32
+Parahucho,perryi,43.25,144.25,1414:134:1,0.20
+Parahucho,perryi,44.75,141.75,1414:141:4,0.34
+Parahucho,perryi,44.25,146.25,1414:246:1,0.25
+Parahucho,perryi,45.75,142.75,1414:352:4,0.33
+Parahucho,perryi,45.75,143.25,1414:353:3,0.32
+Parahucho,perryi,46.75,142.75,1414:362:4,0.38
+Parahucho,perryi,49.75,140.25,1414:390:3,0.38
+Parahucho,perryi,45.25,147.25,1414:457:1,0.30
+Parahucho,perryi,46.25,149.75,1414:469:2,0.33
+Parahucho,perryi,42.75,132.75,1413:122:4,0.52
+Parahucho,perryi,43.25,132.25,1413:132:1,0.43
+Parahucho,perryi,43.25,134.25,1413:134:1,0.51
+Parahucho,perryi,45.25,136.75,1413:456:2,0.40
+Parahucho,perryi,45.75,137.25,1413:457:3,0.48
+Parahucho,perryi,46.25,137.75,1413:467:2,0.48
+Parahucho,perryi,46.75,138.25,1413:468:3,0.48
+Parahucho,perryi,42.75,141.75,1414:121:4,0.53
+Parahucho,perryi,44.75,142.75,1414:142:4,0.56
+Parahucho,perryi,44.25,143.25,1414:143:1,0.56
+Parahucho,perryi,43.25,145.25,1414:235:1,0.55
+Parahucho,perryi,45.25,141.75,1414:351:2,0.44
+Parahucho,perryi,45.25,142.25,1414:352:1,0.53
+Parahucho,perryi,46.25,142.75,1414:362:2,0.56
+Parahucho,perryi,46.25,143.25,1414:363:1,0.56
+Parahucho,perryi,46.25,143.75,1414:363:2,0.43
+Parahucho,perryi,48.25,140.25,1414:380:1,0.49
+Parahucho,perryi,48.25,141.75,1414:381:2,0.46
+Parahucho,perryi,49.25,141.75,1414:391:2,0.53
+Parahucho,perryi,45.75,149.25,1414:459:3,0.56
+Parahucho,perryi,42.25,130.25,1413:120:1,0.69
+Parahucho,perryi,42.75,131.25,1413:121:3,0.76
+Parahucho,perryi,42.75,131.75,1413:121:4,0.76
+Parahucho,perryi,42.75,133.25,1413:123:3,0.62
+Parahucho,perryi,42.75,133.75,1413:123:4,0.62
+Parahucho,perryi,43.25,131.75,1413:131:2,0.76
+Parahucho,perryi,48.25,139.75,1413:489:2,0.74
+Parahucho,perryi,44.75,146.75,1414:246:4,0.62
+Parahucho,perryi,46.25,141.75,1414:361:2,0.75
+Parahucho,perryi,48.75,140.75,1414:380:4,0.68
+Parahucho,perryi,48.25,142.25,1414:382:1,0.74
+Parahucho,perryi,49.25,140.75,1414:390:2,0.62
+Parahucho,perryi,49.25,142.25,1414:392:1,0.67
+Parahucho,perryi,47.75,139.25,1413:479:3,1.00
+Parahucho,perryi,42.25,141.25,1414:121:1,0.82
+Parahucho,perryi,42.25,141.75,1414:121:2,0.82
+Parahucho,perryi,42.25,142.25,1414:122:1,0.91
+Parahucho,perryi,43.25,144.75,1414:134:2,1.00
+Parahucho,perryi,43.75,144.25,1414:134:3,0.99
+Parahucho,perryi,43.75,144.75,1414:134:4,1.00
+Parahucho,perryi,44.25,143.75,1414:143:2,1.00
+Parahucho,perryi,44.25,144.25,1414:144:1,0.80
+Parahucho,perryi,44.25,144.75,1414:144:2,1.00
+Parahucho,perryi,43.75,145.25,1414:235:3,1.00
+Parahucho,perryi,43.75,145.75,1414:235:4,1.00
+Parahucho,perryi,44.25,145.25,1414:245:1,1.00
+Parahucho,perryi,44.25,145.75,1414:245:2,1.00
+Parahucho,perryi,44.25,146.75,1414:246:2,1.00
+Parahucho,perryi,44.75,146.25,1414:246:3,0.85
+Parahucho,perryi,44.75,147.25,1414:247:3,1.00
+Parahucho,perryi,44.75,147.75,1414:247:4,1.00
+Parahucho,perryi,46.25,142.25,1414:362:1,1.00
+Parahucho,perryi,46.75,142.25,1414:362:3,0.88
+Parahucho,perryi,47.75,141.75,1414:371:4,1.00
+Parahucho,perryi,47.25,142.25,1414:372:1,1.00
+Parahucho,perryi,47.75,142.25,1414:372:3,0.88
+Parahucho,perryi,48.75,140.25,1414:380:3,1.00
+Parahucho,perryi,48.75,141.75,1414:381:4,1.00
+Parahucho,perryi,48.75,142.25,1414:382:3,0.93
+Parahucho,perryi,49.25,140.25,1414:390:1,0.94
+Parahucho,perryi,45.25,147.75,1414:457:2,1.00
+Parahucho,perryi,45.25,148.25,1414:458:1,0.82
+Parahucho,perryi,45.25,148.75,1414:458:2,0.87
+Parahucho,perryi,45.75,148.75,1414:458:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Parahucho,perryi,42.75,141.75,1414:121:4,58,11.96,33.34,732,0.02,6
+Parahucho,perryi,43.25,144.25,1414:134:1,1,8.42,32.88,947,0.05,1
+Parahucho,perryi,44.75,141.75,1414:141:4,53,10.32,34,848,0.02,12
+Parahucho,perryi,45.25,148.75,1414:458:2,247,5.9,32.81,979,0.03,16
+Parahucho,perryi,46.75,143.25,1414:363:3,31,6.2,32.16,872,0.18,10
+Parahucho,perryi,49.25,140.25,1414:390:1,29,5.23,32.79,811,0.13,5

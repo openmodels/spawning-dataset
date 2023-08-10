@@ -1,0 +1,209 @@
+Mapping parameters for Sebastes macdonaldi (Mexican rockfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,37,23,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,91,120,213,350
+Temperature (°C),1,12.6,14.98,24.27,25.89
+Salinity (psu),1,32.79,33.29,35.22,35.72
+Primary Production,1,519,700,1617,2382.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,8,11,102,192.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 150): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Sebastes,macdonaldi,24.25,-108.25,7210:248:1,0.06
+Sebastes,macdonaldi,24.75,-108.25,7210:248:3,0.06
+Sebastes,macdonaldi,24.75,-108.75,7210:248:4,0.06
+Sebastes,macdonaldi,24.25,-109.25,7210:249:1,0.12
+Sebastes,macdonaldi,25.25,-108.25,7210:458:1,0.02
+Sebastes,macdonaldi,25.25,-108.75,7210:458:2,0.02
+Sebastes,macdonaldi,24.75,-115.75,7211:245:4,0.02
+Sebastes,macdonaldi,23.25,-109.75,7210:239:2,0.38
+Sebastes,macdonaldi,25.75,-109.25,7210:459:3,0.38
+Sebastes,macdonaldi,27.75,-111.75,7211:371:4,0.28
+Sebastes,macdonaldi,31.25,-114.75,7311:114:2,0.24
+Sebastes,macdonaldi,32.25,-118.25,7311:228:1,0.31
+Sebastes,macdonaldi,35.25,-121.75,7312:351:2,0.29
+Sebastes,macdonaldi,36.25,-122.25,7312:362:1,0.34
+Sebastes,macdonaldi,36.75,-122.25,7312:362:3,0.35
+Sebastes,macdonaldi,23.25,-109.25,7210:239:1,0.42
+Sebastes,macdonaldi,23.75,-109.25,7210:239:3,0.51
+Sebastes,macdonaldi,23.75,-109.75,7210:239:4,0.51
+Sebastes,macdonaldi,24.25,-109.75,7210:249:2,0.44
+Sebastes,macdonaldi,25.25,-109.25,7210:459:1,0.41
+Sebastes,macdonaldi,25.75,-109.75,7210:459:4,0.41
+Sebastes,macdonaldi,26.25,-109.25,7210:469:1,0.40
+Sebastes,macdonaldi,26.25,-109.75,7210:469:2,0.40
+Sebastes,macdonaldi,26.75,-109.75,7210:469:4,0.40
+Sebastes,macdonaldi,23.75,-112.25,7211:132:3,0.52
+Sebastes,macdonaldi,28.75,-115.75,7211:485:4,0.55
+Sebastes,macdonaldi,30.25,-112.75,7311:102:2,0.55
+Sebastes,macdonaldi,32.75,-117.75,7311:227:4,0.59
+Sebastes,macdonaldi,36.25,-121.25,7312:361:1,0.57
+Sebastes,macdonaldi,36.25,-121.75,7312:361:2,0.57
+Sebastes,macdonaldi,36.75,-121.75,7312:361:4,0.57
+Sebastes,macdonaldi,26.25,-110.75,7211:360:2,0.76
+Sebastes,macdonaldi,26.75,-110.25,7211:360:3,0.76
+Sebastes,macdonaldi,26.25,-111.25,7211:361:1,0.76
+Sebastes,macdonaldi,27.25,-110.25,7211:370:1,0.76
+Sebastes,macdonaldi,28.25,-111.25,7211:381:1,0.68
+Sebastes,macdonaldi,28.25,-111.75,7211:381:2,0.71
+Sebastes,macdonaldi,28.75,-112.25,7211:382:3,0.68
+Sebastes,macdonaldi,28.75,-112.75,7211:382:4,0.76
+Sebastes,macdonaldi,29.25,-112.75,7211:392:2,0.63
+Sebastes,macdonaldi,29.75,-112.75,7211:392:4,0.76
+Sebastes,macdonaldi,29.25,-113.75,7211:393:2,0.76
+Sebastes,macdonaldi,29.75,-113.25,7211:393:3,0.76
+Sebastes,macdonaldi,29.75,-113.75,7211:393:4,0.76
+Sebastes,macdonaldi,29.75,-114.25,7211:394:3,0.76
+Sebastes,macdonaldi,30.25,-113.25,7311:103:1,0.76
+Sebastes,macdonaldi,30.25,-113.75,7311:103:2,0.76
+Sebastes,macdonaldi,30.75,-113.25,7311:103:3,0.76
+Sebastes,macdonaldi,30.75,-113.75,7311:103:4,0.76
+Sebastes,macdonaldi,30.25,-114.25,7311:104:1,0.76
+Sebastes,macdonaldi,30.75,-114.25,7311:104:3,0.76
+Sebastes,macdonaldi,31.25,-114.25,7311:114:1,0.76
+Sebastes,macdonaldi,32.75,-119.75,7311:229:4,0.73
+Sebastes,macdonaldi,34.75,-121.25,7312:141:3,0.73
+Sebastes,macdonaldi,34.75,-121.75,7312:141:4,0.64
+Sebastes,macdonaldi,35.75,-121.25,7312:351:3,0.72
+Sebastes,macdonaldi,23.25,-110.25,7211:130:1,1.00
+Sebastes,macdonaldi,23.25,-110.75,7211:130:2,1.00
+Sebastes,macdonaldi,23.75,-110.25,7211:130:3,1.00
+Sebastes,macdonaldi,23.75,-110.75,7211:130:4,1.00
+Sebastes,macdonaldi,23.75,-111.25,7211:131:3,1.00
+Sebastes,macdonaldi,23.75,-111.75,7211:131:4,0.99
+Sebastes,macdonaldi,24.25,-110.25,7211:140:1,1.00
+Sebastes,macdonaldi,24.25,-110.75,7211:140:2,1.00
+Sebastes,macdonaldi,24.75,-110.25,7211:140:3,1.00
+Sebastes,macdonaldi,24.75,-110.75,7211:140:4,1.00
+Sebastes,macdonaldi,24.25,-111.25,7211:141:1,1.00
+Sebastes,macdonaldi,24.25,-111.75,7211:141:2,1.00
+Sebastes,macdonaldi,24.75,-111.75,7211:141:4,1.00
+Sebastes,macdonaldi,24.25,-112.25,7211:142:1,1.00
+Sebastes,macdonaldi,24.75,-112.25,7211:142:3,1.00
+Sebastes,macdonaldi,24.75,-112.75,7211:142:4,1.00
+Sebastes,macdonaldi,25.25,-110.25,7211:350:1,1.00
+Sebastes,macdonaldi,25.25,-110.75,7211:350:2,1.00
+Sebastes,macdonaldi,25.75,-110.75,7211:350:4,1.00
+Sebastes,macdonaldi,25.75,-111.25,7211:351:3,1.00
+Sebastes,macdonaldi,25.25,-112.25,7211:352:1,1.00
+Sebastes,macdonaldi,25.25,-112.75,7211:352:2,1.00
+Sebastes,macdonaldi,25.75,-112.25,7211:352:3,1.00
+Sebastes,macdonaldi,25.75,-112.75,7211:352:4,1.00
+Sebastes,macdonaldi,25.25,-113.25,7211:353:1,0.92
+Sebastes,macdonaldi,25.75,-113.25,7211:353:3,1.00
+Sebastes,macdonaldi,26.75,-111.25,7211:361:3,0.82
+Sebastes,macdonaldi,26.75,-111.75,7211:361:4,0.82
+Sebastes,macdonaldi,26.25,-112.75,7211:362:2,1.00
+Sebastes,macdonaldi,26.25,-113.25,7211:363:1,1.00
+Sebastes,macdonaldi,26.25,-113.75,7211:363:2,1.00
+Sebastes,macdonaldi,26.75,-113.25,7211:363:3,1.00
+Sebastes,macdonaldi,26.75,-113.75,7211:363:4,1.00
+Sebastes,macdonaldi,26.75,-114.25,7211:364:3,1.00
+Sebastes,macdonaldi,27.25,-110.75,7211:370:2,0.82
+Sebastes,macdonaldi,27.75,-110.75,7211:370:4,0.82
+Sebastes,macdonaldi,27.25,-111.75,7211:371:2,0.82
+Sebastes,macdonaldi,27.75,-111.25,7211:371:3,0.82
+Sebastes,macdonaldi,27.25,-112.25,7211:372:1,0.82
+Sebastes,macdonaldi,27.75,-112.25,7211:372:3,1.00
+Sebastes,macdonaldi,27.75,-112.75,7211:372:4,1.00
+Sebastes,macdonaldi,27.25,-114.25,7211:374:1,1.00
+Sebastes,macdonaldi,27.25,-114.75,7211:374:2,1.00
+Sebastes,macdonaldi,27.75,-114.75,7211:374:4,1.00
+Sebastes,macdonaldi,28.25,-112.25,7211:382:1,0.85
+Sebastes,macdonaldi,28.25,-112.75,7211:382:2,0.87
+Sebastes,macdonaldi,28.75,-113.25,7211:383:3,1.00
+Sebastes,macdonaldi,28.25,-114.25,7211:384:1,1.00
+Sebastes,macdonaldi,28.75,-114.25,7211:384:3,1.00
+Sebastes,macdonaldi,28.75,-114.75,7211:384:4,1.00
+Sebastes,macdonaldi,29.25,-112.25,7211:392:1,0.93
+Sebastes,macdonaldi,29.25,-113.25,7211:393:1,0.91
+Sebastes,macdonaldi,29.25,-114.75,7211:394:2,1.00
+Sebastes,macdonaldi,27.75,-115.25,7211:475:3,1.00
+Sebastes,macdonaldi,27.75,-115.75,7211:475:4,1.00
+Sebastes,macdonaldi,28.25,-115.75,7211:485:2,1.00
+Sebastes,macdonaldi,28.75,-115.25,7211:485:3,1.00
+Sebastes,macdonaldi,29.25,-115.25,7211:495:1,1.00
+Sebastes,macdonaldi,29.25,-115.75,7211:495:2,1.00
+Sebastes,macdonaldi,29.75,-115.75,7211:495:4,0.87
+Sebastes,macdonaldi,30.25,-115.75,7311:205:2,1.00
+Sebastes,macdonaldi,30.25,-116.25,7311:206:1,1.00
+Sebastes,macdonaldi,30.75,-116.25,7311:206:3,0.88
+Sebastes,macdonaldi,31.25,-116.25,7311:216:1,1.00
+Sebastes,macdonaldi,31.25,-116.75,7311:216:2,1.00
+Sebastes,macdonaldi,31.75,-116.75,7311:216:4,1.00
+Sebastes,macdonaldi,32.25,-116.75,7311:226:2,1.00
+Sebastes,macdonaldi,32.25,-117.25,7311:227:1,1.00
+Sebastes,macdonaldi,32.75,-117.25,7311:227:3,1.00
+Sebastes,macdonaldi,32.25,-118.75,7311:228:2,1.00
+Sebastes,macdonaldi,32.75,-118.25,7311:228:3,1.00
+Sebastes,macdonaldi,32.75,-118.75,7311:228:4,1.00
+Sebastes,macdonaldi,32.25,-119.25,7311:229:1,1.00
+Sebastes,macdonaldi,32.75,-119.25,7311:229:3,1.00
+Sebastes,macdonaldi,33.25,-117.25,7311:237:1,1.00
+Sebastes,macdonaldi,33.25,-117.75,7311:237:2,1.00
+Sebastes,macdonaldi,33.75,-117.75,7311:237:4,1.00
+Sebastes,macdonaldi,33.25,-118.25,7311:238:1,1.00
+Sebastes,macdonaldi,33.25,-118.75,7311:238:2,1.00
+Sebastes,macdonaldi,33.75,-118.25,7311:238:3,1.00
+Sebastes,macdonaldi,33.75,-118.75,7311:238:4,1.00
+Sebastes,macdonaldi,33.25,-119.25,7311:239:1,1.00
+Sebastes,macdonaldi,33.25,-119.75,7311:239:2,1.00
+Sebastes,macdonaldi,33.75,-119.25,7311:239:3,1.00
+Sebastes,macdonaldi,33.75,-119.75,7311:239:4,1.00
+Sebastes,macdonaldi,34.25,-118.75,7311:248:2,1.00
+Sebastes,macdonaldi,34.25,-119.25,7311:249:1,1.00
+Sebastes,macdonaldi,34.25,-119.75,7311:249:2,1.00
+Sebastes,macdonaldi,33.75,-120.25,7312:130:3,1.00
+Sebastes,macdonaldi,34.25,-120.25,7312:140:1,1.00
+Sebastes,macdonaldi,34.25,-120.75,7312:140:2,1.00
+Sebastes,macdonaldi,34.75,-120.75,7312:140:4,1.00
+Sebastes,macdonaldi,35.25,-120.75,7312:350:2,0.98
+Sebastes,macdonaldi,35.25,-121.25,7312:351:1,0.84
+
+
+Occurrence cells used for creating environmental envelope (n = 23)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Sebastes,macdonaldi,23.25,-110.75,7211:130:2,885,24.27,34.45,720,0,102
+Sebastes,macdonaldi,24.25,-111.75,7211:141:2,146,23.23,34.27,997,0,24
+Sebastes,macdonaldi,24.75,-107.75,7210:247:4,10,25.89,35.11,1157,0,8
+Sebastes,macdonaldi,26.75,-111.75,7211:361:4,219,23.17,35.31,1171,0,12
+Sebastes,macdonaldi,27.25,-114.75,7211:374:2,1416,18.96,33.63,1004,0,24
+Sebastes,macdonaldi,27.25,-115.25,7211:475:1,3553,18.85,33.63,700,0,99
+Sebastes,macdonaldi,27.75,-115.25,7211:475:3,1001,18.85,33.63,947,0,98
+Sebastes,macdonaldi,28.25,-115.25,7211:485:1,124,18.41,33.65,519,0,22
+Sebastes,macdonaldi,28.75,-115.25,7211:485:3,383,18.41,33.65,1201,0,88
+Sebastes,macdonaldi,28.75,-113.25,7211:383:3,440,21.39,35.22,1606,0,11
+Sebastes,macdonaldi,30.25,-115.75,7311:205:2,89,19.47,33.54,1398,0,11
+Sebastes,macdonaldi,30.75,-116.75,7311:206:4,1860,17.88,33.54,852,0,86
+Sebastes,macdonaldi,31.75,-117.25,7311:217:3,1221,17.65,33.45,719,0,71
+Sebastes,macdonaldi,31.75,-116.75,7311:216:4,570,17.82,33.45,1189,0,18
+Sebastes,macdonaldi,32.75,-118.75,7311:228:4,1084,16.97,33.5,897,0,23
+Sebastes,macdonaldi,32.75,-118.25,7311:228:3,979,16.97,33.5,750,0,23
+Sebastes,macdonaldi,32.75,-117.25,7311:227:3,417,17.36,33.5,1056,0,17
+Sebastes,macdonaldi,33.75,-118.25,7311:238:3,435,16.72,33.47,1489,0,15
+Sebastes,macdonaldi,34.25,-122.25,7312:142:1,3985,14.98,33.24,727,0,191
+Sebastes,macdonaldi,34.25,-120.25,7312:140:1,253,15.27,33.38,1617,0,22
+Sebastes,macdonaldi,34.25,-119.75,7311:249:2,236,15.43,33.47,1617,0,19
+Sebastes,macdonaldi,34.25,-119.25,7311:249:1,157,15.43,33.47,1403,0,12
+Sebastes,macdonaldi,36.75,-122.25,7312:362:3,1365,13.43,33.29,1573,0,22

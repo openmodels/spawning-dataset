@@ -10,14 +10,14 @@ source("code/prelim/tools_spawning.R")
 df <- data.frame(species=c(), country=c(), localities=c(), source=c())
 
 ## Add on all FishBase data
-for (filename in list.files(paste0(datapath, "fishbase/spawning"))) {
+for (filename in list.files("inputs/spawning")) {
     species <- gsub("-", " ", substr(filename, 1, nchar(filename) - 4))
     if (species %in% anadromous)
         next
     print(species)
 
     ## Read this spawning data
-    tbl <- read.csv(paste0(datapath, "fishbase/spawning/", filename))
+    tbl <- read.csv(paste0("inputs/spawning/", filename))
     if (nrow(tbl) == 0)
         next
     tbl$Locality <- as.character(tbl$Locality)
@@ -35,7 +35,7 @@ for (filename in list.files(paste0(datapath, "fishbase/spawning"))) {
 
 monthnames <- c("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")
 
-tbl <- read.csv(paste0(datapath, "scrfa.csv"))
+tbl <- read.csv("inputs/scrfa.csv")
 tbl$fullspecies <- paste(tbl$Genus, tbl$Species)
 
 for (ii in 1:nrow(tbl)) {
@@ -59,4 +59,4 @@ nrow(df)
 length(unique(df$species))
 length(unique(paste(df$country, df$localities, sep=': ')))
 
-write.csv(df, "spawning-records.csv", row.names=F)
+write.csv(df, "outputs/spawning-records.csv", row.names=F)

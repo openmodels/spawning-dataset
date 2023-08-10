@@ -1,0 +1,155 @@
+Mapping parameters for Trinectes maculatus (Hogchoker)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 21 |  31,
+Bounding Box (NSWE): ,43,9,-79,-74
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,50,60,75
+Temperature (°C),1,-0.35,11.77,24.2,24.7
+Salinity (psu),1,30.49,32.43,35.97,36.47
+Primary Production,1,146.5,894,2636,3875
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,1,2,89,191
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 76): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Trinectes,maculatus,32.25,-78.75,7307:228:2,0.12
+Trinectes,maculatus,32.75,-78.25,7307:228:3,0.14
+Trinectes,maculatus,32.75,-78.75,7307:228:4,0.14
+Trinectes,maculatus,35.25,-76.75,7307:456:2,0.16
+Trinectes,maculatus,37.75,-76.75,7307:476:4,0.02
+Trinectes,maculatus,38.25,-75.75,7307:485:2,0.18
+Trinectes,maculatus,38.75,-75.75,7307:485:4,0.02
+Trinectes,maculatus,38.25,-77.25,7307:487:1,0.06
+Trinectes,maculatus,38.75,-77.25,7307:487:3,0.02
+Trinectes,maculatus,39.25,-75.75,7307:495:2,0.04
+Trinectes,maculatus,39.75,-75.25,7307:495:3,0.02
+Trinectes,maculatus,39.75,-75.75,7307:495:4,0.04
+Trinectes,maculatus,39.25,-76.75,7307:496:2,0.01
+Trinectes,maculatus,33.25,-76.75,7307:236:2,0.22
+Trinectes,maculatus,33.75,-76.25,7307:236:3,0.26
+Trinectes,maculatus,33.75,-76.75,7307:236:4,0.24
+Trinectes,maculatus,38.25,-75.25,7307:485:1,0.36
+Trinectes,maculatus,38.75,-76.75,7307:486:4,0.33
+Trinectes,maculatus,33.75,-77.75,7307:237:4,0.41
+Trinectes,maculatus,34.25,-75.75,7307:245:2,0.55
+Trinectes,maculatus,34.75,-75.25,7307:245:3,0.55
+Trinectes,maculatus,34.25,-76.75,7307:246:2,0.46
+Trinectes,maculatus,34.25,-77.75,7307:247:2,0.42
+Trinectes,maculatus,34.75,-77.25,7307:247:3,0.49
+Trinectes,maculatus,39.25,-74.75,7307:394:2,0.44
+Trinectes,maculatus,35.25,-75.75,7307:455:2,0.54
+Trinectes,maculatus,37.25,-75.75,7307:475:2,0.50
+Trinectes,maculatus,33.25,-77.25,7307:237:1,0.66
+Trinectes,maculatus,33.25,-77.75,7307:237:2,0.74
+Trinectes,maculatus,33.75,-77.25,7307:237:3,0.68
+Trinectes,maculatus,33.25,-78.75,7307:238:2,0.62
+Trinectes,maculatus,34.25,-76.25,7307:246:1,0.71
+Trinectes,maculatus,34.75,-76.25,7307:246:3,0.74
+Trinectes,maculatus,34.75,-76.75,7307:246:4,0.67
+Trinectes,maculatus,34.25,-77.25,7307:247:1,0.76
+Trinectes,maculatus,38.75,-74.75,7307:384:4,0.70
+Trinectes,maculatus,37.75,-75.25,7307:475:3,0.66
+Trinectes,maculatus,38.75,-75.25,7307:485:3,0.68
+Trinectes,maculatus,38.25,-76.75,7307:486:2,0.66
+Trinectes,maculatus,33.25,-78.25,7307:238:1,0.90
+Trinectes,maculatus,33.75,-78.25,7307:238:3,1.00
+Trinectes,maculatus,33.75,-78.75,7307:238:4,1.00
+Trinectes,maculatus,34.75,-75.75,7307:245:4,0.84
+Trinectes,maculatus,35.25,-74.75,7307:354:2,0.98
+Trinectes,maculatus,35.75,-74.75,7307:354:4,1.00
+Trinectes,maculatus,36.25,-74.75,7307:364:2,1.00
+Trinectes,maculatus,36.75,-74.75,7307:364:4,1.00
+Trinectes,maculatus,37.25,-74.75,7307:374:2,1.00
+Trinectes,maculatus,37.75,-74.25,7307:374:3,1.00
+Trinectes,maculatus,37.75,-74.75,7307:374:4,1.00
+Trinectes,maculatus,38.25,-74.25,7307:384:1,1.00
+Trinectes,maculatus,38.25,-74.75,7307:384:2,0.90
+Trinectes,maculatus,38.75,-74.25,7307:384:3,1.00
+Trinectes,maculatus,39.25,-74.25,7307:394:1,1.00
+Trinectes,maculatus,35.25,-75.25,7307:455:1,1.00
+Trinectes,maculatus,35.75,-75.25,7307:455:3,1.00
+Trinectes,maculatus,35.75,-75.75,7307:455:4,1.00
+Trinectes,maculatus,35.25,-76.25,7307:456:1,1.00
+Trinectes,maculatus,35.75,-76.25,7307:456:3,1.00
+Trinectes,maculatus,35.75,-76.75,7307:456:4,1.00
+Trinectes,maculatus,36.25,-75.25,7307:465:1,0.98
+Trinectes,maculatus,36.25,-75.75,7307:465:2,0.84
+Trinectes,maculatus,36.75,-75.25,7307:465:3,0.84
+Trinectes,maculatus,36.75,-75.75,7307:465:4,1.00
+Trinectes,maculatus,36.25,-76.25,7307:466:1,1.00
+Trinectes,maculatus,36.25,-76.75,7307:466:2,1.00
+Trinectes,maculatus,36.75,-76.25,7307:466:3,1.00
+Trinectes,maculatus,37.25,-75.25,7307:475:1,0.80
+Trinectes,maculatus,37.75,-75.75,7307:475:4,1.00
+Trinectes,maculatus,37.25,-76.25,7307:476:1,1.00
+Trinectes,maculatus,37.25,-76.75,7307:476:2,1.00
+Trinectes,maculatus,38.25,-76.25,7307:486:1,1.00
+Trinectes,maculatus,38.75,-76.25,7307:486:3,1.00
+Trinectes,maculatus,39.25,-75.25,7307:495:1,0.96
+Trinectes,maculatus,39.25,-76.25,7307:496:1,0.90
+Trinectes,maculatus,39.75,-76.25,7307:496:3,0.90
+
+
+Occurrence cells used for creating environmental envelope (n = 43)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Trinectes,maculatus,32.75,-78.75,7307:228:4,44,24.63,35.95,1182,0,119
+Trinectes,maculatus,33.75,-77.75,7307:237:4,17,24.33,35.97,1450,0,23
+Trinectes,maculatus,33.75,-75.25,7307:235:3,3271,24.21,36.09,436,0,191
+Trinectes,maculatus,33.75,-78.75,7307:238:4,11,24.2,35.97,923,0,14
+Trinectes,maculatus,33.75,-78.25,7307:238:3,17,24.2,35.97,1190,0,20
+Trinectes,maculatus,34.25,-77.75,7307:247:2,11,23.46,35.97,1057,0,13
+Trinectes,maculatus,34.25,-77.25,7307:247:1,22,23.46,35.97,894,0,49
+Trinectes,maculatus,34.75,-77.25,7307:247:3,8,23.46,35.97,531,0,6
+Trinectes,maculatus,34.75,-76.75,7307:246:4,11,22.84,35.77,863,0,14
+Trinectes,maculatus,35.25,-76.75,7307:456:2,1,20.23,34.06,957,0,8
+Trinectes,maculatus,35.25,-75.75,7307:455:2,10,21.1,34.06,3160,0,22
+Trinectes,maculatus,35.75,-76.25,7307:456:3,5,20.23,34.06,2166,0,2
+Trinectes,maculatus,35.75,-75.75,7307:455:4,4,21.1,34.06,1849,0,15
+Trinectes,maculatus,35.75,-75.25,7307:455:3,26,21.1,34.06,1006,0,90
+Trinectes,maculatus,36.25,-76.75,7307:466:2,9,17.33,32.43,1754,0,2
+Trinectes,maculatus,36.25,-76.25,7307:466:1,4,17.33,32.43,1849,0,9
+Trinectes,maculatus,36.75,-76.25,7307:466:3,3,17.33,32.43,1730,0,3
+Trinectes,maculatus,36.75,-75.75,7307:465:4,14,18.43,32.43,1579,0,21
+Trinectes,maculatus,37.25,-76.75,7307:476:2,5,14.26,32.43,1881,0,5
+Trinectes,maculatus,37.25,-76.25,7307:476:1,6,14.26,32.43,1949,0,17
+Trinectes,maculatus,37.25,-75.75,7307:475:2,8,15.44,32.43,1245,0,21
+Trinectes,maculatus,37.25,-75.25,7307:475:1,28,15.44,33.27,1198,0,89
+Trinectes,maculatus,37.75,-76.75,7307:476:4,1,14.26,32.43,1913,0,3
+Trinectes,maculatus,37.75,-76.25,7307:476:3,8,14.26,32.43,3875,0,15
+Trinectes,maculatus,37.75,-75.75,7307:475:4,6,15.44,33.27,2032,0,16
+Trinectes,maculatus,37.75,-75.25,7307:475:3,17,15.44,33.27,1581,0,21
+Trinectes,maculatus,38.25,-76.25,7307:486:1,8,11.77,32.63,2516,0,16
+Trinectes,maculatus,38.25,-75.75,7307:485:2,1,12.82,32.63,1572,0,7
+Trinectes,maculatus,38.25,-75.25,7307:485:1,5,12.82,32.63,1668,0,10
+Trinectes,maculatus,38.25,-74.75,7307:384:2,26,14.23,32.63,1567,0,87
+Trinectes,maculatus,38.25,-76.75,7307:486:2,3,11.77,32.43,2636,0,6
+Trinectes,maculatus,38.75,-75.25,7307:485:3,7,12.82,32.63,1567,0,7
+Trinectes,maculatus,38.75,-74.75,7307:384:4,18,14.23,32.63,1840,0,87
+Trinectes,maculatus,38.75,-77.25,7307:487:3,1,12.72,32.63,2149,0,2
+Trinectes,maculatus,38.75,-76.75,7307:486:4,7,11.77,32.63,2892,0,1
+Trinectes,maculatus,38.75,-76.25,7307:486:3,7,11.77,32.63,1578,0,17
+Trinectes,maculatus,39.25,-74.75,7307:394:2,7,12.52,32.63,1282,0,8
+Trinectes,maculatus,39.25,-74.25,7307:394:1,22,12.52,33.02,1299,0,21
+Trinectes,maculatus,39.25,-76.25,7307:496:1,4,10.52,32.63,1325,0,12
+Trinectes,maculatus,39.25,-75.25,7307:495:1,7,11.32,32.63,1899,0,11
+Trinectes,maculatus,39.75,-74.25,7307:394:3,8,12.52,33.02,1283,0.00027473,9
+Trinectes,maculatus,40.25,-74.25,7407:104:1,1,12.36,33.02,1389,0.00063548,1
+Trinectes,maculatus,40.75,-74.25,7407:104:3,5,12.36,33.02,1655,0.00167564,3

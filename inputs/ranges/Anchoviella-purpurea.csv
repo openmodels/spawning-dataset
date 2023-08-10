@@ -1,0 +1,76 @@
+Mapping parameters for Encrasicholina purpurea (Nehu)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,25,14,-165,-143
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,24.76,25.26,25.51,29.71
+Salinity (psu),1,34.3,34.8,35.02,35.52
+Primary Production,1,191,209,253,281.875
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,20.5,21.5,116,227.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 34): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Encrasicholina,purpurea,22.75,-161.25,7216:121:3,0.16
+Encrasicholina,purpurea,23.25,-164.75,7216:134:2,0.07
+Encrasicholina,purpurea,23.75,-164.25,7216:134:3,0.05
+Encrasicholina,purpurea,20.75,-157.75,7215:207:4,0.29
+Encrasicholina,purpurea,23.25,-161.75,7216:131:2,0.21
+Encrasicholina,purpurea,23.25,-162.25,7216:132:1,0.27
+Encrasicholina,purpurea,21.25,-156.25,7215:216:1,0.46
+Encrasicholina,purpurea,23.25,-164.25,7216:134:1,0.41
+Encrasicholina,purpurea,23.75,-164.75,7216:134:4,0.41
+Encrasicholina,purpurea,18.75,-155.75,7115:485:4,0.68
+Encrasicholina,purpurea,21.25,-156.75,7215:216:2,0.74
+Encrasicholina,purpurea,21.25,-157.25,7215:217:1,0.76
+Encrasicholina,purpurea,22.25,-159.25,7215:229:1,0.70
+Encrasicholina,purpurea,22.25,-159.75,7215:229:2,0.70
+Encrasicholina,purpurea,19.25,-154.75,7115:394:2,0.94
+Encrasicholina,purpurea,19.75,-154.75,7115:394:4,0.94
+Encrasicholina,purpurea,19.25,-155.25,7115:495:1,0.94
+Encrasicholina,purpurea,19.25,-155.75,7115:495:2,0.84
+Encrasicholina,purpurea,19.75,-155.25,7115:495:3,1.00
+Encrasicholina,purpurea,19.75,-155.75,7115:495:4,1.00
+Encrasicholina,purpurea,20.25,-155.25,7215:205:1,1.00
+Encrasicholina,purpurea,20.25,-155.75,7215:205:2,1.00
+Encrasicholina,purpurea,20.75,-155.75,7215:205:4,1.00
+Encrasicholina,purpurea,20.75,-156.25,7215:206:3,1.00
+Encrasicholina,purpurea,21.25,-157.75,7215:217:2,1.00
+Encrasicholina,purpurea,21.75,-157.75,7215:217:4,1.00
+Encrasicholina,purpurea,21.25,-158.25,7215:218:1,1.00
+Encrasicholina,purpurea,21.75,-158.25,7215:218:3,1.00
+Encrasicholina,purpurea,21.75,-159.25,7215:219:3,1.00
+Encrasicholina,purpurea,21.75,-159.75,7215:219:4,1.00
+Encrasicholina,purpurea,21.75,-160.25,7216:110:3,0.99
+Encrasicholina,purpurea,22.25,-160.25,7216:120:1,0.84
+Encrasicholina,purpurea,22.75,-160.75,7216:120:4,0.84
+Encrasicholina,purpurea,22.75,-162.25,7216:122:3,0.94
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Encrasicholina,purpurea,19.25,-156.25,7115:496:1,4027,25.61,34.72,253,0,105
+Encrasicholina,purpurea,20.75,-156.75,7215:206:4,259,25.41,34.93,191,0,21
+Encrasicholina,purpurea,21.25,-157.75,7215:217:2,404,25.26,34.88,253,0,22
+Encrasicholina,purpurea,21.75,-158.75,7215:218:4,2642,25.38,35,227,0,103
+Encrasicholina,purpurea,21.75,-158.25,7215:218:3,1551,25.38,35,238,0,24
+Encrasicholina,purpurea,22.75,-162.25,7216:122:3,3205,25.27,35.05,229,0,127

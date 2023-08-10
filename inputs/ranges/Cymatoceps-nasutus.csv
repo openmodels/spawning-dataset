@@ -1,0 +1,204 @@
+Mapping parameters for Cymatoceps nasutus (Black musselcracker)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 47 |  51,
+Bounding Box (NSWE): ,-22,-35,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,9,41,80
+Temperature (°C),1,14.82,18.01,24.11,28.82
+Salinity (psu),1,34.81,35.31,35.38,35.88
+Primary Production,1,612,761,1739,2766.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,0,1,23,88
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 123): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Cymatoceps,nasutus,-22.25,13.75,3201:123:2,0.04
+Cymatoceps,nasutus,-22.25,14.25,3201:124:1,0.03
+Cymatoceps,nasutus,-28.75,14.75,3201:384:4,0.02
+Cymatoceps,nasutus,-26.75,15.25,3201:465:3,0.09
+Cymatoceps,nasutus,-27.25,15.25,3201:475:1,0.09
+Cymatoceps,nasutus,-27.75,15.75,3201:475:4,0.05
+Cymatoceps,nasutus,-29.75,15.25,3201:495:3,0.19
+Cymatoceps,nasutus,-29.75,15.75,3201:495:4,0.02
+Cymatoceps,nasutus,-22.75,35.75,3203:225:4,0.07
+Cymatoceps,nasutus,-23.25,35.75,3203:235:2,0.18
+Cymatoceps,nasutus,-24.25,35.25,3203:245:1,0.07
+Cymatoceps,nasutus,-26.75,32.75,3203:362:4,0.16
+Cymatoceps,nasutus,-27.25,32.75,3203:372:2,0.18
+Cymatoceps,nasutus,-27.75,32.75,3203:372:4,0.09
+Cymatoceps,nasutus,-22.75,43.75,3204:123:4,0.06
+Cymatoceps,nasutus,-23.75,43.75,3204:133:4,0.13
+Cymatoceps,nasutus,-22.25,47.75,3204:227:2,0.18
+Cymatoceps,nasutus,-22.75,47.75,3204:227:4,0.18
+Cymatoceps,nasutus,-22.25,48.25,3204:228:1,0.18
+Cymatoceps,nasutus,-24.25,47.25,3204:247:1,0.15
+Cymatoceps,nasutus,-25.75,46.75,3204:456:4,0.17
+Cymatoceps,nasutus,-33.75,18.25,3301:238:3,0.16
+Cymatoceps,nasutus,-33.75,22.75,3302:132:4,0.12
+Cymatoceps,nasutus,-33.75,27.75,3302:237:4,0.16
+Cymatoceps,nasutus,-22.25,35.25,3203:225:1,0.38
+Cymatoceps,nasutus,-23.25,35.25,3203:235:1,0.24
+Cymatoceps,nasutus,-23.75,35.25,3203:235:3,0.21
+Cymatoceps,nasutus,-24.25,35.75,3203:245:2,0.22
+Cymatoceps,nasutus,-25.75,34.75,3203:354:4,0.26
+Cymatoceps,nasutus,-26.25,33.25,3203:363:1,0.35
+Cymatoceps,nasutus,-28.25,32.25,3203:382:1,0.28
+Cymatoceps,nasutus,-29.75,31.75,3203:391:4,0.26
+Cymatoceps,nasutus,-25.25,35.25,3203:455:1,0.35
+Cymatoceps,nasutus,-24.75,43.75,3204:143:4,0.24
+Cymatoceps,nasutus,-23.25,47.75,3204:237:2,0.20
+Cymatoceps,nasutus,-24.75,47.25,3204:247:3,0.21
+Cymatoceps,nasutus,-25.25,44.75,3204:354:2,0.37
+Cymatoceps,nasutus,-26.25,44.75,3204:364:2,0.36
+Cymatoceps,nasutus,-25.75,45.75,3204:455:4,0.35
+Cymatoceps,nasutus,-25.25,46.25,3204:456:1,0.23
+Cymatoceps,nasutus,-25.25,46.75,3204:456:2,0.23
+Cymatoceps,nasutus,-25.75,46.25,3204:456:3,0.35
+Cymatoceps,nasutus,-25.25,47.25,3204:457:1,0.20
+Cymatoceps,nasutus,-26.25,45.25,3204:465:1,0.37
+Cymatoceps,nasutus,-26.25,45.75,3204:465:2,0.37
+Cymatoceps,nasutus,-32.25,18.25,3301:228:1,0.22
+Cymatoceps,nasutus,-32.75,18.25,3301:228:3,0.26
+Cymatoceps,nasutus,-33.75,18.75,3301:238:4,0.35
+Cymatoceps,nasutus,-34.25,18.75,3301:248:2,0.24
+Cymatoceps,nasutus,-34.75,23.75,3302:143:4,0.28
+Cymatoceps,nasutus,-34.75,24.75,3302:144:4,0.31
+Cymatoceps,nasutus,-30.25,31.25,3303:101:1,0.21
+Cymatoceps,nasutus,-28.25,14.75,3201:384:2,0.41
+Cymatoceps,nasutus,-24.75,34.75,3203:144:4,0.42
+Cymatoceps,nasutus,-22.25,35.75,3203:225:2,0.46
+Cymatoceps,nasutus,-24.75,35.25,3203:245:3,0.55
+Cymatoceps,nasutus,-25.25,32.75,3203:352:2,0.59
+Cymatoceps,nasutus,-25.75,32.75,3203:352:4,0.59
+Cymatoceps,nasutus,-25.25,33.25,3203:353:1,0.58
+Cymatoceps,nasutus,-25.25,33.75,3203:353:2,0.58
+Cymatoceps,nasutus,-25.75,33.25,3203:353:3,0.55
+Cymatoceps,nasutus,-25.25,34.25,3203:354:1,0.58
+Cymatoceps,nasutus,-25.25,34.75,3203:354:2,0.58
+Cymatoceps,nasutus,-28.75,31.75,3203:381:4,0.54
+Cymatoceps,nasutus,-22.25,43.25,3204:123:1,0.45
+Cymatoceps,nasutus,-22.75,43.25,3204:123:3,0.45
+Cymatoceps,nasutus,-23.25,43.75,3204:133:2,0.46
+Cymatoceps,nasutus,-25.75,44.75,3204:354:4,0.40
+Cymatoceps,nasutus,-33.25,17.75,3301:237:2,0.40
+Cymatoceps,nasutus,-34.25,18.25,3301:248:1,0.58
+Cymatoceps,nasutus,-34.25,19.25,3301:249:1,0.49
+Cymatoceps,nasutus,-34.75,23.25,3302:143:3,0.41
+Cymatoceps,nasutus,-32.75,27.75,3302:227:4,0.50
+Cymatoceps,nasutus,-26.25,32.75,3203:362:2,0.61
+Cymatoceps,nasutus,-25.25,44.25,3204:354:1,0.60
+Cymatoceps,nasutus,-33.25,18.25,3301:238:1,0.67
+Cymatoceps,nasutus,-28.75,32.25,3203:382:3,0.95
+Cymatoceps,nasutus,-29.75,30.75,3203:390:4,1.00
+Cymatoceps,nasutus,-29.25,31.25,3203:391:1,1.00
+Cymatoceps,nasutus,-29.25,31.75,3203:391:2,1.00
+Cymatoceps,nasutus,-29.75,31.25,3203:391:3,1.00
+Cymatoceps,nasutus,-29.25,32.25,3203:392:1,1.00
+Cymatoceps,nasutus,-34.75,19.25,3301:249:3,0.87
+Cymatoceps,nasutus,-34.75,19.75,3301:249:4,0.87
+Cymatoceps,nasutus,-33.75,23.75,3302:133:4,1.00
+Cymatoceps,nasutus,-33.75,24.75,3302:134:4,1.00
+Cymatoceps,nasutus,-34.25,20.25,3302:140:1,0.89
+Cymatoceps,nasutus,-34.25,20.75,3302:140:2,1.00
+Cymatoceps,nasutus,-34.75,20.25,3302:140:3,1.00
+Cymatoceps,nasutus,-34.75,20.75,3302:140:4,1.00
+Cymatoceps,nasutus,-34.25,21.25,3302:141:1,1.00
+Cymatoceps,nasutus,-34.25,21.75,3302:141:2,1.00
+Cymatoceps,nasutus,-34.75,21.25,3302:141:3,1.00
+Cymatoceps,nasutus,-34.75,21.75,3302:141:4,1.00
+Cymatoceps,nasutus,-34.25,22.25,3302:142:1,1.00
+Cymatoceps,nasutus,-34.25,22.75,3302:142:2,1.00
+Cymatoceps,nasutus,-34.75,22.25,3302:142:3,1.00
+Cymatoceps,nasutus,-34.25,23.25,3302:143:1,1.00
+Cymatoceps,nasutus,-34.25,23.75,3302:143:2,1.00
+Cymatoceps,nasutus,-34.25,24.25,3302:144:1,1.00
+Cymatoceps,nasutus,-34.25,24.75,3302:144:2,1.00
+Cymatoceps,nasutus,-31.25,29.75,3302:219:2,1.00
+Cymatoceps,nasutus,-31.75,29.25,3302:219:3,1.00
+Cymatoceps,nasutus,-31.75,29.75,3302:219:4,1.00
+Cymatoceps,nasutus,-32.25,28.75,3302:228:2,1.00
+Cymatoceps,nasutus,-32.75,28.25,3302:228:3,1.00
+Cymatoceps,nasutus,-32.75,28.75,3302:228:4,1.00
+Cymatoceps,nasutus,-32.25,29.25,3302:229:1,1.00
+Cymatoceps,nasutus,-33.75,25.25,3302:235:3,1.00
+Cymatoceps,nasutus,-33.75,25.75,3302:235:4,1.00
+Cymatoceps,nasutus,-33.75,26.25,3302:236:3,0.99
+Cymatoceps,nasutus,-33.75,26.75,3302:236:4,1.00
+Cymatoceps,nasutus,-33.25,27.25,3302:237:1,1.00
+Cymatoceps,nasutus,-33.25,27.75,3302:237:2,1.00
+Cymatoceps,nasutus,-33.75,27.25,3302:237:3,0.96
+Cymatoceps,nasutus,-33.25,28.25,3302:238:1,1.00
+Cymatoceps,nasutus,-34.25,25.25,3302:245:1,1.00
+Cymatoceps,nasutus,-34.25,25.75,3302:245:2,1.00
+Cymatoceps,nasutus,-34.25,26.25,3302:246:1,1.00
+Cymatoceps,nasutus,-30.25,30.75,3303:100:2,1.00
+Cymatoceps,nasutus,-30.75,30.25,3303:100:3,1.00
+Cymatoceps,nasutus,-30.75,30.75,3303:100:4,1.00
+Cymatoceps,nasutus,-31.25,30.25,3303:110:1,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 45)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Cymatoceps,nasutus,-34.75,20.25,3302:140:3,52,18.01,35.34,1362,0,17
+Cymatoceps,nasutus,-34.75,19.75,3301:249:4,65,17.61,35.31,1667,0,13
+Cymatoceps,nasutus,-34.75,19.25,3301:249:3,112,17.61,35.31,1617,0,22
+Cymatoceps,nasutus,-34.25,24.75,3302:144:2,94,20.97,35.36,1473,0,18
+Cymatoceps,nasutus,-34.25,24.25,3302:144:1,115,20.97,35.36,1264,0,21
+Cymatoceps,nasutus,-34.25,23.75,3302:143:2,138,20.11,35.38,1538,0,49
+Cymatoceps,nasutus,-34.25,23.25,3302:143:1,114,20.11,35.38,1739,0,22
+Cymatoceps,nasutus,-34.25,22.75,3302:142:2,106,19.35,35.38,1716,0,23
+Cymatoceps,nasutus,-34.25,22.25,3302:142:1,74,19.35,35.38,1722,0,20
+Cymatoceps,nasutus,-34.25,21.75,3302:141:2,13,18.63,35.36,1649,0,8
+Cymatoceps,nasutus,-34.25,21.25,3302:141:1,16,18.63,35.36,1572,0,7
+Cymatoceps,nasutus,-34.25,20.75,3302:140:2,33,18.01,35.34,1690,0,4
+Cymatoceps,nasutus,-34.25,18.75,3301:248:2,66,17.47,35.47,2409,0,18
+Cymatoceps,nasutus,-34.25,18.25,3301:248:1,202,17.47,35.47,1887,0,21
+Cymatoceps,nasutus,-34.25,25.75,3302:245:2,187,21.31,35.36,1333,0,88
+Cymatoceps,nasutus,-34.25,25.25,3302:245:1,117,21.31,35.36,1418,0,85
+Cymatoceps,nasutus,-33.75,26.25,3302:236:3,47,21.88,35.38,1752,0,14
+Cymatoceps,nasutus,-33.75,25.75,3302:235:4,11,21.46,35.36,1526,0,10
+Cymatoceps,nasutus,-33.75,25.25,3302:235:3,141,21.46,35.36,1452,0,2
+Cymatoceps,nasutus,-33.75,23.75,3302:133:4,52,20.07,35.38,1731,0,1
+Cymatoceps,nasutus,-33.75,22.75,3302:132:4,1,19.34,35.38,1756,0,0
+Cymatoceps,nasutus,-33.75,27.25,3302:237:3,417,21.94,35.4,952,0,23
+Cymatoceps,nasutus,-33.75,26.75,3302:236:4,66,21.88,35.38,1596,0,17
+Cymatoceps,nasutus,-33.25,27.75,3302:237:2,386,21.94,35.36,1681,0,19
+Cymatoceps,nasutus,-33.25,27.25,3302:237:1,28,21.94,35.36,1627,0,5
+Cymatoceps,nasutus,-32.75,28.25,3302:228:3,104,22.54,35.36,1597,0,12
+Cymatoceps,nasutus,-32.75,27.75,3302:227:4,3,22.16,35.36,1501,0,0
+Cymatoceps,nasutus,-32.25,29.25,3302:229:1,996,22.64,35.36,823,0,23
+Cymatoceps,nasutus,-32.25,28.75,3302:228:2,85,22.54,35.36,1342,0,7
+Cymatoceps,nasutus,-31.75,29.75,3302:219:4,1396,23.07,35.31,822,0,22
+Cymatoceps,nasutus,-31.75,29.25,3302:219:3,193,23.07,35.36,1278,0,7
+Cymatoceps,nasutus,-31.25,29.75,3302:219:2,156,23.07,35.31,931,0,4
+Cymatoceps,nasutus,-31.25,30.25,3303:110:1,1265,23.17,35.31,822,0,21
+Cymatoceps,nasutus,-30.75,30.75,3303:100:4,1444,23.57,35.34,816,0,23
+Cymatoceps,nasutus,-30.75,30.25,3303:100:3,157,23.57,35.31,904,0,4
+Cymatoceps,nasutus,-30.25,30.75,3303:100:2,242,23.57,35.34,974,0,12
+Cymatoceps,nasutus,-29.75,31.25,3203:391:3,167,23.94,35.34,874,0,20
+Cymatoceps,nasutus,-29.75,30.75,3203:390:4,6,23.67,35.34,1214,0,0
+Cymatoceps,nasutus,-29.25,31.75,3203:391:2,74,23.94,35.34,1236,0,22
+Cymatoceps,nasutus,-29.25,31.25,3203:391:1,18,23.94,35.34,858,0,4
+Cymatoceps,nasutus,-28.75,31.75,3203:381:4,27,24.11,35.34,693,0,3
+Cymatoceps,nasutus,-28.75,32.25,3203:382:3,248,24.35,35.34,761,0,17
+Cymatoceps,nasutus,-28.25,32.25,3203:382:1,45,24.35,35.29,657,0,1
+Cymatoceps,nasutus,-28.25,32.75,3203:382:2,872,24.35,35.29,612,0,24
+Cymatoceps,nasutus,-26.75,32.75,3203:362:4,73,24.73,35.16,651,0,5

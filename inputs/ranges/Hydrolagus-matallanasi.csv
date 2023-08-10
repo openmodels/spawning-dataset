@@ -1,0 +1,56 @@
+Mapping parameters for Hydrolagus matallanasi (Striped rabbitfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 41,
+Bounding Box (NSWE): ,-23,-31,,
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,416,452,564,736
+Temperature (°C),1,3.38,4.75,9.25,10.4
+Salinity (psu),1,33.97,34.47,34.71,35.21
+Primary Production,1,386,440,533.8,610
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,77,144.2,217.399993896484,269
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 15): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Hydrolagus,matallanasi,-25.75,-44.75,5204:354:4,0.13
+Hydrolagus,matallanasi,-26.75,-46.25,5204:466:3,0.01
+Hydrolagus,matallanasi,-28.25,-46.75,5204:486:2,0.10
+Hydrolagus,matallanasi,-30.75,-47.75,5304:207:4,0.11
+Hydrolagus,matallanasi,-30.75,-48.75,5304:208:4,0.14
+Hydrolagus,matallanasi,-23.75,-42.25,5204:132:3,0.35
+Hydrolagus,matallanasi,-27.75,-46.75,5204:476:4,0.21
+Hydrolagus,matallanasi,-24.25,-43.25,5204:143:1,0.60
+Hydrolagus,matallanasi,-27.25,-46.75,5204:476:2,0.66
+Hydrolagus,matallanasi,-28.75,-47.25,5204:487:3,0.67
+Hydrolagus,matallanasi,-23.75,-41.75,5204:131:4,1.00
+Hydrolagus,matallanasi,-25.75,-45.25,5204:455:3,1.00
+Hydrolagus,matallanasi,-26.25,-45.75,5204:465:2,0.94
+Hydrolagus,matallanasi,-29.75,-47.75,5204:497:4,0.93
+Hydrolagus,matallanasi,-30.25,-47.75,5304:207:2,0.95
+
+
+Occurrence cells used for creating environmental envelope (n = 5)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Hydrolagus,matallanasi,-30.25,-47.75,5304:207:2,741,22.13,36.09,478,0,231
+Hydrolagus,matallanasi,-29.75,-47.75,5204:497:4,632,22.5,36.15,539,0,196
+Hydrolagus,matallanasi,-24.25,-42.75,5204:142:2,1157,24.3,36.4,420,0,197
+Hydrolagus,matallanasi,-23.75,-42.25,5204:132:3,523,24.26,36.2,470,0,141
+Hydrolagus,matallanasi,-23.75,-41.75,5204:131:4,595,24.55,36.45,526,0,149

@@ -1,0 +1,185 @@
+Mapping parameters for Amphiarius phrygiatus (Kukwari sea catfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 31 |  41,
+Bounding Box (NSWE): ,12,-1,-72,-48
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,3,11,20
+Temperature (°C),1,26.75,27.42,28.42,32.62
+Salinity (psu),1,7.84,14.5,33.73,34.52
+Primary Production (mgC·m-3·day-1) ,1,0.2,21.54,78.09,79.25
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,191.62,203.49,215.48,226.38
+Distance to Land (km),0,1,5,27,97
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 134): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Amphiarius,phrygiatus,2.75,-49.75,7004:229:4,0.11
+Amphiarius,phrygiatus,3.25,-48.75,7004:238:2,0.10
+Amphiarius,phrygiatus,3.25,-49.75,7004:239:2,0.11
+Amphiarius,phrygiatus,0.25,-50.25,7005:100:1,0.04
+Amphiarius,phrygiatus,7.25,-57.75,7005:477:2,0.08
+Amphiarius,phrygiatus,7.75,-57.25,7005:477:3,0.11
+Amphiarius,phrygiatus,7.75,-58.25,7005:478:3,0.19
+Amphiarius,phrygiatus,8.25,-58.75,7005:488:2,0.09
+Amphiarius,phrygiatus,8.75,-59.25,7005:489:3,0.02
+Amphiarius,phrygiatus,9.25,-59.25,7005:499:1,0.03
+Amphiarius,phrygiatus,9.25,-59.75,7005:499:2,0.02
+Amphiarius,phrygiatus,11.75,-61.75,7106:111:4,0.04
+Amphiarius,phrygiatus,11.25,-70.75,7107:110:2,0.05
+Amphiarius,phrygiatus,11.75,-71.25,7107:111:3,0.10
+Amphiarius,phrygiatus,3.25,-49.25,7004:239:1,0.22
+Amphiarius,phrygiatus,0.75,-50.75,7005:100:4,0.29
+Amphiarius,phrygiatus,6.25,-51.75,7005:361:2,0.29
+Amphiarius,phrygiatus,6.25,-53.75,7005:363:2,0.33
+Amphiarius,phrygiatus,7.75,-56.75,7005:476:4,0.27
+Amphiarius,phrygiatus,11.25,-60.25,7106:110:1,0.21
+Amphiarius,phrygiatus,11.75,-71.75,7107:111:4,0.32
+Amphiarius,phrygiatus,-0.75,-50.75,5005:100:4,0.50
+Amphiarius,phrygiatus,0.25,-51.25,7005:101:1,0.48
+Amphiarius,phrygiatus,1.75,-50.75,7005:110:4,0.50
+Amphiarius,phrygiatus,3.25,-50.25,7005:130:1,0.59
+Amphiarius,phrygiatus,3.25,-50.75,7005:130:2,0.58
+Amphiarius,phrygiatus,3.75,-50.75,7005:130:4,0.51
+Amphiarius,phrygiatus,3.75,-51.25,7005:131:3,0.49
+Amphiarius,phrygiatus,4.75,-50.25,7005:140:3,0.55
+Amphiarius,phrygiatus,6.75,-52.25,7005:362:3,0.51
+Amphiarius,phrygiatus,7.25,-53.75,7005:373:2,0.59
+Amphiarius,phrygiatus,7.75,-59.25,7005:479:3,0.50
+Amphiarius,phrygiatus,-0.25,-50.25,5005:100:1,0.78
+Amphiarius,phrygiatus,-0.25,-50.75,5005:100:2,0.63
+Amphiarius,phrygiatus,2.25,-48.25,7004:228:1,0.67
+Amphiarius,phrygiatus,4.25,-50.75,7005:140:2,0.72
+Amphiarius,phrygiatus,4.25,-51.25,7005:141:1,0.73
+Amphiarius,phrygiatus,4.75,-51.25,7005:141:3,0.79
+Amphiarius,phrygiatus,5.25,-50.75,7005:350:2,0.79
+Amphiarius,phrygiatus,6.75,-52.75,7005:362:4,0.68
+Amphiarius,phrygiatus,6.25,-54.75,7005:364:2,0.62
+Amphiarius,phrygiatus,7.25,-54.25,7005:374:1,0.64
+Amphiarius,phrygiatus,7.25,-54.75,7005:374:2,0.69
+Amphiarius,phrygiatus,6.75,-55.25,7005:465:3,0.70
+Amphiarius,phrygiatus,9.25,-71.25,7007:391:1,0.70
+Amphiarius,phrygiatus,9.25,-71.75,7007:391:2,0.71
+Amphiarius,phrygiatus,9.75,-71.25,7007:391:3,0.69
+Amphiarius,phrygiatus,9.75,-71.75,7007:391:4,0.69
+Amphiarius,phrygiatus,10.25,-71.75,7107:101:2,0.71
+Amphiarius,phrygiatus,-0.25,-48.25,5004:208:1,1.00
+Amphiarius,phrygiatus,-0.25,-48.75,5004:208:2,1.00
+Amphiarius,phrygiatus,-0.75,-48.25,5004:208:3,0.99
+Amphiarius,phrygiatus,-0.75,-48.75,5004:208:4,0.98
+Amphiarius,phrygiatus,-0.25,-49.75,5004:209:2,0.96
+Amphiarius,phrygiatus,-0.25,-51.25,5005:101:1,0.84
+Amphiarius,phrygiatus,-0.75,-51.25,5005:101:3,1.00
+Amphiarius,phrygiatus,0.25,-48.25,7004:208:1,1.00
+Amphiarius,phrygiatus,0.75,-48.25,7004:208:3,1.00
+Amphiarius,phrygiatus,0.25,-49.75,7004:209:2,0.89
+Amphiarius,phrygiatus,0.75,-49.75,7004:209:4,0.99
+Amphiarius,phrygiatus,1.25,-48.25,7004:218:1,1.00
+Amphiarius,phrygiatus,1.75,-48.25,7004:218:3,1.00
+Amphiarius,phrygiatus,1.75,-49.75,7004:219:4,1.00
+Amphiarius,phrygiatus,2.25,-48.75,7004:228:2,1.00
+Amphiarius,phrygiatus,2.25,-49.25,7004:229:1,1.00
+Amphiarius,phrygiatus,2.75,-49.25,7004:229:3,1.00
+Amphiarius,phrygiatus,3.75,-49.25,7004:239:3,1.00
+Amphiarius,phrygiatus,4.25,-49.75,7004:249:2,0.95
+Amphiarius,phrygiatus,1.75,-50.25,7005:110:3,1.00
+Amphiarius,phrygiatus,2.25,-50.25,7005:120:1,1.00
+Amphiarius,phrygiatus,2.25,-50.75,7005:120:2,0.99
+Amphiarius,phrygiatus,2.75,-50.75,7005:120:4,0.83
+Amphiarius,phrygiatus,3.75,-50.25,7005:130:3,0.99
+Amphiarius,phrygiatus,3.25,-51.25,7005:131:1,0.98
+Amphiarius,phrygiatus,4.25,-50.25,7005:140:1,1.00
+Amphiarius,phrygiatus,4.75,-50.75,7005:140:4,1.00
+Amphiarius,phrygiatus,4.25,-51.75,7005:141:2,0.90
+Amphiarius,phrygiatus,4.75,-51.75,7005:141:4,1.00
+Amphiarius,phrygiatus,4.75,-52.25,7005:142:3,1.00
+Amphiarius,phrygiatus,5.25,-51.25,7005:351:1,0.90
+Amphiarius,phrygiatus,5.25,-51.75,7005:351:2,0.94
+Amphiarius,phrygiatus,5.75,-51.75,7005:351:4,0.87
+Amphiarius,phrygiatus,5.25,-52.25,7005:352:1,1.00
+Amphiarius,phrygiatus,5.25,-52.75,7005:352:2,1.00
+Amphiarius,phrygiatus,5.75,-52.25,7005:352:3,0.97
+Amphiarius,phrygiatus,5.75,-52.75,7005:352:4,1.00
+Amphiarius,phrygiatus,5.25,-53.25,7005:353:1,1.00
+Amphiarius,phrygiatus,5.75,-53.25,7005:353:3,1.00
+Amphiarius,phrygiatus,5.75,-53.75,7005:353:4,1.00
+Amphiarius,phrygiatus,5.75,-54.25,7005:354:3,1.00
+Amphiarius,phrygiatus,5.75,-54.75,7005:354:4,1.00
+Amphiarius,phrygiatus,6.25,-52.25,7005:362:1,0.81
+Amphiarius,phrygiatus,6.25,-52.75,7005:362:2,1.00
+Amphiarius,phrygiatus,6.25,-53.25,7005:363:1,1.00
+Amphiarius,phrygiatus,6.75,-53.25,7005:363:3,0.81
+Amphiarius,phrygiatus,6.75,-53.75,7005:363:4,0.96
+Amphiarius,phrygiatus,6.25,-54.25,7005:364:1,1.00
+Amphiarius,phrygiatus,6.75,-54.25,7005:364:3,1.00
+Amphiarius,phrygiatus,5.75,-55.25,7005:455:3,1.00
+Amphiarius,phrygiatus,5.75,-55.75,7005:455:4,1.00
+Amphiarius,phrygiatus,5.75,-56.25,7005:456:3,1.00
+Amphiarius,phrygiatus,5.75,-56.75,7005:456:4,1.00
+Amphiarius,phrygiatus,6.25,-57.25,7005:467:1,1.00
+Amphiarius,phrygiatus,6.25,-57.75,7005:467:2,1.00
+Amphiarius,phrygiatus,6.75,-57.75,7005:467:4,1.00
+Amphiarius,phrygiatus,6.75,-58.25,7005:468:3,1.00
+Amphiarius,phrygiatus,7.25,-58.25,7005:478:1,1.00
+Amphiarius,phrygiatus,7.25,-58.75,7005:478:2,1.00
+Amphiarius,phrygiatus,7.75,-58.75,7005:478:4,1.00
+Amphiarius,phrygiatus,8.25,-59.25,7005:489:1,0.84
+Amphiarius,phrygiatus,8.25,-59.75,7005:489:2,1.00
+Amphiarius,phrygiatus,8.75,-60.75,7006:380:4,1.00
+Amphiarius,phrygiatus,9.25,-60.75,7006:390:2,1.00
+Amphiarius,phrygiatus,9.75,-60.75,7006:390:4,1.00
+Amphiarius,phrygiatus,9.75,-61.25,7006:391:3,1.00
+Amphiarius,phrygiatus,9.75,-61.75,7006:391:4,1.00
+Amphiarius,phrygiatus,9.75,-62.25,7006:392:3,1.00
+Amphiarius,phrygiatus,10.25,-60.75,7106:100:2,1.00
+Amphiarius,phrygiatus,10.75,-60.75,7106:100:4,1.00
+Amphiarius,phrygiatus,10.25,-61.25,7106:101:1,1.00
+Amphiarius,phrygiatus,10.25,-61.75,7106:101:2,1.00
+Amphiarius,phrygiatus,10.75,-61.25,7106:101:3,1.00
+Amphiarius,phrygiatus,10.75,-61.75,7106:101:4,1.00
+Amphiarius,phrygiatus,10.25,-62.25,7106:102:1,1.00
+Amphiarius,phrygiatus,10.25,-62.75,7106:102:2,1.00
+Amphiarius,phrygiatus,10.75,-62.25,7106:102:3,1.00
+Amphiarius,phrygiatus,10.75,-62.75,7106:102:4,0.84
+Amphiarius,phrygiatus,11.25,-60.75,7106:110:2,0.88
+Amphiarius,phrygiatus,11.25,-62.75,7106:112:2,0.82
+Amphiarius,phrygiatus,10.25,-71.25,7107:101:1,0.85
+Amphiarius,phrygiatus,10.75,-71.25,7107:101:3,1.00
+Amphiarius,phrygiatus,10.75,-71.75,7107:101:4,0.91
+Amphiarius,phrygiatus,11.25,-71.25,7107:111:1,1.00
+Amphiarius,phrygiatus,11.25,-71.75,7107:111:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 15)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Amphiarius,phrygiatus,-0.75,-50.75,5005:100:4,1,28.3192005157471,28.2219696044922,14.5005712509155,26.7724170684814,66.4723068475723,0,205.725463867188,11
+Amphiarius,phrygiatus,0.25,-48.75,7004:208:2,12,28.3524703979492,28.3743915557861,25.059009552002,31.0142307281494,79.245001077652,0,221.808486938477,97
+Amphiarius,phrygiatus,0.25,-50.75,7005:100:2,9,28.6711902618408,28.9034538269043,7.83984422683716,35.8270263671875,78.0920013785362,0,209.120147705078,16
+Amphiarius,phrygiatus,4.25,-51.75,7005:141:2,3,28.0106372833252,28.1458930969238,21.9436225891113,30.9605846405029,19.3700958043337,0,215.063369750977,7
+Amphiarius,phrygiatus,4.75,-51.75,7005:141:4,49,27.9838275909424,28.1191444396973,23.5301418304443,35.3704948425293,23.1209993362427,0,215.484848022461,26
+Amphiarius,phrygiatus,4.75,-52.25,7005:142:3,27,27.7798004150391,27.980562210083,24.1915664672852,32.3621482849121,25.4490002989769,0,213.344039916992,7
+Amphiarius,phrygiatus,5.25,-52.25,7005:352:1,37,27.8206310272217,27.2228050231934,25.4367637634277,36.0860595703125,21.798999980092,0,202.088500976563,27
+Amphiarius,phrygiatus,5.25,-52.75,7005:352:2,17,27.7060127258301,27.7654705047607,26.8401260375977,31.9446277618408,29.5819994062185,0,212.362731933594,12
+Amphiarius,phrygiatus,5.25,-53.25,7005:353:1,6,27.6344566345215,27.5107936859131,28.2654666900635,34.1307487487793,30.7838749140501,0,207.929092407227,1
+Amphiarius,phrygiatus,5.75,-53.25,7005:353:3,43,27.5522918701172,27.4988746643066,30.3942852020264,35.0118026733398,34.0959988534451,0,209.556610107422,25
+Amphiarius,phrygiatus,5.75,-53.75,7005:353:4,16,27.4747104644775,27.0311622619629,31.5735168457031,35.7959518432617,31.651999801397302,0,203.492004394531,16
+Amphiarius,phrygiatus,5.75,-54.25,7005:354:3,4,27.5237503051758,27.298713684082,31.6260585784912,35.3964538574219,32.623626291751904,0,204.654769897461,5
+Amphiarius,phrygiatus,6.25,-55.25,7005:465:1,37,27.4957733154297,27.5294895172119,34.5173721313477,34.9144325256348,35.1030007004738,0,205.242416381836,27
+Amphiarius,phrygiatus,6.75,-57.75,7005:467:4,5,28.017822265625,27.9562587738037,33.7292671203613,35.296314239502,21.5370003134012,0,205.417694091797,22
+Amphiarius,phrygiatus,8.75,-60.75,7006:380:4,3,28.0861530303955,28.0168437957764,32.3268051147461,32.6022491455078,38.4000018239021,0,204.16650390625,15

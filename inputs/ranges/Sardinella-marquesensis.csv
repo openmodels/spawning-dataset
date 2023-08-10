@@ -1,0 +1,65 @@
+Mapping parameters for Sardinella marquesensis (Marquesan sardinella)
+
+"Cite AquaMaps itself as: Kaschner, K., J. Rius-Barile, K. Kesner-Reyes, C. Garilao, S.O. Kullander, T. Rees and R. Froese. 2013. AquaMaps: Predicted range maps for aquatic species World Wide Web electronic publication, www.aquamaps.org, Version 08/2013. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,24,-19,-164,-141
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,24.7,25.2,25.47,29.67
+Salinity (psu),1,34.36,34.86,34.97,35.47
+Primary Production,1,191,219,256,270
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,14,18.2,56,104
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 30): 
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability,Depth,SST,Salinity,Primary Production,Sea Ice Concentration.,Distance to Land
+Sardinella,marquesensis,22.75,-161.25,7216:121:3,0.14,,,,,,
+Sardinella,marquesensis,20.75,-157.75,7215:207:4,0.27,,,,,,
+Sardinella,marquesensis,23.25,-161.75,7216:131:2,0.27,,,,,,
+Sardinella,marquesensis,23.25,-162.25,7216:132:1,0.32,,,,,,
+Sardinella,marquesensis,18.75,-155.75,7115:485:4,0.56,,,,,,
+Sardinella,marquesensis,21.25,-156.25,7215:216:1,0.54,,,,,,
+Sardinella,marquesensis,19.25,-155.75,7115:495:2,0.72,,,,,,
+Sardinella,marquesensis,21.25,-157.25,7215:217:1,0.71,,,,,,
+Sardinella,marquesensis,22.25,-159.25,7215:229:1,0.74,,,,,,
+Sardinella,marquesensis,22.25,-159.75,7215:229:2,0.74,,,,,,
+Sardinella,marquesensis,19.25,-154.75,7115:394:2,0.82,,,,,,
+Sardinella,marquesensis,19.75,-154.75,7115:394:4,0.82,,,,,,
+Sardinella,marquesensis,19.25,-155.25,7115:495:1,0.82,,,,,,
+Sardinella,marquesensis,19.75,-155.25,7115:495:3,1.00,,,,,,
+Sardinella,marquesensis,19.75,-155.75,7115:495:4,1.00,,,,,,
+Sardinella,marquesensis,20.25,-155.25,7215:205:1,1.00,,,,,,
+Sardinella,marquesensis,20.25,-155.75,7215:205:2,1.00,,,,,,
+Sardinella,marquesensis,20.75,-155.75,7215:205:4,1.00,,,,,,
+Sardinella,marquesensis,20.75,-156.25,7215:206:3,1.00,,,,,,
+Sardinella,marquesensis,21.25,-156.75,7215:216:2,0.86,,,,,,
+Sardinella,marquesensis,21.25,-157.75,7215:217:2,1.00,,,,,,
+Sardinella,marquesensis,21.75,-157.75,7215:217:4,1.00,,,,,,
+Sardinella,marquesensis,21.25,-158.25,7215:218:1,1.00,,,,,,
+Sardinella,marquesensis,21.75,-158.25,7215:218:3,0.94,,,,,,
+Sardinella,marquesensis,21.75,-159.25,7215:219:3,1.00,,,,,,
+Sardinella,marquesensis,21.75,-159.75,7215:219:4,1.00,,,,,,
+Sardinella,marquesensis,21.75,-160.25,7216:110:3,0.98,,,,,,
+Sardinella,marquesensis,22.25,-160.25,7216:120:1,0.86,,,,,,
+Sardinella,marquesensis,22.75,-160.75,7216:120:4,0.86,,,,,,
+Sardinella,marquesensis,22.75,-162.25,7216:122:3,0.84,,,,,,
+
+
+Occurrence cells used for creating environmental envelope (n = 7)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Sardinella,marquesensis,20.75,-157.25,7215:207:3,2025,25.56,34.84,238,0,104
+Sardinella,marquesensis,20.75,-156.75,7215:206:4,259,25.41,34.93,191,0,21
+Sardinella,marquesensis,20.75,-156.25,7215:206:3,524,25.41,34.93,242,0,14
+Sardinella,marquesensis,21.25,-158.25,7215:218:1,2368,25.38,34.88,239,0,24
+Sardinella,marquesensis,21.25,-157.75,7215:217:2,404,25.26,34.88,253,0,22
+Sardinella,marquesensis,21.25,-157.25,7215:217:1,589,25.26,34.88,260,0,24
+Sardinella,marquesensis,22.25,-159.75,7215:229:2,2019,25.11,35.02,249,0,21

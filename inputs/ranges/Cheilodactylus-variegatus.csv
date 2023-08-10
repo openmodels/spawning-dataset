@@ -1,0 +1,145 @@
+Mapping parameters for Cheilodactylus variegatus (Peruvian morwong)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,-5,-37,-81,-71
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,12.73,14.03,20.01,21.9
+Salinity (psu),1,32.63,34.08,35.09,35.59
+Primary Production (mgC·m-3·day-1) ,1,3.93,6.2,93.95,131.39
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,7.27,13.98,205.78,300.7
+Distance to Land (km),0,2,7,205,642
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 87): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Cheilodactylus,variegatus,-8.25,-79.75,5007:489:2,0.08
+Cheilodactylus,variegatus,-28.75,-71.75,5207:381:4,0.17
+Cheilodactylus,variegatus,-26.25,-79.75,5207:469:2,0.18
+Cheilodactylus,variegatus,-26.25,-80.25,5208:360:1,0.16
+Cheilodactylus,variegatus,-33.75,-77.75,5307:237:4,0.04
+Cheilodactylus,variegatus,-33.75,-78.75,5307:238:4,0.15
+Cheilodactylus,variegatus,-35.75,-72.75,5307:352:4,0.18
+Cheilodactylus,variegatus,-36.25,-72.75,5307:362:2,0.11
+Cheilodactylus,variegatus,-36.75,-72.75,5307:362:4,0.07
+Cheilodactylus,variegatus,-36.25,-73.25,5307:363:1,0.11
+Cheilodactylus,variegatus,-36.75,-73.75,5307:363:4,0.15
+Cheilodactylus,variegatus,-33.75,-80.75,5308:130:4,0.14
+Cheilodactylus,variegatus,-17.25,-71.75,5107:371:2,0.54
+Cheilodactylus,variegatus,-31.75,-71.25,5307:111:3,0.50
+Cheilodactylus,variegatus,-32.25,-71.25,5307:121:1,0.54
+Cheilodactylus,variegatus,-35.25,-72.25,5307:352:1,0.48
+Cheilodactylus,variegatus,-35.25,-72.75,5307:352:2,0.43
+Cheilodactylus,variegatus,-9.75,-78.75,5007:498:4,0.67
+Cheilodactylus,variegatus,-5.25,-80.75,5008:350:2,0.74
+Cheilodactylus,variegatus,-16.75,-72.25,5107:362:3,0.75
+Cheilodactylus,variegatus,-29.75,-71.25,5207:391:3,0.78
+Cheilodactylus,variegatus,-30.25,-71.25,5307:101:1,0.66
+Cheilodactylus,variegatus,-32.75,-71.25,5307:121:3,0.62
+Cheilodactylus,variegatus,-34.75,-72.25,5307:142:3,0.61
+Cheilodactylus,variegatus,-27.75,-71.25,5207:371:3,1.00
+Cheilodactylus,variegatus,-6.75,-79.75,5007:469:4,1.00
+Cheilodactylus,variegatus,-7.25,-79.75,5007:479:2,1.00
+Cheilodactylus,variegatus,-7.75,-79.25,5007:479:3,1.00
+Cheilodactylus,variegatus,-7.75,-79.75,5007:479:4,1.00
+Cheilodactylus,variegatus,-8.25,-78.75,5007:488:2,1.00
+Cheilodactylus,variegatus,-8.75,-78.75,5007:488:4,1.00
+Cheilodactylus,variegatus,-8.25,-79.25,5007:489:1,1.00
+Cheilodactylus,variegatus,-8.75,-79.75,5007:489:4,1.00
+Cheilodactylus,variegatus,-9.25,-78.25,5007:498:1,1.00
+Cheilodactylus,variegatus,-9.25,-78.75,5007:498:2,1.00
+Cheilodactylus,variegatus,-9.75,-78.25,5007:498:3,1.00
+Cheilodactylus,variegatus,-5.75,-80.75,5008:350:4,1.00
+Cheilodactylus,variegatus,-6.25,-80.25,5008:360:1,1.00
+Cheilodactylus,variegatus,-6.25,-80.75,5008:360:2,0.84
+Cheilodactylus,variegatus,-6.75,-80.25,5008:360:3,1.00
+Cheilodactylus,variegatus,-6.75,-80.75,5008:360:4,1.00
+Cheilodactylus,variegatus,-7.25,-80.25,5008:370:1,1.00
+Cheilodactylus,variegatus,-7.25,-80.75,5008:370:2,1.00
+Cheilodactylus,variegatus,-7.75,-80.25,5008:370:3,1.00
+Cheilodactylus,variegatus,-10.25,-77.75,5107:207:2,1.00
+Cheilodactylus,variegatus,-10.75,-77.75,5107:207:4,1.00
+Cheilodactylus,variegatus,-10.25,-78.25,5107:208:1,1.00
+Cheilodactylus,variegatus,-11.25,-77.25,5107:217:1,1.00
+Cheilodactylus,variegatus,-11.25,-77.75,5107:217:2,1.00
+Cheilodactylus,variegatus,-11.75,-77.25,5107:217:3,1.00
+Cheilodactylus,variegatus,-11.75,-77.75,5107:217:4,1.00
+Cheilodactylus,variegatus,-12.25,-76.75,5107:226:2,1.00
+Cheilodactylus,variegatus,-12.75,-76.25,5107:226:3,1.00
+Cheilodactylus,variegatus,-12.75,-76.75,5107:226:4,1.00
+Cheilodactylus,variegatus,-12.25,-77.25,5107:227:1,1.00
+Cheilodactylus,variegatus,-13.25,-76.25,5107:236:1,1.00
+Cheilodactylus,variegatus,-13.75,-76.25,5107:236:3,1.00
+Cheilodactylus,variegatus,-14.25,-75.75,5107:245:2,1.00
+Cheilodactylus,variegatus,-14.75,-75.25,5107:245:3,1.00
+Cheilodactylus,variegatus,-14.75,-75.75,5107:245:4,1.00
+Cheilodactylus,variegatus,-14.25,-76.25,5107:246:1,1.00
+Cheilodactylus,variegatus,-15.75,-73.75,5107:353:4,1.00
+Cheilodactylus,variegatus,-15.25,-74.75,5107:354:2,1.00
+Cheilodactylus,variegatus,-15.75,-74.25,5107:354:3,1.00
+Cheilodactylus,variegatus,-15.75,-74.75,5107:354:4,1.00
+Cheilodactylus,variegatus,-16.25,-72.75,5107:362:2,0.87
+Cheilodactylus,variegatus,-16.75,-72.75,5107:362:4,1.00
+Cheilodactylus,variegatus,-16.25,-73.25,5107:363:1,1.00
+Cheilodactylus,variegatus,-16.25,-73.75,5107:363:2,1.00
+Cheilodactylus,variegatus,-17.25,-71.25,5107:371:1,1.00
+Cheilodactylus,variegatus,-17.75,-71.25,5107:371:3,1.00
+Cheilodactylus,variegatus,-15.25,-75.25,5107:455:1,1.00
+Cheilodactylus,variegatus,-28.25,-71.25,5207:381:1,1.00
+Cheilodactylus,variegatus,-28.75,-71.25,5207:381:3,1.00
+Cheilodactylus,variegatus,-29.25,-71.25,5207:391:1,0.93
+Cheilodactylus,variegatus,-29.25,-71.75,5207:391:2,1.00
+Cheilodactylus,variegatus,-29.75,-71.75,5207:391:4,0.83
+Cheilodactylus,variegatus,-30.25,-71.75,5307:101:2,1.00
+Cheilodactylus,variegatus,-30.75,-71.75,5307:101:4,1.00
+Cheilodactylus,variegatus,-31.25,-71.75,5307:111:2,1.00
+Cheilodactylus,variegatus,-31.75,-71.75,5307:111:4,1.00
+Cheilodactylus,variegatus,-32.25,-71.75,5307:121:2,1.00
+Cheilodactylus,variegatus,-32.75,-71.75,5307:121:4,1.00
+Cheilodactylus,variegatus,-33.25,-71.75,5307:131:2,1.00
+Cheilodactylus,variegatus,-33.75,-71.75,5307:131:4,0.92
+Cheilodactylus,variegatus,-33.75,-72.25,5307:132:3,0.83
+Cheilodactylus,variegatus,-34.25,-71.75,5307:141:2,0.83
+
+
+Occurrence cells used for creating environmental envelope (n = 22)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Cheilodactylus,variegatus,-36.75,-73.25,5307:363:3,139,12.7341899871826,11.696400642395,32.6299171447754,34.0956649780273,84.696002304554,0,83.1979827880859,19
+Cheilodactylus,variegatus,-33.25,-71.75,5307:131:2,509,14.0279026031494,12.1824169158936,34.0795745849609,34.2473335266113,55.8260008692741,0,88.5015258789063,17
+Cheilodactylus,variegatus,-32.75,-71.75,5307:121:4,1210,14.2182397842407,5.81501007080078,34.1778182983398,34.3138809204102,51.731001585722,0,98.8412017822266,23
+Cheilodactylus,variegatus,-32.75,-77.75,5307:227:4,4195,16.7874164581299,1.30472600460052,34.3099403381348,34.6896324157715,4.36800019815564,0,168.449981689453,192
+Cheilodactylus,variegatus,-20.25,-77.75,5207:207:2,4534,19.4808235168457,1.36237394809723,35.1990356445313,34.7008590698242,6.20200019329786,0,157.075332641602,642
+Cheilodactylus,variegatus,-17.75,-71.25,5107:371:3,471,19.3970279693604,19.3074588775635,34.7934646606445,35.0859298706055,80.4890021681786,0,224.781539916992,18
+Cheilodactylus,variegatus,-17.75,-72.25,5107:372:3,2371,20.253604888916,2.01476502418518,34.9192924499512,34.6457786560059,28.4829996526241,0,131.359786987305,97
+Cheilodactylus,variegatus,-17.25,-72.25,5107:372:1,1060,19.5666332244873,4.46338987350464,34.8373336791992,34.5104789733887,80.1049992442131,0,57.035099029541,50
+Cheilodactylus,variegatus,-16.25,-73.75,5107:363:2,823,18.2995910644531,12.7195091247559,34.8874893188477,34.8581886291504,86.6150036454201,0,13.9839477539063,20
+Cheilodactylus,variegatus,-15.75,-74.75,5107:354:4,1148,17.6315212249756,4.88558721542358,34.9277114868164,34.5093536376953,54.8750013113022,0,47.7164306640625,23
+Cheilodactylus,variegatus,-15.25,-77.25,5107:457:1,3321,19.3378944396973,1.45437002182007,35.0705604553223,34.6774520874023,15.2979996055365,0,150.46989440918,205
+Cheilodactylus,variegatus,-13.75,-76.25,5107:236:3,76,17.7254295349121,15.1913366317749,34.9596939086914,34.9406814575195,62.9179030656815,0,92.701545715332,15
+Cheilodactylus,variegatus,-13.25,-76.25,5107:236:1,107,18.136510848999,15.2010402679443,34.942512512207,34.968677520752,76.3788819313049,0,79.4307861328125,13
+Cheilodactylus,variegatus,-12.25,-76.75,5107:226:2,95,18.3044910430908,16.3991241455078,34.9317169189453,35.034236907959,86.1272215843201,0,121.422309875488,7
+Cheilodactylus,variegatus,-12.25,-77.25,5107:227:1,173,18.2420444488525,13.7115068435669,34.9794998168945,34.9337692260742,65.3809979557991,0,7.27287292480469,26
+Cheilodactylus,variegatus,-12.25,-78.75,5107:228:2,5083,20.0066471099854,1.41909503936768,35.0888366699219,34.6978225708008,23.4709996730089,0,137.568481445313,197
+Cheilodactylus,variegatus,-11.75,-77.25,5107:217:3,87,18.2189998626709,17.7786464691162,34.9571685791016,35.1131286621094,93.9470008015633,0,181.702758789063,19
+Cheilodactylus,variegatus,-9.75,-78.25,5007:498:3,86,18.8073787689209,15.7764873504639,34.8133735656738,34.9601020812988,75.5110830068588,0,68.9009552001953,15
+Cheilodactylus,variegatus,-9.25,-78.75,5007:498:2,96,18.7633209228516,14.7173385620117,34.8626594543457,34.9812889099121,67.9370015859604,0,22.1063423156738,27
+Cheilodactylus,variegatus,-8.75,-78.75,5007:488:4,80,19.0518226623535,15.985390663147,34.716495513916,34.9280281066895,72.9080513119698,0,61.3276062011719,18
+Cheilodactylus,variegatus,-6.25,-80.25,5008:360:1,11,19.6831531524658,19.1578102111816,34.431755065918,34.9462013244629,83.5956409573555,0,161.751968383789,2
+Cheilodactylus,variegatus,-6.25,-80.75,5008:360:2,112,19.3272113800049,19.7034778594971,34.720573425293,34.9753723144531,100.03600269556,0,205.779190063477,15

@@ -1,0 +1,122 @@
+Mapping parameters for Genypterus maculatus (Black cusk-eel)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,-4,-22,-82,-71
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,200,299,552,1000
+Temperature (°C),1,15.42,17.27,20.48,22.95
+Salinity (psu),1,33.92,34.42,35.13,35.63
+Primary Production (mgC·m-3·day-1) ,1,15.11,17.92,93.95,141.43
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,7.27,16.32,207.68,386.6
+Distance to Land (km),0,7,9,247,292
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 71): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Genypterus,maculatus,-8.25,-80.75,5008:380:2,0.03
+Genypterus,maculatus,-7.25,-80.25,5008:370:1,0.30
+Genypterus,maculatus,-11.25,-77.25,5107:217:1,0.28
+Genypterus,maculatus,-12.75,-76.25,5107:226:3,0.34
+Genypterus,maculatus,-13.25,-77.25,5107:237:1,0.26
+Genypterus,maculatus,-4.25,-81.25,5008:141:1,0.53
+Genypterus,maculatus,-12.75,-77.75,5107:227:4,0.46
+Genypterus,maculatus,-13.25,-76.25,5107:236:1,0.44
+Genypterus,maculatus,-13.75,-76.25,5107:236:3,0.53
+Genypterus,maculatus,-17.25,-72.75,5107:372:2,0.47
+Genypterus,maculatus,-8.25,-79.25,5007:489:1,0.66
+Genypterus,maculatus,-12.25,-76.75,5107:226:2,0.69
+Genypterus,maculatus,-17.25,-71.75,5107:371:2,0.64
+Genypterus,maculatus,-8.25,-78.75,5007:488:2,0.92
+Genypterus,maculatus,-8.75,-78.75,5007:488:4,1.00
+Genypterus,maculatus,-8.25,-79.75,5007:489:2,1.00
+Genypterus,maculatus,-8.75,-79.75,5007:489:4,1.00
+Genypterus,maculatus,-9.25,-79.25,5007:499:1,1.00
+Genypterus,maculatus,-9.25,-79.75,5007:499:2,1.00
+Genypterus,maculatus,-9.75,-79.25,5007:499:3,1.00
+Genypterus,maculatus,-9.75,-79.75,5007:499:4,0.90
+Genypterus,maculatus,-4.75,-81.25,5008:141:3,1.00
+Genypterus,maculatus,-5.75,-80.75,5008:350:4,1.00
+Genypterus,maculatus,-5.25,-81.25,5008:351:1,1.00
+Genypterus,maculatus,-5.75,-81.25,5008:351:3,1.00
+Genypterus,maculatus,-6.25,-80.75,5008:360:2,0.87
+Genypterus,maculatus,-6.75,-80.75,5008:360:4,1.00
+Genypterus,maculatus,-6.25,-81.25,5008:361:1,1.00
+Genypterus,maculatus,-6.75,-81.25,5008:361:3,0.90
+Genypterus,maculatus,-7.25,-80.75,5008:370:2,1.00
+Genypterus,maculatus,-7.75,-80.25,5008:370:3,1.00
+Genypterus,maculatus,-7.75,-80.75,5008:370:4,0.96
+Genypterus,maculatus,-8.25,-80.25,5008:380:1,1.00
+Genypterus,maculatus,-8.75,-80.25,5008:380:3,0.94
+Genypterus,maculatus,-10.25,-77.75,5107:207:2,1.00
+Genypterus,maculatus,-10.75,-77.75,5107:207:4,1.00
+Genypterus,maculatus,-10.25,-78.25,5107:208:1,0.99
+Genypterus,maculatus,-10.25,-78.75,5107:208:2,1.00
+Genypterus,maculatus,-10.75,-78.25,5107:208:3,1.00
+Genypterus,maculatus,-10.75,-78.75,5107:208:4,1.00
+Genypterus,maculatus,-10.25,-79.25,5107:209:1,0.99
+Genypterus,maculatus,-11.25,-77.75,5107:217:2,1.00
+Genypterus,maculatus,-11.75,-77.75,5107:217:4,1.00
+Genypterus,maculatus,-11.25,-78.25,5107:218:1,1.00
+Genypterus,maculatus,-11.75,-78.25,5107:218:3,1.00
+Genypterus,maculatus,-12.75,-76.75,5107:226:4,1.00
+Genypterus,maculatus,-12.25,-77.25,5107:227:1,1.00
+Genypterus,maculatus,-12.25,-77.75,5107:227:2,1.00
+Genypterus,maculatus,-12.75,-77.25,5107:227:3,1.00
+Genypterus,maculatus,-13.25,-76.75,5107:236:2,1.00
+Genypterus,maculatus,-13.75,-76.75,5107:236:4,1.00
+Genypterus,maculatus,-14.75,-75.75,5107:245:4,0.93
+Genypterus,maculatus,-14.25,-76.25,5107:246:1,0.95
+Genypterus,maculatus,-14.25,-76.75,5107:246:2,1.00
+Genypterus,maculatus,-14.75,-76.25,5107:246:3,1.00
+Genypterus,maculatus,-15.75,-74.25,5107:354:3,1.00
+Genypterus,maculatus,-15.75,-74.75,5107:354:4,1.00
+Genypterus,maculatus,-16.75,-72.25,5107:362:3,0.80
+Genypterus,maculatus,-16.75,-72.75,5107:362:4,1.00
+Genypterus,maculatus,-16.25,-73.25,5107:363:1,1.00
+Genypterus,maculatus,-16.25,-73.75,5107:363:2,1.00
+Genypterus,maculatus,-16.75,-73.25,5107:363:3,1.00
+Genypterus,maculatus,-16.25,-74.25,5107:364:1,1.00
+Genypterus,maculatus,-17.25,-71.25,5107:371:1,1.00
+Genypterus,maculatus,-17.75,-71.25,5107:371:3,1.00
+Genypterus,maculatus,-17.75,-71.75,5107:371:4,1.00
+Genypterus,maculatus,-17.25,-72.25,5107:372:1,1.00
+Genypterus,maculatus,-18.25,-71.25,5107:381:1,1.00
+Genypterus,maculatus,-15.25,-75.25,5107:455:1,1.00
+Genypterus,maculatus,-15.25,-75.75,5107:455:2,1.00
+Genypterus,maculatus,-15.75,-75.25,5107:455:3,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 15)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Genypterus,maculatus,-16.25,-73.25,5107:363:1,339,18.7119064331055,13.4164810180664,34.8588752746582,34.8691253662109,90.4491096735001,0,33.6572036743164,9
+Genypterus,maculatus,-15.25,-75.25,5107:455:1,426,17.2725811004639,17.7507591247559,34.9425811767578,34.9931297302246,53.1059987843037,0,216.2265625,18
+Genypterus,maculatus,-14.25,-76.25,5107:246:1,291,17.1838054656982,16.2321910858154,34.9791221618652,34.9869956970215,55.893998593092,0,160.092102050781,22
+Genypterus,maculatus,-12.25,-76.75,5107:226:2,95,18.3044910430908,16.3991241455078,34.9317169189453,35.034236907959,86.1272215843201,0,121.422309875488,7
+Genypterus,maculatus,-12.25,-77.25,5107:227:1,173,18.2420444488525,13.7115068435669,34.9794998168945,34.9337692260742,65.3809979557991,0,7.27287292480469,26
+Genypterus,maculatus,-12.25,-79.25,5107:229:1,5001,20.4770488739014,1.42173397541046,35.1305313110352,34.6964263916016,17.9169997572899,0,138.359069824219,247
+Genypterus,maculatus,-12.25,-79.75,5107:229:2,4739,20.8563785552979,1.42138600349426,35.1689987182617,34.6941719055176,15.107000246643999,0,139.674530029297,292
+Genypterus,maculatus,-11.75,-77.25,5107:217:3,87,18.2189998626709,17.7786464691162,34.9571685791016,35.1131286621094,93.9470008015633,0,181.702758789063,19
+Genypterus,maculatus,-11.25,-77.75,5107:217:2,137,18.5337257385254,15.1847133636475,34.9672966003418,35.0749588012695,86.4040032029152,0,45.1016273498535,25
+Genypterus,maculatus,-7.25,-80.75,5008:370:2,804,19.9875869750977,13.9512519836426,34.8207740783691,34.9611625671387,34.0240001678467,0,16.3238792419434,129
+Genypterus,maculatus,-6.75,-81.25,5008:361:3,2832,20.1657543182373,1.60380697250366,34.7545585632324,34.662784576416,54.177999496460004,0,126.340446472168,111
+Genypterus,maculatus,-6.75,-80.75,5008:360:4,436,19.4374828338623,15.5827522277832,34.7377052307129,34.988338470459,70.471003651619,0,61.7130241394043,96
+Genypterus,maculatus,-6.25,-81.25,5008:361:1,1656,19.7529010772705,4.3349871635437,34.7041549682617,34.5456047058105,82.0439979434013,0,49.3006553649902,27
+Genypterus,maculatus,-6.25,-80.75,5008:360:2,112,19.3272113800049,19.7034778594971,34.720573425293,34.9753723144531,100.03600269556,0,205.779190063477,15
+Genypterus,maculatus,-4.75,-81.25,5008:141:3,462,20.1257457733154,21.1447200775146,34.484058380127,34.8156661987305,49.7220009565353,0,207.677337646484,19

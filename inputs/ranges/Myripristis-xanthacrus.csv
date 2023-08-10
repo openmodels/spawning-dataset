@@ -1,0 +1,183 @@
+Mapping parameters for Myripristis xanthacra (Yellowtip soldierfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 51,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,2,10,18
+Temperature (°C),1,27.68,28.18,29.18,33.38
+Salinity (psu),1,34.73,36.56,38.8,39.3
+Primary Production,1,670.75,967.6,1320.4,1552.75
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,11.5,17.2,25.2000007629395,31.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 144): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Myripristis,xanthacra,3.75,72.75,1007:132:4,0.01
+Myripristis,xanthacra,5.25,72.75,1007:352:2,0.03
+Myripristis,xanthacra,19.75,37.75,1103:497:4,0.08
+Myripristis,xanthacra,14.25,41.75,1104:141:2,0.04
+Myripristis,xanthacra,14.25,43.25,1104:143:1,0.18
+Myripristis,xanthacra,11.25,49.25,1104:219:1,0.12
+Myripristis,xanthacra,11.25,49.75,1104:219:2,0.05
+Myripristis,xanthacra,15.25,40.25,1104:350:1,0.07
+Myripristis,xanthacra,12.25,50.75,1105:120:2,0.03
+Myripristis,xanthacra,10.25,73.75,1107:103:2,0.01
+Myripristis,xanthacra,10.75,73.75,1107:103:4,0.02
+Myripristis,xanthacra,11.75,72.75,1107:112:4,0.03
+Myripristis,xanthacra,14.25,73.75,1107:143:2,0.01
+Myripristis,xanthacra,14.75,73.25,1107:143:3,0.08
+Myripristis,xanthacra,14.25,74.75,1107:144:2,0.02
+Myripristis,xanthacra,16.75,72.75,1107:362:4,0.04
+Myripristis,xanthacra,17.75,71.25,1107:371:3,0.10
+Myripristis,xanthacra,17.75,72.25,1107:372:3,0.16
+Myripristis,xanthacra,18.25,70.75,1107:380:2,0.12
+Myripristis,xanthacra,18.75,71.25,1107:381:3,0.08
+Myripristis,xanthacra,18.75,72.75,1107:382:4,0.13
+Myripristis,xanthacra,18.25,73.25,1107:383:1,0.15
+Myripristis,xanthacra,21.25,37.25,1203:217:1,0.01
+Myripristis,xanthacra,21.75,37.25,1203:217:3,0.02
+Myripristis,xanthacra,21.75,38.75,1203:218:4,0.09
+Myripristis,xanthacra,22.25,39.25,1203:229:1,0.04
+Myripristis,xanthacra,22.75,39.25,1203:229:3,0.04
+Myripristis,xanthacra,23.75,57.25,1205:237:3,0.06
+Myripristis,xanthacra,25.75,58.25,1205:458:3,0.09
+Myripristis,xanthacra,25.75,58.75,1205:458:4,0.04
+Myripristis,xanthacra,26.25,57.25,1205:467:1,0.05
+Myripristis,xanthacra,26.75,57.25,1205:467:3,0.15
+Myripristis,xanthacra,17.75,39.25,1103:479:3,0.23
+Myripristis,xanthacra,18.75,38.75,1103:488:4,0.22
+Myripristis,xanthacra,19.25,38.25,1103:498:1,0.27
+Myripristis,xanthacra,10.75,43.75,1104:103:4,0.26
+Myripristis,xanthacra,12.25,43.25,1104:123:1,0.26
+Myripristis,xanthacra,12.75,44.75,1104:124:4,0.36
+Myripristis,xanthacra,13.75,43.25,1104:133:3,0.33
+Myripristis,xanthacra,14.75,43.25,1104:143:3,0.26
+Myripristis,xanthacra,15.75,42.25,1104:352:3,0.27
+Myripristis,xanthacra,16.75,42.25,1104:362:3,0.31
+Myripristis,xanthacra,17.75,41.75,1104:371:4,0.30
+Myripristis,xanthacra,16.25,72.75,1107:362:2,0.33
+Myripristis,xanthacra,17.75,70.75,1107:370:4,0.37
+Myripristis,xanthacra,20.25,37.25,1203:207:1,0.21
+Myripristis,xanthacra,20.75,37.25,1203:207:3,0.22
+Myripristis,xanthacra,20.25,39.75,1203:209:2,0.22
+Myripristis,xanthacra,20.75,39.25,1203:209:3,0.30
+Myripristis,xanthacra,21.25,39.25,1203:219:1,0.32
+Myripristis,xanthacra,21.75,39.25,1203:219:3,0.30
+Myripristis,xanthacra,25.25,55.25,1205:455:1,0.25
+Myripristis,xanthacra,25.25,55.75,1205:455:2,0.34
+Myripristis,xanthacra,25.75,55.75,1205:455:4,0.21
+Myripristis,xanthacra,25.75,57.75,1205:457:4,0.34
+Myripristis,xanthacra,26.75,55.25,1205:465:3,0.34
+Myripristis,xanthacra,26.75,55.75,1205:465:4,0.34
+Myripristis,xanthacra,18.25,38.75,1103:488:2,0.48
+Myripristis,xanthacra,19.25,37.75,1103:497:2,0.54
+Myripristis,xanthacra,19.75,39.75,1103:499:4,0.45
+Myripristis,xanthacra,10.25,44.25,1104:104:1,0.45
+Myripristis,xanthacra,13.25,42.25,1104:132:1,0.40
+Myripristis,xanthacra,13.75,42.25,1104:132:3,0.45
+Myripristis,xanthacra,14.75,42.75,1104:142:4,0.40
+Myripristis,xanthacra,17.25,42.25,1104:372:1,0.51
+Myripristis,xanthacra,18.25,40.75,1104:380:2,0.52
+Myripristis,xanthacra,16.75,72.25,1107:362:3,0.40
+Myripristis,xanthacra,17.25,71.75,1107:371:2,0.46
+Myripristis,xanthacra,17.25,72.25,1107:372:1,0.45
+Myripristis,xanthacra,25.75,57.25,1205:457:3,0.46
+Myripristis,xanthacra,26.25,56.75,1205:466:2,0.44
+Myripristis,xanthacra,15.25,39.75,1103:459:2,0.76
+Myripristis,xanthacra,15.75,39.25,1103:459:3,0.67
+Myripristis,xanthacra,16.25,39.25,1103:469:1,0.75
+Myripristis,xanthacra,17.75,38.75,1103:478:4,0.79
+Myripristis,xanthacra,17.25,39.25,1103:479:1,0.66
+Myripristis,xanthacra,18.75,38.25,1103:488:3,0.79
+Myripristis,xanthacra,19.75,37.25,1103:497:3,0.72
+Myripristis,xanthacra,11.75,43.25,1104:113:3,0.65
+Myripristis,xanthacra,10.75,45.75,1104:205:4,0.66
+Myripristis,xanthacra,10.75,46.75,1104:206:4,0.75
+Myripristis,xanthacra,10.75,47.25,1104:207:3,0.77
+Myripristis,xanthacra,11.25,48.25,1104:218:1,0.65
+Myripristis,xanthacra,11.25,48.75,1104:218:2,0.73
+Myripristis,xanthacra,11.75,49.75,1104:219:4,0.62
+Myripristis,xanthacra,13.25,45.25,1104:235:1,0.66
+Myripristis,xanthacra,13.25,46.75,1104:236:2,0.79
+Myripristis,xanthacra,16.25,42.25,1104:362:1,0.66
+Myripristis,xanthacra,17.75,41.25,1104:371:3,0.66
+Myripristis,xanthacra,19.25,40.25,1104:390:1,0.78
+Myripristis,xanthacra,24.25,57.25,1205:247:1,0.69
+Myripristis,xanthacra,24.25,57.75,1205:247:2,0.76
+Myripristis,xanthacra,25.75,56.25,1205:456:3,0.76
+Myripristis,xanthacra,15.75,39.75,1103:459:4,1.00
+Myripristis,xanthacra,16.25,39.75,1103:469:2,1.00
+Myripristis,xanthacra,16.75,39.25,1103:469:3,1.00
+Myripristis,xanthacra,17.25,38.75,1103:478:2,0.99
+Myripristis,xanthacra,18.75,37.25,1103:487:3,1.00
+Myripristis,xanthacra,18.75,37.75,1103:487:4,1.00
+Myripristis,xanthacra,18.25,38.25,1103:488:1,1.00
+Myripristis,xanthacra,19.25,37.25,1103:497:1,0.98
+Myripristis,xanthacra,10.75,44.25,1104:104:3,0.84
+Myripristis,xanthacra,11.25,43.75,1104:113:2,0.84
+Myripristis,xanthacra,11.75,43.75,1104:113:4,0.90
+Myripristis,xanthacra,13.75,42.75,1104:132:4,1.00
+Myripristis,xanthacra,14.75,40.25,1104:140:3,1.00
+Myripristis,xanthacra,14.25,42.25,1104:142:1,0.88
+Myripristis,xanthacra,14.25,42.75,1104:142:2,1.00
+Myripristis,xanthacra,10.75,45.25,1104:205:3,0.84
+Myripristis,xanthacra,10.75,46.25,1104:206:3,0.85
+Myripristis,xanthacra,11.25,47.25,1104:217:1,0.85
+Myripristis,xanthacra,11.25,47.75,1104:217:2,0.83
+Myripristis,xanthacra,12.75,45.25,1104:225:3,0.88
+Myripristis,xanthacra,13.25,45.75,1104:235:2,0.88
+Myripristis,xanthacra,13.25,46.25,1104:236:1,0.86
+Myripristis,xanthacra,15.25,41.25,1104:351:1,0.85
+Myripristis,xanthacra,15.75,41.25,1104:351:3,1.00
+Myripristis,xanthacra,15.75,41.75,1104:351:4,1.00
+Myripristis,xanthacra,15.25,42.25,1104:352:1,1.00
+Myripristis,xanthacra,15.25,42.75,1104:352:2,1.00
+Myripristis,xanthacra,16.25,40.75,1104:360:2,1.00
+Myripristis,xanthacra,16.75,40.25,1104:360:3,1.00
+Myripristis,xanthacra,16.25,41.75,1104:361:2,0.99
+Myripristis,xanthacra,16.75,41.25,1104:361:3,0.99
+Myripristis,xanthacra,16.75,41.75,1104:361:4,0.99
+Myripristis,xanthacra,16.25,42.75,1104:362:2,0.99
+Myripristis,xanthacra,16.75,42.75,1104:362:4,0.99
+Myripristis,xanthacra,17.25,41.25,1104:371:1,0.87
+Myripristis,xanthacra,17.25,41.75,1104:371:2,0.96
+Myripristis,xanthacra,17.25,42.75,1104:372:2,0.96
+Myripristis,xanthacra,17.75,42.25,1104:372:3,0.84
+Myripristis,xanthacra,18.75,40.75,1104:380:4,0.98
+Myripristis,xanthacra,18.25,41.25,1104:381:1,0.81
+Myripristis,xanthacra,18.25,41.75,1104:381:2,0.95
+Myripristis,xanthacra,18.75,41.25,1104:381:3,0.95
+Myripristis,xanthacra,19.25,40.75,1104:390:2,1.00
+Myripristis,xanthacra,19.75,40.25,1104:390:3,0.99
+Myripristis,xanthacra,19.75,40.75,1104:390:4,1.00
+Myripristis,xanthacra,19.25,41.25,1104:391:1,1.00
+Myripristis,xanthacra,20.75,39.75,1203:209:4,1.00
+Myripristis,xanthacra,20.25,40.25,1204:100:1,1.00
+Myripristis,xanthacra,24.75,56.25,1205:246:3,1.00
+Myripristis,xanthacra,24.75,56.75,1205:246:4,1.00
+Myripristis,xanthacra,25.25,56.25,1205:456:1,0.82
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Myripristis,xanthacra,11.75,43.25,1104:113:3,275,28.47,36.38,1386,0,22
+Myripristis,xanthacra,15.75,39.75,1103:459:4,15,29.1,37.27,1058,0,26
+Myripristis,xanthacra,20.75,37.25,1203:207:3,82,28.36,39.18,945,0,16

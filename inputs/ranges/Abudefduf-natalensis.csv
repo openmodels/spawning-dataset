@@ -1,0 +1,53 @@
+Mapping parameters for Abudefduf natalensis (Natal sergeant)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 47 |  51,
+Bounding Box (NSWE): ,-27,-33,30,35
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,3,14,25
+Temperature (°C),1,23,23.67,24.67,25.52
+Salinity (psu),1,34.74,35.24,35.34,35.84
+Primary Production,1,630,636.8,1227.2,2064.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,0,4.4,21.2000007629395,33.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 12): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Abudefduf,natalensis,-31.25,30.25,3303:110:1,0.25
+Abudefduf,natalensis,-27.25,32.75,3203:372:2,1.00
+Abudefduf,natalensis,-28.75,31.75,3203:381:4,1.00
+Abudefduf,natalensis,-28.25,32.25,3203:382:1,1.00
+Abudefduf,natalensis,-28.75,32.25,3203:382:3,1.00
+Abudefduf,natalensis,-29.75,30.75,3203:390:4,1.00
+Abudefduf,natalensis,-29.25,31.25,3203:391:1,1.00
+Abudefduf,natalensis,-29.25,31.75,3203:391:2,0.99
+Abudefduf,natalensis,-29.75,31.25,3203:391:3,1.00
+Abudefduf,natalensis,-30.25,30.75,3303:100:2,0.85
+Abudefduf,natalensis,-30.75,30.25,3303:100:3,0.85
+Abudefduf,natalensis,-30.75,30.75,3303:100:4,0.85
+
+
+Occurrence cells used for creating environmental envelope (n = 5)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Abudefduf,natalensis,-29.75,30.75,3203:390:4,6,23.67,35.34,1214,0,0
+Abudefduf,natalensis,-29.75,31.25,3203:391:3,167,23.94,35.34,874,0,20
+Abudefduf,natalensis,-29.25,31.75,3203:391:2,74,23.94,35.34,1236,0,22
+Abudefduf,natalensis,-27.75,32.75,3203:372:4,593,24.57,35.24,630,0,19
+Abudefduf,natalensis,-27.25,32.75,3203:372:2,406,24.57,35.24,647,0,11

@@ -1,0 +1,71 @@
+Mapping parameters for Upeneus francisi (Francis' goatfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 81,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,2,4,12,20
+Temperature (°C),1,14.4,16.89,21.13,25
+Salinity (psu),1,34.49,34.99,35.99,36.49
+Primary Production,1,86.75,183.2,321.6,432.75
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,20.25,21.6,24,26.25
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 32): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Upeneus,francisi,-35.75,174.25,3317:354:3,0.14
+Upeneus,francisi,-36.25,174.75,3317:364:2,0.11
+Upeneus,francisi,-41.25,172.25,3417:112:1,0.01
+Upeneus,francisi,-25.25,-130.25,5213:350:1,0.10
+Upeneus,francisi,-39.75,173.75,3317:393:4,0.22
+Upeneus,francisi,-40.75,173.25,3417:103:3,0.23
+Upeneus,francisi,-25.25,161.75,3216:351:2,0.44
+Upeneus,francisi,-25.75,161.25,3216:351:3,0.44
+Upeneus,francisi,-25.75,161.75,3216:351:4,0.44
+Upeneus,francisi,-25.25,162.25,3216:352:1,0.46
+Upeneus,francisi,-25.25,162.75,3216:352:2,0.46
+Upeneus,francisi,-25.75,162.25,3216:352:3,0.46
+Upeneus,francisi,-25.75,162.75,3216:352:4,0.46
+Upeneus,francisi,-25.75,163.25,3216:353:3,0.47
+Upeneus,francisi,-26.25,161.75,3216:361:2,0.54
+Upeneus,francisi,-26.25,162.25,3216:362:1,0.56
+Upeneus,francisi,-39.25,173.75,3317:393:2,0.52
+Upeneus,francisi,-40.75,173.75,3417:103:4,0.46
+Upeneus,francisi,-27.75,-143.25,5214:373:3,0.58
+Upeneus,francisi,-29.25,159.25,3215:499:1,0.79
+Upeneus,francisi,-29.75,159.25,3215:499:3,0.68
+Upeneus,francisi,-31.25,159.25,3315:219:1,0.73
+Upeneus,francisi,-27.75,-144.25,5214:374:3,0.61
+Upeneus,francisi,-28.75,167.75,3216:487:4,0.87
+Upeneus,francisi,-28.75,168.25,3216:488:3,0.88
+Upeneus,francisi,-29.25,167.75,3216:497:2,0.87
+Upeneus,francisi,-29.25,168.25,3216:498:1,1.00
+Upeneus,francisi,-31.75,159.25,3315:219:3,0.80
+Upeneus,francisi,-29.25,-177.75,5217:497:2,1.00
+Upeneus,francisi,-30.25,-178.25,5317:208:1,1.00
+Upeneus,francisi,-30.75,-178.75,5317:208:4,1.00
+Upeneus,francisi,-31.25,-178.75,5317:218:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Upeneus,francisi,-40.75,173.75,3417:103:4,47,15.9,35.02,161,0,21
+Upeneus,francisi,-29.25,-177.75,5217:497:2,1461,20.85,35.77,272,0,24
+Upeneus,francisi,-29.25,167.75,3216:497:2,1244,21.2,35.81,334,0,24

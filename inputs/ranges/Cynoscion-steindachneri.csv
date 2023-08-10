@@ -1,0 +1,167 @@
+Mapping parameters for Cynoscion steindachneri (Smalltooth weakfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 31 |  41,
+Bounding Box (NSWE): ,11,-9,-46,-62
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,2,6,10
+Temperature (°C),1,27.35,27.85,28.18,32.38
+Salinity (psu),1,25.9,29.79,34.84,37.87
+Primary Production (mgC·m-3·day-1) ,1,0.41,12.29,31.28,46.93
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,198.48,201,206.61,208.99
+Distance to Land (km),0,1.5,10.8,25.2,37.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 126): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Cynoscion,steindachneri,-3.75,-32.25,5003:132:3,0.03
+Cynoscion,steindachneri,-3.75,-33.75,5003:133:4,0.03
+Cynoscion,steindachneri,-1.25,-38.75,5003:218:2,0.05
+Cynoscion,steindachneri,-2.25,-38.25,5003:228:1,0.04
+Cynoscion,steindachneri,-2.25,-39.25,5003:229:1,0.02
+Cynoscion,steindachneri,-2.25,-39.75,5003:229:2,0.06
+Cynoscion,steindachneri,-2.75,-39.25,5003:229:3,0.07
+Cynoscion,steindachneri,-3.75,-37.75,5003:237:4,0.06
+Cynoscion,steindachneri,-3.25,-38.25,5003:238:1,0.05
+Cynoscion,steindachneri,-3.25,-38.75,5003:238:2,0.09
+Cynoscion,steindachneri,-3.25,-39.25,5003:239:1,0.19
+Cynoscion,steindachneri,-4.75,-35.25,5003:245:3,0.04
+Cynoscion,steindachneri,-4.75,-35.75,5003:245:4,0.04
+Cynoscion,steindachneri,-4.75,-36.25,5003:246:3,0.05
+Cynoscion,steindachneri,-4.75,-36.75,5003:246:4,0.13
+Cynoscion,steindachneri,-4.25,-37.25,5003:247:1,0.07
+Cynoscion,steindachneri,-5.75,-34.75,5003:354:4,0.03
+Cynoscion,steindachneri,-6.25,-34.75,5003:364:2,0.05
+Cynoscion,steindachneri,-6.75,-34.75,5003:364:4,0.09
+Cynoscion,steindachneri,-7.25,-34.75,5003:374:2,0.12
+Cynoscion,steindachneri,-7.75,-34.75,5003:374:4,0.06
+Cynoscion,steindachneri,-8.25,-34.75,5003:384:2,0.02
+Cynoscion,steindachneri,-8.75,-34.75,5003:384:4,0.01
+Cynoscion,steindachneri,-5.25,-35.25,5003:455:1,0.07
+Cynoscion,steindachneri,-5.25,-35.75,5003:455:2,0.08
+Cynoscion,steindachneri,-5.75,-35.25,5003:455:3,0.08
+Cynoscion,steindachneri,-5.25,-36.25,5003:456:1,0.16
+Cynoscion,steindachneri,-6.25,-35.25,5003:465:1,0.11
+Cynoscion,steindachneri,-0.25,-44.25,5004:104:1,0.05
+Cynoscion,steindachneri,-0.25,-44.75,5004:104:2,0.07
+Cynoscion,steindachneri,-0.75,-44.25,5004:104:3,0.07
+Cynoscion,steindachneri,-0.75,-44.75,5004:104:4,0.10
+Cynoscion,steindachneri,-1.75,-43.25,5004:113:3,0.13
+Cynoscion,steindachneri,-1.25,-44.25,5004:114:1,0.16
+Cynoscion,steindachneri,-2.25,-40.25,5004:120:1,0.08
+Cynoscion,steindachneri,-2.25,-40.75,5004:120:2,0.09
+Cynoscion,steindachneri,-2.25,-41.25,5004:121:1,0.10
+Cynoscion,steindachneri,-2.25,-41.75,5004:121:2,0.15
+Cynoscion,steindachneri,-0.25,-45.25,5004:205:1,0.09
+Cynoscion,steindachneri,-0.25,-45.75,5004:205:2,0.12
+Cynoscion,steindachneri,0.25,-44.75,7004:104:2,0.06
+Cynoscion,steindachneri,0.25,-45.25,7004:205:1,0.08
+Cynoscion,steindachneri,0.25,-45.75,7004:205:2,0.08
+Cynoscion,steindachneri,0.75,-45.75,7004:205:4,0.08
+Cynoscion,steindachneri,9.75,-76.25,7007:496:3,0.10
+Cynoscion,steindachneri,9.25,-77.75,7007:497:2,0.11
+Cynoscion,steindachneri,9.75,-79.75,7007:499:4,0.02
+Cynoscion,steindachneri,9.25,-80.75,7008:390:2,0.08
+Cynoscion,steindachneri,9.25,-81.25,7008:391:1,0.11
+Cynoscion,steindachneri,9.75,-82.25,7008:392:3,0.13
+Cynoscion,steindachneri,10.75,-75.25,7107:205:3,0.08
+Cynoscion,steindachneri,10.25,-82.75,7108:102:2,0.06
+Cynoscion,steindachneri,-2.75,-39.75,5003:229:4,0.20
+Cynoscion,steindachneri,-3.75,-38.25,5003:238:3,0.22
+Cynoscion,steindachneri,-3.75,-38.75,5003:238:4,0.28
+Cynoscion,steindachneri,-3.25,-39.75,5003:239:2,0.38
+Cynoscion,steindachneri,-4.25,-37.75,5003:247:2,0.29
+Cynoscion,steindachneri,-4.75,-37.25,5003:247:3,0.39
+Cynoscion,steindachneri,-4.75,-37.75,5003:247:4,0.33
+Cynoscion,steindachneri,-4.25,-38.25,5003:248:1,0.31
+Cynoscion,steindachneri,-5.25,-36.75,5003:456:2,0.27
+Cynoscion,steindachneri,-1.75,-43.75,5004:113:4,0.23
+Cynoscion,steindachneri,-2.75,-40.25,5004:120:3,0.25
+Cynoscion,steindachneri,-2.75,-40.75,5004:120:4,0.35
+Cynoscion,steindachneri,-2.25,-42.25,5004:122:1,0.34
+Cynoscion,steindachneri,-2.25,-43.25,5004:123:1,0.36
+Cynoscion,steindachneri,-0.75,-45.25,5004:205:3,0.20
+Cynoscion,steindachneri,9.25,-71.25,7007:391:1,0.32
+Cynoscion,steindachneri,9.75,-71.25,7007:391:3,0.31
+Cynoscion,steindachneri,9.25,-80.25,7008:390:1,0.23
+Cynoscion,steindachneri,9.25,-81.75,7008:391:2,0.20
+Cynoscion,steindachneri,9.25,-82.25,7008:392:1,0.31
+Cynoscion,steindachneri,10.25,-62.75,7106:102:2,0.32
+Cynoscion,steindachneri,10.75,-62.25,7106:102:3,0.26
+Cynoscion,steindachneri,10.75,-71.75,7107:101:4,0.35
+Cynoscion,steindachneri,10.75,-74.75,7107:104:4,0.29
+Cynoscion,steindachneri,-1.25,-44.75,5004:114:2,0.57
+Cynoscion,steindachneri,-2.25,-42.75,5004:122:2,0.49
+Cynoscion,steindachneri,-0.75,-45.75,5004:205:4,0.53
+Cynoscion,steindachneri,9.75,-62.25,7006:392:3,0.54
+Cynoscion,steindachneri,9.25,-71.75,7007:391:2,0.42
+Cynoscion,steindachneri,9.75,-71.75,7007:391:4,0.40
+Cynoscion,steindachneri,9.75,-72.25,7007:392:3,0.52
+Cynoscion,steindachneri,9.75,-82.75,7008:392:4,0.41
+Cynoscion,steindachneri,10.25,-71.75,7107:101:2,0.40
+Cynoscion,steindachneri,10.25,-75.75,7107:205:2,0.44
+Cynoscion,steindachneri,10.75,-83.25,7108:103:3,0.57
+Cynoscion,steindachneri,-2.75,-41.25,5004:121:3,0.64
+Cynoscion,steindachneri,-2.75,-41.75,5004:121:4,0.69
+Cynoscion,steindachneri,-2.75,-42.25,5004:122:3,0.73
+Cynoscion,steindachneri,-2.25,-43.75,5004:123:2,0.63
+Cynoscion,steindachneri,8.75,-76.75,7007:486:4,0.62
+Cynoscion,steindachneri,8.75,-77.25,7007:487:3,0.64
+Cynoscion,steindachneri,9.75,-75.75,7007:495:4,0.79
+Cynoscion,steindachneri,10.25,-71.25,7107:101:1,0.61
+Cynoscion,steindachneri,10.75,-71.25,7107:101:3,0.72
+Cynoscion,steindachneri,10.75,-74.25,7107:104:3,0.71
+Cynoscion,steindachneri,-1.75,-44.25,5004:114:3,0.98
+Cynoscion,steindachneri,-1.75,-44.75,5004:114:4,1.00
+Cynoscion,steindachneri,-2.75,-42.75,5004:122:4,1.00
+Cynoscion,steindachneri,-2.75,-43.75,5004:123:4,1.00
+Cynoscion,steindachneri,-2.25,-44.25,5004:124:1,1.00
+Cynoscion,steindachneri,-2.25,-44.75,5004:124:2,1.00
+Cynoscion,steindachneri,-2.75,-44.25,5004:124:3,1.00
+Cynoscion,steindachneri,-2.75,-44.75,5004:124:4,1.00
+Cynoscion,steindachneri,-3.25,-44.75,5004:134:2,1.00
+Cynoscion,steindachneri,-1.25,-45.25,5004:215:1,1.00
+Cynoscion,steindachneri,-1.25,-45.75,5004:215:2,1.00
+Cynoscion,steindachneri,-1.75,-45.25,5004:215:3,1.00
+Cynoscion,steindachneri,7.75,-76.75,7007:476:4,1.00
+Cynoscion,steindachneri,8.25,-76.75,7007:486:2,0.98
+Cynoscion,steindachneri,8.75,-76.25,7007:486:3,0.92
+Cynoscion,steindachneri,8.25,-77.25,7007:487:1,1.00
+Cynoscion,steindachneri,8.75,-77.75,7007:487:4,1.00
+Cynoscion,steindachneri,9.25,-75.75,7007:495:2,0.86
+Cynoscion,steindachneri,9.25,-76.25,7007:496:1,0.89
+Cynoscion,steindachneri,9.25,-78.25,7007:498:1,1.00
+Cynoscion,steindachneri,9.25,-78.75,7007:498:2,1.00
+Cynoscion,steindachneri,9.25,-79.25,7007:499:1,1.00
+Cynoscion,steindachneri,9.25,-79.75,7007:499:2,1.00
+Cynoscion,steindachneri,8.75,-80.75,7008:380:4,1.00
+Cynoscion,steindachneri,8.75,-81.25,7008:381:3,1.00
+Cynoscion,steindachneri,8.75,-81.75,7008:381:4,0.96
+Cynoscion,steindachneri,10.25,-62.25,7106:102:1,0.83
+Cynoscion,steindachneri,10.25,-83.25,7108:103:1,0.84
+Cynoscion,steindachneri,10.75,-83.75,7108:103:4,0.99
+
+
+Occurrence cells used for creating environmental envelope (n = 5)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Cynoscion,steindachneri,-4.75,-37.25,5003:247:3,17,27.7638740539551,27.6566143035889,35.807300567627,36.1932029724121,8.58100038021803,0,201.216186523438,15
+Cynoscion,steindachneri,-2.75,-44.25,5004:124:3,3,27.9901752471924,28.0460147857666,31.3270435333252,36.1900367736816,28.071999549865698,0,201.847534179688,17
+Cynoscion,steindachneri,-2.75,-44.75,5004:124:4,10,28.0299549102783,28.0476760864258,30.3874740600586,33.6903877258301,29.4844154268503,0,203.039566040039,8
+Cynoscion,steindachneri,-2.25,-44.25,5004:124:1,7,28.1898880004883,27.8810234069824,33.3791236877441,36.1339378356934,17.8529992699623,0,200.859222412109,24
+Cynoscion,steindachneri,10.25,-62.25,7106:102:1,13,28.1643180847168,27.006233215332,29.3931140899658,35.5141067504883,32.4760004878044,0,208.994354248047,26

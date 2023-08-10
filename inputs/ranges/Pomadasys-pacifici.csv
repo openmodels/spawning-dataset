@@ -1,0 +1,197 @@
+Mapping parameters for Genyatremus pacifici (Carruco sargo)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77 |  87,
+Bounding Box (NSWE): ,15,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,19.85,23.39,29.06,33.26
+Salinity (psu),1,27.78,31.55,35.75,40.06
+Primary Production,1,661,698,1982,2669.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,2,8,27,82
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 145): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Genyatremus,pacifici,-6.75,-79.75,5007:469:4,0.15
+Genyatremus,pacifici,-7.25,-79.75,5007:479:2,0.04
+Genyatremus,pacifici,-7.75,-79.25,5007:479:3,0.04
+Genyatremus,pacifici,-7.75,-79.75,5007:479:4,0.04
+Genyatremus,pacifici,-8.25,-78.75,5007:488:2,0.16
+Genyatremus,pacifici,-8.75,-78.75,5007:488:4,0.09
+Genyatremus,pacifici,-8.25,-79.25,5007:489:1,0.16
+Genyatremus,pacifici,-8.25,-79.75,5007:489:2,0.01
+Genyatremus,pacifici,-8.75,-79.75,5007:489:4,0.16
+Genyatremus,pacifici,-9.25,-78.25,5007:498:1,0.09
+Genyatremus,pacifici,-9.25,-78.75,5007:498:2,0.12
+Genyatremus,pacifici,-9.75,-78.25,5007:498:3,0.12
+Genyatremus,pacifici,-9.75,-78.75,5007:498:4,0.08
+Genyatremus,pacifici,-3.75,-80.25,5008:130:3,0.15
+Genyatremus,pacifici,-4.75,-81.25,5008:141:3,0.11
+Genyatremus,pacifici,-6.25,-80.25,5008:360:1,0.17
+Genyatremus,pacifici,-6.25,-80.75,5008:360:2,0.06
+Genyatremus,pacifici,-6.75,-80.25,5008:360:3,0.18
+Genyatremus,pacifici,-6.75,-80.75,5008:360:4,0.09
+Genyatremus,pacifici,-6.25,-81.25,5008:361:1,0.10
+Genyatremus,pacifici,-10.25,-77.75,5107:207:2,0.11
+Genyatremus,pacifici,-10.75,-77.75,5107:207:4,0.06
+Genyatremus,pacifici,-10.25,-78.25,5107:208:1,0.16
+Genyatremus,pacifici,-16.25,-72.75,5107:362:2,0.08
+Genyatremus,pacifici,-16.75,-72.25,5107:362:3,0.09
+Genyatremus,pacifici,-16.75,-72.75,5107:362:4,0.09
+Genyatremus,pacifici,-16.25,-73.25,5107:363:1,0.06
+Genyatremus,pacifici,-16.25,-73.75,5107:363:2,0.06
+Genyatremus,pacifici,-19.25,-70.25,5107:390:1,0.19
+Genyatremus,pacifici,-19.75,-70.25,5107:390:3,0.19
+Genyatremus,pacifici,-20.25,-70.25,5207:100:1,0.11
+Genyatremus,pacifici,-20.75,-70.25,5207:100:3,0.11
+Genyatremus,pacifici,8.75,-83.75,7008:383:4,0.03
+Genyatremus,pacifici,10.75,-86.25,7108:206:3,0.12
+Genyatremus,pacifici,-2.25,-79.75,5007:229:2,0.20
+Genyatremus,pacifici,-2.25,-80.25,5008:120:1,0.37
+Genyatremus,pacifici,-5.25,-80.75,5008:350:2,0.34
+Genyatremus,pacifici,-5.75,-80.75,5008:350:4,0.32
+Genyatremus,pacifici,-5.75,-81.25,5008:351:3,0.21
+Genyatremus,pacifici,-7.25,-80.25,5008:370:1,0.20
+Genyatremus,pacifici,-7.25,-80.75,5008:370:2,0.20
+Genyatremus,pacifici,-7.75,-80.25,5008:370:3,0.20
+Genyatremus,pacifici,-17.75,-70.75,5107:370:4,0.22
+Genyatremus,pacifici,-17.25,-71.25,5107:371:1,0.22
+Genyatremus,pacifici,-17.25,-71.75,5107:371:2,0.22
+Genyatremus,pacifici,-17.75,-71.25,5107:371:3,0.22
+Genyatremus,pacifici,-18.25,-70.25,5107:380:1,0.22
+Genyatremus,pacifici,-18.25,-70.75,5107:380:2,0.22
+Genyatremus,pacifici,-18.75,-70.25,5107:380:3,0.22
+Genyatremus,pacifici,0.25,-79.75,7007:209:2,0.20
+Genyatremus,pacifici,1.75,-78.25,7007:218:3,0.20
+Genyatremus,pacifici,2.25,-78.25,7007:228:1,0.20
+Genyatremus,pacifici,8.25,-77.75,7007:487:2,0.20
+Genyatremus,pacifici,-4.25,-81.25,5008:141:1,0.48
+Genyatremus,pacifici,2.75,-77.75,7007:227:4,0.50
+Genyatremus,pacifici,3.75,-77.75,7007:237:4,0.46
+Genyatremus,pacifici,7.75,-78.75,7007:478:4,0.45
+Genyatremus,pacifici,-3.25,-79.75,5007:239:2,0.68
+Genyatremus,pacifici,1.25,-79.25,7007:219:1,0.73
+Genyatremus,pacifici,3.75,-77.25,7007:237:3,0.62
+Genyatremus,pacifici,8.75,-82.25,7008:382:3,0.68
+Genyatremus,pacifici,11.25,-86.25,7108:216:1,0.70
+Genyatremus,pacifici,14.75,-93.25,7109:143:3,0.79
+Genyatremus,pacifici,-2.75,-79.75,5007:229:4,0.88
+Genyatremus,pacifici,-0.25,-80.25,5008:100:1,1.00
+Genyatremus,pacifici,-0.75,-80.25,5008:100:3,1.00
+Genyatremus,pacifici,-0.75,-80.75,5008:100:4,1.00
+Genyatremus,pacifici,-1.25,-80.75,5008:110:2,1.00
+Genyatremus,pacifici,-1.75,-80.75,5008:110:4,1.00
+Genyatremus,pacifici,-1.25,-81.25,5008:111:1,1.00
+Genyatremus,pacifici,-1.75,-81.25,5008:111:3,1.00
+Genyatremus,pacifici,-2.25,-80.75,5008:120:2,0.92
+Genyatremus,pacifici,-2.75,-80.25,5008:120:3,0.92
+Genyatremus,pacifici,-2.75,-80.75,5008:120:4,0.92
+Genyatremus,pacifici,-2.25,-81.25,5008:121:1,0.90
+Genyatremus,pacifici,-3.25,-80.25,5008:130:1,0.82
+Genyatremus,pacifici,-3.25,-80.75,5008:130:2,0.82
+Genyatremus,pacifici,-3.75,-80.75,5008:130:4,0.82
+Genyatremus,pacifici,-0.25,-91.25,5009:101:1,1.00
+Genyatremus,pacifici,-0.25,-91.75,5009:101:2,1.00
+Genyatremus,pacifici,-0.75,-91.25,5009:101:3,1.00
+Genyatremus,pacifici,0.75,-79.75,7007:209:4,1.00
+Genyatremus,pacifici,1.25,-78.75,7007:218:2,0.98
+Genyatremus,pacifici,1.75,-78.75,7007:218:4,1.00
+Genyatremus,pacifici,1.25,-79.75,7007:219:2,1.00
+Genyatremus,pacifici,2.25,-78.75,7007:228:2,1.00
+Genyatremus,pacifici,2.75,-78.25,7007:228:3,1.00
+Genyatremus,pacifici,2.75,-78.75,7007:228:4,1.00
+Genyatremus,pacifici,3.25,-77.25,7007:237:1,1.00
+Genyatremus,pacifici,3.25,-77.75,7007:237:2,1.00
+Genyatremus,pacifici,3.25,-78.25,7007:238:1,1.00
+Genyatremus,pacifici,4.25,-77.25,7007:247:1,0.85
+Genyatremus,pacifici,4.75,-77.25,7007:247:3,1.00
+Genyatremus,pacifici,5.25,-77.25,7007:457:1,0.93
+Genyatremus,pacifici,5.75,-77.25,7007:457:3,0.93
+Genyatremus,pacifici,6.25,-77.25,7007:467:1,0.83
+Genyatremus,pacifici,6.75,-77.25,7007:467:3,0.83
+Genyatremus,pacifici,6.75,-77.75,7007:467:4,0.83
+Genyatremus,pacifici,7.25,-77.75,7007:477:2,0.83
+Genyatremus,pacifici,7.25,-78.25,7007:478:1,0.83
+Genyatremus,pacifici,7.75,-78.25,7007:478:3,0.83
+Genyatremus,pacifici,7.25,-79.75,7007:479:2,0.92
+Genyatremus,pacifici,7.75,-79.75,7007:479:4,0.92
+Genyatremus,pacifici,8.25,-78.25,7007:488:1,1.00
+Genyatremus,pacifici,8.25,-78.75,7007:488:2,1.00
+Genyatremus,pacifici,8.75,-78.25,7007:488:3,1.00
+Genyatremus,pacifici,8.75,-78.75,7007:488:4,1.00
+Genyatremus,pacifici,8.25,-79.25,7007:489:1,0.92
+Genyatremus,pacifici,8.25,-79.75,7007:489:2,0.92
+Genyatremus,pacifici,8.75,-79.25,7007:489:3,1.00
+Genyatremus,pacifici,8.75,-79.75,7007:489:4,1.00
+Genyatremus,pacifici,0.25,-80.25,7008:100:1,1.00
+Genyatremus,pacifici,0.75,-80.25,7008:100:3,1.00
+Genyatremus,pacifici,7.25,-80.25,7008:370:1,1.00
+Genyatremus,pacifici,7.25,-80.75,7008:370:2,1.00
+Genyatremus,pacifici,7.75,-80.25,7008:370:3,1.00
+Genyatremus,pacifici,7.25,-81.25,7008:371:1,1.00
+Genyatremus,pacifici,7.75,-82.25,7008:372:3,1.00
+Genyatremus,pacifici,8.25,-82.25,7008:382:1,1.00
+Genyatremus,pacifici,8.25,-82.75,7008:382:2,1.00
+Genyatremus,pacifici,8.25,-83.25,7008:383:1,1.00
+Genyatremus,pacifici,8.25,-83.75,7008:383:2,1.00
+Genyatremus,pacifici,9.25,-83.75,7008:393:2,1.00
+Genyatremus,pacifici,9.25,-84.25,7008:394:1,1.00
+Genyatremus,pacifici,9.25,-84.75,7008:394:2,0.96
+Genyatremus,pacifici,9.75,-84.25,7008:394:3,1.00
+Genyatremus,pacifici,9.75,-84.75,7008:394:4,1.00
+Genyatremus,pacifici,9.75,-85.25,7008:495:3,1.00
+Genyatremus,pacifici,11.75,-86.75,7108:216:4,1.00
+Genyatremus,pacifici,12.25,-86.75,7108:226:2,1.00
+Genyatremus,pacifici,12.25,-87.25,7108:227:1,1.00
+Genyatremus,pacifici,12.75,-87.75,7108:227:4,0.86
+Genyatremus,pacifici,12.75,-88.25,7108:228:3,1.00
+Genyatremus,pacifici,13.25,-87.75,7108:237:2,1.00
+Genyatremus,pacifici,13.25,-88.25,7108:238:1,1.00
+Genyatremus,pacifici,13.25,-88.75,7108:238:2,1.00
+Genyatremus,pacifici,13.25,-89.25,7108:239:1,1.00
+Genyatremus,pacifici,13.75,-90.75,7109:130:4,0.94
+Genyatremus,pacifici,13.75,-91.25,7109:131:3,0.93
+Genyatremus,pacifici,13.75,-91.75,7109:131:4,0.93
+Genyatremus,pacifici,14.25,-91.25,7109:141:1,0.80
+Genyatremus,pacifici,14.25,-91.75,7109:141:2,1.00
+Genyatremus,pacifici,14.25,-92.25,7109:142:1,1.00
+Genyatremus,pacifici,14.75,-92.25,7109:142:3,1.00
+Genyatremus,pacifici,14.75,-92.75,7109:142:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 16)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Genyatremus,pacifici,-11.75,-77.25,5107:217:3,87,19.85,35.04,1982,0,19
+Genyatremus,pacifici,-2.25,-79.75,5007:229:2,1,23.39,34.08,1866,0,8
+Genyatremus,pacifici,-0.75,-80.75,5008:100:4,216,25.87,33.38,717,0,25
+Genyatremus,pacifici,3.75,-77.25,7007:237:3,22,27.33,32.22,2245,0,20
+Genyatremus,pacifici,7.25,-80.25,7008:370:1,985,27.84,31.55,1053,0,23
+Genyatremus,pacifici,8.25,-80.25,7008:380:1,17,28.04,35.06,661,0,18
+Genyatremus,pacifici,8.25,-79.75,7007:489:2,54,27.88,31.26,893,0,27
+Genyatremus,pacifici,8.75,-79.75,7007:489:4,23,27.88,35.75,1405,0,14
+Genyatremus,pacifici,8.75,-79.25,7007:489:3,65,27.88,35.75,1498,0,82
+Genyatremus,pacifici,8.75,-78.75,7007:488:4,88,27.9,35.45,790,0,19
+Genyatremus,pacifici,8.75,-78.25,7007:488:3,2,27.9,35.45,698,0,2
+Genyatremus,pacifici,9.75,-84.75,7008:394:4,104,28.56,32.38,1274,0,20
+Genyatremus,pacifici,11.75,-86.75,7108:216:4,83,28.03,33.61,752,0,26
+Genyatremus,pacifici,13.25,-89.25,7108:239:1,63,29.06,33.58,708,0,26
+Genyatremus,pacifici,13.25,-88.75,7108:238:2,30,28.86,33.5,783,0,18
+Genyatremus,pacifici,13.75,-91.25,7109:131:3,65,29.37,33.43,980,0,26

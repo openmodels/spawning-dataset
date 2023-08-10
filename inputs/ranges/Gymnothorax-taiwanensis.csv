@@ -1,0 +1,184 @@
+Mapping parameters for Gymnothorax taiwanensis (Taiwanese moray eel)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 61,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,3,5,17,30
+Temperature (°C),1,24.17,24.73,26.5,30.7
+Salinity (psu),1,33.44,33.94,34.71,35.21
+Primary Production,1,51.75,360.9,812.1,963.75
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,5,10.7,78.6999969482422,121.75
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 144): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Gymnothorax,taiwanensis,18.25,108.75,1110:488:2,0.10
+Gymnothorax,taiwanensis,18.25,109.75,1110:489:2,0.04
+Gymnothorax,taiwanensis,15.75,113.75,1111:353:4,0.04
+Gymnothorax,taiwanensis,15.75,114.25,1111:354:3,0.19
+Gymnothorax,taiwanensis,20.75,112.25,1211:102:3,0.10
+Gymnothorax,taiwanensis,20.75,112.75,1211:102:4,0.14
+Gymnothorax,taiwanensis,20.75,113.25,1211:103:3,0.06
+Gymnothorax,taiwanensis,21.25,114.25,1211:114:1,0.05
+Gymnothorax,taiwanensis,22.75,116.25,1211:226:3,0.19
+Gymnothorax,taiwanensis,22.75,116.75,1211:226:4,0.08
+Gymnothorax,taiwanensis,22.25,118.75,1211:228:2,0.08
+Gymnothorax,taiwanensis,20.75,144.75,1214:104:4,0.19
+Gymnothorax,taiwanensis,27.25,140.75,1214:370:2,0.18
+Gymnothorax,taiwanensis,24.25,154.25,1215:144:1,0.16
+Gymnothorax,taiwanensis,23.75,157.25,1215:237:3,0.15
+Gymnothorax,taiwanensis,30.25,130.25,1313:100:1,0.12
+Gymnothorax,taiwanensis,30.25,130.75,1313:100:2,0.12
+Gymnothorax,taiwanensis,30.75,130.25,1313:100:3,0.12
+Gymnothorax,taiwanensis,30.75,130.75,1313:100:4,0.12
+Gymnothorax,taiwanensis,15.75,108.25,1110:458:3,0.24
+Gymnothorax,taiwanensis,15.75,108.75,1110:458:4,0.26
+Gymnothorax,taiwanensis,16.25,107.75,1110:467:2,0.25
+Gymnothorax,taiwanensis,16.25,108.25,1110:468:1,0.22
+Gymnothorax,taiwanensis,16.25,108.75,1110:468:2,0.26
+Gymnothorax,taiwanensis,17.25,109.25,1110:479:1,0.25
+Gymnothorax,taiwanensis,15.75,111.25,1111:351:3,0.32
+Gymnothorax,taiwanensis,16.25,112.75,1111:362:2,0.32
+Gymnothorax,taiwanensis,16.75,112.25,1111:362:3,0.36
+Gymnothorax,taiwanensis,16.75,112.75,1111:362:4,0.33
+Gymnothorax,taiwanensis,16.25,114.25,1111:364:1,0.31
+Gymnothorax,taiwanensis,21.75,112.25,1211:112:3,0.34
+Gymnothorax,taiwanensis,22.75,115.75,1211:225:4,0.30
+Gymnothorax,taiwanensis,27.75,125.25,1212:475:3,0.30
+Gymnothorax,taiwanensis,20.25,136.25,1213:206:1,0.34
+Gymnothorax,taiwanensis,24.25,141.75,1214:141:2,0.36
+Gymnothorax,taiwanensis,27.25,142.25,1214:372:1,0.30
+Gymnothorax,taiwanensis,27.75,142.25,1214:372:3,0.32
+Gymnothorax,taiwanensis,15.25,108.75,1110:458:2,0.56
+Gymnothorax,taiwanensis,15.25,109.25,1110:459:1,0.54
+Gymnothorax,taiwanensis,15.75,109.25,1110:459:3,0.54
+Gymnothorax,taiwanensis,16.25,109.25,1110:469:1,0.41
+Gymnothorax,taiwanensis,16.75,109.25,1110:469:3,0.44
+Gymnothorax,taiwanensis,16.75,109.75,1110:469:4,0.41
+Gymnothorax,taiwanensis,17.25,109.75,1110:479:2,0.47
+Gymnothorax,taiwanensis,17.75,109.75,1110:479:4,0.47
+Gymnothorax,taiwanensis,16.25,111.75,1111:361:2,0.47
+Gymnothorax,taiwanensis,16.75,111.75,1111:361:4,0.47
+Gymnothorax,taiwanensis,16.25,112.25,1111:362:1,0.41
+Gymnothorax,taiwanensis,17.25,111.75,1111:371:2,0.58
+Gymnothorax,taiwanensis,17.25,112.25,1111:372:1,0.54
+Gymnothorax,taiwanensis,18.75,110.25,1111:380:3,0.48
+Gymnothorax,taiwanensis,19.25,110.75,1111:390:2,0.43
+Gymnothorax,taiwanensis,19.75,111.25,1111:391:3,0.59
+Gymnothorax,taiwanensis,22.25,117.25,1211:227:1,0.46
+Gymnothorax,taiwanensis,20.25,121.75,1212:101:2,0.48
+Gymnothorax,taiwanensis,20.75,121.75,1212:101:4,0.59
+Gymnothorax,taiwanensis,20.25,122.25,1212:102:1,0.40
+Gymnothorax,taiwanensis,20.75,122.25,1212:102:3,0.53
+Gymnothorax,taiwanensis,21.25,121.75,1212:111:2,0.59
+Gymnothorax,taiwanensis,25.75,122.25,1212:352:3,0.46
+Gymnothorax,taiwanensis,27.25,125.25,1212:475:1,0.55
+Gymnothorax,taiwanensis,27.75,125.75,1212:475:4,0.55
+Gymnothorax,taiwanensis,24.75,131.25,1213:141:3,0.57
+Gymnothorax,taiwanensis,24.75,141.25,1214:141:3,0.40
+Gymnothorax,taiwanensis,25.25,141.25,1214:351:1,0.43
+Gymnothorax,taiwanensis,26.75,142.25,1214:362:3,0.58
+Gymnothorax,taiwanensis,17.25,110.25,1111:370:1,0.61
+Gymnothorax,taiwanensis,17.75,110.25,1111:370:3,0.61
+Gymnothorax,taiwanensis,17.25,111.25,1111:371:1,0.65
+Gymnothorax,taiwanensis,18.25,110.25,1111:380:1,0.68
+Gymnothorax,taiwanensis,22.75,114.25,1211:124:3,0.69
+Gymnothorax,taiwanensis,22.75,114.75,1211:124:4,0.69
+Gymnothorax,taiwanensis,22.25,116.25,1211:226:1,0.62
+Gymnothorax,taiwanensis,22.75,118.75,1211:228:4,0.78
+Gymnothorax,taiwanensis,23.25,119.75,1211:239:2,0.75
+Gymnothorax,taiwanensis,24.25,123.25,1212:143:1,0.72
+Gymnothorax,taiwanensis,24.25,123.75,1212:143:2,0.77
+Gymnothorax,taiwanensis,24.75,123.25,1212:143:3,0.65
+Gymnothorax,taiwanensis,24.25,124.25,1212:144:1,0.72
+Gymnothorax,taiwanensis,24.75,124.25,1212:144:3,0.74
+Gymnothorax,taiwanensis,24.75,124.75,1212:144:4,0.79
+Gymnothorax,taiwanensis,24.75,125.75,1212:245:4,0.76
+Gymnothorax,taiwanensis,25.25,122.25,1212:352:1,0.72
+Gymnothorax,taiwanensis,25.25,125.25,1212:455:1,0.75
+Gymnothorax,taiwanensis,25.25,125.75,1212:455:2,0.75
+Gymnothorax,taiwanensis,26.25,128.25,1212:468:1,0.78
+Gymnothorax,taiwanensis,27.25,128.75,1212:478:2,0.75
+Gymnothorax,taiwanensis,29.25,129.25,1212:499:1,0.76
+Gymnothorax,taiwanensis,29.25,129.75,1212:499:2,0.76
+Gymnothorax,taiwanensis,29.75,129.75,1212:499:4,0.79
+Gymnothorax,taiwanensis,25.75,131.25,1213:351:3,0.66
+Gymnothorax,taiwanensis,18.25,110.75,1111:380:2,0.97
+Gymnothorax,taiwanensis,18.75,110.75,1111:380:4,0.97
+Gymnothorax,taiwanensis,18.75,111.25,1111:381:3,0.95
+Gymnothorax,taiwanensis,19.25,111.25,1111:391:1,1.00
+Gymnothorax,taiwanensis,19.25,111.75,1111:391:2,1.00
+Gymnothorax,taiwanensis,19.25,112.25,1111:392:1,0.98
+Gymnothorax,taiwanensis,21.25,110.25,1211:110:1,0.92
+Gymnothorax,taiwanensis,21.25,110.75,1211:110:2,0.92
+Gymnothorax,taiwanensis,21.25,111.25,1211:111:1,0.92
+Gymnothorax,taiwanensis,21.75,111.25,1211:111:3,0.92
+Gymnothorax,taiwanensis,21.75,111.75,1211:111:4,0.92
+Gymnothorax,taiwanensis,20.75,116.75,1211:206:4,1.00
+Gymnothorax,taiwanensis,20.75,117.25,1211:207:3,1.00
+Gymnothorax,taiwanensis,22.25,117.75,1211:227:2,1.00
+Gymnothorax,taiwanensis,22.75,117.25,1211:227:3,0.99
+Gymnothorax,taiwanensis,22.75,117.75,1211:227:4,1.00
+Gymnothorax,taiwanensis,22.25,118.25,1211:228:1,1.00
+Gymnothorax,taiwanensis,22.75,118.25,1211:228:3,1.00
+Gymnothorax,taiwanensis,22.75,119.25,1211:229:3,1.00
+Gymnothorax,taiwanensis,21.75,120.75,1212:110:4,0.91
+Gymnothorax,taiwanensis,22.25,120.25,1212:120:1,1.00
+Gymnothorax,taiwanensis,22.25,120.75,1212:120:2,1.00
+Gymnothorax,taiwanensis,22.75,120.25,1212:120:3,1.00
+Gymnothorax,taiwanensis,22.75,120.75,1212:120:4,1.00
+Gymnothorax,taiwanensis,22.25,121.75,1212:121:2,0.81
+Gymnothorax,taiwanensis,22.75,121.25,1212:121:3,0.95
+Gymnothorax,taiwanensis,22.75,121.75,1212:121:4,0.89
+Gymnothorax,taiwanensis,23.25,120.25,1212:130:1,1.00
+Gymnothorax,taiwanensis,23.75,120.25,1212:130:3,1.00
+Gymnothorax,taiwanensis,23.25,121.25,1212:131:1,1.00
+Gymnothorax,taiwanensis,23.75,121.75,1212:131:4,1.00
+Gymnothorax,taiwanensis,24.25,121.75,1212:141:2,1.00
+Gymnothorax,taiwanensis,24.75,121.75,1212:141:4,1.00
+Gymnothorax,taiwanensis,24.75,125.25,1212:245:3,0.94
+Gymnothorax,taiwanensis,25.75,123.75,1212:353:4,1.00
+Gymnothorax,taiwanensis,25.75,124.75,1212:354:4,0.89
+Gymnothorax,taiwanensis,26.25,126.75,1212:466:2,0.87
+Gymnothorax,taiwanensis,26.75,126.75,1212:466:4,0.85
+Gymnothorax,taiwanensis,26.25,127.25,1212:467:1,0.94
+Gymnothorax,taiwanensis,26.25,127.75,1212:467:2,1.00
+Gymnothorax,taiwanensis,26.75,127.25,1212:467:3,0.85
+Gymnothorax,taiwanensis,26.75,127.75,1212:467:4,0.92
+Gymnothorax,taiwanensis,26.75,128.25,1212:468:3,0.85
+Gymnothorax,taiwanensis,27.25,127.75,1212:477:2,0.88
+Gymnothorax,taiwanensis,27.25,128.25,1212:478:1,0.84
+Gymnothorax,taiwanensis,27.75,128.25,1212:478:3,0.81
+Gymnothorax,taiwanensis,27.75,128.75,1212:478:4,0.82
+Gymnothorax,taiwanensis,27.75,129.25,1212:479:3,0.81
+Gymnothorax,taiwanensis,28.25,129.25,1212:489:1,0.88
+Gymnothorax,taiwanensis,28.25,129.75,1212:489:2,0.91
+Gymnothorax,taiwanensis,28.75,129.25,1212:489:3,0.91
+Gymnothorax,taiwanensis,28.75,129.75,1212:489:4,0.91
+Gymnothorax,taiwanensis,28.25,130.25,1213:380:1,0.96
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Gymnothorax,taiwanensis,22.75,121.75,1212:121:4,3387,26.69,34.4,339,0,91
+Gymnothorax,taiwanensis,23.25,121.75,1212:131:2,2627,26.05,34.52,412,0,50
+Gymnothorax,taiwanensis,23.25,121.25,1212:131:1,147,26.05,34.4,516,0,5
+Gymnothorax,taiwanensis,24.25,120.25,1212:140:1,41,24.17,33.75,939,0,24

@@ -1,0 +1,188 @@
+Mapping parameters for Urotrygon serrula (Stingray)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 87,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,10,50,100
+Temperature (°C),1,15.51,18.55,24.96,27.32
+Salinity (psu),1,29.83,31.29,34.89,36.74
+Primary Production (mgC·m-3·day-1) ,1,7.25,41.67,98.21,148.4
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,61.71,97.71,211.34,291.85
+Distance to Land (km),0,15,16.2,73.2,96
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 148): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Urotrygon,serrula,-27.25,-70.75,5207:370:2,0.15
+Urotrygon,serrula,-27.75,-70.75,5207:370:4,0.09
+Urotrygon,serrula,-27.75,-71.25,5207:371:3,0.05
+Urotrygon,serrula,-2.25,-79.75,5007:229:2,0.10
+Urotrygon,serrula,-9.25,-79.75,5007:499:2,0.03
+Urotrygon,serrula,-3.75,-80.25,5008:130:3,0.10
+Urotrygon,serrula,-10.25,-78.75,5107:208:2,0.09
+Urotrygon,serrula,-13.25,-76.75,5107:236:2,0.18
+Urotrygon,serrula,-23.75,-70.75,5207:130:4,0.04
+Urotrygon,serrula,0.25,-79.75,7007:209:2,0.05
+Urotrygon,serrula,1.75,-78.25,7007:218:3,0.02
+Urotrygon,serrula,1.75,-78.75,7007:218:4,0.16
+Urotrygon,serrula,1.75,-79.25,7007:219:3,0.11
+Urotrygon,serrula,2.75,-77.75,7007:227:4,0.04
+Urotrygon,serrula,2.25,-78.25,7007:228:1,0.01
+Urotrygon,serrula,2.75,-78.75,7007:228:4,0.05
+Urotrygon,serrula,3.25,-77.25,7007:237:1,0.02
+Urotrygon,serrula,3.25,-78.25,7007:238:1,0.02
+Urotrygon,serrula,4.25,-81.75,7008:141:2,0.01
+Urotrygon,serrula,0.25,-89.75,7008:209:2,0.17
+Urotrygon,serrula,0.75,-90.75,7009:100:4,0.16
+Urotrygon,serrula,1.75,-91.75,7009:111:4,0.03
+Urotrygon,serrula,-26.25,-70.75,5207:360:2,0.28
+Urotrygon,serrula,-26.75,-70.75,5207:360:4,0.22
+Urotrygon,serrula,-9.25,-79.25,5007:499:1,0.31
+Urotrygon,serrula,-2.25,-80.25,5008:120:1,0.20
+Urotrygon,serrula,-0.75,-89.25,5008:209:3,0.39
+Urotrygon,serrula,-1.25,-89.75,5008:219:2,0.36
+Urotrygon,serrula,-16.75,-73.25,5107:363:3,0.22
+Urotrygon,serrula,-25.75,-70.75,5207:350:4,0.34
+Urotrygon,serrula,1.25,-78.75,7007:218:2,0.34
+Urotrygon,serrula,1.25,-79.25,7007:219:1,0.24
+Urotrygon,serrula,1.25,-79.75,7007:219:2,0.31
+Urotrygon,serrula,0.25,-90.25,7009:100:1,0.22
+Urotrygon,serrula,-0.25,-80.75,5008:100:2,0.54
+Urotrygon,serrula,-0.25,-90.25,5009:100:1,0.46
+Urotrygon,serrula,-1.25,-90.25,5009:110:1,0.49
+Urotrygon,serrula,-14.75,-75.75,5107:245:4,0.52
+Urotrygon,serrula,-14.25,-76.25,5107:246:1,0.52
+Urotrygon,serrula,-16.25,-72.75,5107:362:2,0.50
+Urotrygon,serrula,-15.25,-75.25,5107:455:1,0.56
+Urotrygon,serrula,-24.75,-70.25,5207:140:3,0.57
+Urotrygon,serrula,-24.75,-70.75,5207:140:4,0.54
+Urotrygon,serrula,-25.25,-70.25,5207:350:1,0.50
+Urotrygon,serrula,-25.25,-70.75,5207:350:2,0.41
+Urotrygon,serrula,0.75,-79.75,7007:209:4,0.41
+Urotrygon,serrula,0.25,-80.25,7008:100:1,0.48
+Urotrygon,serrula,0.75,-80.25,7008:100:3,0.44
+Urotrygon,serrula,0.25,-91.25,7009:101:1,0.51
+Urotrygon,serrula,-0.25,-80.25,5008:100:1,0.68
+Urotrygon,serrula,-0.75,-80.25,5008:100:3,0.78
+Urotrygon,serrula,-0.75,-80.75,5008:100:4,0.76
+Urotrygon,serrula,-0.75,-89.75,5008:209:4,0.61
+Urotrygon,serrula,-7.25,-80.75,5008:370:2,0.78
+Urotrygon,serrula,-0.25,-90.75,5009:100:2,0.63
+Urotrygon,serrula,-0.75,-90.25,5009:100:3,0.67
+Urotrygon,serrula,-1.25,-90.75,5009:110:2,0.74
+Urotrygon,serrula,-10.75,-78.25,5107:208:3,0.72
+Urotrygon,serrula,-13.75,-76.25,5107:236:3,0.70
+Urotrygon,serrula,-14.25,-75.75,5107:245:2,0.73
+Urotrygon,serrula,-14.75,-75.25,5107:245:3,0.77
+Urotrygon,serrula,-15.75,-74.75,5107:354:4,0.68
+Urotrygon,serrula,-17.25,-71.75,5107:371:2,0.74
+Urotrygon,serrula,-23.25,-70.25,5207:130:1,0.76
+Urotrygon,serrula,-23.25,-70.75,5207:130:2,0.68
+Urotrygon,serrula,-23.75,-70.25,5207:130:3,0.69
+Urotrygon,serrula,-24.25,-70.25,5207:140:1,0.63
+Urotrygon,serrula,-24.25,-70.75,5207:140:2,0.65
+Urotrygon,serrula,0.25,-91.75,7009:101:2,0.64
+Urotrygon,serrula,-2.75,-79.75,5007:229:4,1.00
+Urotrygon,serrula,-3.25,-79.75,5007:239:2,1.00
+Urotrygon,serrula,-6.75,-79.75,5007:469:4,1.00
+Urotrygon,serrula,-7.25,-79.75,5007:479:2,1.00
+Urotrygon,serrula,-7.75,-79.25,5007:479:3,1.00
+Urotrygon,serrula,-7.75,-79.75,5007:479:4,1.00
+Urotrygon,serrula,-8.25,-78.75,5007:488:2,1.00
+Urotrygon,serrula,-8.75,-78.75,5007:488:4,1.00
+Urotrygon,serrula,-8.25,-79.25,5007:489:1,1.00
+Urotrygon,serrula,-8.25,-79.75,5007:489:2,1.00
+Urotrygon,serrula,-8.75,-79.25,5007:489:3,0.90
+Urotrygon,serrula,-8.75,-79.75,5007:489:4,0.86
+Urotrygon,serrula,-9.25,-78.25,5007:498:1,1.00
+Urotrygon,serrula,-9.25,-78.75,5007:498:2,1.00
+Urotrygon,serrula,-9.75,-78.25,5007:498:3,1.00
+Urotrygon,serrula,-9.75,-78.75,5007:498:4,0.97
+Urotrygon,serrula,-1.25,-80.75,5008:110:2,1.00
+Urotrygon,serrula,-1.75,-80.75,5008:110:4,1.00
+Urotrygon,serrula,-1.25,-81.25,5008:111:1,0.89
+Urotrygon,serrula,-1.75,-81.25,5008:111:3,1.00
+Urotrygon,serrula,-2.25,-80.75,5008:120:2,1.00
+Urotrygon,serrula,-2.75,-80.25,5008:120:3,1.00
+Urotrygon,serrula,-2.75,-80.75,5008:120:4,1.00
+Urotrygon,serrula,-2.25,-81.25,5008:121:1,1.00
+Urotrygon,serrula,-3.25,-80.25,5008:130:1,1.00
+Urotrygon,serrula,-3.25,-80.75,5008:130:2,1.00
+Urotrygon,serrula,-3.75,-80.75,5008:130:4,1.00
+Urotrygon,serrula,-3.75,-81.25,5008:131:3,0.94
+Urotrygon,serrula,-4.25,-81.25,5008:141:1,1.00
+Urotrygon,serrula,-4.75,-81.25,5008:141:3,1.00
+Urotrygon,serrula,-5.25,-80.75,5008:350:2,1.00
+Urotrygon,serrula,-5.75,-80.75,5008:350:4,1.00
+Urotrygon,serrula,-5.25,-81.25,5008:351:1,1.00
+Urotrygon,serrula,-5.75,-81.25,5008:351:3,1.00
+Urotrygon,serrula,-6.25,-80.25,5008:360:1,1.00
+Urotrygon,serrula,-6.25,-80.75,5008:360:2,0.96
+Urotrygon,serrula,-6.75,-80.25,5008:360:3,1.00
+Urotrygon,serrula,-6.75,-80.75,5008:360:4,1.00
+Urotrygon,serrula,-6.25,-81.25,5008:361:1,1.00
+Urotrygon,serrula,-7.25,-80.25,5008:370:1,1.00
+Urotrygon,serrula,-7.75,-80.25,5008:370:3,0.83
+Urotrygon,serrula,-0.75,-90.75,5009:100:4,0.91
+Urotrygon,serrula,-0.25,-91.25,5009:101:1,0.89
+Urotrygon,serrula,-0.25,-91.75,5009:101:2,1.00
+Urotrygon,serrula,-0.75,-91.25,5009:101:3,0.98
+Urotrygon,serrula,-1.25,-91.25,5009:111:1,0.84
+Urotrygon,serrula,-10.25,-77.75,5107:207:2,1.00
+Urotrygon,serrula,-10.75,-77.75,5107:207:4,1.00
+Urotrygon,serrula,-10.25,-78.25,5107:208:1,0.96
+Urotrygon,serrula,-11.25,-77.25,5107:217:1,0.99
+Urotrygon,serrula,-11.25,-77.75,5107:217:2,0.95
+Urotrygon,serrula,-11.75,-77.25,5107:217:3,0.86
+Urotrygon,serrula,-11.75,-77.75,5107:217:4,0.95
+Urotrygon,serrula,-12.25,-76.75,5107:226:2,0.90
+Urotrygon,serrula,-12.75,-76.25,5107:226:3,0.92
+Urotrygon,serrula,-12.75,-76.75,5107:226:4,0.84
+Urotrygon,serrula,-12.25,-77.25,5107:227:1,0.86
+Urotrygon,serrula,-13.25,-76.25,5107:236:1,0.84
+Urotrygon,serrula,-15.75,-73.75,5107:353:4,1.00
+Urotrygon,serrula,-15.25,-74.75,5107:354:2,0.81
+Urotrygon,serrula,-15.75,-74.25,5107:354:3,0.86
+Urotrygon,serrula,-16.75,-72.25,5107:362:3,0.90
+Urotrygon,serrula,-16.75,-72.75,5107:362:4,1.00
+Urotrygon,serrula,-16.25,-73.25,5107:363:1,1.00
+Urotrygon,serrula,-16.25,-73.75,5107:363:2,0.92
+Urotrygon,serrula,-17.75,-70.75,5107:370:4,1.00
+Urotrygon,serrula,-17.25,-71.25,5107:371:1,1.00
+Urotrygon,serrula,-17.75,-71.25,5107:371:3,1.00
+Urotrygon,serrula,-18.25,-70.25,5107:380:1,1.00
+Urotrygon,serrula,-18.25,-70.75,5107:380:2,1.00
+Urotrygon,serrula,-18.75,-70.25,5107:380:3,1.00
+Urotrygon,serrula,-19.25,-70.25,5107:390:1,1.00
+Urotrygon,serrula,-19.75,-70.25,5107:390:3,1.00
+Urotrygon,serrula,-20.25,-70.25,5207:100:1,1.00
+Urotrygon,serrula,-20.75,-70.25,5207:100:3,0.93
+Urotrygon,serrula,-21.25,-70.25,5207:110:1,0.96
+Urotrygon,serrula,-21.75,-70.25,5207:110:3,0.93
+Urotrygon,serrula,-22.25,-70.25,5207:120:1,0.87
+Urotrygon,serrula,-22.75,-70.25,5207:120:3,0.82
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Urotrygon,serrula,-11.75,-77.25,5107:217:3,87,18.2189998626709,17.7786464691162,34.9571685791016,35.1131286621094,93.9470008015633,0,181.702758789063,19
+Urotrygon,serrula,-6.75,-80.75,5008:360:4,436,19.4374828338623,15.5827522277832,34.7377052307129,34.988338470459,70.471003651619,0,61.7130241394043,96
+Urotrygon,serrula,-6.25,-80.75,5008:360:2,112,19.3272113800049,19.7034778594971,34.720573425293,34.9753723144531,100.03600269556,0,205.779190063477,15
+Urotrygon,serrula,3.75,-77.25,7007:237:3,22,27.3233089447021,27.2010517120361,29.8263092041016,31.9925498962402,29.3199997395277,0,213.71989440918,20

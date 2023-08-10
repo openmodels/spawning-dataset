@@ -1,0 +1,142 @@
+Mapping parameters for Scorpaena gasta (Ghostly scorpionfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 57,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,3,4,11,17
+Temperature (°C),1,17.99,19.93,23.91,26.19
+Salinity (psu),1,34.86,35.36,35.65,36.15
+Primary Production,1,282.75,388.2,712.2,810
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,1,6.6,24,37
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 99): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Scorpaena,gasta,-21.75,113.75,3211:113:4,0.11
+Scorpaena,gasta,-21.25,114.75,3211:114:2,0.05
+Scorpaena,gasta,-22.25,113.75,3211:123:2,0.16
+Scorpaena,gasta,-22.75,113.75,3211:123:4,0.15
+Scorpaena,gasta,-23.25,113.25,3211:133:1,0.15
+Scorpaena,gasta,-24.75,112.75,3211:142:4,0.14
+Scorpaena,gasta,-34.25,114.75,3311:144:2,0.09
+Scorpaena,gasta,-34.25,118.75,3311:248:2,0.19
+Scorpaena,gasta,-34.75,118.25,3311:248:3,0.19
+Scorpaena,gasta,-34.75,118.75,3311:248:4,0.19
+Scorpaena,gasta,-34.25,119.25,3311:249:1,0.12
+Scorpaena,gasta,-34.25,119.75,3311:249:2,0.12
+Scorpaena,gasta,-34.75,119.25,3311:249:3,0.15
+Scorpaena,gasta,-34.75,119.75,3311:249:4,0.12
+Scorpaena,gasta,-35.25,115.75,3311:455:2,0.15
+Scorpaena,gasta,-31.75,128.25,3312:218:3,0.05
+Scorpaena,gasta,-31.75,128.75,3312:218:4,0.04
+Scorpaena,gasta,-32.75,124.25,3312:124:3,0.08
+Scorpaena,gasta,-32.75,124.75,3312:124:4,0.08
+Scorpaena,gasta,-33.75,120.25,3312:130:3,0.13
+Scorpaena,gasta,-33.75,120.75,3312:130:4,0.13
+Scorpaena,gasta,-33.75,121.25,3312:131:3,0.02
+Scorpaena,gasta,-33.75,121.75,3312:131:4,0.06
+Scorpaena,gasta,-34.25,120.25,3312:140:1,0.01
+Scorpaena,gasta,-34.25,120.75,3312:140:2,0.01
+Scorpaena,gasta,-31.75,129.25,3312:219:3,0.08
+Scorpaena,gasta,-31.75,129.75,3312:219:4,0.08
+Scorpaena,gasta,-32.25,125.75,3312:225:2,0.04
+Scorpaena,gasta,-32.75,125.25,3312:225:3,0.11
+Scorpaena,gasta,-32.75,125.75,3312:225:4,0.11
+Scorpaena,gasta,-32.25,126.25,3312:226:1,0.10
+Scorpaena,gasta,-32.25,126.75,3312:226:2,0.10
+Scorpaena,gasta,-32.75,126.25,3312:226:3,0.10
+Scorpaena,gasta,-32.25,127.25,3312:227:1,0.03
+Scorpaena,gasta,-32.25,127.75,3312:227:2,0.03
+Scorpaena,gasta,-32.75,127.25,3312:227:3,0.03
+Scorpaena,gasta,-32.25,128.25,3312:228:1,0.02
+Scorpaena,gasta,-32.75,129.25,3312:229:3,0.01
+Scorpaena,gasta,-33.25,125.75,3312:235:2,0.01
+Scorpaena,gasta,-33.75,125.25,3312:235:3,0.02
+Scorpaena,gasta,-33.75,125.75,3312:235:4,0.02
+Scorpaena,gasta,-31.25,131.25,3313:111:1,0.08
+Scorpaena,gasta,-31.75,131.75,3313:111:4,0.01
+Scorpaena,gasta,-31.75,132.25,3313:112:3,0.02
+Scorpaena,gasta,-32.75,132.75,3313:122:4,0.01
+Scorpaena,gasta,-32.25,133.75,3313:123:2,0.01
+Scorpaena,gasta,-32.25,134.25,3313:124:1,0.01
+Scorpaena,gasta,-32.75,134.25,3313:124:3,0.01
+Scorpaena,gasta,-23.25,113.75,3211:133:2,0.36
+Scorpaena,gasta,-25.75,114.25,3211:354:3,0.26
+Scorpaena,gasta,-29.75,115.25,3211:495:3,0.37
+Scorpaena,gasta,-33.75,119.75,3311:239:4,0.21
+Scorpaena,gasta,-34.75,116.25,3311:246:3,0.35
+Scorpaena,gasta,-34.75,116.75,3311:246:4,0.35
+Scorpaena,gasta,-23.75,113.75,3211:133:4,0.45
+Scorpaena,gasta,-25.75,113.25,3211:353:3,0.53
+Scorpaena,gasta,-28.75,114.75,3211:384:4,0.58
+Scorpaena,gasta,-34.25,115.25,3311:245:1,0.58
+Scorpaena,gasta,-34.25,115.75,3311:245:2,0.58
+Scorpaena,gasta,-34.75,115.25,3311:245:3,0.58
+Scorpaena,gasta,-24.75,113.25,3211:143:3,0.77
+Scorpaena,gasta,-24.75,113.75,3211:143:4,0.77
+Scorpaena,gasta,-25.25,112.75,3211:352:2,0.75
+Scorpaena,gasta,-25.75,113.75,3211:353:4,0.76
+Scorpaena,gasta,-33.25,115.75,3311:235:2,0.67
+Scorpaena,gasta,-34.75,115.75,3311:245:4,0.63
+Scorpaena,gasta,-25.75,112.75,3211:352:4,1.00
+Scorpaena,gasta,-25.25,113.75,3211:353:2,1.00
+Scorpaena,gasta,-26.25,113.25,3211:363:1,1.00
+Scorpaena,gasta,-26.25,113.75,3211:363:2,1.00
+Scorpaena,gasta,-26.75,113.25,3211:363:3,1.00
+Scorpaena,gasta,-26.75,113.75,3211:363:4,1.00
+Scorpaena,gasta,-26.25,114.25,3211:364:1,1.00
+Scorpaena,gasta,-27.25,113.25,3211:373:1,1.00
+Scorpaena,gasta,-27.25,113.75,3211:373:2,1.00
+Scorpaena,gasta,-27.75,113.25,3211:373:3,1.00
+Scorpaena,gasta,-27.75,113.75,3211:373:4,1.00
+Scorpaena,gasta,-27.25,114.25,3211:374:1,1.00
+Scorpaena,gasta,-27.75,114.25,3211:374:3,1.00
+Scorpaena,gasta,-28.25,113.75,3211:383:2,1.00
+Scorpaena,gasta,-28.75,113.75,3211:383:4,1.00
+Scorpaena,gasta,-28.25,114.75,3211:384:2,1.00
+Scorpaena,gasta,-29.25,114.25,3211:394:1,1.00
+Scorpaena,gasta,-29.75,114.75,3211:394:4,1.00
+Scorpaena,gasta,-29.25,115.25,3211:495:1,1.00
+Scorpaena,gasta,-30.25,114.75,3311:104:2,1.00
+Scorpaena,gasta,-30.75,114.75,3311:104:4,1.00
+Scorpaena,gasta,-33.75,114.75,3311:134:4,0.86
+Scorpaena,gasta,-30.25,115.25,3311:205:1,1.00
+Scorpaena,gasta,-30.75,115.25,3311:205:3,1.00
+Scorpaena,gasta,-31.25,115.25,3311:215:1,1.00
+Scorpaena,gasta,-31.25,115.75,3311:215:2,1.00
+Scorpaena,gasta,-31.75,115.75,3311:215:4,1.00
+Scorpaena,gasta,-32.25,115.25,3311:225:1,1.00
+Scorpaena,gasta,-32.25,115.75,3311:225:2,1.00
+Scorpaena,gasta,-32.75,115.25,3311:225:3,1.00
+Scorpaena,gasta,-32.75,115.75,3311:225:4,1.00
+Scorpaena,gasta,-33.25,115.25,3311:235:1,0.86
+Scorpaena,gasta,-33.75,115.25,3311:235:3,0.86
+
+
+Occurrence cells used for creating environmental envelope (n = 7)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Scorpaena,gasta,-33.25,124.25,3312:134:1,39,17.99,35.88,506,0,20
+Scorpaena,gasta,-30.25,115.25,3311:205:1,42,21.22,35.49,500,0,3
+Scorpaena,gasta,-28.25,113.75,3211:383:2,32,22.29,35.47,421,0,24
+Scorpaena,gasta,-27.75,114.25,3211:374:3,31,22.61,35.43,511,0,9
+Scorpaena,gasta,-26.25,113.25,3211:363:1,54,23.31,35.41,647,0,22
+Scorpaena,gasta,-25.75,113.25,3211:353:3,8,23.75,35.4,339,0,23
+Scorpaena,gasta,-24.25,113.25,3211:143:1,50,24.16,35.29,810,0,24

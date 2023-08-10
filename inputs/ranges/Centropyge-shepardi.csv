@@ -1,0 +1,75 @@
+Mapping parameters for Centropyge shepardi (Mango angelfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 61 |  71,
+Bounding Box (NSWE): ,28,15,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,6,29,56
+Temperature (°C),1,24.33,26.1,28.83,33.03
+Salinity (psu),1,34.08,34.58,34.81,35.31
+Primary Production (mgC·m-3·day-1) ,1,-0.06,0.94,2.05,3.22
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,39.05,81.17,182.59,202.25
+Distance to Land (km),0,24,26,326,363
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 23): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Centropyge,shepardi,19.75,121.75,1112:391:4,0.08
+Centropyge,shepardi,19.25,122.25,1112:392:1,0.03
+Centropyge,shepardi,26.75,142.25,1214:362:3,0.09
+Centropyge,shepardi,27.25,140.75,1214:370:2,0.04
+Centropyge,shepardi,19.75,122.25,1112:392:3,0.38
+Centropyge,shepardi,20.25,121.75,1212:101:2,0.33
+Centropyge,shepardi,20.75,122.25,1212:102:3,0.21
+Centropyge,shepardi,23.75,157.25,1215:237:3,0.37
+Centropyge,shepardi,19.25,166.75,1116:496:2,0.41
+Centropyge,shepardi,20.25,122.25,1212:102:1,0.49
+Centropyge,shepardi,24.75,131.25,1213:141:3,0.52
+Centropyge,shepardi,24.25,154.25,1215:144:1,0.47
+Centropyge,shepardi,15.25,145.75,1114:455:2,1.00
+Centropyge,shepardi,16.25,145.75,1114:465:2,1.00
+Centropyge,shepardi,17.75,145.75,1114:475:4,1.00
+Centropyge,shepardi,18.25,145.75,1114:485:2,1.00
+Centropyge,shepardi,18.75,145.75,1114:485:4,1.00
+Centropyge,shepardi,19.75,145.25,1114:495:3,1.00
+Centropyge,shepardi,20.25,136.25,1213:206:1,1.00
+Centropyge,shepardi,20.75,144.75,1214:104:4,1.00
+Centropyge,shepardi,24.25,141.75,1214:141:2,0.97
+Centropyge,shepardi,24.75,141.25,1214:141:3,1.00
+Centropyge,shepardi,25.25,141.25,1214:351:1,0.84
+
+
+Occurrence cells used for creating environmental envelope (n = 16)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Centropyge,shepardi,15.25,145.75,1114:455:2,949,28.829496383667,22.1097106933594,34.5787124633789,35.0081977844238,1.07600004412234,0,189.859024047852,26
+Centropyge,shepardi,15.75,142.75,1114:352:4,3442,28.8867511749268,1.43079102039337,34.5133743286133,34.6670341491699,0.896000012289733,0,138.449325561523,363
+Centropyge,shepardi,16.25,145.75,1114:465:2,1902,28.8216667175293,1.85145795345306,34.6220092773438,34.6220932006836,1.00599997676909,0,116.357978820801,26
+Centropyge,shepardi,16.75,143.25,1114:363:3,2278,28.8011455535889,1.55171298980713,34.6012687683105,34.6520919799805,0.9769999887794261,0,130.415328979492,326
+Centropyge,shepardi,16.75,145.75,1114:465:4,1951,28.7913417816162,5.76082611083984,34.6364822387695,34.3948631286621,0.997000024653971,0,75.7635650634766,109
+Centropyge,shepardi,17.25,145.75,1114:475:2,2420,28.7486438751221,1.71486604213715,34.655876159668,34.6543960571289,1.01400003768504,0,121.164077758789,109
+Centropyge,shepardi,17.75,145.75,1114:475:4,2501,28.6759700775146,2.36362195014954,34.6698417663574,34.6016235351563,1.04899995494634,0,100.246772766113,26
+Centropyge,shepardi,18.25,145.75,1114:485:2,2288,28.5848522186279,3.44274997711182,34.6850471496582,34.5389556884766,1.08800001908094,0,81.1676483154297,26
+Centropyge,shepardi,18.75,145.75,1114:485:4,2328,28.4971618652344,1.68066895008087,34.6981315612793,34.6157455444336,1.10300001688302,0,121.868583679199,26
+Centropyge,shepardi,19.75,145.25,1114:495:3,2568,28.2554206848145,1.68744695186615,34.7412528991699,34.6141014099121,1.13900005817413,0,121.101043701172,26
+Centropyge,shepardi,20.25,144.25,1214:104:1,3856,28.1155986785889,1.36858296394348,34.7504653930664,34.6744575500488,1.15999998524785,0,141.046234130859,128
+Centropyge,shepardi,20.25,145.25,1214:205:1,2065,28.1151218414307,1.81068301200867,34.7669639587402,34.6128540039063,1.1589999776333602,0,116.088905334473,108
+Centropyge,shepardi,20.75,144.75,1214:104:4,2046,27.9831886291504,1.68261098861694,34.7873840332031,34.6511688232422,1.17099995259196,0,121.054046630859,26
+Centropyge,shepardi,24.25,141.25,1214:141:1,1572,26.4399223327637,2.36092710494995,34.8172225952148,34.5297660827637,0.9369999752379949,0,84.2321319580078,162
+Centropyge,shepardi,24.75,141.25,1214:141:3,1084,26.0983448028564,13.7053651809692,34.8080787658691,34.5240135192871,0.951999973040074,0,182.594497680664,106
+Centropyge,shepardi,27.25,142.25,1214:372:1,748,24.3345851898193,13.0614404678345,34.763256072998,34.3642578125,3.22000007145107,0,171.086273193359,24

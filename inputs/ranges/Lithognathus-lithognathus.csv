@@ -1,0 +1,129 @@
+Mapping parameters for Lithognathus lithognathus (White steenbras)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 47 |  51,
+Bounding Box (NSWE): ,-22,-31,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,16,73,150
+Temperature (°C),1,1.1,14.22,24.16,24.66
+Salinity (psu),1,33.73,34.49,35.49,35.99
+Primary Production (mgC·m-3·day-1) ,1,16.55,21.63,110.87,233.37
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,13.28,15.88,209.46,408.6
+Distance to Land (km),0,1,3,88,169.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 66): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Lithognathus,lithognathus,-28.25,32.75,3203:382:2,0.05
+Lithognathus,lithognathus,-25.25,33.75,3203:353:2,0.16
+Lithognathus,lithognathus,-25.25,33.25,3203:353:1,0.02
+Lithognathus,lithognathus,-29.75,16.25,3201:496:3,0.13
+Lithognathus,lithognathus,-28.75,16.25,3201:486:3,0.01
+Lithognathus,lithognathus,-30.75,16.75,3301:206:4,0.22
+Lithognathus,lithognathus,-30.75,16.25,3301:206:3,0.21
+Lithognathus,lithognathus,-30.25,16.75,3301:206:2,0.25
+Lithognathus,lithognathus,-26.25,32.75,3203:362:2,0.22
+Lithognathus,lithognathus,-25.25,32.75,3203:352:2,0.25
+Lithognathus,lithognathus,-29.25,15.25,3201:495:1,0.20
+Lithognathus,lithognathus,-28.75,15.75,3201:485:4,0.39
+Lithognathus,lithognathus,-28.25,15.75,3201:485:2,0.20
+Lithognathus,lithognathus,-25.25,14.25,3201:354:1,0.25
+Lithognathus,lithognathus,-23.25,13.75,3201:133:2,0.26
+Lithognathus,lithognathus,-22.75,13.75,3201:123:4,0.38
+Lithognathus,lithognathus,-30.25,31.25,3303:101:1,0.43
+Lithognathus,lithognathus,-29.25,32.25,3203:392:1,0.55
+Lithognathus,lithognathus,-29.25,16.25,3201:496:1,0.56
+Lithognathus,lithognathus,-30.75,30.75,3303:100:4,0.64
+Lithognathus,lithognathus,-29.75,30.75,3203:390:4,0.62
+Lithognathus,lithognathus,-25.75,32.75,3203:352:4,0.63
+Lithognathus,lithognathus,-30.75,30.25,3303:100:3,1.00
+Lithognathus,lithognathus,-30.25,30.75,3303:100:2,1.00
+Lithognathus,lithognathus,-30.75,17.75,3301:207:4,1.00
+Lithognathus,lithognathus,-30.75,17.25,3301:207:3,1.00
+Lithognathus,lithognathus,-30.25,17.25,3301:207:1,1.00
+Lithognathus,lithognathus,-29.75,31.75,3203:391:4,0.96
+Lithognathus,lithognathus,-29.75,31.25,3203:391:3,1.00
+Lithognathus,lithognathus,-29.25,31.75,3203:391:2,1.00
+Lithognathus,lithognathus,-29.25,31.25,3203:391:1,1.00
+Lithognathus,lithognathus,-28.75,32.25,3203:382:3,1.00
+Lithognathus,lithognathus,-28.25,32.25,3203:382:1,1.00
+Lithognathus,lithognathus,-28.75,31.75,3203:381:4,1.00
+Lithognathus,lithognathus,-29.75,17.25,3201:497:3,1.00
+Lithognathus,lithognathus,-29.25,17.25,3201:497:1,1.00
+Lithognathus,lithognathus,-29.75,16.75,3201:496:4,1.00
+Lithognathus,lithognathus,-29.25,16.75,3201:496:2,1.00
+Lithognathus,lithognathus,-29.75,15.75,3201:495:4,0.99
+Lithognathus,lithognathus,-29.25,15.75,3201:495:2,0.87
+Lithognathus,lithognathus,-28.75,16.75,3201:486:4,1.00
+Lithognathus,lithognathus,-28.25,16.25,3201:486:1,1.00
+Lithognathus,lithognathus,-28.25,15.25,3201:485:1,0.84
+Lithognathus,lithognathus,-27.75,15.75,3201:475:4,1.00
+Lithognathus,lithognathus,-27.75,15.25,3201:475:3,1.00
+Lithognathus,lithognathus,-27.25,15.25,3201:475:1,1.00
+Lithognathus,lithognathus,-26.75,15.25,3201:465:3,1.00
+Lithognathus,lithognathus,-26.25,15.25,3201:465:1,1.00
+Lithognathus,lithognathus,-28.75,14.75,3201:384:4,0.94
+Lithognathus,lithognathus,-28.25,14.75,3201:384:2,1.00
+Lithognathus,lithognathus,-26.75,14.75,3201:364:4,0.87
+Lithognathus,lithognathus,-26.25,14.75,3201:364:2,1.00
+Lithognathus,lithognathus,-25.75,14.75,3201:354:4,0.99
+Lithognathus,lithognathus,-25.25,14.75,3201:354:2,0.99
+Lithognathus,lithognathus,-24.75,14.75,3201:144:4,1.00
+Lithognathus,lithognathus,-24.75,14.25,3201:144:3,1.00
+Lithognathus,lithognathus,-24.25,14.75,3201:144:2,1.00
+Lithognathus,lithognathus,-24.25,14.25,3201:144:1,0.89
+Lithognathus,lithognathus,-23.75,14.75,3201:134:4,1.00
+Lithognathus,lithognathus,-23.75,14.25,3201:134:3,1.00
+Lithognathus,lithognathus,-23.25,14.75,3201:134:2,1.00
+Lithognathus,lithognathus,-23.25,14.25,3201:134:1,1.00
+Lithognathus,lithognathus,-22.75,14.75,3201:124:4,1.00
+Lithognathus,lithognathus,-22.75,14.25,3201:124:3,1.00
+Lithognathus,lithognathus,-22.25,14.25,3201:124:1,0.96
+Lithognathus,lithognathus,-22.25,13.75,3201:123:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 27)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Lithognathus,lithognathus,-30.75,30.25,3303:100:3,157,23.3455619812012,21.9801864624023,35.2891464233398,35.3301734924316,24.5629753917456,0,209.459716796875,4
+Lithognathus,lithognathus,-30.75,30.75,3303:100:4,1444,23.8780117034912,2.35674905776978,35.2855262756348,34.7617607116699,19.8079999536276,0,191.614303588867,23
+Lithognathus,lithognathus,-30.25,30.75,3303:100:2,242,23.4532604217529,23.9229068756104,35.2656745910645,35.3896865844727,21.6279998421669,0,212.68571472168,12
+Lithognathus,lithognathus,-29.75,31.25,3203:391:3,167,23.3369998931885,17.8870525360107,35.2142639160156,35.4678153991699,22.5210003554821,0,176.564041137695,20
+Lithognathus,lithognathus,-29.25,31.75,3203:391:2,74,23.4186172485352,23.4698867797852,35.2282104492188,35.3903160095215,26.7570000141859,0,199.785339355469,22
+Lithognathus,lithognathus,-29.25,32.25,3203:392:1,824,24.3838062286377,4.83098793029785,35.2618751525879,34.5425338745117,23.9530000835657,0,146.82453918457,88
+Lithognathus,lithognathus,-28.75,16.25,3201:486:3,119,14.8301048278809,12.0550708770752,33.7344131469727,34.9546051025391,100.763998925686,0,58.1242637634277,23
+Lithognathus,lithognathus,-28.75,32.25,3203:382:3,248,24.1623344421387,22.6297130584717,35.2522010803223,35.3859100341797,27.9140006750822,0,191.236557006836,17
+Lithognathus,lithognathus,-28.25,32.25,3203:382:1,45,24.0857582092285,20.5517177581787,35.2016525268555,35.3099517822266,21.887069568038,0,187.393569946289,1
+Lithognathus,lithognathus,-27.25,14.75,3201:374:2,310,15.645320892334,10.313759803772,34.9978103637695,34.847843170166,65.9549981355667,0,90.5896911621094,74
+Lithognathus,lithognathus,-26.75,32.75,3203:362:4,73,24.4875679016113,21.6856288909912,35.1186332702637,35.3039703369141,16.5538229048252,0,190.00700378418,5
+Lithognathus,lithognathus,-26.75,15.25,3201:465:3,59,14.439525604248,13.1856031417847,34.7234573364258,35.0184669494629,97.3774641752243,0,116.159843444824,10
+Lithognathus,lithognathus,-26.25,14.25,3201:364:1,302,15.030553817749,9.56925773620605,35.0662422180176,34.7779655456543,71.16299867629999,0,93.1282730102539,89
+Lithognathus,lithognathus,-26.25,14.75,3201:364:2,161,14.215407371521,12.3136005401611,34.9219779968262,34.9822959899902,90.6810015439987,0,44.2772483825684,50
+Lithognathus,lithognathus,-26.25,15.25,3201:465:1,46,14.3443384170532,13.8024005889893,34.868766784668,35.035587310791,99.7573360800743,0,155.995635986328,3
+Lithognathus,lithognathus,-25.75,14.25,3201:354:3,238,14.6229372024536,10.9789848327637,35.0670394897461,34.9452857971191,77.7700021862984,0,60.0997085571289,75
+Lithognathus,lithognathus,-25.75,14.75,3201:354:4,127,14.0553579330444,13.9512434005737,35.0163192749023,35.0885925292969,93.9520001411438,0,62.6296310424805,22
+Lithognathus,lithognathus,-25.25,14.75,3201:354:2,95,14.0415992736816,14.5777797698975,35.0217132568359,35.0665435791016,108.522996306419,0,222.049423217773,19
+Lithognathus,lithognathus,-24.75,14.25,3201:144:3,145,14.4917840957642,12.8286008834839,34.9696769714355,35.0520210266113,98.3309969305992,0,20.9679985046387,76
+Lithognathus,lithognathus,-24.75,14.75,3201:144:4,64,14.4070129394531,14.6196689605713,35.0296058654785,35.0836715698242,108.087383210659,0,178.227844238281,15
+Lithognathus,lithognathus,-24.25,14.25,3201:144:1,131,14.6139154434204,13.4816131591797,34.7116775512695,35.0933647155762,124.66699630022,0,16.6736812591553,76
+Lithognathus,lithognathus,-23.75,13.75,3201:133:4,222,15.498607635498,11.6818246841431,35.0114669799805,34.9976921081543,84.6239998936653,0,29.8912296295166,126
+Lithognathus,lithognathus,-23.75,14.25,3201:134:3,127,14.7667617797852,13.6502447128296,34.8997001647949,35.1000328063965,110.866002738476,0,13.371488571167,76
+Lithognathus,lithognathus,-23.25,14.25,3201:134:1,109,15.0186500549316,14.3057384490967,35.1138458251953,35.1339302062988,101.64300352335,0,15.8805351257324,25
+Lithognathus,lithognathus,-22.75,14.25,3201:124:3,93,15.2663450241089,14.4749374389648,35.1517219543457,35.1614990234375,110.266998410225,0,13.2785835266113,50
+Lithognathus,lithognathus,-22.75,14.75,3201:124:4,37,15.6855936050415,15.8247728347778,34.9951934814453,35.149341583252,110.838867723942,0,142.778060913086,3
+Lithognathus,lithognathus,-22.25,14.25,3201:124:1,78,15.7368907928467,15.9435358047485,35.1112098693848,35.1640319824219,115.226000547409,0,144.236450195313,21

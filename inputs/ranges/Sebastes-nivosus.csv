@@ -1,0 +1,96 @@
+Mapping parameters for Sebastes nivosus ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 61,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,3,11,20
+Temperature (°C),1,10.49,14.13,20.35,26.03
+Salinity (psu),1,32.95,33.45,34.45,35.13
+Primary Production,1,693.5,725,768.2,801.5
+Sea Ice Concentration,1,-0.993333333333333,0,0.0160000007599592,0.02
+Distance to Land (km),0,12.75,15.6,19.6000003814697,22.75
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 57): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Sebastes,nivosus,21.25,110.25,1211:110:1,0.03
+Sebastes,nivosus,21.75,112.25,1211:112:3,0.04
+Sebastes,nivosus,23.25,119.75,1211:239:2,0.17
+Sebastes,nivosus,23.75,120.25,1212:130:3,0.03
+Sebastes,nivosus,24.75,121.75,1212:141:4,0.13
+Sebastes,nivosus,34.75,127.25,1312:247:3,0.08
+Sebastes,nivosus,36.25,136.25,1313:466:1,0.05
+Sebastes,nivosus,38.75,139.75,1313:489:4,0.05
+Sebastes,nivosus,35.25,140.75,1314:350:2,0.15
+Sebastes,nivosus,39.25,141.75,1314:391:2,0.05
+Sebastes,nivosus,41.75,129.75,1412:219:4,0.10
+Sebastes,nivosus,40.75,141.25,1414:101:3,0.11
+Sebastes,nivosus,41.25,141.75,1414:111:2,0.19
+Sebastes,nivosus,22.75,114.25,1211:124:3,0.23
+Sebastes,nivosus,22.75,114.75,1211:124:4,0.23
+Sebastes,nivosus,39.75,128.25,1312:498:3,0.27
+Sebastes,nivosus,34.75,138.75,1313:248:4,0.25
+Sebastes,nivosus,38.25,138.75,1313:488:2,0.33
+Sebastes,nivosus,38.75,141.25,1314:381:3,0.33
+Sebastes,nivosus,41.25,141.25,1414:111:1,0.20
+Sebastes,nivosus,43.75,141.25,1414:131:3,0.24
+Sebastes,nivosus,35.25,128.75,1312:458:2,0.43
+Sebastes,nivosus,35.75,129.75,1312:459:4,0.47
+Sebastes,nivosus,37.75,128.75,1312:478:4,0.49
+Sebastes,nivosus,38.25,128.25,1312:488:1,0.49
+Sebastes,nivosus,34.75,139.25,1313:249:3,0.53
+Sebastes,nivosus,36.75,136.75,1313:466:4,0.44
+Sebastes,nivosus,37.25,137.75,1313:477:2,0.43
+Sebastes,nivosus,35.25,140.25,1314:350:1,0.45
+Sebastes,nivosus,38.25,141.75,1314:381:2,0.56
+Sebastes,nivosus,40.75,129.25,1412:209:3,0.52
+Sebastes,nivosus,40.25,139.75,1413:209:2,0.52
+Sebastes,nivosus,34.75,127.75,1312:247:4,0.65
+Sebastes,nivosus,37.25,136.75,1313:476:2,0.71
+Sebastes,nivosus,35.75,140.75,1314:350:4,0.69
+Sebastes,nivosus,40.25,128.75,1412:208:2,0.65
+Sebastes,nivosus,40.25,141.75,1414:101:2,0.60
+Sebastes,nivosus,35.25,129.25,1312:459:1,1.00
+Sebastes,nivosus,35.75,129.25,1312:459:3,1.00
+Sebastes,nivosus,36.75,129.75,1312:469:4,1.00
+Sebastes,nivosus,34.25,136.75,1313:246:2,0.82
+Sebastes,nivosus,35.25,139.75,1313:459:2,0.98
+Sebastes,nivosus,36.75,137.25,1313:467:3,1.00
+Sebastes,nivosus,37.25,137.25,1313:477:1,0.84
+Sebastes,nivosus,38.25,139.25,1313:489:1,0.98
+Sebastes,nivosus,39.25,139.75,1313:499:2,1.00
+Sebastes,nivosus,39.75,139.75,1313:499:4,1.00
+Sebastes,nivosus,36.25,140.75,1314:360:2,0.86
+Sebastes,nivosus,36.75,140.75,1314:360:4,1.00
+Sebastes,nivosus,37.75,141.25,1314:371:3,0.83
+Sebastes,nivosus,38.25,140.75,1314:380:2,1.00
+Sebastes,nivosus,38.25,141.25,1314:381:1,1.00
+Sebastes,nivosus,38.75,141.75,1314:381:4,1.00
+Sebastes,nivosus,39.25,140.25,1314:390:1,1.00
+Sebastes,nivosus,39.75,141.75,1314:391:4,1.00
+Sebastes,nivosus,39.25,142.25,1314:392:1,1.00
+Sebastes,nivosus,39.75,142.25,1314:392:3,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Sebastes,nivosus,35.25,139.75,1313:459:2,172,20.45,34.43,749,0,15
+Sebastes,nivosus,36.25,140.75,1314:360:2,150,19.95,34.2,773,0,18
+Sebastes,nivosus,40.75,141.75,1414:101:4,163,12.68,33.34,719,0.02,20

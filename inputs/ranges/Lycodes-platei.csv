@@ -1,0 +1,270 @@
+Mapping parameters for Austrolycus laticinctus ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 41 |  87,
+Bounding Box (NSWE): ,-47,-56,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,6,26,50
+Temperature (°C),1,6.11,7.91,9.24,10.91
+Salinity (psu),1,32.14,32.64,33.64,34.39
+Primary Production,1,651,665,1667,2823
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,7,8,165,378
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 222): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Austrolycus,laticinctus,-47.25,-62.75,5406:372:2,0.06
+Austrolycus,laticinctus,-47.25,-64.75,5406:374:2,0.08
+Austrolycus,laticinctus,-48.75,-63.25,5406:383:3,0.07
+Austrolycus,laticinctus,-48.25,-65.25,5406:485:1,0.03
+Austrolycus,laticinctus,-47.75,-73.75,5407:373:4,0.03
+Austrolycus,laticinctus,-47.25,-74.25,5407:374:1,0.04
+Austrolycus,laticinctus,-47.25,-74.75,5407:374:2,0.04
+Austrolycus,laticinctus,-47.75,-74.25,5407:374:3,0.04
+Austrolycus,laticinctus,-47.75,-74.75,5407:374:4,0.04
+Austrolycus,laticinctus,-47.25,-75.25,5407:475:1,0.10
+Austrolycus,laticinctus,-47.75,-75.25,5407:475:3,0.10
+Austrolycus,laticinctus,-54.75,-63.75,5506:143:4,0.09
+Austrolycus,laticinctus,-54.75,-64.25,5506:144:3,0.15
+Austrolycus,laticinctus,-50.25,-66.75,5506:206:2,0.04
+Austrolycus,laticinctus,-55.75,-67.75,5506:457:4,0.19
+Austrolycus,laticinctus,-50.75,-74.25,5507:104:3,0.16
+Austrolycus,laticinctus,-48.25,-61.75,5406:381:2,0.25
+Austrolycus,laticinctus,-48.75,-63.75,5406:383:4,0.24
+Austrolycus,laticinctus,-47.25,-65.25,5406:475:1,0.23
+Austrolycus,laticinctus,-47.25,-65.75,5406:475:2,0.21
+Austrolycus,laticinctus,-47.75,-65.25,5406:475:3,0.23
+Austrolycus,laticinctus,-47.75,-65.75,5406:475:4,0.23
+Austrolycus,laticinctus,-47.25,-66.25,5406:476:1,0.21
+Austrolycus,laticinctus,-47.25,-66.75,5406:476:2,0.24
+Austrolycus,laticinctus,-49.75,-66.75,5406:496:4,0.38
+Austrolycus,laticinctus,-48.25,-75.25,5407:485:1,0.34
+Austrolycus,laticinctus,-48.25,-75.75,5407:485:2,0.34
+Austrolycus,laticinctus,-48.75,-75.25,5407:485:3,0.34
+Austrolycus,laticinctus,-48.75,-75.75,5407:485:4,0.34
+Austrolycus,laticinctus,-48.25,-73.75,5407:383:2,0.29
+Austrolycus,laticinctus,-48.25,-74.25,5407:384:1,0.26
+Austrolycus,laticinctus,-48.25,-74.75,5407:384:2,0.26
+Austrolycus,laticinctus,-48.75,-74.25,5407:384:3,0.26
+Austrolycus,laticinctus,-48.75,-74.75,5407:384:4,0.26
+Austrolycus,laticinctus,-50.75,-58.75,5505:208:4,0.28
+Austrolycus,laticinctus,-50.75,-59.25,5505:209:3,0.32
+Austrolycus,laticinctus,-51.25,-57.75,5505:217:2,0.30
+Austrolycus,laticinctus,-51.75,-57.75,5505:217:4,0.30
+Austrolycus,laticinctus,-51.75,-58.75,5505:218:4,0.28
+Austrolycus,laticinctus,-51.75,-59.25,5505:219:3,0.35
+Austrolycus,laticinctus,-52.25,-58.25,5505:228:1,0.24
+Austrolycus,laticinctus,-52.25,-58.75,5505:228:2,0.24
+Austrolycus,laticinctus,-52.25,-59.25,5505:229:1,0.28
+Austrolycus,laticinctus,-52.75,-59.25,5505:229:3,0.28
+Austrolycus,laticinctus,-54.75,-64.75,5506:144:4,0.22
+Austrolycus,laticinctus,-50.25,-69.25,5506:209:1,0.32
+Austrolycus,laticinctus,-51.75,-68.25,5506:218:3,0.34
+Austrolycus,laticinctus,-51.75,-69.25,5506:219:3,0.32
+Austrolycus,laticinctus,-53.75,-66.25,5506:236:3,0.35
+Austrolycus,laticinctus,-53.75,-66.75,5506:236:4,0.28
+Austrolycus,laticinctus,-54.75,-65.25,5506:245:3,0.38
+Austrolycus,laticinctus,-54.75,-65.75,5506:245:4,0.38
+Austrolycus,laticinctus,-55.25,-66.25,5506:456:1,0.32
+Austrolycus,laticinctus,-55.25,-66.75,5506:456:2,0.32
+Austrolycus,laticinctus,-55.25,-67.25,5506:457:1,0.32
+Austrolycus,laticinctus,-55.25,-67.75,5506:457:2,0.32
+Austrolycus,laticinctus,-55.25,-68.25,5506:458:1,0.20
+Austrolycus,laticinctus,-55.25,-68.75,5506:458:2,0.20
+Austrolycus,laticinctus,-55.75,-68.25,5506:458:3,0.20
+Austrolycus,laticinctus,-49.25,-73.75,5407:393:2,0.56
+Austrolycus,laticinctus,-49.25,-74.25,5407:394:1,0.52
+Austrolycus,laticinctus,-49.75,-74.25,5407:394:3,0.52
+Austrolycus,laticinctus,-49.75,-74.75,5407:394:4,0.52
+Austrolycus,laticinctus,-51.25,-58.25,5505:218:1,0.44
+Austrolycus,laticinctus,-51.25,-58.75,5505:218:2,0.44
+Austrolycus,laticinctus,-51.75,-58.25,5505:218:3,0.44
+Austrolycus,laticinctus,-51.25,-59.25,5505:219:1,0.53
+Austrolycus,laticinctus,-51.25,-59.75,5505:219:2,0.53
+Austrolycus,laticinctus,-52.25,-59.75,5505:229:2,0.57
+Austrolycus,laticinctus,-52.25,-60.25,5506:120:1,0.57
+Austrolycus,laticinctus,-52.25,-60.75,5506:120:2,0.57
+Austrolycus,laticinctus,-53.75,-64.25,5506:134:3,0.58
+Austrolycus,laticinctus,-50.75,-68.75,5506:208:4,0.53
+Austrolycus,laticinctus,-50.75,-69.25,5506:209:3,0.54
+Austrolycus,laticinctus,-51.25,-68.75,5506:218:2,0.52
+Austrolycus,laticinctus,-51.75,-68.75,5506:218:4,0.54
+Austrolycus,laticinctus,-51.25,-69.25,5506:219:1,0.54
+Austrolycus,laticinctus,-52.25,-68.25,5506:228:1,0.54
+Austrolycus,laticinctus,-52.25,-68.75,5506:228:2,0.54
+Austrolycus,laticinctus,-52.75,-68.75,5506:228:4,0.54
+Austrolycus,laticinctus,-52.25,-69.25,5506:229:1,0.54
+Austrolycus,laticinctus,-52.25,-69.75,5506:229:2,0.54
+Austrolycus,laticinctus,-52.75,-69.25,5506:229:3,0.54
+Austrolycus,laticinctus,-52.75,-69.75,5506:229:4,0.54
+Austrolycus,laticinctus,-53.25,-69.75,5506:239:2,0.52
+Austrolycus,laticinctus,-54.25,-65.25,5506:245:1,0.52
+Austrolycus,laticinctus,-54.75,-66.25,5506:246:3,0.53
+Austrolycus,laticinctus,-54.75,-66.75,5506:246:4,0.53
+Austrolycus,laticinctus,-54.75,-67.25,5506:247:3,0.56
+Austrolycus,laticinctus,-54.75,-68.25,5506:248:3,0.56
+Austrolycus,laticinctus,-54.75,-68.75,5506:248:4,0.56
+Austrolycus,laticinctus,-54.25,-69.25,5506:249:1,0.57
+Austrolycus,laticinctus,-54.25,-69.75,5506:249:2,0.57
+Austrolycus,laticinctus,-54.75,-69.25,5506:249:3,0.57
+Austrolycus,laticinctus,-54.75,-69.75,5506:249:4,0.57
+Austrolycus,laticinctus,-55.25,-69.25,5506:459:1,0.42
+Austrolycus,laticinctus,-55.25,-69.75,5506:459:2,0.42
+Austrolycus,laticinctus,-52.75,-70.25,5507:120:3,0.54
+Austrolycus,laticinctus,-52.75,-70.75,5507:120:4,0.54
+Austrolycus,laticinctus,-54.25,-71.25,5507:141:1,0.59
+Austrolycus,laticinctus,-54.25,-71.75,5507:141:2,0.59
+Austrolycus,laticinctus,-54.75,-71.25,5507:141:3,0.59
+Austrolycus,laticinctus,-54.75,-71.75,5507:141:4,0.59
+Austrolycus,laticinctus,-54.25,-72.25,5507:142:1,0.57
+Austrolycus,laticinctus,-54.25,-72.75,5507:142:2,0.57
+Austrolycus,laticinctus,-54.75,-72.25,5507:142:3,0.51
+Austrolycus,laticinctus,-54.75,-72.75,5507:142:4,0.57
+Austrolycus,laticinctus,-54.25,-73.25,5507:143:1,0.55
+Austrolycus,laticinctus,-55.25,-70.25,5507:350:1,0.49
+Austrolycus,laticinctus,-55.25,-71.25,5507:351:1,0.43
+Austrolycus,laticinctus,-55.25,-71.75,5507:351:2,0.43
+Austrolycus,laticinctus,-48.25,-65.75,5406:485:2,0.72
+Austrolycus,laticinctus,-48.25,-66.25,5406:486:1,0.65
+Austrolycus,laticinctus,-48.25,-66.75,5406:486:2,0.71
+Austrolycus,laticinctus,-49.25,-75.25,5407:495:1,0.60
+Austrolycus,laticinctus,-49.25,-75.75,5407:495:2,0.60
+Austrolycus,laticinctus,-49.75,-75.25,5407:495:3,0.60
+Austrolycus,laticinctus,-49.75,-75.75,5407:495:4,0.60
+Austrolycus,laticinctus,-50.75,-59.75,5505:209:4,0.60
+Austrolycus,laticinctus,-51.75,-59.75,5505:219:4,0.72
+Austrolycus,laticinctus,-50.75,-60.25,5506:100:3,0.71
+Austrolycus,laticinctus,-50.75,-60.75,5506:100:4,0.71
+Austrolycus,laticinctus,-50.25,-62.75,5506:102:2,0.75
+Austrolycus,laticinctus,-51.25,-60.25,5506:110:1,0.63
+Austrolycus,laticinctus,-51.25,-60.75,5506:110:2,0.63
+Austrolycus,laticinctus,-52.25,-61.25,5506:121:1,0.60
+Austrolycus,laticinctus,-50.75,-67.25,5506:207:3,0.75
+Austrolycus,laticinctus,-52.25,-67.75,5506:227:2,0.67
+Austrolycus,laticinctus,-54.25,-66.25,5506:246:1,0.62
+Austrolycus,laticinctus,-54.25,-66.75,5506:246:2,0.62
+Austrolycus,laticinctus,-54.25,-67.25,5506:247:1,0.65
+Austrolycus,laticinctus,-54.75,-67.75,5506:247:4,0.65
+Austrolycus,laticinctus,-52.75,-73.25,5507:123:3,0.71
+Austrolycus,laticinctus,-53.25,-70.25,5507:130:1,0.79
+Austrolycus,laticinctus,-53.25,-70.75,5507:130:2,0.79
+Austrolycus,laticinctus,-53.75,-70.25,5507:130:3,0.79
+Austrolycus,laticinctus,-53.75,-70.75,5507:130:4,0.79
+Austrolycus,laticinctus,-53.25,-71.25,5507:131:1,0.68
+Austrolycus,laticinctus,-53.25,-71.75,5507:131:2,0.77
+Austrolycus,laticinctus,-53.75,-71.25,5507:131:3,0.68
+Austrolycus,laticinctus,-53.75,-71.75,5507:131:4,0.68
+Austrolycus,laticinctus,-53.25,-72.25,5507:132:1,0.71
+Austrolycus,laticinctus,-53.25,-72.75,5507:132:2,0.71
+Austrolycus,laticinctus,-53.75,-72.25,5507:132:3,0.71
+Austrolycus,laticinctus,-53.75,-72.75,5507:132:4,0.71
+Austrolycus,laticinctus,-53.25,-73.25,5507:133:1,0.73
+Austrolycus,laticinctus,-53.25,-73.75,5507:133:2,0.73
+Austrolycus,laticinctus,-53.75,-73.25,5507:133:3,0.73
+Austrolycus,laticinctus,-53.75,-73.75,5507:133:4,0.73
+Austrolycus,laticinctus,-54.25,-70.25,5507:140:1,0.65
+Austrolycus,laticinctus,-54.25,-70.75,5507:140:2,0.65
+Austrolycus,laticinctus,-54.75,-70.25,5507:140:3,0.65
+Austrolycus,laticinctus,-54.75,-70.75,5507:140:4,0.65
+Austrolycus,laticinctus,-51.75,-75.75,5507:215:4,0.79
+Austrolycus,laticinctus,-48.75,-66.75,5406:486:4,0.83
+Austrolycus,laticinctus,-48.75,-67.25,5406:487:3,0.97
+Austrolycus,laticinctus,-49.25,-67.25,5406:497:1,0.92
+Austrolycus,laticinctus,-49.25,-67.75,5406:497:2,1.00
+Austrolycus,laticinctus,-49.75,-67.25,5406:497:3,0.83
+Austrolycus,laticinctus,-49.75,-67.75,5406:497:4,1.00
+Austrolycus,laticinctus,-49.75,-68.25,5406:498:3,1.00
+Austrolycus,laticinctus,-49.75,-68.75,5406:498:4,1.00
+Austrolycus,laticinctus,-50.75,-61.25,5506:101:3,0.95
+Austrolycus,laticinctus,-51.75,-60.25,5506:110:3,0.80
+Austrolycus,laticinctus,-51.75,-60.75,5506:110:4,0.89
+Austrolycus,laticinctus,-51.25,-61.25,5506:111:1,0.97
+Austrolycus,laticinctus,-51.75,-61.25,5506:111:3,0.97
+Austrolycus,laticinctus,-50.25,-67.25,5506:207:1,0.92
+Austrolycus,laticinctus,-50.25,-67.75,5506:207:2,1.00
+Austrolycus,laticinctus,-50.75,-67.75,5506:207:4,0.86
+Austrolycus,laticinctus,-50.25,-68.25,5506:208:1,1.00
+Austrolycus,laticinctus,-50.25,-68.75,5506:208:2,1.00
+Austrolycus,laticinctus,-50.75,-68.25,5506:208:3,0.81
+Austrolycus,laticinctus,-52.75,-67.75,5506:227:4,0.96
+Austrolycus,laticinctus,-52.75,-68.25,5506:228:3,1.00
+Austrolycus,laticinctus,-53.25,-66.75,5506:236:2,0.84
+Austrolycus,laticinctus,-53.25,-67.75,5506:237:2,1.00
+Austrolycus,laticinctus,-53.75,-67.25,5506:237:3,1.00
+Austrolycus,laticinctus,-53.75,-67.75,5506:237:4,1.00
+Austrolycus,laticinctus,-53.25,-68.25,5506:238:1,1.00
+Austrolycus,laticinctus,-53.25,-68.75,5506:238:2,1.00
+Austrolycus,laticinctus,-53.25,-69.25,5506:239:1,0.96
+Austrolycus,laticinctus,-53.75,-69.25,5506:239:3,0.96
+Austrolycus,laticinctus,-53.75,-69.75,5506:239:4,0.88
+Austrolycus,laticinctus,-50.75,-73.75,5507:103:4,0.85
+Austrolycus,laticinctus,-50.25,-74.25,5507:104:1,0.81
+Austrolycus,laticinctus,-50.25,-74.75,5507:104:2,0.81
+Austrolycus,laticinctus,-50.75,-74.75,5507:104:4,0.81
+Austrolycus,laticinctus,-51.75,-72.25,5507:112:3,1.00
+Austrolycus,laticinctus,-51.75,-72.75,5507:112:4,1.00
+Austrolycus,laticinctus,-51.25,-73.25,5507:113:1,1.00
+Austrolycus,laticinctus,-51.25,-73.75,5507:113:2,1.00
+Austrolycus,laticinctus,-51.75,-73.25,5507:113:3,1.00
+Austrolycus,laticinctus,-51.75,-73.75,5507:113:4,1.00
+Austrolycus,laticinctus,-51.25,-74.25,5507:114:1,1.00
+Austrolycus,laticinctus,-51.25,-74.75,5507:114:2,1.00
+Austrolycus,laticinctus,-51.75,-74.25,5507:114:3,1.00
+Austrolycus,laticinctus,-51.75,-74.75,5507:114:4,1.00
+Austrolycus,laticinctus,-52.75,-71.25,5507:121:3,0.91
+Austrolycus,laticinctus,-52.75,-71.75,5507:121:4,0.91
+Austrolycus,laticinctus,-52.25,-72.25,5507:122:1,0.87
+Austrolycus,laticinctus,-52.25,-72.75,5507:122:2,0.87
+Austrolycus,laticinctus,-52.75,-72.25,5507:122:3,0.87
+Austrolycus,laticinctus,-52.75,-72.75,5507:122:4,0.87
+Austrolycus,laticinctus,-52.25,-73.25,5507:123:1,1.00
+Austrolycus,laticinctus,-52.25,-73.75,5507:123:2,1.00
+Austrolycus,laticinctus,-52.75,-73.75,5507:123:4,1.00
+Austrolycus,laticinctus,-52.25,-74.25,5507:124:1,1.00
+Austrolycus,laticinctus,-52.25,-74.75,5507:124:2,1.00
+Austrolycus,laticinctus,-52.75,-74.25,5507:124:3,1.00
+Austrolycus,laticinctus,-52.75,-74.75,5507:124:4,1.00
+Austrolycus,laticinctus,-53.25,-74.25,5507:134:1,0.87
+Austrolycus,laticinctus,-53.25,-74.75,5507:134:2,0.87
+Austrolycus,laticinctus,-50.25,-75.25,5507:205:1,0.89
+Austrolycus,laticinctus,-50.25,-75.75,5507:205:2,0.89
+Austrolycus,laticinctus,-50.75,-75.25,5507:205:3,0.89
+Austrolycus,laticinctus,-50.75,-75.75,5507:205:4,0.89
+Austrolycus,laticinctus,-51.25,-75.25,5507:215:1,1.00
+Austrolycus,laticinctus,-51.25,-75.75,5507:215:2,1.00
+Austrolycus,laticinctus,-51.75,-75.25,5507:215:3,1.00
+Austrolycus,laticinctus,-52.25,-75.25,5507:225:1,1.00
+Austrolycus,laticinctus,-52.75,-75.25,5507:225:3,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 12)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Austrolycus,laticinctus,-54.25,-62.25,5506:142:1,410,6.35,33.98,651,0,144
+Austrolycus,laticinctus,-53.75,-67.75,5506:237:4,36,7.91,33.06,967,0,7
+Austrolycus,laticinctus,-53.75,-67.25,5506:237:3,56,7.91,33.06,1279,0,16
+Austrolycus,laticinctus,-52.75,-69.75,5506:229:4,27,8.15,32.41,853,0,8
+Austrolycus,laticinctus,-52.75,-68.25,5506:228:3,48,8.2,32.65,1464,0,14
+Austrolycus,laticinctus,-52.25,-73.75,5507:123:2,5,7.98,33.59,665,0,12
+Austrolycus,laticinctus,-50.25,-68.75,5506:208:2,58,8.56,33.2,1303,0,8
+Austrolycus,laticinctus,-50.25,-68.25,5506:208:1,37,8.56,33.2,1667,0,15
+Austrolycus,laticinctus,-50.25,-66.25,5506:206:1,105,8.59,33.22,1539,0,156
+Austrolycus,laticinctus,-49.75,-65.75,5406:495:4,101,9.11,33.3,1527,0,165
+Austrolycus,laticinctus,-48.75,-62.25,5406:382:3,161,9.24,33.63,1641,0,298
+Austrolycus,laticinctus,-47.75,-65.75,5406:475:4,23,10.52,33.22,1674,0,13

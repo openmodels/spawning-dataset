@@ -1,0 +1,199 @@
+Mapping parameters for Tomicodon chilensis (Smallsucker clingfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 87,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,2,11,20
+Temperature (°C),1,12.73,17.73,24.46,30.24
+Salinity (psu),1,32.63,33.82,34.96,35.46
+Primary Production (mgC·m-3·day-1) ,1,13.09,18.43,84.7,121
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,10.03,10.53,181.7,218.19
+Distance to Land (km),0,2,15,111,207
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 141): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Tomicodon,chilensis,-2.25,-79.75,5007:229:2,0.18
+Tomicodon,chilensis,-0.25,-80.75,5008:100:2,0.07
+Tomicodon,chilensis,-0.75,-80.25,5008:100:3,0.02
+Tomicodon,chilensis,-0.75,-80.75,5008:100:4,0.09
+Tomicodon,chilensis,-34.75,-72.25,5307:142:3,0.16
+Tomicodon,chilensis,-35.25,-72.25,5307:352:1,0.13
+Tomicodon,chilensis,-35.25,-72.75,5307:352:2,0.12
+Tomicodon,chilensis,-35.75,-72.75,5307:352:4,0.05
+Tomicodon,chilensis,-36.25,-72.75,5307:362:2,0.03
+Tomicodon,chilensis,-36.75,-72.75,5307:362:4,0.02
+Tomicodon,chilensis,-37.25,-73.75,5307:373:2,0.03
+Tomicodon,chilensis,-37.75,-73.75,5307:373:4,0.02
+Tomicodon,chilensis,-1.25,-80.75,5008:110:2,0.26
+Tomicodon,chilensis,-1.25,-81.25,5008:111:1,0.38
+Tomicodon,chilensis,-2.75,-80.75,5008:120:4,0.20
+Tomicodon,chilensis,-17.25,-71.75,5107:371:2,0.27
+Tomicodon,chilensis,-30.25,-71.25,5307:101:1,0.36
+Tomicodon,chilensis,-30.25,-71.75,5307:101:2,0.37
+Tomicodon,chilensis,-30.75,-71.75,5307:101:4,0.38
+Tomicodon,chilensis,-31.75,-71.25,5307:111:3,0.24
+Tomicodon,chilensis,-32.25,-71.25,5307:121:1,0.24
+Tomicodon,chilensis,-32.25,-71.75,5307:121:2,0.37
+Tomicodon,chilensis,-32.75,-71.25,5307:121:3,0.26
+Tomicodon,chilensis,-32.75,-71.75,5307:121:4,0.30
+Tomicodon,chilensis,-33.25,-71.75,5307:131:2,0.26
+Tomicodon,chilensis,-33.75,-71.75,5307:131:4,0.24
+Tomicodon,chilensis,-34.25,-71.75,5307:141:2,0.22
+Tomicodon,chilensis,0.25,-90.25,7009:100:1,0.29
+Tomicodon,chilensis,-27.75,-70.75,5207:370:4,0.54
+Tomicodon,chilensis,-27.75,-71.25,5207:371:3,0.59
+Tomicodon,chilensis,-2.75,-79.75,5007:229:4,0.53
+Tomicodon,chilensis,-1.75,-80.75,5008:110:4,0.41
+Tomicodon,chilensis,-1.75,-81.25,5008:111:3,0.49
+Tomicodon,chilensis,-2.25,-80.25,5008:120:1,0.52
+Tomicodon,chilensis,-2.25,-80.75,5008:120:2,0.55
+Tomicodon,chilensis,-2.25,-81.25,5008:121:1,0.55
+Tomicodon,chilensis,-3.75,-80.25,5008:130:3,0.50
+Tomicodon,chilensis,-6.25,-80.75,5008:360:2,0.58
+Tomicodon,chilensis,-1.25,-90.75,5009:110:2,0.44
+Tomicodon,chilensis,-16.75,-72.25,5107:362:3,0.49
+Tomicodon,chilensis,-28.25,-71.25,5207:381:1,0.52
+Tomicodon,chilensis,-28.75,-71.25,5207:381:3,0.50
+Tomicodon,chilensis,-29.25,-71.25,5207:391:1,0.48
+Tomicodon,chilensis,-29.25,-71.75,5207:391:2,0.44
+Tomicodon,chilensis,-29.75,-71.25,5207:391:3,0.44
+Tomicodon,chilensis,-31.25,-71.75,5307:111:2,0.41
+Tomicodon,chilensis,-31.75,-71.75,5307:111:4,0.42
+Tomicodon,chilensis,-26.25,-70.75,5207:360:2,0.73
+Tomicodon,chilensis,-26.75,-70.75,5207:360:4,0.69
+Tomicodon,chilensis,-27.25,-70.75,5207:370:2,0.65
+Tomicodon,chilensis,-3.25,-79.75,5007:239:2,0.68
+Tomicodon,chilensis,-2.75,-80.25,5008:120:3,0.74
+Tomicodon,chilensis,-11.75,-77.25,5107:217:3,0.75
+Tomicodon,chilensis,-16.25,-72.75,5107:362:2,0.61
+Tomicodon,chilensis,-24.75,-70.25,5207:140:3,0.75
+Tomicodon,chilensis,-25.25,-70.25,5207:350:1,0.62
+Tomicodon,chilensis,-25.75,-70.75,5207:350:4,0.76
+Tomicodon,chilensis,-6.75,-79.75,5007:469:4,1.00
+Tomicodon,chilensis,-7.25,-79.75,5007:479:2,1.00
+Tomicodon,chilensis,-7.75,-79.25,5007:479:3,1.00
+Tomicodon,chilensis,-7.75,-79.75,5007:479:4,1.00
+Tomicodon,chilensis,-8.25,-78.75,5007:488:2,1.00
+Tomicodon,chilensis,-8.75,-78.75,5007:488:4,1.00
+Tomicodon,chilensis,-8.25,-79.25,5007:489:1,1.00
+Tomicodon,chilensis,-8.75,-79.75,5007:489:4,1.00
+Tomicodon,chilensis,-9.25,-78.25,5007:498:1,1.00
+Tomicodon,chilensis,-9.25,-78.75,5007:498:2,1.00
+Tomicodon,chilensis,-9.75,-78.25,5007:498:3,1.00
+Tomicodon,chilensis,-3.25,-80.25,5008:130:1,1.00
+Tomicodon,chilensis,-3.25,-80.75,5008:130:2,1.00
+Tomicodon,chilensis,-3.75,-80.75,5008:130:4,1.00
+Tomicodon,chilensis,-4.25,-81.25,5008:141:1,1.00
+Tomicodon,chilensis,-4.75,-81.25,5008:141:3,1.00
+Tomicodon,chilensis,-0.75,-89.25,5008:209:3,1.00
+Tomicodon,chilensis,-0.75,-89.75,5008:209:4,1.00
+Tomicodon,chilensis,-1.25,-89.75,5008:219:2,1.00
+Tomicodon,chilensis,-5.25,-80.75,5008:350:2,1.00
+Tomicodon,chilensis,-5.75,-80.75,5008:350:4,1.00
+Tomicodon,chilensis,-5.25,-81.25,5008:351:1,1.00
+Tomicodon,chilensis,-5.75,-81.25,5008:351:3,1.00
+Tomicodon,chilensis,-6.25,-80.25,5008:360:1,1.00
+Tomicodon,chilensis,-6.75,-80.25,5008:360:3,0.89
+Tomicodon,chilensis,-6.75,-80.75,5008:360:4,1.00
+Tomicodon,chilensis,-6.25,-81.25,5008:361:1,1.00
+Tomicodon,chilensis,-7.25,-80.25,5008:370:1,1.00
+Tomicodon,chilensis,-7.75,-80.25,5008:370:3,1.00
+Tomicodon,chilensis,-0.25,-90.25,5009:100:1,1.00
+Tomicodon,chilensis,-0.25,-90.75,5009:100:2,1.00
+Tomicodon,chilensis,-0.75,-90.25,5009:100:3,1.00
+Tomicodon,chilensis,-0.75,-90.75,5009:100:4,1.00
+Tomicodon,chilensis,-0.25,-91.25,5009:101:1,1.00
+Tomicodon,chilensis,-0.25,-91.75,5009:101:2,1.00
+Tomicodon,chilensis,-0.75,-91.25,5009:101:3,1.00
+Tomicodon,chilensis,-1.25,-90.25,5009:110:1,1.00
+Tomicodon,chilensis,-1.25,-91.25,5009:111:1,1.00
+Tomicodon,chilensis,-10.25,-77.75,5107:207:2,1.00
+Tomicodon,chilensis,-10.75,-77.75,5107:207:4,1.00
+Tomicodon,chilensis,-10.25,-78.25,5107:208:1,0.98
+Tomicodon,chilensis,-11.25,-77.25,5107:217:1,0.99
+Tomicodon,chilensis,-11.25,-77.75,5107:217:2,0.94
+Tomicodon,chilensis,-12.25,-76.75,5107:226:2,0.96
+Tomicodon,chilensis,-12.75,-76.25,5107:226:3,1.00
+Tomicodon,chilensis,-12.75,-76.75,5107:226:4,1.00
+Tomicodon,chilensis,-12.25,-77.25,5107:227:1,0.96
+Tomicodon,chilensis,-13.25,-76.25,5107:236:1,1.00
+Tomicodon,chilensis,-13.75,-76.25,5107:236:3,1.00
+Tomicodon,chilensis,-14.25,-75.75,5107:245:2,1.00
+Tomicodon,chilensis,-14.75,-75.25,5107:245:3,1.00
+Tomicodon,chilensis,-14.75,-75.75,5107:245:4,0.88
+Tomicodon,chilensis,-14.25,-76.25,5107:246:1,0.86
+Tomicodon,chilensis,-15.75,-73.75,5107:353:4,0.93
+Tomicodon,chilensis,-15.25,-74.75,5107:354:2,1.00
+Tomicodon,chilensis,-15.75,-74.25,5107:354:3,1.00
+Tomicodon,chilensis,-15.75,-74.75,5107:354:4,0.98
+Tomicodon,chilensis,-16.75,-72.75,5107:362:4,0.97
+Tomicodon,chilensis,-16.25,-73.25,5107:363:1,0.84
+Tomicodon,chilensis,-16.25,-73.75,5107:363:2,0.95
+Tomicodon,chilensis,-17.75,-70.75,5107:370:4,1.00
+Tomicodon,chilensis,-17.25,-71.25,5107:371:1,0.80
+Tomicodon,chilensis,-17.75,-71.25,5107:371:3,1.00
+Tomicodon,chilensis,-18.25,-70.25,5107:380:1,1.00
+Tomicodon,chilensis,-18.25,-70.75,5107:380:2,1.00
+Tomicodon,chilensis,-18.75,-70.25,5107:380:3,1.00
+Tomicodon,chilensis,-19.25,-70.25,5107:390:1,1.00
+Tomicodon,chilensis,-19.75,-70.25,5107:390:3,1.00
+Tomicodon,chilensis,-15.25,-75.25,5107:455:1,0.91
+Tomicodon,chilensis,-20.25,-70.25,5207:100:1,1.00
+Tomicodon,chilensis,-20.75,-70.25,5207:100:3,1.00
+Tomicodon,chilensis,-21.25,-70.25,5207:110:1,1.00
+Tomicodon,chilensis,-21.75,-70.25,5207:110:3,1.00
+Tomicodon,chilensis,-22.25,-70.25,5207:120:1,1.00
+Tomicodon,chilensis,-22.75,-70.25,5207:120:3,1.00
+Tomicodon,chilensis,-23.25,-70.25,5207:130:1,1.00
+Tomicodon,chilensis,-23.25,-70.75,5207:130:2,0.97
+Tomicodon,chilensis,-23.75,-70.25,5207:130:3,0.98
+Tomicodon,chilensis,-24.25,-70.25,5207:140:1,0.91
+Tomicodon,chilensis,-24.25,-70.75,5207:140:2,0.95
+Tomicodon,chilensis,-24.75,-70.75,5207:140:4,0.88
+Tomicodon,chilensis,-25.25,-70.75,5207:350:2,0.80
+Tomicodon,chilensis,0.25,-91.25,7009:101:1,1.00
+Tomicodon,chilensis,0.25,-91.75,7009:101:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 22)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Tomicodon,chilensis,-36.75,-73.25,5307:363:3,139,12.7341899871826,11.696400642395,32.6299171447754,34.0956649780273,84.696002304554,0,83.1979827880859,19
+Tomicodon,chilensis,-13.75,-76.25,5107:236:3,76,17.7254295349121,15.1913366317749,34.9596939086914,34.9406814575195,62.9179030656815,0,92.701545715332,15
+Tomicodon,chilensis,-11.75,-77.25,5107:217:3,87,18.2189998626709,17.7786464691162,34.9571685791016,35.1131286621094,93.9470008015633,0,181.702758789063,19
+Tomicodon,chilensis,-6.75,-80.75,5008:360:4,436,19.4374828338623,15.5827522277832,34.7377052307129,34.988338470459,70.471003651619,0,61.7130241394043,96
+Tomicodon,chilensis,-6.25,-80.25,5008:360:1,11,19.6831531524658,19.1578102111816,34.431755065918,34.9462013244629,83.5956409573555,0,161.751968383789,2
+Tomicodon,chilensis,-5.25,-81.25,5008:351:1,543,19.6362857818604,16.0670337677002,34.4325866699219,35.0261764526367,53.3230006694794,0,84.6623382568359,25
+Tomicodon,chilensis,-3.25,-80.25,5008:130:1,41,24.4630508422852,23.6838569641113,33.8153686523438,34.5466766357422,80.2600011229515,0,218.193252563477,24
+Tomicodon,chilensis,-1.25,-89.75,5008:219:2,437,23.7203464508057,9.27982902526855,34.2886848449707,34.7089920043945,19.5710007101297,0,10.2837257385254,28
+Tomicodon,chilensis,-1.25,-90.25,5009:110:1,342,23.6434650421143,10.0329351425171,34.2743377685547,34.7071762084961,24.1950005292892,0,10.5347490310669,28
+Tomicodon,chilensis,-1.25,-90.75,5009:110:2,1842,23.5350437164307,4.33540296554565,34.2839546203613,34.5605964660645,32.830998301506,0,56.4418640136719,111
+Tomicodon,chilensis,-1.25,-91.25,5009:111:1,3013,23.3234233856201,1.38892102241516,34.2987480163574,34.6767578125,36.0650010406971,0,132.218200683594,111
+Tomicodon,chilensis,-0.75,-90.75,5009:100:4,138,23.5606651306152,14.0146741867065,34.2012634277344,34.9972610473633,38.7089997529984,0,63.4854316711426,22
+Tomicodon,chilensis,-0.75,-89.25,5008:209:3,518,23.9054794311523,8.06673240661621,34.1592216491699,34.6368446350098,20.771000534296,0,14.1846084594727,26
+Tomicodon,chilensis,-0.75,-89.75,5008:209:4,357,23.8102130889893,8.06206130981445,34.1738739013672,34.6361045837402,28.2249990850687,0,14.4682569503784,28
+Tomicodon,chilensis,-0.75,-91.75,5009:101:4,3165,22.5331115722656,1.40646994113922,34.6776809692383,34.677677154541,43.0059991776943,0,127.68090057373,111
+Tomicodon,chilensis,-0.75,-90.25,5009:100:3,129,23.7130146026611,14.5054817199707,34.2055778503418,34.9983940124512,30.222000554204,0,81.6696166992188,22
+Tomicodon,chilensis,-0.25,-91.25,5009:101:1,480,23.5148735046387,5.37886762619019,34.3066291809082,34.7446022033691,37.7853885293007,0,95.6650848388672,16
+Tomicodon,chilensis,-0.25,-91.75,5009:101:2,2692,22.8343372344971,2.90076088905334,34.6513023376465,34.6067733764648,53.9430007338524,0,84.3202972412109,26
+Tomicodon,chilensis,-0.25,-90.25,5009:100:1,832,24.0817909240723,3.2369658946991,34.0770111083984,34.5946998596191,22.941999137401602,0,75.9198837280273,28
+Tomicodon,chilensis,-0.25,-90.75,5009:100:2,680,23.9415283203125,6.87583017349243,34.1191825866699,34.7814598083496,29.101958498358698,0,86.7509765625,24
+Tomicodon,chilensis,0.25,-90.75,7009:100:2,2210,24.4172859191895,1.86081194877625,34.0014533996582,34.6615982055664,18.4320006519556,0,110.637626647949,111
+Tomicodon,chilensis,0.25,-89.75,7008:209:2,1605,24.6357688903809,2.01825189590454,33.9444465637207,34.6440124511719,13.0920000374317,0,95.1350708007813,111

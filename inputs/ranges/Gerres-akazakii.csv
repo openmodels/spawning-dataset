@@ -1,0 +1,130 @@
+Mapping parameters for Gerres akazakii (Japanese tenspined silver-biddy)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 61,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,2,2,3,3
+Temperature (°C),1,19.95,21.03,23.56,24.9
+Salinity (psu),1,33.73,34.23,34.47,34.97
+Primary Production,1,307.5,428.4,690.8,773
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,1.9,2.9,18.7000007629395,39.25
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 90): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Gerres,akazakii,29.25,129.25,1212:499:1,0.08
+Gerres,akazakii,29.25,129.75,1212:499:2,0.08
+Gerres,akazakii,29.75,129.75,1212:499:4,0.12
+Gerres,akazakii,28.25,130.25,1213:380:1,0.02
+Gerres,akazakii,27.75,142.25,1214:372:3,0.01
+Gerres,akazakii,33.25,128.75,1312:238:2,0.06
+Gerres,akazakii,33.25,129.25,1312:239:1,0.15
+Gerres,akazakii,33.25,131.75,1313:131:2,0.07
+Gerres,akazakii,34.25,131.25,1313:141:1,0.01
+Gerres,akazakii,34.25,131.75,1313:141:2,0.01
+Gerres,akazakii,34.75,131.25,1313:141:3,0.01
+Gerres,akazakii,34.75,131.75,1313:141:4,0.01
+Gerres,akazakii,34.25,132.25,1313:142:1,0.04
+Gerres,akazakii,34.25,132.75,1313:142:2,0.03
+Gerres,akazakii,34.75,132.25,1313:142:3,0.04
+Gerres,akazakii,34.75,133.75,1313:143:4,0.12
+Gerres,akazakii,34.75,134.25,1313:144:3,0.13
+Gerres,akazakii,34.75,134.75,1313:144:4,0.13
+Gerres,akazakii,35.25,139.75,1313:459:2,0.14
+Gerres,akazakii,32.25,128.25,1312:228:1,0.34
+Gerres,akazakii,32.75,128.75,1312:228:4,0.34
+Gerres,akazakii,30.25,130.25,1313:100:1,0.34
+Gerres,akazakii,30.75,130.75,1313:100:4,0.30
+Gerres,akazakii,33.75,130.25,1313:130:3,0.26
+Gerres,akazakii,33.75,130.75,1313:130:4,0.26
+Gerres,akazakii,33.75,131.25,1313:131:3,0.26
+Gerres,akazakii,33.25,132.25,1313:132:1,0.31
+Gerres,akazakii,34.25,133.25,1313:143:1,0.25
+Gerres,akazakii,34.25,133.75,1313:143:2,0.31
+Gerres,akazakii,32.25,139.75,1313:229:2,0.34
+Gerres,akazakii,34.25,136.75,1313:246:2,0.34
+Gerres,akazakii,35.25,140.25,1314:350:1,0.38
+Gerres,akazakii,30.25,129.75,1312:209:2,0.48
+Gerres,akazakii,30.75,129.75,1312:209:4,0.58
+Gerres,akazakii,30.25,130.75,1313:100:2,0.44
+Gerres,akazakii,30.75,130.25,1313:100:3,0.44
+Gerres,akazakii,30.25,131.25,1313:101:1,0.44
+Gerres,akazakii,30.75,131.25,1313:101:3,0.44
+Gerres,akazakii,34.25,134.25,1313:144:1,0.42
+Gerres,akazakii,34.25,134.75,1313:144:2,0.42
+Gerres,akazakii,35.25,139.25,1313:459:1,0.46
+Gerres,akazakii,35.75,139.75,1313:459:4,0.46
+Gerres,akazakii,35.75,140.25,1314:350:3,0.56
+Gerres,akazakii,33.25,129.75,1312:239:2,0.66
+Gerres,akazakii,31.25,131.25,1313:111:1,0.75
+Gerres,akazakii,32.25,130.75,1313:120:2,0.65
+Gerres,akazakii,33.75,132.75,1313:132:4,0.74
+Gerres,akazakii,34.25,135.25,1313:245:1,0.72
+Gerres,akazakii,34.75,135.25,1313:245:3,0.72
+Gerres,akazakii,34.75,139.25,1313:249:3,0.73
+Gerres,akazakii,35.25,138.75,1313:458:2,0.62
+Gerres,akazakii,31.25,129.25,1312:219:1,1.00
+Gerres,akazakii,31.25,129.75,1312:219:2,1.00
+Gerres,akazakii,31.75,129.75,1312:219:4,1.00
+Gerres,akazakii,32.75,129.25,1312:229:3,0.90
+Gerres,akazakii,32.75,129.75,1312:229:4,0.90
+Gerres,akazakii,31.25,130.25,1313:110:1,1.00
+Gerres,akazakii,31.75,130.25,1313:110:3,1.00
+Gerres,akazakii,31.75,130.75,1313:110:4,0.81
+Gerres,akazakii,31.75,131.25,1313:111:3,0.85
+Gerres,akazakii,31.75,131.75,1313:111:4,0.85
+Gerres,akazakii,32.25,130.25,1313:120:1,0.90
+Gerres,akazakii,32.75,130.25,1313:120:3,0.90
+Gerres,akazakii,32.75,130.75,1313:120:4,0.90
+Gerres,akazakii,32.25,131.75,1313:121:2,0.86
+Gerres,akazakii,32.75,131.75,1313:121:4,0.86
+Gerres,akazakii,32.75,132.25,1313:122:3,0.90
+Gerres,akazakii,32.75,132.75,1313:122:4,0.90
+Gerres,akazakii,32.75,133.25,1313:123:3,0.90
+Gerres,akazakii,33.25,130.25,1313:130:1,0.90
+Gerres,akazakii,33.25,132.75,1313:132:2,0.90
+Gerres,akazakii,33.25,133.25,1313:133:1,0.90
+Gerres,akazakii,33.25,133.75,1313:133:2,0.90
+Gerres,akazakii,33.75,133.25,1313:133:3,0.90
+Gerres,akazakii,33.75,133.75,1313:133:4,0.90
+Gerres,akazakii,33.25,134.25,1313:134:1,0.86
+Gerres,akazakii,33.75,134.25,1313:134:3,0.86
+Gerres,akazakii,33.75,134.75,1313:134:4,0.86
+Gerres,akazakii,33.25,135.75,1313:235:2,1.00
+Gerres,akazakii,33.75,135.25,1313:235:3,1.00
+Gerres,akazakii,33.75,135.75,1313:235:4,1.00
+Gerres,akazakii,33.75,136.25,1313:236:3,1.00
+Gerres,akazakii,33.25,139.75,1313:239:2,0.91
+Gerres,akazakii,33.75,139.75,1313:239:4,0.94
+Gerres,akazakii,34.25,136.25,1313:246:1,1.00
+Gerres,akazakii,34.75,137.75,1313:247:4,1.00
+Gerres,akazakii,34.25,139.25,1313:249:1,1.00
+Gerres,akazakii,34.25,139.75,1313:249:2,1.00
+Gerres,akazakii,34.75,139.75,1313:249:4,1.00
+Gerres,akazakii,34.75,140.25,1314:140:3,0.90
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Gerres,akazakii,31.25,130.25,1313:110:1,236,23.54,34.31,483,0,19
+Gerres,akazakii,31.75,131.25,1313:111:3,13,23.57,34.54,499,0,2
+Gerres,akazakii,31.75,130.75,1313:110:4,37,23.54,34.31,405,0,5
+Gerres,akazakii,36.25,140.75,1314:360:2,150,19.95,34.2,773,0,18

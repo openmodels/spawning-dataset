@@ -1,0 +1,251 @@
+Mapping parameters for Paralichthys orbignyanus ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 41,
+Bounding Box (NSWE): ,-23,-41,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,1,20,45
+Temperature (°C),1,12.11,15.69,22.86,23.59
+Salinity (psu),1,22.7,27.12,34.79,39.95
+Primary Production,1,648,863,3640,5377
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,1,5,89,204.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 187): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Paralichthys,orbignyanus,-23.75,-45.75,5204:235:4,0.01
+Paralichthys,orbignyanus,-24.25,-45.25,5204:245:1,0.03
+Paralichthys,orbignyanus,-24.25,-45.75,5204:245:2,0.14
+Paralichthys,orbignyanus,-24.75,-45.75,5204:245:4,0.10
+Paralichthys,orbignyanus,-25.25,-46.75,5204:456:2,0.03
+Paralichthys,orbignyanus,-26.75,-47.75,5204:467:4,0.14
+Paralichthys,orbignyanus,-30.75,-49.75,5304:209:4,0.12
+Paralichthys,orbignyanus,-31.25,-49.75,5304:219:2,0.14
+Paralichthys,orbignyanus,-32.75,-50.75,5305:120:4,0.08
+Paralichthys,orbignyanus,-32.75,-51.25,5305:121:3,0.04
+Paralichthys,orbignyanus,-38.75,-56.25,5305:486:3,0.13
+Paralichthys,orbignyanus,-38.75,-56.75,5305:486:4,0.17
+Paralichthys,orbignyanus,-38.75,-57.25,5305:487:3,0.14
+Paralichthys,orbignyanus,-38.75,-57.75,5305:487:4,0.10
+Paralichthys,orbignyanus,-39.25,-55.75,5305:495:2,0.08
+Paralichthys,orbignyanus,-39.25,-57.25,5305:497:1,0.02
+Paralichthys,orbignyanus,-39.25,-57.75,5305:497:2,0.04
+Paralichthys,orbignyanus,-39.75,-58.75,5305:498:4,0.01
+Paralichthys,orbignyanus,-40.25,-58.25,5405:208:1,0.05
+Paralichthys,orbignyanus,-40.25,-59.75,5405:209:2,0.13
+Paralichthys,orbignyanus,-40.75,-60.25,5406:100:3,0.09
+Paralichthys,orbignyanus,-23.75,-45.25,5204:235:3,0.26
+Paralichthys,orbignyanus,-25.75,-47.25,5204:457:3,0.24
+Paralichthys,orbignyanus,-29.75,-49.25,5204:499:3,0.25
+Paralichthys,orbignyanus,-37.75,-56.25,5305:476:3,0.20
+Paralichthys,orbignyanus,-38.25,-56.25,5305:486:1,0.26
+Paralichthys,orbignyanus,-38.25,-56.75,5305:486:2,0.22
+Paralichthys,orbignyanus,-38.25,-57.25,5305:487:1,0.34
+Paralichthys,orbignyanus,-38.25,-57.75,5305:487:2,0.34
+Paralichthys,orbignyanus,-38.75,-58.75,5305:488:4,0.32
+Paralichthys,orbignyanus,-39.25,-58.25,5305:498:1,0.30
+Paralichthys,orbignyanus,-39.25,-58.75,5305:498:2,0.25
+Paralichthys,orbignyanus,-39.25,-59.25,5305:499:1,0.35
+Paralichthys,orbignyanus,-40.25,-60.75,5406:100:2,0.36
+Paralichthys,orbignyanus,-24.25,-46.25,5204:246:1,0.47
+Paralichthys,orbignyanus,-24.25,-46.75,5204:246:2,0.47
+Paralichthys,orbignyanus,-24.75,-46.75,5204:246:4,0.51
+Paralichthys,orbignyanus,-24.25,-47.25,5204:247:1,0.49
+Paralichthys,orbignyanus,-26.25,-47.75,5204:467:2,0.42
+Paralichthys,orbignyanus,-28.25,-48.25,5204:488:1,0.44
+Paralichthys,orbignyanus,-29.75,-51.25,5205:391:3,0.54
+Paralichthys,orbignyanus,-34.25,-52.25,5305:142:1,0.52
+Paralichthys,orbignyanus,-36.75,-54.25,5305:364:3,0.48
+Paralichthys,orbignyanus,-37.25,-55.75,5305:475:2,0.57
+Paralichthys,orbignyanus,-37.25,-57.25,5305:477:1,0.58
+Paralichthys,orbignyanus,-37.75,-57.25,5305:477:3,0.58
+Paralichthys,orbignyanus,-37.75,-57.75,5305:477:4,0.58
+Paralichthys,orbignyanus,-38.25,-55.25,5305:485:1,0.43
+Paralichthys,orbignyanus,-38.25,-55.75,5305:485:2,0.43
+Paralichthys,orbignyanus,-38.75,-55.75,5305:485:4,0.43
+Paralichthys,orbignyanus,-38.25,-58.25,5305:488:1,0.45
+Paralichthys,orbignyanus,-38.75,-58.25,5305:488:3,0.45
+Paralichthys,orbignyanus,-39.75,-59.75,5305:499:4,0.46
+Paralichthys,orbignyanus,-39.75,-60.25,5306:390:3,0.42
+Paralichthys,orbignyanus,-40.75,-60.75,5406:100:4,0.58
+Paralichthys,orbignyanus,-28.25,-48.75,5204:488:2,0.74
+Paralichthys,orbignyanus,-28.75,-48.75,5204:488:4,0.78
+Paralichthys,orbignyanus,-28.75,-49.25,5204:489:3,0.78
+Paralichthys,orbignyanus,-29.25,-49.25,5204:499:1,0.78
+Paralichthys,orbignyanus,-29.25,-49.75,5204:499:2,0.78
+Paralichthys,orbignyanus,-32.25,-50.25,5305:120:1,0.66
+Paralichthys,orbignyanus,-34.75,-52.75,5305:142:4,0.76
+Paralichthys,orbignyanus,-35.25,-52.75,5305:352:2,0.60
+Paralichthys,orbignyanus,-36.25,-53.25,5305:363:1,0.68
+Paralichthys,orbignyanus,-36.75,-54.75,5305:364:4,0.68
+Paralichthys,orbignyanus,-35.25,-55.75,5305:455:2,0.75
+Paralichthys,orbignyanus,-35.75,-56.25,5305:456:3,0.72
+Paralichthys,orbignyanus,-37.25,-56.25,5305:476:1,0.63
+Paralichthys,orbignyanus,-37.25,-56.75,5305:476:2,0.63
+Paralichthys,orbignyanus,-37.75,-56.75,5305:476:4,0.63
+Paralichthys,orbignyanus,-38.75,-59.25,5305:489:3,0.60
+Paralichthys,orbignyanus,-38.75,-59.75,5305:489:4,0.60
+Paralichthys,orbignyanus,-39.25,-59.75,5305:499:2,0.62
+Paralichthys,orbignyanus,-39.75,-61.75,5306:391:4,0.63
+Paralichthys,orbignyanus,-40.75,-61.25,5406:101:3,0.66
+Paralichthys,orbignyanus,-40.75,-64.25,5406:104:3,0.69
+Paralichthys,orbignyanus,-40.75,-64.75,5406:104:4,0.69
+Paralichthys,orbignyanus,-40.75,-65.25,5406:205:3,0.68
+Paralichthys,orbignyanus,-24.75,-47.25,5204:247:3,0.93
+Paralichthys,orbignyanus,-24.75,-47.75,5204:247:4,0.86
+Paralichthys,orbignyanus,-25.25,-47.25,5204:457:1,0.88
+Paralichthys,orbignyanus,-25.25,-47.75,5204:457:2,1.00
+Paralichthys,orbignyanus,-25.75,-47.75,5204:457:4,0.84
+Paralichthys,orbignyanus,-25.25,-48.25,5204:458:1,0.87
+Paralichthys,orbignyanus,-25.25,-48.75,5204:458:2,1.00
+Paralichthys,orbignyanus,-25.75,-48.25,5204:458:3,1.00
+Paralichthys,orbignyanus,-25.75,-48.75,5204:458:4,1.00
+Paralichthys,orbignyanus,-26.25,-48.25,5204:468:1,0.91
+Paralichthys,orbignyanus,-26.25,-48.75,5204:468:2,0.91
+Paralichthys,orbignyanus,-26.75,-48.25,5204:468:3,0.91
+Paralichthys,orbignyanus,-26.75,-48.75,5204:468:4,0.91
+Paralichthys,orbignyanus,-27.25,-48.25,5204:478:1,0.83
+Paralichthys,orbignyanus,-27.25,-48.75,5204:478:2,0.83
+Paralichthys,orbignyanus,-27.75,-48.25,5204:478:3,0.83
+Paralichthys,orbignyanus,-27.75,-48.75,5204:478:4,0.83
+Paralichthys,orbignyanus,-29.75,-49.75,5204:499:4,1.00
+Paralichthys,orbignyanus,-29.75,-50.25,5205:390:3,1.00
+Paralichthys,orbignyanus,-30.25,-49.75,5304:209:2,1.00
+Paralichthys,orbignyanus,-30.25,-50.25,5305:100:1,1.00
+Paralichthys,orbignyanus,-30.25,-50.75,5305:100:2,1.00
+Paralichthys,orbignyanus,-30.75,-50.25,5305:100:3,1.00
+Paralichthys,orbignyanus,-30.75,-50.75,5305:100:4,1.00
+Paralichthys,orbignyanus,-31.25,-50.25,5305:110:1,1.00
+Paralichthys,orbignyanus,-31.25,-50.75,5305:110:2,1.00
+Paralichthys,orbignyanus,-31.75,-50.75,5305:110:4,1.00
+Paralichthys,orbignyanus,-32.25,-51.25,5305:121:1,0.89
+Paralichthys,orbignyanus,-32.25,-51.75,5305:121:2,0.89
+Paralichthys,orbignyanus,-32.75,-51.75,5305:121:4,0.89
+Paralichthys,orbignyanus,-33.25,-51.75,5305:131:2,1.00
+Paralichthys,orbignyanus,-33.75,-51.75,5305:131:4,1.00
+Paralichthys,orbignyanus,-33.25,-52.25,5305:132:1,1.00
+Paralichthys,orbignyanus,-33.25,-52.75,5305:132:2,1.00
+Paralichthys,orbignyanus,-33.75,-52.25,5305:132:3,1.00
+Paralichthys,orbignyanus,-33.75,-52.75,5305:132:4,1.00
+Paralichthys,orbignyanus,-33.25,-53.25,5305:133:1,1.00
+Paralichthys,orbignyanus,-33.75,-53.25,5305:133:3,1.00
+Paralichthys,orbignyanus,-33.75,-53.75,5305:133:4,1.00
+Paralichthys,orbignyanus,-34.25,-51.75,5305:141:2,1.00
+Paralichthys,orbignyanus,-34.25,-52.75,5305:142:2,1.00
+Paralichthys,orbignyanus,-34.25,-53.25,5305:143:1,1.00
+Paralichthys,orbignyanus,-34.25,-53.75,5305:143:2,1.00
+Paralichthys,orbignyanus,-34.75,-53.25,5305:143:3,1.00
+Paralichthys,orbignyanus,-34.75,-53.75,5305:143:4,1.00
+Paralichthys,orbignyanus,-34.75,-54.25,5305:144:3,1.00
+Paralichthys,orbignyanus,-34.75,-54.75,5305:144:4,1.00
+Paralichthys,orbignyanus,-33.25,-58.25,5305:238:1,1.00
+Paralichthys,orbignyanus,-33.75,-58.25,5305:238:3,1.00
+Paralichthys,orbignyanus,-33.75,-58.75,5305:238:4,1.00
+Paralichthys,orbignyanus,-34.75,-55.25,5305:245:3,1.00
+Paralichthys,orbignyanus,-34.75,-55.75,5305:245:4,1.00
+Paralichthys,orbignyanus,-34.75,-56.25,5305:246:3,1.00
+Paralichthys,orbignyanus,-34.75,-56.75,5305:246:4,1.00
+Paralichthys,orbignyanus,-34.25,-57.25,5305:247:1,1.00
+Paralichthys,orbignyanus,-34.25,-57.75,5305:247:2,1.00
+Paralichthys,orbignyanus,-34.75,-57.25,5305:247:3,1.00
+Paralichthys,orbignyanus,-34.75,-57.75,5305:247:4,1.00
+Paralichthys,orbignyanus,-34.25,-58.25,5305:248:1,1.00
+Paralichthys,orbignyanus,-34.25,-58.75,5305:248:2,1.00
+Paralichthys,orbignyanus,-34.75,-58.25,5305:248:3,1.00
+Paralichthys,orbignyanus,-35.25,-53.25,5305:353:1,0.80
+Paralichthys,orbignyanus,-35.25,-53.75,5305:353:2,1.00
+Paralichthys,orbignyanus,-35.75,-53.25,5305:353:3,1.00
+Paralichthys,orbignyanus,-35.75,-53.75,5305:353:4,0.92
+Paralichthys,orbignyanus,-35.25,-54.25,5305:354:1,1.00
+Paralichthys,orbignyanus,-35.25,-54.75,5305:354:2,1.00
+Paralichthys,orbignyanus,-35.75,-54.25,5305:354:3,1.00
+Paralichthys,orbignyanus,-35.75,-54.75,5305:354:4,1.00
+Paralichthys,orbignyanus,-36.25,-53.75,5305:363:2,1.00
+Paralichthys,orbignyanus,-36.75,-53.75,5305:363:4,1.00
+Paralichthys,orbignyanus,-36.25,-54.25,5305:364:1,1.00
+Paralichthys,orbignyanus,-36.25,-54.75,5305:364:2,1.00
+Paralichthys,orbignyanus,-35.25,-55.25,5305:455:1,1.00
+Paralichthys,orbignyanus,-35.75,-55.25,5305:455:3,1.00
+Paralichthys,orbignyanus,-35.75,-55.75,5305:455:4,0.98
+Paralichthys,orbignyanus,-35.25,-56.25,5305:456:1,1.00
+Paralichthys,orbignyanus,-35.25,-56.75,5305:456:2,1.00
+Paralichthys,orbignyanus,-35.75,-56.75,5305:456:4,1.00
+Paralichthys,orbignyanus,-35.25,-57.25,5305:457:1,1.00
+Paralichthys,orbignyanus,-35.75,-57.25,5305:457:3,1.00
+Paralichthys,orbignyanus,-36.25,-55.25,5305:465:1,1.00
+Paralichthys,orbignyanus,-36.25,-55.75,5305:465:2,1.00
+Paralichthys,orbignyanus,-36.75,-55.25,5305:465:3,0.80
+Paralichthys,orbignyanus,-36.75,-55.75,5305:465:4,1.00
+Paralichthys,orbignyanus,-36.25,-56.25,5305:466:1,0.86
+Paralichthys,orbignyanus,-36.25,-56.75,5305:466:2,1.00
+Paralichthys,orbignyanus,-36.75,-56.25,5305:466:3,1.00
+Paralichthys,orbignyanus,-36.75,-56.75,5305:466:4,1.00
+Paralichthys,orbignyanus,-36.25,-57.25,5305:467:1,0.95
+Paralichthys,orbignyanus,-38.75,-60.25,5306:380:3,0.87
+Paralichthys,orbignyanus,-38.75,-60.75,5306:380:4,0.87
+Paralichthys,orbignyanus,-38.75,-61.25,5306:381:3,1.00
+Paralichthys,orbignyanus,-38.75,-61.75,5306:381:4,1.00
+Paralichthys,orbignyanus,-38.75,-62.25,5306:382:3,1.00
+Paralichthys,orbignyanus,-39.25,-60.25,5306:390:1,0.89
+Paralichthys,orbignyanus,-39.25,-60.75,5306:390:2,0.96
+Paralichthys,orbignyanus,-39.75,-60.75,5306:390:4,0.85
+Paralichthys,orbignyanus,-39.25,-61.25,5306:391:1,1.00
+Paralichthys,orbignyanus,-39.25,-61.75,5306:391:2,1.00
+Paralichthys,orbignyanus,-39.75,-61.25,5306:391:3,1.00
+Paralichthys,orbignyanus,-39.25,-62.25,5306:392:1,1.00
+Paralichthys,orbignyanus,-39.75,-62.25,5306:392:3,1.00
+Paralichthys,orbignyanus,-40.25,-61.25,5406:101:1,0.97
+Paralichthys,orbignyanus,-40.25,-61.75,5406:101:2,0.97
+Paralichthys,orbignyanus,-40.75,-61.75,5406:101:4,0.97
+Paralichthys,orbignyanus,-40.25,-62.25,5406:102:1,1.00
+Paralichthys,orbignyanus,-40.75,-62.25,5406:102:3,1.00
+Paralichthys,orbignyanus,-40.75,-62.75,5406:102:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 28)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Paralichthys,orbignyanus,-40.25,-62.25,5406:102:1,7,15.93,33.68,1559,0,14
+Paralichthys,orbignyanus,-37.75,-57.25,5305:477:3,16,14.17,32.38,1455,0,18
+Paralichthys,orbignyanus,-37.25,-57.25,5305:477:1,4,14.17,32.38,2556,0,1
+Paralichthys,orbignyanus,-36.75,-56.25,5305:466:3,14,15.69,29.79,3612,0,67
+Paralichthys,orbignyanus,-36.25,-56.75,5305:466:2,12,15.69,29.79,3245,0,17
+Paralichthys,orbignyanus,-35.75,-57.25,5305:457:3,15,16.77,27.12,1322,0,15
+Paralichthys,orbignyanus,-35.75,-55.75,5305:455:4,19,16.28,29.5,3674,0,144
+Paralichthys,orbignyanus,-35.25,-56.25,5305:456:1,10,16.36,27.12,3640,0,89
+Paralichthys,orbignyanus,-35.25,-55.75,5305:455:2,12,16.28,29.5,4077,0,89
+Paralichthys,orbignyanus,-35.25,-55.25,5305:455:1,22,16.28,29.5,3437,0,89
+Paralichthys,orbignyanus,-35.25,-54.75,5305:354:2,29,16.92,31.57,2853,0,89
+Paralichthys,orbignyanus,-35.25,-54.25,5305:354:1,28,16.92,31.57,2506,0,89
+Paralichthys,orbignyanus,-34.75,-56.25,5305:246:3,10,16.67,27.12,1941,0,9
+Paralichthys,orbignyanus,-34.75,-55.75,5305:245:4,13,16.87,29.5,2944,0,11
+Paralichthys,orbignyanus,-34.75,-55.25,5305:245:3,16,16.87,29.5,2919,0,9
+Paralichthys,orbignyanus,-34.75,-54.25,5305:144:3,28,17.34,32.27,2870,0,16
+Paralichthys,orbignyanus,-34.75,-53.75,5305:143:4,33,17.97,32.27,2377,0,49
+Paralichthys,orbignyanus,-34.25,-53.75,5305:143:2,13,17.97,32.27,2618,0,12
+Paralichthys,orbignyanus,-34.25,-53.25,5305:143:1,29,17.97,32.27,2413,0,69
+Paralichthys,orbignyanus,-34.25,-52.25,5305:142:1,77,18.68,32.49,1324,0,154
+Paralichthys,orbignyanus,-33.25,-52.75,5305:132:2,13,18.82,30.52,1654,0,14
+Paralichthys,orbignyanus,-32.25,-52.25,5305:122:1,11,19.06,22.7,1020,0,12
+Paralichthys,orbignyanus,-30.25,-50.25,5305:100:1,14,21.05,34.34,1645,0,12
+Paralichthys,orbignyanus,-25.75,-48.75,5204:458:4,4,22.48,34.79,863,0,2
+Paralichthys,orbignyanus,-25.75,-48.25,5204:458:3,18,22.48,34.79,1039,0,24
+Paralichthys,orbignyanus,-25.25,-47.75,5204:457:2,22,22.86,34.79,1039,0,25
+Paralichthys,orbignyanus,-23.75,-46.25,5204:236:3,43,23.25,35.81,648,0,5
+Paralichthys,orbignyanus,-23.25,-44.25,5204:134:1,45,23.59,35.9,863,0,25

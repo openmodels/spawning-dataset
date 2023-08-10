@@ -1,0 +1,258 @@
+Mapping parameters for Merluccius gayi gayi (South Pacific hake)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,-5,-46,-81,69
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,50,103,255,500
+Temperature (°C),1,7.26,14.72,20.5,28.13
+Salinity (psu),1,32.24,33.89,35.15,36.85
+Primary Production,1,75.5,997,2282.5,2973.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,17,18,174,270.125
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 216): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Merluccius,gayi gayi,-33.75,-79.75,5307:239:4,0.02
+Merluccius,gayi gayi,-45.25,-75.75,5407:455:2,0.01
+Merluccius,gayi gayi,-8.75,-80.25,5008:380:3,0.24
+Merluccius,gayi gayi,-26.25,-79.75,5207:469:2,0.25
+Merluccius,gayi gayi,-26.25,-80.25,5208:360:1,0.22
+Merluccius,gayi gayi,-33.75,-79.25,5307:239:3,0.36
+Merluccius,gayi gayi,-39.25,-74.25,5307:394:1,0.39
+Merluccius,gayi gayi,-33.75,-80.75,5308:130:4,0.30
+Merluccius,gayi gayi,-44.25,-72.75,5407:142:2,0.30
+Merluccius,gayi gayi,-44.75,-72.75,5407:142:4,0.30
+Merluccius,gayi gayi,-44.25,-73.25,5407:143:1,0.30
+Merluccius,gayi gayi,-44.25,-73.75,5407:143:2,0.30
+Merluccius,gayi gayi,-44.75,-73.25,5407:143:3,0.30
+Merluccius,gayi gayi,-44.75,-73.75,5407:143:4,0.30
+Merluccius,gayi gayi,-44.25,-74.25,5407:144:1,0.29
+Merluccius,gayi gayi,-44.25,-74.75,5407:144:2,0.29
+Merluccius,gayi gayi,-44.75,-74.25,5407:144:3,0.29
+Merluccius,gayi gayi,-44.75,-74.75,5407:144:4,0.29
+Merluccius,gayi gayi,-42.75,-75.25,5407:225:3,0.23
+Merluccius,gayi gayi,-44.25,-75.25,5407:245:1,0.29
+Merluccius,gayi gayi,-44.75,-75.25,5407:245:3,0.29
+Merluccius,gayi gayi,-45.25,-73.25,5407:353:1,0.25
+Merluccius,gayi gayi,-45.25,-73.75,5407:353:2,0.25
+Merluccius,gayi gayi,-45.75,-73.25,5407:353:3,0.25
+Merluccius,gayi gayi,-45.75,-73.75,5407:353:4,0.25
+Merluccius,gayi gayi,-45.25,-74.25,5407:354:1,0.24
+Merluccius,gayi gayi,-45.25,-74.75,5407:354:2,0.24
+Merluccius,gayi gayi,-45.75,-74.75,5407:354:4,0.24
+Merluccius,gayi gayi,-45.25,-75.25,5407:455:1,0.23
+Merluccius,gayi gayi,-45.75,-75.25,5407:455:3,0.23
+Merluccius,gayi gayi,-45.75,-75.75,5407:455:4,0.20
+Merluccius,gayi gayi,-11.75,-78.25,5107:218:3,0.47
+Merluccius,gayi gayi,-17.75,-71.75,5107:371:4,0.58
+Merluccius,gayi gayi,-33.75,-77.75,5307:237:4,0.50
+Merluccius,gayi gayi,-33.75,-78.25,5307:238:3,0.44
+Merluccius,gayi gayi,-33.75,-78.75,5307:238:4,0.42
+Merluccius,gayi gayi,-36.75,-73.25,5307:363:3,0.46
+Merluccius,gayi gayi,-38.75,-73.25,5307:383:3,0.48
+Merluccius,gayi gayi,-38.75,-74.25,5307:384:3,0.48
+Merluccius,gayi gayi,-41.25,-72.75,5407:112:2,0.56
+Merluccius,gayi gayi,-41.75,-72.75,5407:112:4,0.56
+Merluccius,gayi gayi,-41.25,-73.75,5407:113:2,0.57
+Merluccius,gayi gayi,-41.75,-73.25,5407:113:3,0.57
+Merluccius,gayi gayi,-41.75,-73.75,5407:113:4,0.57
+Merluccius,gayi gayi,-41.25,-74.25,5407:114:1,0.59
+Merluccius,gayi gayi,-41.75,-74.25,5407:114:3,0.59
+Merluccius,gayi gayi,-41.75,-74.75,5407:114:4,0.59
+Merluccius,gayi gayi,-42.25,-72.25,5407:122:1,0.54
+Merluccius,gayi gayi,-42.25,-72.75,5407:122:2,0.54
+Merluccius,gayi gayi,-42.75,-72.75,5407:122:4,0.54
+Merluccius,gayi gayi,-42.25,-73.25,5407:123:1,0.54
+Merluccius,gayi gayi,-42.75,-73.25,5407:123:3,0.47
+Merluccius,gayi gayi,-42.75,-73.75,5407:123:4,0.54
+Merluccius,gayi gayi,-42.25,-74.25,5407:124:1,0.55
+Merluccius,gayi gayi,-42.25,-74.75,5407:124:2,0.55
+Merluccius,gayi gayi,-42.75,-74.25,5407:124:3,0.55
+Merluccius,gayi gayi,-42.75,-74.75,5407:124:4,0.56
+Merluccius,gayi gayi,-43.25,-72.75,5407:132:2,0.52
+Merluccius,gayi gayi,-43.25,-73.25,5407:133:1,0.41
+Merluccius,gayi gayi,-43.25,-73.75,5407:133:2,0.40
+Merluccius,gayi gayi,-43.75,-73.25,5407:133:3,0.40
+Merluccius,gayi gayi,-43.75,-73.75,5407:133:4,0.40
+Merluccius,gayi gayi,-43.25,-74.25,5407:134:1,0.40
+Merluccius,gayi gayi,-43.25,-74.75,5407:134:2,0.40
+Merluccius,gayi gayi,-43.75,-74.25,5407:134:3,0.40
+Merluccius,gayi gayi,-43.75,-74.75,5407:134:4,0.40
+Merluccius,gayi gayi,-43.25,-75.25,5407:235:1,0.40
+Merluccius,gayi gayi,-43.75,-75.25,5407:235:3,0.40
+Merluccius,gayi gayi,-27.25,-71.25,5207:371:1,0.63
+Merluccius,gayi gayi,-8.75,-79.75,5007:489:4,0.71
+Merluccius,gayi gayi,-9.75,-78.75,5007:498:4,0.78
+Merluccius,gayi gayi,-9.25,-79.25,5007:499:1,0.62
+Merluccius,gayi gayi,-6.25,-80.75,5008:360:2,0.76
+Merluccius,gayi gayi,-10.75,-78.75,5107:208:4,0.73
+Merluccius,gayi gayi,-14.25,-76.75,5107:246:2,0.62
+Merluccius,gayi gayi,-18.25,-71.25,5107:381:1,0.61
+Merluccius,gayi gayi,-22.75,-70.75,5207:120:4,0.74
+Merluccius,gayi gayi,-32.25,-71.25,5307:121:1,0.62
+Merluccius,gayi gayi,-34.75,-72.75,5307:142:4,0.69
+Merluccius,gayi gayi,-35.25,-72.75,5307:352:2,0.62
+Merluccius,gayi gayi,-36.25,-73.75,5307:363:2,0.79
+Merluccius,gayi gayi,-37.75,-73.25,5307:373:3,0.66
+Merluccius,gayi gayi,-37.75,-73.75,5307:373:4,0.79
+Merluccius,gayi gayi,-38.25,-73.25,5307:383:1,0.78
+Merluccius,gayi gayi,-38.25,-73.75,5307:383:2,0.78
+Merluccius,gayi gayi,-38.75,-73.75,5307:383:4,0.78
+Merluccius,gayi gayi,-39.25,-73.75,5307:393:2,0.75
+Merluccius,gayi gayi,-39.75,-73.75,5307:393:4,0.75
+Merluccius,gayi gayi,-39.75,-74.25,5307:394:3,0.65
+Merluccius,gayi gayi,-40.25,-73.75,5407:103:2,0.67
+Merluccius,gayi gayi,-40.75,-73.75,5407:103:4,0.67
+Merluccius,gayi gayi,-40.25,-74.25,5407:104:1,0.68
+Merluccius,gayi gayi,-40.75,-74.25,5407:104:3,0.68
+Merluccius,gayi gayi,-26.25,-70.75,5207:360:2,1.00
+Merluccius,gayi gayi,-26.75,-70.75,5207:360:4,1.00
+Merluccius,gayi gayi,-27.25,-70.75,5207:370:2,1.00
+Merluccius,gayi gayi,-27.75,-70.75,5207:370:4,1.00
+Merluccius,gayi gayi,-27.75,-71.25,5207:371:3,1.00
+Merluccius,gayi gayi,-6.75,-79.75,5007:469:4,1.00
+Merluccius,gayi gayi,-7.25,-79.75,5007:479:2,1.00
+Merluccius,gayi gayi,-7.75,-79.25,5007:479:3,1.00
+Merluccius,gayi gayi,-7.75,-79.75,5007:479:4,1.00
+Merluccius,gayi gayi,-8.25,-78.75,5007:488:2,1.00
+Merluccius,gayi gayi,-8.75,-78.75,5007:488:4,0.97
+Merluccius,gayi gayi,-8.25,-79.25,5007:489:1,1.00
+Merluccius,gayi gayi,-8.25,-79.75,5007:489:2,1.00
+Merluccius,gayi gayi,-8.75,-79.25,5007:489:3,1.00
+Merluccius,gayi gayi,-9.25,-78.25,5007:498:1,1.00
+Merluccius,gayi gayi,-9.25,-78.75,5007:498:2,1.00
+Merluccius,gayi gayi,-9.75,-78.25,5007:498:3,1.00
+Merluccius,gayi gayi,-9.25,-79.75,5007:499:2,0.83
+Merluccius,gayi gayi,-9.75,-79.25,5007:499:3,0.96
+Merluccius,gayi gayi,-9.75,-79.75,5007:499:4,0.92
+Merluccius,gayi gayi,-5.25,-80.75,5008:350:2,0.81
+Merluccius,gayi gayi,-5.75,-80.75,5008:350:4,0.93
+Merluccius,gayi gayi,-6.75,-80.25,5008:360:3,1.00
+Merluccius,gayi gayi,-6.75,-80.75,5008:360:4,0.92
+Merluccius,gayi gayi,-7.25,-80.25,5008:370:1,0.99
+Merluccius,gayi gayi,-7.25,-80.75,5008:370:2,0.99
+Merluccius,gayi gayi,-7.75,-80.25,5008:370:3,0.99
+Merluccius,gayi gayi,-7.75,-80.75,5008:370:4,0.83
+Merluccius,gayi gayi,-8.25,-80.25,5008:380:1,0.93
+Merluccius,gayi gayi,-10.25,-77.75,5107:207:2,1.00
+Merluccius,gayi gayi,-10.75,-77.75,5107:207:4,1.00
+Merluccius,gayi gayi,-10.25,-78.25,5107:208:1,1.00
+Merluccius,gayi gayi,-10.25,-78.75,5107:208:2,1.00
+Merluccius,gayi gayi,-10.75,-78.25,5107:208:3,1.00
+Merluccius,gayi gayi,-10.25,-79.25,5107:209:1,0.92
+Merluccius,gayi gayi,-11.25,-77.25,5107:217:1,0.98
+Merluccius,gayi gayi,-11.25,-77.75,5107:217:2,0.86
+Merluccius,gayi gayi,-11.75,-77.25,5107:217:3,1.00
+Merluccius,gayi gayi,-11.75,-77.75,5107:217:4,0.98
+Merluccius,gayi gayi,-11.25,-78.25,5107:218:1,0.98
+Merluccius,gayi gayi,-12.25,-76.75,5107:226:2,1.00
+Merluccius,gayi gayi,-12.75,-76.25,5107:226:3,1.00
+Merluccius,gayi gayi,-12.75,-76.75,5107:226:4,1.00
+Merluccius,gayi gayi,-12.25,-77.25,5107:227:1,1.00
+Merluccius,gayi gayi,-12.25,-77.75,5107:227:2,1.00
+Merluccius,gayi gayi,-12.75,-77.25,5107:227:3,1.00
+Merluccius,gayi gayi,-13.25,-76.25,5107:236:1,0.83
+Merluccius,gayi gayi,-13.25,-76.75,5107:236:2,1.00
+Merluccius,gayi gayi,-13.75,-76.25,5107:236:3,1.00
+Merluccius,gayi gayi,-13.75,-76.75,5107:236:4,1.00
+Merluccius,gayi gayi,-14.25,-75.75,5107:245:2,0.83
+Merluccius,gayi gayi,-14.75,-75.25,5107:245:3,1.00
+Merluccius,gayi gayi,-14.75,-75.75,5107:245:4,1.00
+Merluccius,gayi gayi,-14.25,-76.25,5107:246:1,1.00
+Merluccius,gayi gayi,-14.75,-76.25,5107:246:3,1.00
+Merluccius,gayi gayi,-15.25,-74.75,5107:354:2,1.00
+Merluccius,gayi gayi,-15.75,-74.25,5107:354:3,1.00
+Merluccius,gayi gayi,-15.75,-74.75,5107:354:4,1.00
+Merluccius,gayi gayi,-16.75,-72.25,5107:362:3,1.00
+Merluccius,gayi gayi,-16.75,-72.75,5107:362:4,1.00
+Merluccius,gayi gayi,-16.25,-73.25,5107:363:1,1.00
+Merluccius,gayi gayi,-16.25,-73.75,5107:363:2,1.00
+Merluccius,gayi gayi,-16.75,-73.25,5107:363:3,1.00
+Merluccius,gayi gayi,-16.25,-74.25,5107:364:1,1.00
+Merluccius,gayi gayi,-17.75,-70.75,5107:370:4,0.98
+Merluccius,gayi gayi,-17.25,-71.25,5107:371:1,0.98
+Merluccius,gayi gayi,-17.25,-71.75,5107:371:2,0.98
+Merluccius,gayi gayi,-17.75,-71.25,5107:371:3,0.98
+Merluccius,gayi gayi,-17.25,-72.25,5107:372:1,1.00
+Merluccius,gayi gayi,-18.25,-70.25,5107:380:1,0.98
+Merluccius,gayi gayi,-18.25,-70.75,5107:380:2,0.98
+Merluccius,gayi gayi,-18.75,-70.25,5107:380:3,0.98
+Merluccius,gayi gayi,-19.25,-70.25,5107:390:1,0.99
+Merluccius,gayi gayi,-19.75,-70.25,5107:390:3,0.99
+Merluccius,gayi gayi,-15.25,-75.25,5107:455:1,1.00
+Merluccius,gayi gayi,-15.25,-75.75,5107:455:2,1.00
+Merluccius,gayi gayi,-20.25,-70.25,5207:100:1,1.00
+Merluccius,gayi gayi,-20.75,-70.25,5207:100:3,1.00
+Merluccius,gayi gayi,-21.25,-70.25,5207:110:1,1.00
+Merluccius,gayi gayi,-21.75,-70.25,5207:110:3,1.00
+Merluccius,gayi gayi,-22.25,-70.25,5207:120:1,1.00
+Merluccius,gayi gayi,-22.75,-70.25,5207:120:3,1.00
+Merluccius,gayi gayi,-23.25,-70.25,5207:130:1,1.00
+Merluccius,gayi gayi,-23.25,-70.75,5207:130:2,1.00
+Merluccius,gayi gayi,-23.75,-70.25,5207:130:3,1.00
+Merluccius,gayi gayi,-23.75,-70.75,5207:130:4,1.00
+Merluccius,gayi gayi,-24.25,-70.25,5207:140:1,1.00
+Merluccius,gayi gayi,-24.25,-70.75,5207:140:2,0.98
+Merluccius,gayi gayi,-24.75,-70.25,5207:140:3,1.00
+Merluccius,gayi gayi,-24.75,-70.75,5207:140:4,0.95
+Merluccius,gayi gayi,-25.25,-70.25,5207:350:1,1.00
+Merluccius,gayi gayi,-25.25,-70.75,5207:350:2,0.99
+Merluccius,gayi gayi,-25.75,-70.75,5207:350:4,1.00
+Merluccius,gayi gayi,-28.25,-71.25,5207:381:1,1.00
+Merluccius,gayi gayi,-28.75,-71.25,5207:381:3,1.00
+Merluccius,gayi gayi,-28.75,-71.75,5207:381:4,1.00
+Merluccius,gayi gayi,-29.25,-71.25,5207:391:1,1.00
+Merluccius,gayi gayi,-29.25,-71.75,5207:391:2,1.00
+Merluccius,gayi gayi,-29.75,-71.25,5207:391:3,1.00
+Merluccius,gayi gayi,-29.75,-71.75,5207:391:4,1.00
+Merluccius,gayi gayi,-30.25,-71.25,5307:101:1,1.00
+Merluccius,gayi gayi,-30.25,-71.75,5307:101:2,1.00
+Merluccius,gayi gayi,-30.75,-71.75,5307:101:4,1.00
+Merluccius,gayi gayi,-31.25,-71.75,5307:111:2,1.00
+Merluccius,gayi gayi,-31.75,-71.75,5307:111:4,1.00
+Merluccius,gayi gayi,-32.25,-71.75,5307:121:2,1.00
+Merluccius,gayi gayi,-32.75,-71.25,5307:121:3,1.00
+Merluccius,gayi gayi,-32.75,-71.75,5307:121:4,1.00
+Merluccius,gayi gayi,-33.25,-71.75,5307:131:2,1.00
+Merluccius,gayi gayi,-33.75,-71.75,5307:131:4,1.00
+Merluccius,gayi gayi,-33.75,-72.25,5307:132:3,1.00
+Merluccius,gayi gayi,-34.25,-71.75,5307:141:2,1.00
+Merluccius,gayi gayi,-34.25,-72.25,5307:142:1,1.00
+Merluccius,gayi gayi,-34.75,-72.25,5307:142:3,1.00
+Merluccius,gayi gayi,-35.25,-72.25,5307:352:1,1.00
+Merluccius,gayi gayi,-35.75,-72.75,5307:352:4,1.00
+Merluccius,gayi gayi,-35.75,-73.25,5307:353:3,1.00
+Merluccius,gayi gayi,-36.25,-72.75,5307:362:2,0.98
+Merluccius,gayi gayi,-36.75,-72.75,5307:362:4,0.98
+Merluccius,gayi gayi,-36.25,-73.25,5307:363:1,0.96
+Merluccius,gayi gayi,-36.75,-73.75,5307:363:4,0.96
+Merluccius,gayi gayi,-37.25,-73.75,5307:373:2,0.93
+Merluccius,gayi gayi,-38.25,-74.25,5307:384:1,0.80
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Merluccius,gayi gayi,-36.75,-73.25,5307:363:3,139,14.45,33.91,2647,0,19
+Merluccius,gayi gayi,-36.25,-75.25,5307:465:1,4124,15,33.87,841,0,219
+Merluccius,gayi gayi,-33.25,-71.75,5307:131:2,509,15.35,34.15,1918,0,17
+Merluccius,gayi gayi,-12.25,-77.25,5107:227:1,173,19.72,35.04,1793,0,26
+Merluccius,gayi gayi,-10.75,-78.75,5107:208:4,1458,20.5,35.15,1190,0,129
+Merluccius,gayi gayi,-10.25,-78.75,5107:208:2,274,20.5,35.15,1153,0,95

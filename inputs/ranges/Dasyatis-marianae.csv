@@ -1,0 +1,162 @@
+Mapping parameters for Dasyatis marianae ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 41,
+Bounding Box (NSWE): ,0,-19,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,2,3,9,15
+Temperature (°C),1,25.91,26.66,27.66,31.86
+Salinity (psu),1,35.65,36.18,37.2,37.7
+Primary Production,1,181.5,308,796.399999999999,1510
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,8.5,17.4,31.6000003814697,50
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 117): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Dasyatis,marianae,-3.75,-38.25,5003:238:3,0.04
+Dasyatis,marianae,-0.75,-44.25,5004:104:3,0.02
+Dasyatis,marianae,-1.75,-42.75,5004:112:4,0.15
+Dasyatis,marianae,-1.75,-43.75,5004:113:4,0.07
+Dasyatis,marianae,-1.25,-44.75,5004:114:2,0.13
+Dasyatis,marianae,-0.25,-45.25,5004:205:1,0.04
+Dasyatis,marianae,-0.25,-45.75,5004:205:2,0.04
+Dasyatis,marianae,-0.75,-45.25,5004:205:3,0.04
+Dasyatis,marianae,-0.75,-45.75,5004:205:4,0.03
+Dasyatis,marianae,-17.75,-35.75,5103:475:4,0.13
+Dasyatis,marianae,-17.75,-38.75,5103:478:4,0.04
+Dasyatis,marianae,-2.75,-39.75,5003:229:4,0.23
+Dasyatis,marianae,-1.75,-43.25,5004:113:3,0.31
+Dasyatis,marianae,-1.75,-44.75,5004:114:4,0.26
+Dasyatis,marianae,-2.25,-41.25,5004:121:1,0.23
+Dasyatis,marianae,-2.25,-41.75,5004:121:2,0.23
+Dasyatis,marianae,-2.75,-41.25,5004:121:3,0.23
+Dasyatis,marianae,-2.75,-41.75,5004:121:4,0.23
+Dasyatis,marianae,-2.25,-42.25,5004:122:1,0.22
+Dasyatis,marianae,-2.25,-42.75,5004:122:2,0.27
+Dasyatis,marianae,-2.75,-42.25,5004:122:3,0.30
+Dasyatis,marianae,-2.75,-42.75,5004:122:4,0.30
+Dasyatis,marianae,-0.25,-46.75,5004:206:2,0.21
+Dasyatis,marianae,-0.75,-46.25,5004:206:3,0.21
+Dasyatis,marianae,-12.25,-37.25,5103:227:1,0.33
+Dasyatis,marianae,-17.75,-36.25,5103:476:3,0.23
+Dasyatis,marianae,-17.75,-38.25,5103:478:3,0.37
+Dasyatis,marianae,-17.25,-39.25,5103:479:1,0.28
+Dasyatis,marianae,-17.75,-39.25,5103:479:3,0.28
+Dasyatis,marianae,-18.25,-38.75,5103:488:2,0.24
+Dasyatis,marianae,-18.75,-38.75,5103:488:4,0.24
+Dasyatis,marianae,-3.75,-32.25,5003:132:3,0.56
+Dasyatis,marianae,-1.25,-38.75,5003:218:2,0.55
+Dasyatis,marianae,-2.25,-39.25,5003:229:1,0.43
+Dasyatis,marianae,-2.25,-39.75,5003:229:2,0.43
+Dasyatis,marianae,-2.75,-39.25,5003:229:3,0.43
+Dasyatis,marianae,-3.75,-38.75,5003:238:4,0.53
+Dasyatis,marianae,-3.25,-39.25,5003:239:1,0.43
+Dasyatis,marianae,-3.25,-39.75,5003:239:2,0.43
+Dasyatis,marianae,-4.25,-37.75,5003:247:2,0.58
+Dasyatis,marianae,-0.25,-44.25,5004:104:1,0.59
+Dasyatis,marianae,-1.75,-44.25,5004:114:3,0.42
+Dasyatis,marianae,-2.25,-40.25,5004:120:1,0.47
+Dasyatis,marianae,-2.25,-40.75,5004:120:2,0.40
+Dasyatis,marianae,-2.75,-40.25,5004:120:3,0.43
+Dasyatis,marianae,-2.75,-40.75,5004:120:4,0.47
+Dasyatis,marianae,-2.25,-44.25,5004:124:1,0.47
+Dasyatis,marianae,-0.25,-46.25,5004:206:1,0.40
+Dasyatis,marianae,-17.25,-38.25,5103:478:1,0.55
+Dasyatis,marianae,-17.25,-38.75,5103:478:2,0.54
+Dasyatis,marianae,-18.25,-37.25,5103:487:1,0.40
+Dasyatis,marianae,-18.25,-37.75,5103:487:2,0.40
+Dasyatis,marianae,-3.75,-33.75,5003:133:4,0.66
+Dasyatis,marianae,-2.25,-38.25,5003:228:1,0.60
+Dasyatis,marianae,-3.75,-37.75,5003:237:4,0.74
+Dasyatis,marianae,-3.25,-38.25,5003:238:1,0.60
+Dasyatis,marianae,-3.25,-38.75,5003:238:2,0.60
+Dasyatis,marianae,-4.75,-35.25,5003:245:3,0.66
+Dasyatis,marianae,-4.25,-37.25,5003:247:1,0.61
+Dasyatis,marianae,-4.75,-37.75,5003:247:4,0.74
+Dasyatis,marianae,-4.25,-38.25,5003:248:1,0.74
+Dasyatis,marianae,-5.75,-34.75,5003:354:4,0.77
+Dasyatis,marianae,-5.75,-35.25,5003:455:3,0.77
+Dasyatis,marianae,-2.75,-44.75,5004:124:4,0.72
+Dasyatis,marianae,-1.75,-45.25,5004:215:3,0.70
+Dasyatis,marianae,-16.25,-39.25,5103:469:1,0.65
+Dasyatis,marianae,-16.75,-39.25,5103:469:3,0.65
+Dasyatis,marianae,-17.75,-37.25,5103:477:3,0.64
+Dasyatis,marianae,-17.75,-37.75,5103:477:4,0.64
+Dasyatis,marianae,-4.75,-35.75,5003:245:4,1.00
+Dasyatis,marianae,-4.75,-36.25,5003:246:3,1.00
+Dasyatis,marianae,-4.75,-36.75,5003:246:4,1.00
+Dasyatis,marianae,-4.75,-37.25,5003:247:3,1.00
+Dasyatis,marianae,-6.25,-34.75,5003:364:2,1.00
+Dasyatis,marianae,-6.75,-34.75,5003:364:4,1.00
+Dasyatis,marianae,-7.25,-34.75,5003:374:2,1.00
+Dasyatis,marianae,-7.75,-34.75,5003:374:4,1.00
+Dasyatis,marianae,-8.25,-34.75,5003:384:2,1.00
+Dasyatis,marianae,-8.75,-34.75,5003:384:4,1.00
+Dasyatis,marianae,-5.25,-35.25,5003:455:1,1.00
+Dasyatis,marianae,-5.25,-35.75,5003:455:2,1.00
+Dasyatis,marianae,-5.25,-36.25,5003:456:1,1.00
+Dasyatis,marianae,-5.25,-36.75,5003:456:2,1.00
+Dasyatis,marianae,-6.25,-35.25,5003:465:1,1.00
+Dasyatis,marianae,-8.75,-35.25,5003:485:3,1.00
+Dasyatis,marianae,-9.25,-35.25,5003:495:1,1.00
+Dasyatis,marianae,-9.25,-35.75,5003:495:2,1.00
+Dasyatis,marianae,-9.75,-35.25,5003:495:3,1.00
+Dasyatis,marianae,-9.75,-35.75,5003:495:4,1.00
+Dasyatis,marianae,-0.25,-44.75,5004:104:2,1.00
+Dasyatis,marianae,-1.25,-44.25,5004:114:1,1.00
+Dasyatis,marianae,-2.25,-43.25,5004:123:1,0.87
+Dasyatis,marianae,-2.25,-43.75,5004:123:2,0.87
+Dasyatis,marianae,-2.75,-43.75,5004:123:4,0.87
+Dasyatis,marianae,-2.75,-44.25,5004:124:3,0.97
+Dasyatis,marianae,-10.25,-35.75,5103:205:2,1.00
+Dasyatis,marianae,-10.25,-36.25,5103:206:1,1.00
+Dasyatis,marianae,-10.75,-36.25,5103:206:3,1.00
+Dasyatis,marianae,-10.75,-36.75,5103:206:4,1.00
+Dasyatis,marianae,-11.25,-36.75,5103:216:2,0.97
+Dasyatis,marianae,-11.25,-37.25,5103:217:1,1.00
+Dasyatis,marianae,-11.75,-37.25,5103:217:3,1.00
+Dasyatis,marianae,-11.75,-37.75,5103:217:4,1.00
+Dasyatis,marianae,-12.25,-37.75,5103:227:2,1.00
+Dasyatis,marianae,-12.75,-37.75,5103:227:4,1.00
+Dasyatis,marianae,-12.75,-38.25,5103:228:3,1.00
+Dasyatis,marianae,-12.75,-38.75,5103:228:4,1.00
+Dasyatis,marianae,-13.25,-38.75,5103:238:2,1.00
+Dasyatis,marianae,-13.75,-38.75,5103:238:4,1.00
+Dasyatis,marianae,-14.25,-38.75,5103:248:2,1.00
+Dasyatis,marianae,-14.75,-38.75,5103:248:4,1.00
+Dasyatis,marianae,-14.75,-39.25,5103:249:3,1.00
+Dasyatis,marianae,-15.25,-38.75,5103:458:2,1.00
+Dasyatis,marianae,-15.75,-38.75,5103:458:4,1.00
+Dasyatis,marianae,-16.25,-38.25,5103:468:1,0.85
+Dasyatis,marianae,-16.25,-38.75,5103:468:2,0.85
+Dasyatis,marianae,-16.75,-38.75,5103:468:4,0.85
+
+
+Occurrence cells used for creating environmental envelope (n = 9)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Dasyatis,marianae,-18.25,-39.25,5103:489:1,27,25.91,37.08,618,0,50
+Dasyatis,marianae,-13.75,-38.75,5103:238:4,684,27.02,36.75,441,0,26
+Dasyatis,marianae,-8.25,-34.75,5003:384:2,131,27.45,36.4,345,0,24
+Dasyatis,marianae,-7.75,-34.75,5003:374:4,16,27.47,36.4,361,0,19
+Dasyatis,marianae,-7.25,-34.75,5003:374:2,18,27.47,36.31,338,0,18
+Dasyatis,marianae,-6.75,-34.75,5003:364:4,239,27.47,36.31,454,0,23
+Dasyatis,marianae,-4.75,-37.25,5003:247:3,17,27.39,36.22,403,0,15
+Dasyatis,marianae,-3.75,-38.25,5003:238:3,23,27.46,36.04,188,0,22
+Dasyatis,marianae,-1.25,-45.25,5004:215:1,89,27.73,37.68,1510,0,27

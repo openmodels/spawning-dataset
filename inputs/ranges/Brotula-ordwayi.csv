@@ -1,0 +1,105 @@
+Mapping parameters for Brotula ordwayi (Ordway's brotula)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 87,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,2,11,20
+Temperature (°C),1,19.85,22.07,25.7,29.9
+Salinity (psu),1,33.14,33.64,34.69,35.19
+Primary Production,1,211,473.2,1267.4,1982
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,13,17.8,69.1999969482422,134
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 62): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Brotula,ordwayi,-2.25,-79.75,5007:229:2,0.08
+Brotula,ordwayi,-7.25,-79.75,5007:479:2,0.01
+Brotula,ordwayi,-7.75,-79.25,5007:479:3,0.01
+Brotula,ordwayi,-7.75,-79.75,5007:479:4,0.02
+Brotula,ordwayi,-8.25,-78.75,5007:488:2,0.02
+Brotula,ordwayi,-8.25,-79.25,5007:489:1,0.01
+Brotula,ordwayi,-8.75,-79.75,5007:489:4,0.06
+Brotula,ordwayi,-9.25,-78.75,5007:498:2,0.03
+Brotula,ordwayi,-3.75,-80.25,5008:130:3,0.02
+Brotula,ordwayi,-3.75,-80.75,5008:130:4,0.04
+Brotula,ordwayi,-4.25,-81.25,5008:141:1,0.10
+Brotula,ordwayi,-5.25,-80.75,5008:350:2,0.11
+Brotula,ordwayi,-6.75,-80.25,5008:360:3,0.01
+Brotula,ordwayi,-7.25,-80.25,5008:370:1,0.12
+Brotula,ordwayi,-7.75,-80.25,5008:370:3,0.11
+Brotula,ordwayi,-16.25,-72.75,5107:362:2,0.01
+Brotula,ordwayi,-16.75,-72.25,5107:362:3,0.01
+Brotula,ordwayi,-16.75,-72.75,5107:362:4,0.01
+Brotula,ordwayi,-16.25,-73.25,5107:363:1,0.01
+Brotula,ordwayi,-16.25,-73.75,5107:363:2,0.02
+Brotula,ordwayi,-17.75,-70.75,5107:370:4,0.02
+Brotula,ordwayi,-17.25,-71.25,5107:371:1,0.03
+Brotula,ordwayi,-17.25,-71.75,5107:371:2,0.03
+Brotula,ordwayi,-17.75,-71.25,5107:371:3,0.02
+Brotula,ordwayi,-18.25,-70.25,5107:380:1,0.01
+Brotula,ordwayi,-18.25,-70.75,5107:380:2,0.04
+Brotula,ordwayi,-18.75,-70.25,5107:380:3,0.04
+Brotula,ordwayi,-19.25,-70.25,5107:390:1,0.04
+Brotula,ordwayi,-19.75,-70.25,5107:390:3,0.08
+Brotula,ordwayi,-20.25,-70.25,5207:100:1,0.05
+Brotula,ordwayi,-20.75,-70.25,5207:100:3,0.03
+Brotula,ordwayi,-2.75,-80.75,5008:120:4,0.33
+Brotula,ordwayi,-0.75,-80.75,5008:100:4,0.46
+Brotula,ordwayi,-2.25,-80.25,5008:120:1,0.53
+Brotula,ordwayi,-2.75,-80.25,5008:120:3,0.58
+Brotula,ordwayi,-1.25,-90.75,5009:110:2,0.44
+Brotula,ordwayi,1.75,-91.75,7009:111:4,0.69
+Brotula,ordwayi,-1.25,-80.75,5008:110:2,1.00
+Brotula,ordwayi,-1.75,-80.75,5008:110:4,1.00
+Brotula,ordwayi,-1.25,-81.25,5008:111:1,1.00
+Brotula,ordwayi,-1.75,-81.25,5008:111:3,1.00
+Brotula,ordwayi,-2.25,-80.75,5008:120:2,0.91
+Brotula,ordwayi,-2.25,-81.25,5008:121:1,1.00
+Brotula,ordwayi,-3.25,-80.25,5008:130:1,0.80
+Brotula,ordwayi,-3.25,-80.75,5008:130:2,0.90
+Brotula,ordwayi,-0.75,-89.25,5008:209:3,1.00
+Brotula,ordwayi,-0.75,-89.75,5008:209:4,1.00
+Brotula,ordwayi,-1.25,-89.75,5008:219:2,1.00
+Brotula,ordwayi,-0.25,-90.25,5009:100:1,0.99
+Brotula,ordwayi,-0.25,-90.75,5009:100:2,1.00
+Brotula,ordwayi,-0.75,-90.25,5009:100:3,1.00
+Brotula,ordwayi,-0.75,-90.75,5009:100:4,1.00
+Brotula,ordwayi,-0.25,-91.25,5009:101:1,1.00
+Brotula,ordwayi,-0.25,-91.75,5009:101:2,1.00
+Brotula,ordwayi,-0.75,-91.25,5009:101:3,1.00
+Brotula,ordwayi,-1.25,-90.25,5009:110:1,1.00
+Brotula,ordwayi,-1.25,-91.25,5009:111:1,1.00
+Brotula,ordwayi,0.25,-89.75,7008:209:2,0.92
+Brotula,ordwayi,0.25,-90.25,7009:100:1,0.93
+Brotula,ordwayi,0.75,-90.75,7009:100:4,0.89
+Brotula,ordwayi,0.25,-91.25,7009:101:1,1.00
+Brotula,ordwayi,0.25,-91.75,7009:101:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 7)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Brotula,ordwayi,-11.75,-77.25,5107:217:3,87,19.85,35.04,1982,0,19
+Brotula,ordwayi,-0.75,-90.75,5009:100:4,138,23.73,34.45,584,0,22
+Brotula,ordwayi,-0.75,-90.25,5009:100:3,129,23.73,34.45,510,0,22
+Brotula,ordwayi,-0.75,-80.75,5008:100:4,216,25.87,33.38,717,0,25
+Brotula,ordwayi,-0.25,-91.75,5009:101:2,2692,23.55,34.11,791,0,26
+Brotula,ordwayi,-0.25,-91.25,5009:101:1,480,23.55,34.11,751,0,16
+Brotula,ordwayi,1.25,-91.25,7009:111:1,2036,25.59,33.81,418,0,134

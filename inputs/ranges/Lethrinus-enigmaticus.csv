@@ -1,0 +1,104 @@
+Mapping parameters for Lethrinus enigmaticus (Blackeye emperor)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 51,
+Bounding Box (NSWE): ,-3,-9,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,6,26,50
+Temperature (°C),1,27.43,27.93,28.19,32.39
+Salinity (psu),1,34.57,35.07,35.18,35.68
+Primary Production,1,184,187.6,471.4,785.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,17,69.8,255.199996948242,329
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 63): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Lethrinus,enigmaticus,-4.25,39.75,3003:249:2,0.08
+Lethrinus,enigmaticus,-4.75,39.75,3003:249:4,0.10
+Lethrinus,enigmaticus,-6.25,39.75,3003:469:2,0.19
+Lethrinus,enigmaticus,-6.75,39.75,3003:469:4,0.13
+Lethrinus,enigmaticus,-7.25,39.75,3003:479:2,0.10
+Lethrinus,enigmaticus,-7.75,39.75,3003:479:4,0.09
+Lethrinus,enigmaticus,-8.25,39.75,3003:489:2,0.11
+Lethrinus,enigmaticus,-8.75,39.75,3003:489:4,0.13
+Lethrinus,enigmaticus,-6.25,71.25,3007:361:1,0.18
+Lethrinus,enigmaticus,-6.25,71.75,3007:361:2,0.16
+Lethrinus,enigmaticus,-6.75,71.25,3007:361:3,0.16
+Lethrinus,enigmaticus,-6.75,71.75,3007:361:4,0.16
+Lethrinus,enigmaticus,-6.25,72.25,3007:362:1,0.08
+Lethrinus,enigmaticus,-6.25,72.75,3007:362:2,0.08
+Lethrinus,enigmaticus,-6.75,72.25,3007:362:3,0.08
+Lethrinus,enigmaticus,-7.25,71.25,3007:371:1,0.08
+Lethrinus,enigmaticus,-7.25,71.75,3007:371:2,0.08
+Lethrinus,enigmaticus,-7.25,72.25,3007:372:1,0.04
+Lethrinus,enigmaticus,-7.25,72.75,3007:372:2,0.04
+Lethrinus,enigmaticus,-5.25,39.75,3003:459:2,0.21
+Lethrinus,enigmaticus,-5.75,39.25,3003:459:3,0.20
+Lethrinus,enigmaticus,-6.25,39.25,3003:469:1,0.26
+Lethrinus,enigmaticus,-7.25,52.75,3005:372:2,0.34
+Lethrinus,enigmaticus,-4.75,72.25,3007:142:3,0.39
+Lethrinus,enigmaticus,-4.75,72.75,3007:142:4,0.39
+Lethrinus,enigmaticus,-5.25,71.75,3007:351:2,0.28
+Lethrinus,enigmaticus,-5.75,71.75,3007:351:4,0.28
+Lethrinus,enigmaticus,-5.25,72.25,3007:352:1,0.23
+Lethrinus,enigmaticus,-5.25,72.75,3007:352:2,0.23
+Lethrinus,enigmaticus,-5.75,72.25,3007:352:3,0.23
+Lethrinus,enigmaticus,-5.75,72.75,3007:352:4,0.23
+Lethrinus,enigmaticus,-7.25,56.25,3005:476:1,0.41
+Lethrinus,enigmaticus,-7.25,56.75,3005:476:2,0.41
+Lethrinus,enigmaticus,-7.25,57.25,3005:477:1,0.49
+Lethrinus,enigmaticus,-8.25,60.25,3006:380:1,0.46
+Lethrinus,enigmaticus,-6.25,52.75,3005:362:2,0.66
+Lethrinus,enigmaticus,-6.75,52.75,3005:362:4,0.66
+Lethrinus,enigmaticus,-6.25,53.25,3005:363:1,0.66
+Lethrinus,enigmaticus,-6.25,56.25,3005:466:1,0.67
+Lethrinus,enigmaticus,-3.75,54.75,3005:134:4,0.92
+Lethrinus,enigmaticus,-4.75,53.25,3005:143:3,0.96
+Lethrinus,enigmaticus,-4.25,54.25,3005:144:1,1.00
+Lethrinus,enigmaticus,-4.25,54.75,3005:144:2,1.00
+Lethrinus,enigmaticus,-4.75,54.25,3005:144:3,1.00
+Lethrinus,enigmaticus,-4.75,54.75,3005:144:4,1.00
+Lethrinus,enigmaticus,-3.75,55.25,3005:235:3,0.95
+Lethrinus,enigmaticus,-3.75,55.75,3005:235:4,0.95
+Lethrinus,enigmaticus,-3.75,56.25,3005:236:3,0.98
+Lethrinus,enigmaticus,-4.25,55.75,3005:245:2,1.00
+Lethrinus,enigmaticus,-4.75,55.25,3005:245:3,1.00
+Lethrinus,enigmaticus,-4.75,55.75,3005:245:4,1.00
+Lethrinus,enigmaticus,-4.25,56.25,3005:246:1,1.00
+Lethrinus,enigmaticus,-4.75,56.25,3005:246:3,1.00
+Lethrinus,enigmaticus,-4.75,56.75,3005:246:4,1.00
+Lethrinus,enigmaticus,-5.75,52.75,3005:352:4,0.92
+Lethrinus,enigmaticus,-5.25,53.25,3005:353:1,0.86
+Lethrinus,enigmaticus,-5.75,53.25,3005:353:3,0.83
+Lethrinus,enigmaticus,-5.75,53.75,3005:353:4,0.94
+Lethrinus,enigmaticus,-5.25,55.75,3005:455:2,0.98
+Lethrinus,enigmaticus,-5.75,55.25,3005:455:3,0.98
+Lethrinus,enigmaticus,-5.25,56.25,3005:456:1,0.94
+Lethrinus,enigmaticus,-5.75,56.25,3005:456:3,0.94
+Lethrinus,enigmaticus,-5.75,56.75,3005:456:4,0.96
+
+
+Occurrence cells used for creating environmental envelope (n = 5)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Lethrinus,enigmaticus,-5.25,56.75,3005:456:2,274,27.98,35.04,184,0,212
+Lethrinus,enigmaticus,-5.25,53.25,3005:353:1,1547,27.9,35.14,499,0,284
+Lethrinus,enigmaticus,-4.75,56.25,3005:246:3,125,28.15,35.11,193,0,134
+Lethrinus,enigmaticus,-4.75,55.25,3005:245:3,101,28.09,35.13,430,0,27
+Lethrinus,enigmaticus,-3.75,55.25,3005:235:3,718,28.22,35.2,408,0,134

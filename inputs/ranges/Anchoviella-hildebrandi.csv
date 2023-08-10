@@ -1,0 +1,226 @@
+Mapping parameters for Anchoviella brevirostris (Snubnose anchovy)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 31 |  41,
+Bounding Box (NSWE): ,10,-27,-61,-37
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,6,26,50
+Temperature (°C),1,26.59,27.12,28.12,32.33
+Salinity (psu),1,22.85,27.45,37.43,39.52
+Primary Production,1,403,1176,4294,5669.5
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,1,12,180,217.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 176): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Anchoviella,brevirostris,-2.25,-39.75,5003:229:2,0.06
+Anchoviella,brevirostris,-2.75,-39.25,5003:229:3,0.04
+Anchoviella,brevirostris,-3.25,-39.75,5003:239:2,0.02
+Anchoviella,brevirostris,-4.75,-37.75,5003:247:4,0.02
+Anchoviella,brevirostris,-1.75,-42.75,5004:112:4,0.01
+Anchoviella,brevirostris,-1.25,-44.25,5004:114:1,0.11
+Anchoviella,brevirostris,-2.25,-40.25,5004:120:1,0.03
+Anchoviella,brevirostris,-2.75,-40.25,5004:120:3,0.01
+Anchoviella,brevirostris,-2.75,-40.75,5004:120:4,0.09
+Anchoviella,brevirostris,-2.75,-41.25,5004:121:3,0.09
+Anchoviella,brevirostris,-2.75,-41.75,5004:121:4,0.16
+Anchoviella,brevirostris,-2.25,-43.25,5004:123:1,0.02
+Anchoviella,brevirostris,-2.75,-43.75,5004:123:4,0.11
+Anchoviella,brevirostris,-2.25,-44.75,5004:124:2,0.13
+Anchoviella,brevirostris,-3.25,-44.75,5004:134:2,0.09
+Anchoviella,brevirostris,-0.25,-45.25,5004:205:1,0.07
+Anchoviella,brevirostris,-0.75,-45.25,5004:205:3,0.01
+Anchoviella,brevirostris,-10.75,-37.25,5103:207:3,0.08
+Anchoviella,brevirostris,-11.75,-37.75,5103:217:4,0.18
+Anchoviella,brevirostris,-12.25,-37.75,5103:227:2,0.19
+Anchoviella,brevirostris,-12.75,-38.25,5103:228:3,0.08
+Anchoviella,brevirostris,-13.75,-38.75,5103:238:4,0.04
+Anchoviella,brevirostris,-14.25,-39.25,5103:249:1,0.02
+Anchoviella,brevirostris,-14.75,-39.25,5103:249:3,0.12
+Anchoviella,brevirostris,-15.75,-38.75,5103:458:4,0.08
+Anchoviella,brevirostris,0.25,-45.75,7004:205:2,0.05
+Anchoviella,brevirostris,0.75,-45.75,7004:205:4,0.16
+Anchoviella,brevirostris,0.25,-46.25,7004:206:1,0.02
+Anchoviella,brevirostris,0.75,-46.25,7004:206:3,0.05
+Anchoviella,brevirostris,1.25,-46.25,7004:216:1,0.06
+Anchoviella,brevirostris,1.25,-46.75,7004:216:2,0.16
+Anchoviella,brevirostris,1.25,-47.25,7004:217:1,0.07
+Anchoviella,brevirostris,1.25,-48.25,7004:218:1,0.12
+Anchoviella,brevirostris,1.25,-48.75,7004:218:2,0.12
+Anchoviella,brevirostris,1.75,-48.25,7004:218:3,0.12
+Anchoviella,brevirostris,1.75,-48.75,7004:218:4,0.10
+Anchoviella,brevirostris,2.25,-47.75,7004:227:2,0.08
+Anchoviella,brevirostris,2.75,-47.75,7004:227:4,0.01
+Anchoviella,brevirostris,6.75,-55.75,7005:465:4,0.18
+Anchoviella,brevirostris,7.25,-55.25,7005:475:1,0.11
+Anchoviella,brevirostris,7.25,-55.75,7005:475:2,0.04
+Anchoviella,brevirostris,7.25,-57.25,7005:477:1,0.12
+Anchoviella,brevirostris,7.75,-57.25,7005:477:3,0.11
+Anchoviella,brevirostris,8.25,-57.75,7005:487:2,0.09
+Anchoviella,brevirostris,-0.25,-45.75,5004:205:2,0.35
+Anchoviella,brevirostris,-11.25,-37.25,5103:217:1,0.32
+Anchoviella,brevirostris,-11.75,-37.25,5103:217:3,0.37
+Anchoviella,brevirostris,-12.75,-38.75,5103:228:4,0.24
+Anchoviella,brevirostris,-13.25,-38.75,5103:238:2,0.35
+Anchoviella,brevirostris,0.75,-46.75,7004:206:4,0.37
+Anchoviella,brevirostris,1.75,-47.25,7004:217:3,0.20
+Anchoviella,brevirostris,3.75,-48.75,7004:238:4,0.27
+Anchoviella,brevirostris,6.75,-55.25,7005:465:3,0.26
+Anchoviella,brevirostris,7.25,-56.25,7005:476:1,0.30
+Anchoviella,brevirostris,7.75,-56.75,7005:476:4,0.22
+Anchoviella,brevirostris,7.75,-57.75,7005:477:4,0.30
+Anchoviella,brevirostris,7.75,-59.25,7005:479:3,0.20
+Anchoviella,brevirostris,8.25,-58.25,7005:488:1,0.35
+Anchoviella,brevirostris,9.25,-59.25,7005:499:1,0.21
+Anchoviella,brevirostris,-2.75,-42.25,5004:122:3,0.49
+Anchoviella,brevirostris,-2.75,-42.75,5004:122:4,0.46
+Anchoviella,brevirostris,-2.25,-43.75,5004:123:2,0.41
+Anchoviella,brevirostris,-2.75,-44.25,5004:124:3,0.54
+Anchoviella,brevirostris,-0.75,-45.75,5004:205:4,0.58
+Anchoviella,brevirostris,0.25,-46.75,7004:206:2,0.49
+Anchoviella,brevirostris,0.75,-47.25,7004:207:3,0.58
+Anchoviella,brevirostris,2.75,-48.25,7004:228:3,0.57
+Anchoviella,brevirostris,3.75,-49.25,7004:239:3,0.55
+Anchoviella,brevirostris,3.25,-50.75,7005:130:2,0.53
+Anchoviella,brevirostris,5.75,-51.25,7005:351:3,0.42
+Anchoviella,brevirostris,6.25,-52.75,7005:362:2,0.43
+Anchoviella,brevirostris,5.75,-55.25,7005:455:3,0.40
+Anchoviella,brevirostris,6.75,-56.75,7005:466:4,0.58
+Anchoviella,brevirostris,9.75,-59.75,7005:499:4,0.43
+Anchoviella,brevirostris,-2.75,-44.75,5004:124:4,0.77
+Anchoviella,brevirostris,-0.25,-46.25,5004:206:1,0.71
+Anchoviella,brevirostris,-1.75,-45.25,5004:215:3,0.77
+Anchoviella,brevirostris,2.75,-48.75,7004:228:4,0.75
+Anchoviella,brevirostris,3.25,-48.75,7004:238:2,0.66
+Anchoviella,brevirostris,6.75,-54.75,7005:364:4,0.67
+Anchoviella,brevirostris,7.25,-54.25,7005:374:1,0.76
+Anchoviella,brevirostris,7.25,-54.75,7005:374:2,0.66
+Anchoviella,brevirostris,8.75,-58.75,7005:488:4,0.71
+Anchoviella,brevirostris,-1.25,-44.75,5004:114:2,1.00
+Anchoviella,brevirostris,-1.75,-44.25,5004:114:3,1.00
+Anchoviella,brevirostris,-1.75,-44.75,5004:114:4,1.00
+Anchoviella,brevirostris,-2.25,-44.25,5004:124:1,1.00
+Anchoviella,brevirostris,-0.25,-46.75,5004:206:2,1.00
+Anchoviella,brevirostris,-0.75,-46.25,5004:206:3,1.00
+Anchoviella,brevirostris,-0.75,-46.75,5004:206:4,1.00
+Anchoviella,brevirostris,-0.25,-47.25,5004:207:1,1.00
+Anchoviella,brevirostris,-0.25,-47.75,5004:207:2,1.00
+Anchoviella,brevirostris,-0.75,-47.25,5004:207:3,1.00
+Anchoviella,brevirostris,-0.75,-47.75,5004:207:4,1.00
+Anchoviella,brevirostris,-1.25,-45.25,5004:215:1,0.88
+Anchoviella,brevirostris,-1.25,-45.75,5004:215:2,0.88
+Anchoviella,brevirostris,-1.25,-46.25,5004:216:1,1.00
+Anchoviella,brevirostris,0.25,-47.25,7004:207:1,0.88
+Anchoviella,brevirostris,0.25,-47.75,7004:207:2,1.00
+Anchoviella,brevirostris,0.75,-47.75,7004:207:4,1.00
+Anchoviella,brevirostris,1.25,-47.75,7004:217:2,1.00
+Anchoviella,brevirostris,1.75,-47.75,7004:217:4,0.84
+Anchoviella,brevirostris,2.25,-48.25,7004:228:1,1.00
+Anchoviella,brevirostris,2.25,-48.75,7004:228:2,1.00
+Anchoviella,brevirostris,3.25,-49.25,7004:239:1,1.00
+Anchoviella,brevirostris,3.25,-49.75,7004:239:2,1.00
+Anchoviella,brevirostris,3.75,-49.75,7004:239:4,1.00
+Anchoviella,brevirostris,4.25,-49.75,7004:249:2,0.84
+Anchoviella,brevirostris,3.25,-50.25,7005:130:1,0.93
+Anchoviella,brevirostris,3.75,-50.25,7005:130:3,0.93
+Anchoviella,brevirostris,3.75,-50.75,7005:130:4,0.93
+Anchoviella,brevirostris,3.25,-51.25,7005:131:1,0.93
+Anchoviella,brevirostris,3.75,-51.25,7005:131:3,0.93
+Anchoviella,brevirostris,4.25,-50.25,7005:140:1,1.00
+Anchoviella,brevirostris,4.25,-50.75,7005:140:2,1.00
+Anchoviella,brevirostris,4.75,-50.25,7005:140:3,1.00
+Anchoviella,brevirostris,4.75,-50.75,7005:140:4,1.00
+Anchoviella,brevirostris,4.25,-51.25,7005:141:1,1.00
+Anchoviella,brevirostris,4.25,-51.75,7005:141:2,1.00
+Anchoviella,brevirostris,4.75,-51.25,7005:141:3,1.00
+Anchoviella,brevirostris,4.75,-51.75,7005:141:4,1.00
+Anchoviella,brevirostris,4.75,-52.25,7005:142:3,1.00
+Anchoviella,brevirostris,5.25,-50.75,7005:350:2,1.00
+Anchoviella,brevirostris,5.25,-51.25,7005:351:1,1.00
+Anchoviella,brevirostris,5.25,-51.75,7005:351:2,1.00
+Anchoviella,brevirostris,5.75,-51.75,7005:351:4,1.00
+Anchoviella,brevirostris,5.25,-52.25,7005:352:1,1.00
+Anchoviella,brevirostris,5.25,-52.75,7005:352:2,1.00
+Anchoviella,brevirostris,5.75,-52.25,7005:352:3,1.00
+Anchoviella,brevirostris,5.75,-52.75,7005:352:4,1.00
+Anchoviella,brevirostris,5.25,-53.25,7005:353:1,1.00
+Anchoviella,brevirostris,5.75,-53.25,7005:353:3,1.00
+Anchoviella,brevirostris,5.75,-53.75,7005:353:4,1.00
+Anchoviella,brevirostris,5.75,-54.25,7005:354:3,1.00
+Anchoviella,brevirostris,5.75,-54.75,7005:354:4,1.00
+Anchoviella,brevirostris,6.25,-51.75,7005:361:2,1.00
+Anchoviella,brevirostris,6.25,-52.25,7005:362:1,1.00
+Anchoviella,brevirostris,6.75,-52.25,7005:362:3,1.00
+Anchoviella,brevirostris,6.75,-52.75,7005:362:4,1.00
+Anchoviella,brevirostris,6.25,-53.25,7005:363:1,0.89
+Anchoviella,brevirostris,6.25,-53.75,7005:363:2,1.00
+Anchoviella,brevirostris,6.75,-53.25,7005:363:3,1.00
+Anchoviella,brevirostris,6.75,-53.75,7005:363:4,0.94
+Anchoviella,brevirostris,6.25,-54.25,7005:364:1,1.00
+Anchoviella,brevirostris,6.25,-54.75,7005:364:2,1.00
+Anchoviella,brevirostris,6.75,-54.25,7005:364:3,0.87
+Anchoviella,brevirostris,7.25,-53.75,7005:373:2,0.87
+Anchoviella,brevirostris,5.75,-55.75,7005:455:4,1.00
+Anchoviella,brevirostris,5.75,-56.25,7005:456:3,1.00
+Anchoviella,brevirostris,5.75,-56.75,7005:456:4,1.00
+Anchoviella,brevirostris,6.25,-55.25,7005:465:1,1.00
+Anchoviella,brevirostris,6.25,-55.75,7005:465:2,1.00
+Anchoviella,brevirostris,6.25,-56.25,7005:466:1,1.00
+Anchoviella,brevirostris,6.25,-56.75,7005:466:2,1.00
+Anchoviella,brevirostris,6.25,-57.25,7005:467:1,1.00
+Anchoviella,brevirostris,6.25,-57.75,7005:467:2,1.00
+Anchoviella,brevirostris,6.75,-57.25,7005:467:3,0.97
+Anchoviella,brevirostris,6.75,-57.75,7005:467:4,1.00
+Anchoviella,brevirostris,6.75,-58.25,7005:468:3,1.00
+Anchoviella,brevirostris,7.25,-57.75,7005:477:2,0.82
+Anchoviella,brevirostris,7.25,-58.25,7005:478:1,1.00
+Anchoviella,brevirostris,7.25,-58.75,7005:478:2,1.00
+Anchoviella,brevirostris,7.75,-58.25,7005:478:3,0.82
+Anchoviella,brevirostris,7.75,-58.75,7005:478:4,1.00
+Anchoviella,brevirostris,8.25,-58.75,7005:488:2,1.00
+Anchoviella,brevirostris,8.25,-59.25,7005:489:1,1.00
+Anchoviella,brevirostris,8.25,-59.75,7005:489:2,1.00
+Anchoviella,brevirostris,8.75,-59.25,7005:489:3,1.00
+Anchoviella,brevirostris,8.75,-59.75,7005:489:4,1.00
+Anchoviella,brevirostris,9.25,-59.75,7005:499:2,0.92
+Anchoviella,brevirostris,8.75,-60.25,7006:380:3,1.00
+Anchoviella,brevirostris,8.75,-60.75,7006:380:4,1.00
+Anchoviella,brevirostris,9.25,-60.25,7006:390:1,1.00
+Anchoviella,brevirostris,9.25,-60.75,7006:390:2,1.00
+Anchoviella,brevirostris,9.75,-60.25,7006:390:3,1.00
+Anchoviella,brevirostris,9.75,-60.75,7006:390:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 14)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Anchoviella,brevirostris,-4.75,-37.25,5003:247:3,17,27.39,36.22,403,0,15
+Anchoviella,brevirostris,-0.75,-46.75,5004:206:4,18,27.9,37.43,1981,0,22
+Anchoviella,brevirostris,2.25,-48.75,7004:228:2,35,27.78,27.45,4294,0,180
+Anchoviella,brevirostris,2.75,-49.75,7004:229:4,64,27.93,22.85,4271,0,134
+Anchoviella,brevirostris,4.25,-50.75,7005:140:2,55,27.86,32.66,3007,0,96
+Anchoviella,brevirostris,4.25,-50.25,7005:140:1,117,27.86,32.66,1787,0,148
+Anchoviella,brevirostris,4.75,-51.75,7005:141:4,49,27.87,32.27,3145,0,26
+Anchoviella,brevirostris,5.25,-52.75,7005:352:2,17,27.63,31.28,2490,0,12
+Anchoviella,brevirostris,5.75,-57.25,7005:457:3,1,27.35,34.93,1176,0,1
+Anchoviella,brevirostris,6.25,-57.25,7005:467:1,16,27.32,34.93,1280,0,18
+Anchoviella,brevirostris,6.25,-55.25,7005:465:1,37,27.33,34.31,1462,0,27
+Anchoviella,brevirostris,6.75,-57.75,7005:467:4,5,27.32,35.02,1664,0,22
+Anchoviella,brevirostris,8.75,-60.75,7006:380:4,3,27.65,31.87,2681,0,15
+Anchoviella,brevirostris,9.75,-60.75,7006:390:4,43,27.61,31.87,3605,0,27

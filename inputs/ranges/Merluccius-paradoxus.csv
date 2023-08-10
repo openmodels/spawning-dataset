@@ -1,0 +1,261 @@
+Mapping parameters for Merluccius paradoxus (Deep-water Cape hake)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas:  47 |  51 ,
+Bounding Box (NSWE): ,-18,-38,11,46
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,200,400,552,1000
+Temperature (°C),1,12.69,16.2,21.21,26.66
+Salinity (psu),1,34.19,34.69,35.69,36.19
+Primary Production (mgC·m-3·day-1) ,1,9.71,10.71,61.12,103.37
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,23.91,59.13,219.5,359.07
+Distance to Land (km),0,16,17,305,451.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 208): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Merluccius,paradoxus,-37.25,20.75,3302:370:2,0.01
+Merluccius,paradoxus,-36.25,21.25,3302:361:1,0.08
+Merluccius,paradoxus,-35.75,20.25,3302:350:3,0.02
+Merluccius,paradoxus,-35.25,20.25,3302:350:1,0.04
+Merluccius,paradoxus,-33.75,26.75,3302:236:4,0.14
+Merluccius,paradoxus,-34.25,24.25,3302:144:1,0.15
+Merluccius,paradoxus,-34.25,23.75,3302:143:2,0.10
+Merluccius,paradoxus,-34.25,23.25,3302:143:1,0.07
+Merluccius,paradoxus,-34.75,22.75,3302:142:4,0.10
+Merluccius,paradoxus,-36.25,19.25,3301:469:1,0.09
+Merluccius,paradoxus,-35.25,18.25,3301:458:1,0.09
+Merluccius,paradoxus,-32.25,17.75,3301:227:2,0.07
+Merluccius,paradoxus,-31.75,17.75,3301:217:4,0.03
+Merluccius,paradoxus,-30.75,17.25,3301:207:3,0.10
+Merluccius,paradoxus,-30.25,16.75,3301:206:2,0.10
+Merluccius,paradoxus,-25.25,35.75,3203:455:2,0.05
+Merluccius,paradoxus,-25.25,34.75,3203:354:2,0.08
+Merluccius,paradoxus,-25.25,33.25,3203:353:1,0.18
+Merluccius,paradoxus,-25.75,32.75,3203:352:4,0.11
+Merluccius,paradoxus,-24.75,35.75,3203:245:4,0.19
+Merluccius,paradoxus,-24.25,35.75,3203:245:2,0.17
+Merluccius,paradoxus,-23.75,36.25,3203:236:3,0.03
+Merluccius,paradoxus,-23.25,36.25,3203:236:1,0.07
+Merluccius,paradoxus,-23.75,35.75,3203:235:4,0.15
+Merluccius,paradoxus,-23.25,35.75,3203:235:2,0.12
+Merluccius,paradoxus,-22.75,36.25,3203:226:3,0.06
+Merluccius,paradoxus,-22.75,35.75,3203:225:4,0.08
+Merluccius,paradoxus,-22.25,35.75,3203:225:2,0.04
+Merluccius,paradoxus,-21.25,35.75,3203:215:2,0.01
+Merluccius,paradoxus,-20.75,36.25,3203:206:3,0.01
+Merluccius,paradoxus,-20.25,36.25,3203:206:1,0.01
+Merluccius,paradoxus,-29.75,16.25,3201:496:3,0.07
+Merluccius,paradoxus,-29.25,16.25,3201:496:1,0.06
+Merluccius,paradoxus,-29.75,15.75,3201:495:4,0.16
+Merluccius,paradoxus,-29.25,15.75,3201:495:2,0.15
+Merluccius,paradoxus,-28.75,15.75,3201:485:4,0.05
+Merluccius,paradoxus,-28.75,15.25,3201:485:3,0.10
+Merluccius,paradoxus,-27.75,15.25,3201:475:3,0.12
+Merluccius,paradoxus,-27.25,15.25,3201:475:1,0.01
+Merluccius,paradoxus,-26.25,14.75,3201:364:2,0.06
+Merluccius,paradoxus,-26.25,13.25,3201:363:1,0.07
+Merluccius,paradoxus,-25.25,14.25,3201:354:1,0.07
+Merluccius,paradoxus,-23.25,13.75,3201:133:2,0.18
+Merluccius,paradoxus,-21.25,13.25,3201:113:1,0.16
+Merluccius,paradoxus,-20.75,13.25,3201:103:3,0.01
+Merluccius,paradoxus,-18.75,12.25,3101:382:3,0.03
+Merluccius,paradoxus,-18.25,11.25,3101:381:1,0.18
+Merluccius,paradoxus,-35.75,21.75,3302:351:4,0.28
+Merluccius,paradoxus,-34.25,25.25,3302:245:1,0.34
+Merluccius,paradoxus,-32.75,29.25,3302:229:3,0.22
+Merluccius,paradoxus,-34.25,17.25,3301:247:1,0.25
+Merluccius,paradoxus,-32.75,16.25,3301:226:3,0.27
+Merluccius,paradoxus,-31.75,17.25,3301:217:3,0.35
+Merluccius,paradoxus,-31.25,17.25,3301:217:1,0.32
+Merluccius,paradoxus,-30.25,16.25,3301:206:1,0.24
+Merluccius,paradoxus,-25.25,35.25,3203:455:1,0.21
+Merluccius,paradoxus,-29.75,32.25,3203:392:3,0.32
+Merluccius,paradoxus,-28.75,32.75,3203:382:4,0.39
+Merluccius,paradoxus,-28.25,32.75,3203:382:2,0.37
+Merluccius,paradoxus,-27.25,33.25,3203:373:1,0.25
+Merluccius,paradoxus,-27.75,32.75,3203:372:4,0.36
+Merluccius,paradoxus,-27.25,32.75,3203:372:2,0.36
+Merluccius,paradoxus,-26.25,33.25,3203:363:1,0.36
+Merluccius,paradoxus,-26.75,32.75,3203:362:4,0.38
+Merluccius,paradoxus,-25.25,34.25,3203:354:1,0.27
+Merluccius,paradoxus,-25.75,33.25,3203:353:3,0.38
+Merluccius,paradoxus,-25.25,33.75,3203:353:2,0.21
+Merluccius,paradoxus,-24.75,35.25,3203:245:3,0.24
+Merluccius,paradoxus,-29.25,15.25,3201:495:1,0.38
+Merluccius,paradoxus,-26.75,14.75,3201:364:4,0.22
+Merluccius,paradoxus,-25.75,14.25,3201:354:3,0.22
+Merluccius,paradoxus,-25.75,13.25,3201:353:3,0.39
+Merluccius,paradoxus,-25.25,13.25,3201:353:1,0.36
+Merluccius,paradoxus,-23.75,13.75,3201:133:4,0.23
+Merluccius,paradoxus,-23.75,12.75,3201:132:4,0.35
+Merluccius,paradoxus,-22.75,13.75,3201:123:4,0.21
+Merluccius,paradoxus,-31.25,30.25,3303:110:1,0.54
+Merluccius,paradoxus,-30.25,31.75,3303:101:2,0.42
+Merluccius,paradoxus,-30.25,31.25,3303:101:1,0.50
+Merluccius,paradoxus,-30.75,30.75,3303:100:4,0.51
+Merluccius,paradoxus,-30.25,30.75,3303:100:2,0.59
+Merluccius,paradoxus,-33.75,25.25,3302:235:3,0.48
+Merluccius,paradoxus,-32.25,29.25,3302:229:1,0.59
+Merluccius,paradoxus,-31.75,29.75,3302:219:4,0.57
+Merluccius,paradoxus,-32.25,17.25,3301:227:1,0.56
+Merluccius,paradoxus,-31.25,15.75,3301:215:2,0.47
+Merluccius,paradoxus,-30.75,16.75,3301:206:4,0.41
+Merluccius,paradoxus,-30.25,15.75,3301:205:2,0.58
+Merluccius,paradoxus,-29.25,32.25,3203:392:1,0.42
+Merluccius,paradoxus,-29.75,31.75,3203:391:4,0.46
+Merluccius,paradoxus,-29.25,31.75,3203:391:2,0.59
+Merluccius,paradoxus,-28.75,32.25,3203:382:3,0.46
+Merluccius,paradoxus,-26.25,14.25,3201:364:1,0.50
+Merluccius,paradoxus,-24.75,13.75,3201:143:4,0.56
+Merluccius,paradoxus,-24.25,13.75,3201:143:2,0.44
+Merluccius,paradoxus,-22.25,13.25,3201:123:1,0.58
+Merluccius,paradoxus,-21.75,13.25,3201:113:3,0.48
+Merluccius,paradoxus,-21.75,12.25,3201:112:3,0.46
+Merluccius,paradoxus,-20.75,11.75,3201:101:4,0.58
+Merluccius,paradoxus,-20.25,11.25,3201:101:1,0.42
+Merluccius,paradoxus,-19.25,12.25,3101:392:1,0.51
+Merluccius,paradoxus,-30.75,30.25,3303:100:3,0.61
+Merluccius,paradoxus,-36.25,20.75,3302:360:2,0.69
+Merluccius,paradoxus,-34.25,27.25,3302:247:1,0.72
+Merluccius,paradoxus,-34.25,26.75,3302:246:2,0.76
+Merluccius,paradoxus,-33.25,28.25,3302:238:1,0.66
+Merluccius,paradoxus,-33.75,27.75,3302:237:4,0.67
+Merluccius,paradoxus,-32.75,28.75,3302:228:4,0.62
+Merluccius,paradoxus,-32.75,28.25,3302:228:3,0.79
+Merluccius,paradoxus,-32.25,28.75,3302:228:2,0.72
+Merluccius,paradoxus,-31.75,29.25,3302:219:3,0.66
+Merluccius,paradoxus,-31.25,29.75,3302:219:2,0.63
+Merluccius,paradoxus,-32.75,17.75,3301:227:4,0.68
+Merluccius,paradoxus,-29.75,31.25,3203:391:3,0.61
+Merluccius,paradoxus,-28.75,14.75,3201:384:4,0.71
+Merluccius,paradoxus,-27.25,14.75,3201:374:2,0.75
+Merluccius,paradoxus,-25.75,13.75,3201:353:4,0.79
+Merluccius,paradoxus,-25.25,13.75,3201:353:2,0.67
+Merluccius,paradoxus,-19.75,12.75,3101:392:4,0.78
+Merluccius,paradoxus,-19.75,11.25,3101:391:3,0.71
+Merluccius,paradoxus,-18.75,11.25,3101:381:3,0.76
+Merluccius,paradoxus,-18.25,11.75,3101:381:2,0.73
+Merluccius,paradoxus,-36.75,22.25,3302:362:3,0.80
+Merluccius,paradoxus,-36.25,22.25,3302:362:1,0.95
+Merluccius,paradoxus,-36.75,21.75,3302:361:4,1.00
+Merluccius,paradoxus,-36.75,21.25,3302:361:3,1.00
+Merluccius,paradoxus,-36.25,21.75,3302:361:2,1.00
+Merluccius,paradoxus,-36.75,20.75,3302:360:4,1.00
+Merluccius,paradoxus,-36.75,20.25,3302:360:3,1.00
+Merluccius,paradoxus,-36.25,20.25,3302:360:1,1.00
+Merluccius,paradoxus,-35.25,23.75,3302:353:2,0.92
+Merluccius,paradoxus,-35.25,23.25,3302:353:1,1.00
+Merluccius,paradoxus,-35.75,22.75,3302:352:4,0.94
+Merluccius,paradoxus,-35.75,22.25,3302:352:3,1.00
+Merluccius,paradoxus,-35.25,22.75,3302:352:2,1.00
+Merluccius,paradoxus,-35.25,22.25,3302:352:1,1.00
+Merluccius,paradoxus,-35.25,21.75,3302:351:2,1.00
+Merluccius,paradoxus,-34.25,26.25,3302:246:1,0.97
+Merluccius,paradoxus,-34.75,25.75,3302:245:4,0.82
+Merluccius,paradoxus,-34.75,25.25,3302:245:3,0.90
+Merluccius,paradoxus,-34.25,25.75,3302:245:2,1.00
+Merluccius,paradoxus,-33.75,27.25,3302:237:3,0.81
+Merluccius,paradoxus,-33.25,27.75,3302:237:2,0.84
+Merluccius,paradoxus,-34.75,24.75,3302:144:4,1.00
+Merluccius,paradoxus,-34.75,24.25,3302:144:3,1.00
+Merluccius,paradoxus,-34.75,23.75,3302:143:4,1.00
+Merluccius,paradoxus,-34.75,23.25,3302:143:3,1.00
+Merluccius,paradoxus,-34.25,22.25,3302:142:1,0.82
+Merluccius,paradoxus,-36.25,19.75,3301:469:2,1.00
+Merluccius,paradoxus,-35.75,19.75,3301:459:4,1.00
+Merluccius,paradoxus,-35.75,19.25,3301:459:3,1.00
+Merluccius,paradoxus,-35.25,19.25,3301:459:1,1.00
+Merluccius,paradoxus,-35.25,18.75,3301:458:2,1.00
+Merluccius,paradoxus,-34.75,18.75,3301:248:4,1.00
+Merluccius,paradoxus,-34.75,18.25,3301:248:3,1.00
+Merluccius,paradoxus,-34.25,18.25,3301:248:1,0.88
+Merluccius,paradoxus,-34.75,17.75,3301:247:4,1.00
+Merluccius,paradoxus,-34.25,17.75,3301:247:2,1.00
+Merluccius,paradoxus,-33.75,17.75,3301:237:4,1.00
+Merluccius,paradoxus,-33.75,17.25,3301:237:3,1.00
+Merluccius,paradoxus,-33.25,17.25,3301:237:1,1.00
+Merluccius,paradoxus,-33.25,16.75,3301:236:2,1.00
+Merluccius,paradoxus,-32.75,17.25,3301:227:3,1.00
+Merluccius,paradoxus,-32.75,16.75,3301:226:4,1.00
+Merluccius,paradoxus,-32.25,16.75,3301:226:2,1.00
+Merluccius,paradoxus,-32.25,16.25,3301:226:1,1.00
+Merluccius,paradoxus,-31.75,16.75,3301:216:4,1.00
+Merluccius,paradoxus,-31.75,16.25,3301:216:3,1.00
+Merluccius,paradoxus,-31.25,16.75,3301:216:2,0.87
+Merluccius,paradoxus,-31.25,16.25,3301:216:1,1.00
+Merluccius,paradoxus,-30.75,16.25,3301:206:3,0.95
+Merluccius,paradoxus,-30.75,15.75,3301:205:4,1.00
+Merluccius,paradoxus,-30.25,15.25,3301:205:1,1.00
+Merluccius,paradoxus,-29.75,15.25,3201:495:3,1.00
+Merluccius,paradoxus,-29.75,14.75,3201:394:4,1.00
+Merluccius,paradoxus,-29.25,14.75,3201:394:2,1.00
+Merluccius,paradoxus,-29.25,14.25,3201:394:1,0.91
+Merluccius,paradoxus,-28.75,14.25,3201:384:3,1.00
+Merluccius,paradoxus,-28.25,14.75,3201:384:2,1.00
+Merluccius,paradoxus,-28.25,14.25,3201:384:1,1.00
+Merluccius,paradoxus,-27.75,14.75,3201:374:4,1.00
+Merluccius,paradoxus,-27.75,14.25,3201:374:3,0.97
+Merluccius,paradoxus,-27.25,14.25,3201:374:1,1.00
+Merluccius,paradoxus,-27.25,13.75,3201:373:2,0.88
+Merluccius,paradoxus,-26.75,14.25,3201:364:3,0.87
+Merluccius,paradoxus,-26.75,13.75,3201:363:4,1.00
+Merluccius,paradoxus,-26.25,13.75,3201:363:2,0.92
+Merluccius,paradoxus,-24.75,13.25,3201:143:3,0.95
+Merluccius,paradoxus,-24.25,13.25,3201:143:1,0.99
+Merluccius,paradoxus,-23.75,13.25,3201:133:3,1.00
+Merluccius,paradoxus,-23.25,13.25,3201:133:1,1.00
+Merluccius,paradoxus,-23.25,12.75,3201:132:2,0.89
+Merluccius,paradoxus,-22.75,13.25,3201:123:3,1.00
+Merluccius,paradoxus,-22.75,12.75,3201:122:4,1.00
+Merluccius,paradoxus,-22.25,12.75,3201:122:2,1.00
+Merluccius,paradoxus,-21.75,12.75,3201:112:4,1.00
+Merluccius,paradoxus,-21.25,12.75,3201:112:2,1.00
+Merluccius,paradoxus,-21.25,12.25,3201:112:1,1.00
+Merluccius,paradoxus,-20.75,12.75,3201:102:4,0.95
+Merluccius,paradoxus,-20.75,12.25,3201:102:3,1.00
+Merluccius,paradoxus,-20.25,12.75,3201:102:2,0.83
+Merluccius,paradoxus,-20.25,12.25,3201:102:1,1.00
+Merluccius,paradoxus,-20.25,11.75,3201:101:2,1.00
+Merluccius,paradoxus,-19.75,12.25,3101:392:3,1.00
+Merluccius,paradoxus,-19.75,11.75,3101:391:4,1.00
+Merluccius,paradoxus,-19.25,11.75,3101:391:2,0.91
+Merluccius,paradoxus,-19.25,11.25,3101:391:1,0.87
+Merluccius,paradoxus,-18.75,11.75,3101:381:4,0.81
+
+
+Occurrence cells used for creating environmental envelope (n = 17)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Merluccius,paradoxus,-37.25,21.25,3302:371:1,3832,21.060266494751,0.815436005592346,35.467845916748,34.7631301879883,11.0499998554587,0,219.49626159668,336
+Merluccius,paradoxus,-36.75,21.75,3302:361:4,2081,21.2064189910889,2.07596802711487,35.4526824951172,34.8339920043945,12.2840004041791,0,219.457794189453,305
+Merluccius,paradoxus,-35.75,19.25,3301:459:3,1043,18.9339370727539,7.06597900390625,35.4997367858887,34.4253883361816,10.7060000300407,0,208.038391113281,150
+Merluccius,paradoxus,-34.75,20.25,3302:140:3,52,17.9208240509033,15.4163007736206,35.5106086730957,35.2265510559082,26.1540003120899,0,191.946914672852,17
+Merluccius,paradoxus,-34.75,20.75,3302:140:4,56,18.0444946289063,13.9480695724487,35.5112228393555,35.2240295410156,22.0289994031191,0,173.910598754883,84
+Merluccius,paradoxus,-33.25,16.75,3301:236:2,1360,18.0835494995117,3.42542004585266,35.4817008972168,34.4635124206543,12.9730002954602,0,194.581481933594,155
+Merluccius,paradoxus,-31.75,16.25,3301:216:3,491,17.3933448791504,7.80401706695557,35.4068031311035,34.5841636657715,13.6169996112585,0,201.361785888672,194
+Merluccius,paradoxus,-29.75,14.75,3201:394:4,450,17.3413333892822,6.28857517242432,35.3789520263672,34.4438247680664,10.7340002432466,0,176.95361328125,231
+Merluccius,paradoxus,-28.25,14.25,3201:384:1,996,17.3054809570313,3.84762811660767,35.1428565979004,34.4468269348145,28.177000582218202,0,166.17707824707,160
+Merluccius,paradoxus,-28.25,14.75,3201:384:2,196,16.7180767059326,11.7449989318848,34.8670196533203,34.9566192626953,46.000998467207,0,59.1336059570313,124
+Merluccius,paradoxus,-27.75,14.75,3201:374:4,405,16.4373111724854,7.96351003646851,34.9075660705566,34.5820960998535,52.0550012588501,0,131.449478149414,89
+Merluccius,paradoxus,-26.75,14.25,3201:364:3,373,15.7449417114258,9.12121963500977,35.0866241455078,34.775032043457,61.1150003969669,0,107.351943969727,124
+Merluccius,paradoxus,-23.25,13.25,3201:133:1,419,16.2066516876221,8.7141170501709,35.1376991271973,34.6381149291992,45.3319996595383,0,77.6319961547852,153
+Merluccius,paradoxus,-22.75,12.75,3201:122:4,1041,17.086540222168,4.4871711730957,35.2219543457031,34.4738311767578,28.8399998098612,0,134.087997436523,187
+Merluccius,paradoxus,-22.25,43.25,3204:123:1,394,26.6620101928711,23.9632186889648,34.6354751586914,35.2696571350098,10.612498037517101,0,196.486022949219,16
+Merluccius,paradoxus,-22.25,11.75,3201:121:2,2607,18.1903457641602,2.62650203704834,35.3420181274414,34.8962287902832,22.902999073267,0,222.824111938477,255
+Merluccius,paradoxus,-21.75,13.75,3201:113:4,101,16.2039661407471,15.0836448669434,35.222095489502,35.2170867919922,103.366002440453,0,23.9148406982422,25

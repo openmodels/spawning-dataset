@@ -1,0 +1,75 @@
+Mapping parameters for Gaidropsarus guttatus ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 27 |  34,
+Bounding Box (NSWE): ,40,27,-32,-13
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,5,5,8,10
+Temperature (°C),1,17.36,18.77,20.36,21.19
+Salinity (psu),1,35.33,35.83,36.57,37.07
+Primary Production,1,267.375,345.3,491.2,592
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,19.7,20.7,102.5,191
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 31): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Gaidropsarus,guttatus,28.25,-16.75,7201:486:2,0.15
+Gaidropsarus,guttatus,28.75,-16.25,7201:486:3,0.11
+Gaidropsarus,guttatus,28.25,-16.25,7201:486:1,0.22
+Gaidropsarus,guttatus,27.75,-15.25,7201:475:3,0.43
+Gaidropsarus,guttatus,27.75,-15.75,7201:475:4,0.43
+Gaidropsarus,guttatus,28.25,-15.25,7201:485:1,0.52
+Gaidropsarus,guttatus,28.25,-15.75,7201:485:2,0.52
+Gaidropsarus,guttatus,32.75,-17.25,7301:227:3,0.47
+Gaidropsarus,guttatus,33.25,-16.25,7301:236:1,0.51
+Gaidropsarus,guttatus,28.25,-13.75,7201:383:2,0.63
+Gaidropsarus,guttatus,28.75,-13.75,7201:383:4,0.71
+Gaidropsarus,guttatus,30.25,-15.75,7301:205:2,0.61
+Gaidropsarus,guttatus,32.75,-16.25,7301:226:3,0.61
+Gaidropsarus,guttatus,32.75,-16.75,7301:226:4,0.60
+Gaidropsarus,guttatus,39.25,-27.75,7302:497:2,0.65
+Gaidropsarus,guttatus,39.25,-28.25,7302:498:1,0.70
+Gaidropsarus,guttatus,28.75,-14.25,7201:384:3,0.87
+Gaidropsarus,guttatus,29.25,-13.25,7201:393:1,1.00
+Gaidropsarus,guttatus,29.25,-13.75,7201:393:2,1.00
+Gaidropsarus,guttatus,36.75,-25.25,7302:465:3,1.00
+Gaidropsarus,guttatus,37.25,-25.25,7302:475:1,1.00
+Gaidropsarus,guttatus,37.75,-25.25,7302:475:3,1.00
+Gaidropsarus,guttatus,37.75,-25.75,7302:475:4,1.00
+Gaidropsarus,guttatus,38.25,-27.75,7302:487:2,0.95
+Gaidropsarus,guttatus,38.75,-27.25,7302:487:3,0.95
+Gaidropsarus,guttatus,38.75,-27.75,7302:487:4,0.95
+Gaidropsarus,guttatus,38.25,-28.25,7302:488:1,1.00
+Gaidropsarus,guttatus,38.75,-28.25,7302:488:3,1.00
+Gaidropsarus,guttatus,38.75,-28.75,7302:488:4,1.00
+Gaidropsarus,guttatus,39.25,-31.25,7303:391:1,0.97
+Gaidropsarus,guttatus,39.75,-31.25,7303:391:3,0.97
+
+
+Occurrence cells used for creating environmental envelope (n = 8)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Gaidropsarus,guttatus,28.25,-14.25,7201:384:1,874,20.47,36.54,592,0,21
+Gaidropsarus,guttatus,32.75,-17.25,7301:227:3,2290,20.32,36.65,311,0,21
+Gaidropsarus,guttatus,36.75,-24.25,7302:364:3,3749,19.57,36.29,360,0,134
+Gaidropsarus,guttatus,37.25,-25.75,7302:475:2,1891,19.09,36.16,378,0,89
+Gaidropsarus,guttatus,37.25,-24.75,7302:374:2,1586,19.06,36.2,372,0,89
+Gaidropsarus,guttatus,38.25,-28.25,7302:488:1,1409,18.8,36.08,402,0,20
+Gaidropsarus,guttatus,38.75,-28.75,7302:488:4,1120,18.8,36.08,448,0,21
+Gaidropsarus,guttatus,38.75,-27.75,7302:487:4,1246,18.7,36.09,433,0,21

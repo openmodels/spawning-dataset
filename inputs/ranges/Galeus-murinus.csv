@@ -1,0 +1,176 @@
+Mapping parameters for Galeus murinus (Mouse catshark)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas:  27 ,
+Bounding Box (NSWE): ,66,61,-28,-5
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,475,564,796,1200
+Temperature (°C),1,1.86,4.85,8.06,11.68
+Salinity (psu),1,34.5,35,35.26,35.76
+Primary Production (mgC·m-3·day-1) ,1,4.3,5.3,12.4,19.1
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),1,229.92,245.61,260.69,277.1
+Distance to Land (km),0,80,81,190,338.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 128): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Galeus,murinus,62.75,-6.75,7600:226:4,0.16
+Galeus,murinus,62.75,-7.25,7600:227:3,0.11
+Galeus,murinus,61.25,-11.75,7601:111:2,0.16
+Galeus,murinus,61.25,-12.25,7601:112:1,0.03
+Galeus,murinus,61.75,-12.25,7601:112:3,0.04
+Galeus,murinus,61.75,-13.25,7601:113:3,0.07
+Galeus,murinus,61.75,-14.75,7601:114:4,0.07
+Galeus,murinus,63.25,-10.25,7601:130:1,0.11
+Galeus,murinus,63.25,-11.75,7601:131:2,0.09
+Galeus,murinus,63.75,-11.25,7601:131:3,0.08
+Galeus,murinus,62.75,-18.75,7601:228:4,0.19
+Galeus,murinus,62.75,-19.75,7601:229:4,0.11
+Galeus,murinus,62.25,-22.75,7602:122:2,0.03
+Galeus,murinus,62.25,-27.25,7602:227:1,0.18
+Galeus,murinus,62.75,-27.25,7602:227:3,0.05
+Galeus,murinus,63.25,-27.25,7602:237:1,0.15
+Galeus,murinus,63.25,-27.75,7602:237:2,0.17
+Galeus,murinus,63.75,-27.75,7602:237:4,0.04
+Galeus,murinus,64.75,-26.75,7602:246:4,0.18
+Galeus,murinus,61.25,-5.25,7600:215:1,0.37
+Galeus,murinus,61.75,-11.75,7601:111:4,0.32
+Galeus,murinus,62.25,-13.25,7601:123:1,0.23
+Galeus,murinus,62.75,-13.75,7601:123:4,0.33
+Galeus,murinus,63.25,-13.75,7601:133:2,0.37
+Galeus,murinus,63.25,-14.75,7601:134:2,0.24
+Galeus,murinus,64.25,-13.25,7601:143:1,0.37
+Galeus,murinus,62.75,-18.25,7601:228:3,0.31
+Galeus,murinus,63.25,-17.75,7601:237:2,0.30
+Galeus,murinus,63.25,-20.75,7602:130:2,0.25
+Galeus,murinus,61.75,-27.75,7602:217:4,0.38
+Galeus,murinus,63.25,-26.75,7602:236:2,0.27
+Galeus,murinus,61.25,-9.75,7600:219:2,0.58
+Galeus,murinus,62.25,-8.75,7600:228:2,0.48
+Galeus,murinus,62.75,-9.25,7600:229:3,0.56
+Galeus,murinus,62.75,-9.75,7600:229:4,0.57
+Galeus,murinus,61.75,-11.25,7601:111:3,0.53
+Galeus,murinus,62.25,-12.75,7601:122:2,0.58
+Galeus,murinus,63.75,-11.75,7601:131:4,0.43
+Galeus,murinus,63.25,-12.25,7601:132:1,0.43
+Galeus,murinus,64.25,-12.25,7601:142:1,0.57
+Galeus,murinus,62.75,-17.75,7601:227:4,0.54
+Galeus,murinus,63.75,-15.25,7601:235:3,0.48
+Galeus,murinus,63.25,-24.25,7602:134:1,0.49
+Galeus,murinus,62.75,-26.75,7602:226:4,0.44
+Galeus,murinus,63.75,-27.25,7602:237:3,0.48
+Galeus,murinus,62.25,-9.25,7600:229:1,0.79
+Galeus,murinus,61.25,-10.25,7601:110:1,0.79
+Galeus,murinus,61.75,-10.75,7601:110:4,0.79
+Galeus,murinus,62.25,-12.25,7601:122:1,0.77
+Galeus,murinus,63.75,-12.25,7601:132:3,0.63
+Galeus,murinus,63.75,-14.75,7601:134:4,0.74
+Galeus,murinus,63.25,-15.25,7601:235:1,0.74
+Galeus,murinus,63.25,-17.25,7601:237:1,0.65
+Galeus,murinus,62.75,-21.25,7602:121:3,0.71
+Galeus,murinus,62.75,-21.75,7602:121:4,0.70
+Galeus,murinus,62.75,-22.75,7602:122:4,0.72
+Galeus,murinus,62.75,-23.25,7602:123:3,0.64
+Galeus,murinus,63.25,-21.25,7602:131:1,0.71
+Galeus,murinus,61.25,-26.75,7602:216:2,0.64
+Galeus,murinus,62.75,-26.25,7602:226:3,0.67
+Galeus,murinus,61.25,-7.25,7600:217:1,0.85
+Galeus,murinus,61.25,-8.25,7600:218:1,0.98
+Galeus,murinus,61.25,-8.75,7600:218:2,0.82
+Galeus,murinus,61.75,-8.25,7600:218:3,0.84
+Galeus,murinus,61.75,-8.75,7600:218:4,0.83
+Galeus,murinus,61.25,-9.25,7600:219:1,0.99
+Galeus,murinus,61.75,-9.25,7600:219:3,0.82
+Galeus,murinus,61.75,-9.75,7600:219:4,0.91
+Galeus,murinus,62.25,-9.75,7600:229:2,1.00
+Galeus,murinus,61.25,-10.75,7601:110:2,1.00
+Galeus,murinus,61.75,-10.25,7601:110:3,0.99
+Galeus,murinus,61.25,-11.25,7601:111:1,1.00
+Galeus,murinus,62.25,-10.25,7601:120:1,1.00
+Galeus,murinus,62.25,-10.75,7601:120:2,1.00
+Galeus,murinus,62.75,-10.25,7601:120:3,0.99
+Galeus,murinus,62.75,-10.75,7601:120:4,1.00
+Galeus,murinus,62.25,-11.25,7601:121:1,1.00
+Galeus,murinus,62.25,-11.75,7601:121:2,0.97
+Galeus,murinus,62.75,-11.25,7601:121:3,1.00
+Galeus,murinus,62.75,-11.75,7601:121:4,1.00
+Galeus,murinus,62.75,-12.25,7601:122:3,1.00
+Galeus,murinus,62.75,-12.75,7601:122:4,1.00
+Galeus,murinus,62.75,-13.25,7601:123:3,1.00
+Galeus,murinus,63.25,-12.75,7601:132:2,1.00
+Galeus,murinus,63.75,-12.75,7601:132:4,1.00
+Galeus,murinus,63.25,-13.25,7601:133:1,1.00
+Galeus,murinus,63.75,-13.25,7601:133:3,1.00
+Galeus,murinus,63.75,-13.75,7601:133:4,1.00
+Galeus,murinus,63.75,-14.25,7601:134:3,0.81
+Galeus,murinus,64.25,-12.75,7601:142:2,0.98
+Galeus,murinus,63.25,-15.75,7601:235:2,0.93
+Galeus,murinus,63.25,-16.25,7601:236:1,1.00
+Galeus,murinus,63.25,-16.75,7601:236:2,0.99
+Galeus,murinus,62.75,-20.25,7602:120:3,0.81
+Galeus,murinus,62.75,-20.75,7602:120:4,0.84
+Galeus,murinus,62.75,-22.25,7602:122:3,0.81
+Galeus,murinus,62.75,-23.75,7602:123:4,0.87
+Galeus,murinus,62.25,-24.75,7602:124:2,0.87
+Galeus,murinus,62.75,-24.25,7602:124:3,1.00
+Galeus,murinus,62.75,-24.75,7602:124:4,0.85
+Galeus,murinus,63.25,-21.75,7602:131:2,1.00
+Galeus,murinus,63.25,-22.25,7602:132:1,1.00
+Galeus,murinus,63.25,-22.75,7602:132:2,1.00
+Galeus,murinus,63.25,-23.25,7602:133:1,1.00
+Galeus,murinus,63.25,-23.75,7602:133:2,1.00
+Galeus,murinus,63.25,-24.75,7602:134:2,0.81
+Galeus,murinus,61.75,-25.75,7602:215:4,0.81
+Galeus,murinus,61.75,-26.25,7602:216:3,0.89
+Galeus,murinus,61.75,-26.75,7602:216:4,0.99
+Galeus,murinus,61.25,-27.25,7602:217:1,0.98
+Galeus,murinus,61.25,-27.75,7602:217:2,1.00
+Galeus,murinus,61.75,-27.25,7602:217:3,0.96
+Galeus,murinus,62.25,-25.25,7602:225:1,0.86
+Galeus,murinus,62.25,-25.75,7602:225:2,1.00
+Galeus,murinus,62.75,-25.25,7602:225:3,1.00
+Galeus,murinus,62.75,-25.75,7602:225:4,1.00
+Galeus,murinus,62.25,-26.25,7602:226:1,1.00
+Galeus,murinus,62.25,-26.75,7602:226:2,0.82
+Galeus,murinus,63.25,-25.25,7602:235:1,1.00
+Galeus,murinus,63.25,-25.75,7602:235:2,1.00
+Galeus,murinus,63.25,-26.25,7602:236:1,1.00
+Galeus,murinus,63.75,-26.25,7602:236:3,1.00
+Galeus,murinus,63.75,-26.75,7602:236:4,1.00
+Galeus,murinus,64.25,-27.25,7602:247:1,1.00
+Galeus,murinus,64.25,-27.75,7602:247:2,0.93
+Galeus,murinus,64.75,-27.25,7602:247:3,1.00
+Galeus,murinus,64.75,-27.75,7602:247:4,0.97
+Galeus,murinus,64.25,-26.75,7602:246:2,0.99
+
+
+Occurrence cells used for creating environmental envelope (n = 12)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Galeus,murinus,61.25,-8.25,7600:218:1,350,9.71143054962158,7.73884201049805,35.2994804382324,35.2684059143066,8.58599971979856,0,255.779830932617,107
+Galeus,murinus,62.25,-17.25,7601:227:1,2113,9.88172626495361,3.19573903083801,35.230640411377,34.9691429138184,5.29700005427003,0,265.402709960938,148
+Galeus,murinus,62.75,-24.75,7602:124:4,673,9.01528263092041,6.5910701751709,35.2094612121582,35.151439666748,6.67600007727742,0,243.301422119141,175
+Galeus,murinus,63.25,-21.25,7602:131:1,378,9.01774406433105,8.14943981170654,35.0657081604004,35.2476921081543,14.197999611496899,0,260.686920166016,81
+Galeus,murinus,63.25,-21.75,7602:131:2,387,9.06311321258545,8.05800437927246,35.1369438171387,35.2562141418457,12.3979998752475,0,259.404388427734,81
+Galeus,murinus,63.25,-22.25,7602:132:1,352,9.05802440643311,7.99369478225708,35.1759757995605,35.2324371337891,10.916999541223001,0,255.493682861328,81
+Galeus,murinus,63.25,-23.75,7602:133:2,348,8.8370361328125,7.89175081253052,35.1987342834473,35.2410659790039,7.35499989241362,0,256.7685546875,100
+Galeus,murinus,63.25,-25.75,7602:235:2,831,8.727463722229,5.53873014450073,35.1855964660645,35.0550308227539,6.26800023019314,0,247.609390258789,184
+Galeus,murinus,63.25,-26.25,7602:236:1,1101,8.72368144989014,4.84524393081665,35.1691551208496,35.0030326843262,5.9620002284646,0,253.274841308594,207
+Galeus,murinus,64.25,-27.25,7602:247:1,779,8.42894840240479,6.17225885391235,35.1578025817871,35.0272178649902,5.54199982434511,0,245.606536865234,178
+Galeus,murinus,64.75,-27.75,7602:247:4,840,8.26297664642334,5.64130401611328,35.1444206237793,35.0120544433594,5.26699982583523,0,247.904449462891,190
+Galeus,murinus,65.25,-27.75,7602:457:2,708,7.94356393814087,6.10469484329224,35.1283187866211,35.0342788696289,5.46299992129207,0.000000999999997475243,249.309875488281,172

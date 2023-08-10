@@ -1,0 +1,128 @@
+Mapping parameters for Bathyraja mariposa (Butterfly skate)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 67,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,90,131,255,448
+Temperature (°C),1,4.56,5.96,7.16,8.35
+Salinity (psu),1,31.04,31.66,32.86,33.36
+Primary Production,1,450.5,524.6,781.2,870
+Sea Ice Concentration,1,0.0007475,0.001047168,0.0219999998807907,0.03
+Distance to Land (km),0,13.8,14.8,161.399993896484,209
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 87): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Bathyraja,mariposa,56.75,-154.75,7515:364:4,0.19
+Bathyraja,mariposa,55.75,-163.25,7516:353:3,0.04
+Bathyraja,mariposa,55.75,-163.75,7516:353:4,0.11
+Bathyraja,mariposa,55.25,-164.75,7516:354:2,0.04
+Bathyraja,mariposa,56.75,-160.75,7516:360:4,0.07
+Bathyraja,mariposa,56.25,-164.25,7516:364:1,0.01
+Bathyraja,mariposa,56.25,-164.75,7516:364:2,0.01
+Bathyraja,mariposa,56.25,-165.25,7516:465:1,0.02
+Bathyraja,mariposa,56.25,-165.75,7516:465:2,0.04
+Bathyraja,mariposa,56.25,-166.25,7516:466:1,0.04
+Bathyraja,mariposa,56.25,-166.75,7516:466:2,0.05
+Bathyraja,mariposa,56.75,-166.25,7516:466:3,0.01
+Bathyraja,mariposa,56.75,-166.75,7516:466:4,0.02
+Bathyraja,mariposa,56.25,-167.25,7516:467:1,0.04
+Bathyraja,mariposa,56.25,-167.75,7516:467:2,0.04
+Bathyraja,mariposa,56.75,-167.25,7516:467:3,0.02
+Bathyraja,mariposa,56.75,-167.75,7516:467:4,0.04
+Bathyraja,mariposa,56.25,-168.25,7516:468:1,0.14
+Bathyraja,mariposa,56.75,-168.25,7516:468:3,0.14
+Bathyraja,mariposa,56.75,-168.75,7516:468:4,0.14
+Bathyraja,mariposa,56.75,-170.25,7517:360:3,0.19
+Bathyraja,mariposa,57.25,-172.25,7517:372:1,0.02
+Bathyraja,mariposa,57.25,-172.75,7517:372:2,0.02
+Bathyraja,mariposa,57.75,-172.25,7517:372:3,0.01
+Bathyraja,mariposa,57.75,-172.75,7517:372:4,0.02
+Bathyraja,mariposa,57.25,-173.25,7517:373:1,0.13
+Bathyraja,mariposa,57.25,-173.75,7517:373:2,0.01
+Bathyraja,mariposa,57.75,-173.25,7517:373:3,0.13
+Bathyraja,mariposa,57.75,-173.75,7517:373:4,0.13
+Bathyraja,mariposa,57.75,-174.25,7517:374:3,0.18
+Bathyraja,mariposa,60.25,-148.25,7614:208:1,0.07
+Bathyraja,mariposa,55.75,-153.75,7515:353:4,0.29
+Bathyraja,mariposa,55.75,-154.25,7515:354:3,0.25
+Bathyraja,mariposa,55.75,-154.75,7515:354:4,0.24
+Bathyraja,mariposa,56.25,-152.25,7515:362:1,0.35
+Bathyraja,mariposa,54.75,-164.25,7516:144:3,0.27
+Bathyraja,mariposa,52.75,-168.75,7516:228:4,0.24
+Bathyraja,mariposa,55.75,-164.25,7516:354:3,0.21
+Bathyraja,mariposa,55.75,-164.75,7516:354:4,0.34
+Bathyraja,mariposa,55.75,-166.25,7516:456:3,0.24
+Bathyraja,mariposa,56.75,-169.25,7516:469:3,0.20
+Bathyraja,mariposa,56.75,-169.75,7516:469:4,0.20
+Bathyraja,mariposa,52.75,-172.25,7517:122:3,0.23
+Bathyraja,mariposa,56.75,-170.75,7517:360:4,0.24
+Bathyraja,mariposa,56.75,-171.25,7517:361:3,0.34
+Bathyraja,mariposa,56.75,-171.75,7517:361:4,0.34
+Bathyraja,mariposa,56.75,-172.25,7517:362:3,0.28
+Bathyraja,mariposa,55.75,-165.25,7516:455:3,0.49
+Bathyraja,mariposa,52.75,-171.25,7517:121:3,0.45
+Bathyraja,mariposa,53.25,-170.25,7517:130:1,0.59
+Bathyraja,mariposa,55.75,-153.25,7515:353:3,0.72
+Bathyraja,mariposa,53.75,-164.75,7516:134:4,0.61
+Bathyraja,mariposa,55.25,-161.25,7516:351:1,0.70
+Bathyraja,mariposa,55.25,-161.75,7516:351:2,0.61
+Bathyraja,mariposa,52.25,-170.25,7517:120:1,0.79
+Bathyraja,mariposa,52.25,-172.25,7517:122:1,0.77
+Bathyraja,mariposa,52.25,-172.75,7517:122:2,0.60
+Bathyraja,mariposa,52.25,-174.25,7517:124:1,0.79
+Bathyraja,mariposa,52.25,-174.75,7517:124:2,0.66
+Bathyraja,mariposa,54.75,-159.75,7515:249:4,1.00
+Bathyraja,mariposa,56.75,-153.75,7515:363:4,0.98
+Bathyraja,mariposa,55.75,-159.75,7515:459:4,0.94
+Bathyraja,mariposa,52.75,-169.25,7516:229:3,1.00
+Bathyraja,mariposa,52.75,-169.75,7516:229:4,1.00
+Bathyraja,mariposa,53.75,-165.25,7516:235:3,0.88
+Bathyraja,mariposa,53.75,-165.75,7516:235:4,1.00
+Bathyraja,mariposa,53.75,-166.25,7516:236:3,1.00
+Bathyraja,mariposa,53.25,-168.25,7516:238:1,1.00
+Bathyraja,mariposa,53.75,-168.25,7516:238:3,1.00
+Bathyraja,mariposa,53.25,-169.25,7516:239:1,0.92
+Bathyraja,mariposa,53.25,-169.75,7516:239:2,0.92
+Bathyraja,mariposa,54.25,-165.25,7516:245:1,1.00
+Bathyraja,mariposa,54.25,-165.75,7516:245:2,1.00
+Bathyraja,mariposa,54.75,-165.75,7516:245:4,1.00
+Bathyraja,mariposa,54.25,-166.25,7516:246:1,1.00
+Bathyraja,mariposa,55.25,-160.75,7516:350:2,0.98
+Bathyraja,mariposa,55.75,-160.25,7516:350:3,0.80
+Bathyraja,mariposa,51.75,-173.25,7517:113:3,1.00
+Bathyraja,mariposa,51.75,-173.75,7517:113:4,1.00
+Bathyraja,mariposa,51.75,-174.25,7517:114:3,1.00
+Bathyraja,mariposa,51.75,-174.75,7517:114:4,1.00
+Bathyraja,mariposa,52.25,-170.75,7517:120:2,0.93
+Bathyraja,mariposa,52.75,-170.25,7517:120:3,1.00
+Bathyraja,mariposa,52.75,-170.75,7517:120:4,1.00
+Bathyraja,mariposa,52.25,-173.25,7517:123:1,0.95
+Bathyraja,mariposa,52.25,-173.75,7517:123:2,0.95
+Bathyraja,mariposa,52.75,-173.75,7517:123:4,0.95
+
+
+Occurrence cells used for creating environmental envelope (n = 5)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Bathyraja,mariposa,51.75,-174.25,7517:114:3,2223,6.19,32.83,569,0.00661,90
+Bathyraja,mariposa,52.25,-173.75,7517:123:2,198,5.95,32.88,572,0.01,16
+Bathyraja,mariposa,52.25,-172.75,7517:122:2,280,5.98,32.84,495,0.00149667,17
+Bathyraja,mariposa,55.75,-151.25,7515:351:3,5033,7.31,32.6,648,0.0007475,209
+Bathyraja,mariposa,58.75,-152.25,7515:382:3,73,6.93,31.04,870,0.03,14

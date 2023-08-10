@@ -1,0 +1,146 @@
+Mapping parameters for Torpedo peruana (Peruvian torpedo)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 87,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,24,39,94,168
+Temperature (°C),1,19.3,20.91,26.25,30.45
+Salinity (psu),1,32.22,32.89,34.92,36.03
+Primary Production,1,584,604.4,2166.1,4166.875
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,18.3,19.3,84.3000030517578,111
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 106): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Torpedo,peruana,-12.75,-76.25,5107:226:3,0.09
+Torpedo,peruana,-12.25,-77.75,5107:227:2,0.04
+Torpedo,peruana,-12.75,-77.25,5107:227:3,0.04
+Torpedo,peruana,-14.25,-75.75,5107:245:2,0.09
+Torpedo,peruana,-14.75,-75.25,5107:245:3,0.09
+Torpedo,peruana,-14.75,-75.75,5107:245:4,0.09
+Torpedo,peruana,-14.25,-76.25,5107:246:1,0.09
+Torpedo,peruana,-14.75,-76.25,5107:246:3,0.07
+Torpedo,peruana,-16.25,-74.25,5107:364:1,0.17
+Torpedo,peruana,-15.25,-75.25,5107:455:1,0.07
+Torpedo,peruana,-15.25,-75.75,5107:455:2,0.06
+Torpedo,peruana,-22.25,-70.25,5207:120:1,0.07
+Torpedo,peruana,-22.75,-70.25,5207:120:3,0.07
+Torpedo,peruana,2.25,-79.25,7007:229:1,0.07
+Torpedo,peruana,-7.75,-79.25,5007:479:3,0.38
+Torpedo,peruana,-8.25,-80.25,5008:380:1,0.35
+Torpedo,peruana,-11.25,-77.25,5107:217:1,0.26
+Torpedo,peruana,-11.25,-77.75,5107:217:2,0.23
+Torpedo,peruana,-11.75,-77.25,5107:217:3,0.30
+Torpedo,peruana,-11.75,-77.75,5107:217:4,0.26
+Torpedo,peruana,-12.25,-77.25,5107:227:1,0.23
+Torpedo,peruana,-16.75,-73.25,5107:363:3,0.39
+Torpedo,peruana,-21.25,-70.25,5207:110:1,0.33
+Torpedo,peruana,-21.75,-70.25,5207:110:3,0.33
+Torpedo,peruana,0.75,-79.75,7007:209:4,0.36
+Torpedo,peruana,1.25,-78.75,7007:218:2,0.32
+Torpedo,peruana,1.75,-78.75,7007:218:4,0.32
+Torpedo,peruana,1.25,-79.25,7007:219:1,0.32
+Torpedo,peruana,1.25,-79.75,7007:219:2,0.32
+Torpedo,peruana,1.75,-79.25,7007:219:3,0.32
+Torpedo,peruana,2.25,-78.75,7007:228:2,0.25
+Torpedo,peruana,-7.25,-79.75,5007:479:2,0.40
+Torpedo,peruana,-7.75,-79.75,5007:479:4,0.40
+Torpedo,peruana,-8.75,-78.75,5007:488:4,0.56
+Torpedo,peruana,-9.25,-78.25,5007:498:1,0.51
+Torpedo,peruana,-9.25,-78.75,5007:498:2,0.52
+Torpedo,peruana,-9.75,-78.25,5007:498:3,0.49
+Torpedo,peruana,-9.75,-78.75,5007:498:4,0.52
+Torpedo,peruana,-9.75,-79.25,5007:499:3,0.54
+Torpedo,peruana,-10.25,-77.75,5107:207:2,0.46
+Torpedo,peruana,-10.75,-77.75,5107:207:4,0.44
+Torpedo,peruana,-10.25,-78.25,5107:208:1,0.59
+Torpedo,peruana,-10.25,-78.75,5107:208:2,0.58
+Torpedo,peruana,-10.75,-78.25,5107:208:3,0.59
+Torpedo,peruana,-16.75,-72.25,5107:362:3,0.46
+Torpedo,peruana,-16.75,-72.75,5107:362:4,0.46
+Torpedo,peruana,-16.25,-73.25,5107:363:1,0.41
+Torpedo,peruana,-16.25,-73.75,5107:363:2,0.41
+Torpedo,peruana,-17.25,-72.25,5107:372:1,0.52
+Torpedo,peruana,-20.25,-70.25,5207:100:1,0.52
+Torpedo,peruana,-20.75,-70.25,5207:100:3,0.52
+Torpedo,peruana,-6.75,-79.75,5007:469:4,0.67
+Torpedo,peruana,-8.25,-78.75,5007:488:2,0.60
+Torpedo,peruana,-8.25,-79.25,5007:489:1,0.60
+Torpedo,peruana,-8.25,-79.75,5007:489:2,0.60
+Torpedo,peruana,-8.75,-79.25,5007:489:3,0.60
+Torpedo,peruana,-8.75,-79.75,5007:489:4,0.60
+Torpedo,peruana,-9.25,-79.25,5007:499:1,0.77
+Torpedo,peruana,-9.25,-79.75,5007:499:2,0.73
+Torpedo,peruana,-0.25,-80.25,5008:100:1,0.78
+Torpedo,peruana,-0.25,-80.75,5008:100:2,0.78
+Torpedo,peruana,-0.75,-80.25,5008:100:3,0.78
+Torpedo,peruana,-5.25,-81.25,5008:351:1,0.66
+Torpedo,peruana,-6.25,-80.75,5008:360:2,0.61
+Torpedo,peruana,-6.75,-80.25,5008:360:3,0.68
+Torpedo,peruana,-6.75,-80.75,5008:360:4,0.65
+Torpedo,peruana,-7.25,-80.25,5008:370:1,0.72
+Torpedo,peruana,-7.25,-80.75,5008:370:2,0.72
+Torpedo,peruana,-7.75,-80.25,5008:370:3,0.72
+Torpedo,peruana,-17.75,-70.75,5107:370:4,0.72
+Torpedo,peruana,-17.25,-71.25,5107:371:1,0.70
+Torpedo,peruana,-17.25,-71.75,5107:371:2,0.70
+Torpedo,peruana,-17.75,-71.25,5107:371:3,0.72
+Torpedo,peruana,-18.25,-70.25,5107:380:1,0.72
+Torpedo,peruana,-18.25,-70.75,5107:380:2,0.72
+Torpedo,peruana,-18.75,-70.25,5107:380:3,0.72
+Torpedo,peruana,-19.25,-70.25,5107:390:1,0.67
+Torpedo,peruana,-19.75,-70.25,5107:390:3,0.67
+Torpedo,peruana,0.25,-80.25,7008:100:1,0.78
+Torpedo,peruana,0.75,-80.25,7008:100:3,0.78
+Torpedo,peruana,-2.75,-79.75,5007:229:4,1.00
+Torpedo,peruana,-3.25,-79.75,5007:239:2,1.00
+Torpedo,peruana,-0.75,-80.75,5008:100:4,1.00
+Torpedo,peruana,-1.25,-80.75,5008:110:2,1.00
+Torpedo,peruana,-1.75,-80.75,5008:110:4,1.00
+Torpedo,peruana,-1.25,-81.25,5008:111:1,1.00
+Torpedo,peruana,-1.75,-81.25,5008:111:3,1.00
+Torpedo,peruana,-2.25,-80.75,5008:120:2,1.00
+Torpedo,peruana,-2.75,-80.25,5008:120:3,1.00
+Torpedo,peruana,-2.75,-80.75,5008:120:4,1.00
+Torpedo,peruana,-2.25,-81.25,5008:121:1,1.00
+Torpedo,peruana,-3.25,-80.25,5008:130:1,1.00
+Torpedo,peruana,-3.25,-80.75,5008:130:2,1.00
+Torpedo,peruana,-3.75,-80.75,5008:130:4,1.00
+Torpedo,peruana,-3.25,-81.25,5008:131:1,0.81
+Torpedo,peruana,-3.75,-81.25,5008:131:3,1.00
+Torpedo,peruana,-4.25,-81.25,5008:141:1,1.00
+Torpedo,peruana,-4.75,-81.25,5008:141:3,0.82
+Torpedo,peruana,-5.25,-80.75,5008:350:2,1.00
+Torpedo,peruana,-5.75,-80.75,5008:350:4,1.00
+Torpedo,peruana,-5.75,-81.25,5008:351:3,0.94
+Torpedo,peruana,-6.25,-81.25,5008:361:1,0.83
+Torpedo,peruana,-0.25,-91.25,5009:101:1,1.00
+Torpedo,peruana,-0.25,-91.75,5009:101:2,1.00
+Torpedo,peruana,-0.75,-91.25,5009:101:3,1.00
+Torpedo,peruana,-1.25,-91.25,5009:111:1,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Torpedo,peruana,-11.75,-77.25,5107:217:3,87,19.85,35.04,1982,0,19
+Torpedo,peruana,-1.25,-91.25,5009:111:1,3013,23.38,34.65,652,0,111
+Torpedo,peruana,-0.75,-90.75,5009:100:4,138,23.73,34.45,584,0,22
+Torpedo,peruana,3.75,-77.25,7007:237:3,22,27.33,32.22,2245,0,20

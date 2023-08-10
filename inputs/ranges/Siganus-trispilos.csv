@@ -1,0 +1,271 @@
+Mapping parameters for Siganus trispilos (Threeblotched rabbitfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 57,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,3,3,4,5
+Temperature (°C),1,15.55,19.31,25.43,29.63
+Salinity (psu),1,34.44,34.94,35.94,36.44
+Primary Production,1,391.25,533,727.4,877.25
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,10.5,16.8,24.7999992370605,30.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 232): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Siganus,trispilos,-17.25,118.75,3111:478:2,0.03
+Siganus,trispilos,-17.25,119.25,3111:479:1,0.15
+Siganus,trispilos,-17.25,119.75,3111:479:2,0.11
+Siganus,trispilos,-19.75,119.75,3111:499:4,0.06
+Siganus,trispilos,-12.25,123.25,3112:123:1,0.06
+Siganus,trispilos,-12.25,123.75,3112:123:2,0.06
+Siganus,trispilos,-14.25,121.75,3112:141:2,0.09
+Siganus,trispilos,-14.25,122.25,3112:142:1,0.03
+Siganus,trispilos,-14.25,123.75,3112:143:2,0.17
+Siganus,trispilos,-14.25,124.75,3112:144:2,0.08
+Siganus,trispilos,-14.75,124.75,3112:144:4,0.06
+Siganus,trispilos,-10.25,126.75,3112:206:2,0.01
+Siganus,trispilos,-10.25,127.25,3112:207:1,0.01
+Siganus,trispilos,-14.25,125.25,3112:245:1,0.17
+Siganus,trispilos,-14.25,126.25,3112:246:1,0.17
+Siganus,trispilos,-14.25,126.75,3112:246:2,0.10
+Siganus,trispilos,-15.75,121.25,3112:351:3,0.13
+Siganus,trispilos,-15.75,121.75,3112:351:4,0.09
+Siganus,trispilos,-15.25,122.25,3112:352:1,0.16
+Siganus,trispilos,-15.75,123.75,3112:353:4,0.06
+Siganus,trispilos,-16.25,121.25,3112:361:1,0.02
+Siganus,trispilos,-16.75,122.25,3112:362:3,0.16
+Siganus,trispilos,-16.75,122.75,3112:362:4,0.08
+Siganus,trispilos,-16.25,123.75,3112:363:2,0.13
+Siganus,trispilos,-16.75,123.25,3112:363:3,0.16
+Siganus,trispilos,-16.75,123.75,3112:363:4,0.19
+Siganus,trispilos,-16.25,124.25,3112:364:1,0.02
+Siganus,trispilos,-16.25,124.75,3112:364:2,0.04
+Siganus,trispilos,-18.75,121.75,3112:381:4,0.05
+Siganus,trispilos,-21.75,114.25,3211:114:3,0.07
+Siganus,trispilos,-20.75,115.75,3211:205:4,0.04
+Siganus,trispilos,-20.25,117.75,3211:207:2,0.12
+Siganus,trispilos,-20.75,117.25,3211:207:3,0.18
+Siganus,trispilos,-20.75,117.75,3211:207:4,0.02
+Siganus,trispilos,-28.25,114.75,3211:384:2,0.13
+Siganus,trispilos,-29.25,115.25,3211:495:1,0.15
+Siganus,trispilos,-31.25,115.75,3311:215:2,0.15
+Siganus,trispilos,-33.75,120.75,3312:130:4,0.16
+Siganus,trispilos,-32.25,126.25,3312:226:1,0.07
+Siganus,trispilos,-32.25,127.25,3312:227:1,0.19
+Siganus,trispilos,-31.75,130.25,3313:110:3,0.16
+Siganus,trispilos,-31.75,131.25,3313:111:3,0.05
+Siganus,trispilos,-32.25,132.25,3313:122:1,0.05
+Siganus,trispilos,-32.75,133.25,3313:123:3,0.18
+Siganus,trispilos,-33.75,134.75,3313:134:4,0.02
+Siganus,trispilos,-34.25,137.75,3313:247:2,0.04
+Siganus,trispilos,-35.25,138.75,3313:458:2,0.10
+Siganus,trispilos,-35.75,139.25,3313:459:3,0.01
+Siganus,trispilos,-36.25,136.75,3313:466:2,0.18
+Siganus,trispilos,-36.25,137.25,3313:467:1,0.06
+Siganus,trispilos,-36.75,137.25,3313:467:3,0.17
+Siganus,trispilos,-36.25,138.75,3313:468:2,0.18
+Siganus,trispilos,-36.25,139.75,3313:469:2,0.12
+Siganus,trispilos,-36.75,139.25,3313:469:3,0.01
+Siganus,trispilos,-36.75,139.75,3313:469:4,0.15
+Siganus,trispilos,-37.25,137.75,3313:477:2,0.04
+Siganus,trispilos,-37.25,138.25,3313:478:1,0.06
+Siganus,trispilos,-37.25,139.75,3313:479:2,0.05
+Siganus,trispilos,-37.25,140.25,3314:370:1,0.02
+Siganus,trispilos,-37.75,140.25,3314:370:3,0.03
+Siganus,trispilos,-37.75,140.75,3314:370:4,0.02
+Siganus,trispilos,-37.75,144.75,3314:374:4,0.05
+Siganus,trispilos,-37.75,145.25,3314:475:3,0.03
+Siganus,trispilos,-37.75,147.75,3314:477:4,0.19
+Siganus,trispilos,-37.75,148.75,3314:478:4,0.12
+Siganus,trispilos,-38.75,146.25,3314:486:3,0.01
+Siganus,trispilos,-38.25,147.25,3314:487:1,0.07
+Siganus,trispilos,-38.25,147.75,3314:487:2,0.07
+Siganus,trispilos,-38.75,147.25,3314:487:3,0.06
+Siganus,trispilos,-39.25,147.25,3314:497:1,0.05
+Siganus,trispilos,-39.75,147.25,3314:497:3,0.05
+Siganus,trispilos,-39.75,147.75,3314:497:4,0.05
+Siganus,trispilos,-39.75,148.75,3314:498:4,0.12
+Siganus,trispilos,-40.25,147.25,3414:207:1,0.04
+Siganus,trispilos,-40.25,147.75,3414:207:2,0.04
+Siganus,trispilos,-40.75,147.25,3414:207:3,0.04
+Siganus,trispilos,-40.75,147.75,3414:207:4,0.03
+Siganus,trispilos,-40.25,148.25,3414:208:1,0.03
+Siganus,trispilos,-40.25,148.75,3414:208:2,0.06
+Siganus,trispilos,-17.75,119.25,3111:479:3,0.37
+Siganus,trispilos,-19.75,117.75,3111:497:4,0.25
+Siganus,trispilos,-14.25,125.75,3112:245:2,0.23
+Siganus,trispilos,-14.75,125.25,3112:245:3,0.24
+Siganus,trispilos,-15.25,124.25,3112:354:1,0.29
+Siganus,trispilos,-15.25,124.75,3112:354:2,0.29
+Siganus,trispilos,-15.75,124.25,3112:354:3,0.24
+Siganus,trispilos,-16.25,123.25,3112:363:1,0.25
+Siganus,trispilos,-17.25,122.25,3112:372:1,0.28
+Siganus,trispilos,-17.75,122.25,3112:372:3,0.39
+Siganus,trispilos,-17.25,123.25,3112:373:1,0.28
+Siganus,trispilos,-17.25,123.75,3112:373:2,0.28
+Siganus,trispilos,-18.25,122.25,3112:382:1,0.21
+Siganus,trispilos,-19.75,120.75,3112:390:4,0.24
+Siganus,trispilos,-23.75,113.25,3211:133:3,0.26
+Siganus,trispilos,-20.25,119.75,3211:209:2,0.28
+Siganus,trispilos,-28.25,113.75,3211:383:2,0.21
+Siganus,trispilos,-34.25,123.75,3312:143:2,0.34
+Siganus,trispilos,-32.25,127.75,3312:227:2,0.32
+Siganus,trispilos,-31.75,130.75,3313:110:4,0.25
+Siganus,trispilos,-31.75,131.75,3313:111:4,0.37
+Siganus,trispilos,-31.75,132.75,3313:112:4,0.32
+Siganus,trispilos,-32.75,137.75,3313:227:4,0.35
+Siganus,trispilos,-34.75,135.75,3313:245:4,0.20
+Siganus,trispilos,-34.75,136.75,3313:246:4,0.27
+Siganus,trispilos,-35.25,136.25,3313:456:1,0.33
+Siganus,trispilos,-35.25,136.75,3313:456:2,0.33
+Siganus,trispilos,-35.75,136.75,3313:456:4,0.33
+Siganus,trispilos,-35.75,138.25,3313:458:3,0.33
+Siganus,trispilos,-35.75,138.75,3313:458:4,0.33
+Siganus,trispilos,-37.75,148.25,3314:478:3,0.37
+Siganus,trispilos,-19.75,117.25,3111:497:3,0.45
+Siganus,trispilos,-19.25,121.25,3112:391:1,0.54
+Siganus,trispilos,-19.25,121.75,3112:391:2,0.54
+Siganus,trispilos,-19.75,121.25,3112:391:3,0.54
+Siganus,trispilos,-24.75,112.75,3211:142:4,0.56
+Siganus,trispilos,-24.25,113.25,3211:143:1,0.45
+Siganus,trispilos,-20.75,115.25,3211:205:3,0.57
+Siganus,trispilos,-20.75,116.75,3211:206:4,0.56
+Siganus,trispilos,-20.25,117.25,3211:207:1,0.41
+Siganus,trispilos,-33.75,115.25,3311:235:3,0.51
+Siganus,trispilos,-32.75,124.25,3312:124:3,0.53
+Siganus,trispilos,-32.75,124.75,3312:124:4,0.53
+Siganus,trispilos,-33.25,124.25,3312:134:1,0.53
+Siganus,trispilos,-34.25,122.25,3312:142:1,0.41
+Siganus,trispilos,-34.25,122.75,3312:142:2,0.58
+Siganus,trispilos,-34.75,122.75,3312:142:4,0.58
+Siganus,trispilos,-34.25,123.25,3312:143:1,0.55
+Siganus,trispilos,-34.75,123.25,3312:143:3,0.55
+Siganus,trispilos,-34.25,124.25,3312:144:1,0.55
+Siganus,trispilos,-32.75,125.25,3312:225:3,0.43
+Siganus,trispilos,-32.25,128.25,3312:228:1,0.57
+Siganus,trispilos,-32.75,129.25,3312:229:3,0.43
+Siganus,trispilos,-31.75,132.25,3313:112:3,0.43
+Siganus,trispilos,-32.75,132.75,3313:122:4,0.52
+Siganus,trispilos,-32.25,133.75,3313:123:2,0.59
+Siganus,trispilos,-33.25,134.25,3313:134:1,0.40
+Siganus,trispilos,-33.75,134.25,3313:134:3,0.58
+Siganus,trispilos,-34.75,134.75,3313:144:4,0.48
+Siganus,trispilos,-33.75,135.25,3313:235:3,0.49
+Siganus,trispilos,-33.25,137.25,3313:237:1,0.48
+Siganus,trispilos,-33.25,137.75,3313:237:2,0.48
+Siganus,trispilos,-33.75,137.75,3313:237:4,0.42
+Siganus,trispilos,-33.25,138.25,3313:238:1,0.51
+Siganus,trispilos,-34.25,135.25,3313:245:1,0.43
+Siganus,trispilos,-34.75,135.25,3313:245:3,0.43
+Siganus,trispilos,-34.25,138.25,3313:248:1,0.40
+Siganus,trispilos,-34.75,138.75,3313:248:4,0.40
+Siganus,trispilos,-19.25,116.75,3111:496:2,0.65
+Siganus,trispilos,-23.25,113.25,3211:133:1,0.62
+Siganus,trispilos,-20.25,115.75,3211:205:2,0.63
+Siganus,trispilos,-20.25,116.75,3211:206:2,0.65
+Siganus,trispilos,-20.75,116.25,3211:206:3,0.71
+Siganus,trispilos,-20.25,118.25,3211:208:1,0.68
+Siganus,trispilos,-20.25,118.75,3211:208:2,0.68
+Siganus,trispilos,-20.25,119.25,3211:209:1,0.63
+Siganus,trispilos,-25.75,114.25,3211:354:3,0.62
+Siganus,trispilos,-29.25,114.25,3211:394:1,0.63
+Siganus,trispilos,-30.25,115.25,3311:205:1,0.77
+Siganus,trispilos,-31.75,115.75,3311:215:4,0.71
+Siganus,trispilos,-32.75,115.75,3311:225:4,0.72
+Siganus,trispilos,-33.75,119.75,3311:239:4,0.79
+Siganus,trispilos,-34.25,115.75,3311:245:2,0.79
+Siganus,trispilos,-34.25,118.75,3311:248:2,0.66
+Siganus,trispilos,-34.75,118.25,3311:248:3,0.76
+Siganus,trispilos,-34.75,118.75,3311:248:4,0.76
+Siganus,trispilos,-34.25,119.25,3311:249:1,0.60
+Siganus,trispilos,-34.25,119.75,3311:249:2,0.73
+Siganus,trispilos,-34.75,119.25,3311:249:3,0.73
+Siganus,trispilos,-34.75,119.75,3311:249:4,0.73
+Siganus,trispilos,-35.25,115.75,3311:455:2,0.73
+Siganus,trispilos,-35.25,116.25,3311:456:1,0.64
+Siganus,trispilos,-35.25,116.75,3311:456:2,0.64
+Siganus,trispilos,-35.25,117.25,3311:457:1,0.61
+Siganus,trispilos,-35.25,117.75,3311:457:2,0.61
+Siganus,trispilos,-35.25,118.25,3311:458:1,0.63
+Siganus,trispilos,-33.75,120.25,3312:130:3,0.74
+Siganus,trispilos,-33.75,121.75,3312:131:4,0.69
+Siganus,trispilos,-33.75,122.75,3312:132:4,0.64
+Siganus,trispilos,-33.75,123.25,3312:133:3,0.62
+Siganus,trispilos,-34.25,121.75,3312:141:2,0.62
+Siganus,trispilos,-31.75,129.25,3312:219:3,0.67
+Siganus,trispilos,-31.75,129.75,3312:219:4,0.67
+Siganus,trispilos,-32.75,125.75,3312:225:4,0.74
+Siganus,trispilos,-32.25,126.75,3312:226:2,0.72
+Siganus,trispilos,-32.75,126.25,3312:226:3,0.72
+Siganus,trispilos,-33.75,125.25,3312:235:3,0.66
+Siganus,trispilos,-33.75,125.75,3312:235:4,0.66
+Siganus,trispilos,-33.25,126.25,3312:236:1,0.64
+Siganus,trispilos,-33.25,127.25,3312:237:1,0.61
+Siganus,trispilos,-33.25,127.75,3312:237:2,0.61
+Siganus,trispilos,-33.25,128.75,3312:238:2,0.60
+Siganus,trispilos,-33.25,129.25,3312:239:1,0.60
+Siganus,trispilos,-31.25,131.25,3313:111:1,0.70
+Siganus,trispilos,-32.25,134.25,3313:124:1,0.62
+Siganus,trispilos,-32.75,134.25,3313:124:3,0.66
+Siganus,trispilos,-33.25,134.75,3313:134:2,0.60
+Siganus,trispilos,-21.75,113.75,3211:113:4,0.95
+Siganus,trispilos,-21.25,114.75,3211:114:2,0.88
+Siganus,trispilos,-22.25,113.75,3211:123:2,0.98
+Siganus,trispilos,-22.75,113.75,3211:123:4,0.94
+Siganus,trispilos,-23.25,113.75,3211:133:2,0.86
+Siganus,trispilos,-23.75,113.75,3211:133:4,0.96
+Siganus,trispilos,-24.75,113.25,3211:143:3,1.00
+Siganus,trispilos,-24.75,113.75,3211:143:4,1.00
+Siganus,trispilos,-25.25,112.75,3211:352:2,0.94
+Siganus,trispilos,-25.75,112.75,3211:352:4,1.00
+Siganus,trispilos,-25.25,113.75,3211:353:2,1.00
+Siganus,trispilos,-26.25,113.25,3211:363:1,1.00
+Siganus,trispilos,-26.25,113.75,3211:363:2,1.00
+Siganus,trispilos,-26.75,113.25,3211:363:3,1.00
+Siganus,trispilos,-26.25,114.25,3211:364:1,1.00
+Siganus,trispilos,-27.25,113.75,3211:373:2,1.00
+Siganus,trispilos,-27.75,113.25,3211:373:3,1.00
+Siganus,trispilos,-27.75,113.75,3211:373:4,1.00
+Siganus,trispilos,-27.25,114.25,3211:374:1,1.00
+Siganus,trispilos,-27.75,114.25,3211:374:3,0.84
+Siganus,trispilos,-28.75,113.75,3211:383:4,1.00
+Siganus,trispilos,-29.75,114.75,3211:394:4,1.00
+Siganus,trispilos,-30.25,114.75,3311:104:2,1.00
+Siganus,trispilos,-30.75,114.75,3311:104:4,1.00
+Siganus,trispilos,-33.75,114.75,3311:134:4,1.00
+Siganus,trispilos,-30.75,115.25,3311:205:3,1.00
+Siganus,trispilos,-31.25,115.25,3311:215:1,1.00
+Siganus,trispilos,-32.25,115.25,3311:225:1,1.00
+Siganus,trispilos,-32.25,115.75,3311:225:2,1.00
+Siganus,trispilos,-32.75,115.25,3311:225:3,1.00
+Siganus,trispilos,-33.25,115.25,3311:235:1,1.00
+Siganus,trispilos,-34.25,115.25,3311:245:1,1.00
+Siganus,trispilos,-34.75,115.75,3311:245:4,1.00
+Siganus,trispilos,-34.75,116.25,3311:246:3,0.84
+Siganus,trispilos,-34.75,116.75,3311:246:4,0.84
+Siganus,trispilos,-34.75,117.25,3311:247:3,0.80
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Siganus,trispilos,-33.25,124.25,3312:134:1,39,17.99,35.88,506,0,20
+Siganus,trispilos,-23.25,113.75,3211:133:2,50,24.59,35.27,749,0,16
+Siganus,trispilos,-21.75,113.75,3211:113:4,880,25.64,35.08,641,0,26

@@ -1,0 +1,59 @@
+Mapping parameters for Anisotremus surinamensis (Black margate)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 31 |  41,
+Bounding Box (NSWE): ,30,-34,28,-97
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,0,15,20
+Temperature (°C),1,21.87,24.26,25.95,30.15
+Salinity (psu),1,31.73,34.61,36.55,39.41
+Primary Production,1,343,351.7,1151,1936.625
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,9.25,13.3,19.8999996185303,22
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 19): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Anisotremus,surinamensis,23.75,-97.25,7209:237:3,0.40
+Anisotremus,surinamensis,20.75,-97.25,7209:207:3,0.92
+Anisotremus,surinamensis,21.25,-97.25,7209:217:1,0.96
+Anisotremus,surinamensis,21.75,-97.25,7209:217:3,0.96
+Anisotremus,surinamensis,21.75,-97.75,7209:217:4,0.96
+Anisotremus,surinamensis,22.25,-97.75,7209:227:2,0.98
+Anisotremus,surinamensis,24.25,-97.25,7209:247:1,1.00
+Anisotremus,surinamensis,24.25,-97.75,7209:247:2,1.00
+Anisotremus,surinamensis,24.75,-97.25,7209:247:3,1.00
+Anisotremus,surinamensis,24.75,-97.75,7209:247:4,1.00
+Anisotremus,surinamensis,25.25,-97.25,7209:457:1,1.00
+Anisotremus,surinamensis,25.25,-97.75,7209:457:2,1.00
+Anisotremus,surinamensis,25.75,-97.25,7209:457:3,1.00
+Anisotremus,surinamensis,26.25,-97.25,7209:467:1,1.00
+Anisotremus,surinamensis,26.75,-97.25,7209:467:3,1.00
+Anisotremus,surinamensis,27.25,-97.25,7209:477:1,1.00
+Anisotremus,surinamensis,27.25,-97.75,7209:477:2,1.00
+Anisotremus,surinamensis,27.75,-97.25,7209:477:3,0.87
+Anisotremus,surinamensis,28.25,-97.25,7209:487:1,0.92
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Anisotremus,surinamensis,22.25,-97.75,7209:227:2,18,26.02,36.52,372,0,15
+Anisotremus,surinamensis,23.75,-97.75,7209:237:4,13,25.8,36.56,343,0,13
+Anisotremus,surinamensis,27.25,-97.25,7209:477:1,14,24.26,34.61,906,0,22
+Anisotremus,surinamensis,27.75,-97.25,7209:477:3,10,24.26,34.61,1256,0,14

@@ -1,18 +1,14 @@
-setwd("~/Dropbox/Climate Change Fish Nets")
-datapath <- "~/research/fishnets/"
-
 require(sp)
 library(rgeos)
 
 allow.highseas <- T
 
 source("code/spawning/read.R")
-##source("code/ranges/lib.R")
 
-spawning <- read.csv("code/spawning-records.csv")
+spawning <- read.csv("inputs/spawning-records.csv")
 spawning <- spawning[!duplicated(spawning),]
 
-suitdir <- file.path(datapath, "ranges/current")
+suitdir <- "inputs/ranges"
 
 allpid <- 0
 allshp <- data.frame()
@@ -148,7 +144,7 @@ while (lastpid < length(slot(spolys, 'polygons'))) {
 
         spdf <- SpatialPolygonsDataFrame(subspolys, polydata[c(validpid, (lastpid+1):testpid),])
         success <- tryCatch({
-            writeOGR(spdf, layer=shpname, "~/Dropbox/Spawning ProCreator/dataset", driver="ESRI Shapefile", overwrite_layer=T)
+            writeOGR(spdf, layer=shpname, "outputs", driver="ESRI Shapefile", overwrite_layer=T)
             T
         }, error=function(e) {
             print(e)
@@ -183,27 +179,23 @@ while (lastpid < length(slot(spolys, 'polygons'))) {
 invalids <- (min(validpid):max(validpid))[-validpid]
 for (invalid in invalids) {
     print(invalid)
-    ## plotMap(subset(allshp, PID == invalid))
     spolys <- SpatialPolygons(shapes[invalid])
     fixedpoly <- gBuffer(spolys, width=0)
     slot(slot(fixedpoly, 'polygons')[[1]], 'ID') <- as.character(invalid)
-    ## spdf <- SpatialPolygonsDataFrame(fixedpoly, polydata[invalid,])
-    ## writeOGR(spdf, layer="test", "~/Dropbox/Spawning ProCreator/dataset", driver="ESRI Shapefile", overwrite_layer=T)
-
     shapes[[invalid]] <- slot(fixedpoly, 'polygons')[[1]]
 }
 spolys <- SpatialPolygons(shapes)
 spdf <- SpatialPolygonsDataFrame(spolys, polydata)
 
-writeOGR(spdf, layer=shpname, "~/Dropbox/Spawning ProCreator/dataset", driver="ESRI Shapefile", overwrite_layer=T)
-write.csv(polydata, paste0("~/Dropbox/Spawning ProCreator/dataset/", shpname, ".csv"), row.names=F)
-write.csv(errors, paste0("~/Dropbox/Spawning ProCreator/dataset/", shpname, "-errors.csv"), row.names=F)
+writeOGR(spdf, layer=shpname, "outputs", driver="ESRI Shapefile", overwrite_layer=T)
+write.csv(polydata, paste0("outputs/", shpname, ".csv"), row.names=F)
+write.csv(errors, paste0("outputs/", shpname, "-errors.csv"), row.names=F)
 
 ## Statistics
 
 length(unique(polydata$species[validpid]))
 
 shpname <- ifelse(allow.highseas, "GO-FISH-hs", "GO-FISH")
-errors <- read.csv(paste0("~/Dropbox/Spawning ProCreator/dataset/", shpname, "-errors.csv"))
+errors <- read.csv(paste0("outputs/", shpname, "-errors.csv"))
 
 subset(errors, message == "No verdict")

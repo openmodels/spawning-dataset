@@ -1,0 +1,58 @@
+Mapping parameters for Cynoscion analis (Peruvian weakfish)
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Segschneider, J. Rius-Barile, T. Rees, and R. Froese. 2019. AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication, www.aquamaps.org, version 10/2019 (final)."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,-3,-8,-82,-78
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,10,14,31,50
+Temperature (°C),1,18.88,19.44,20.79,21.45
+Salinity (psu),1,33.89,34.39,34.71,35.21
+Primary Production (mgC·m-3·day-1) ,1,13.7,48.37,91.04,112.16
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,49.3,53.17,206.73,367.54
+Distance to Land (km),0,10,17,26,34
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 16): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Cynoscion,analis,-7.75,-79.75,5007:479:4,0.04
+Cynoscion,analis,-6.75,-80.25,5008:360:3,0.03
+Cynoscion,analis,-6.25,-80.75,5008:360:2,0.45
+Cynoscion,analis,-7.25,-80.25,5008:370:1,0.56
+Cynoscion,analis,-7.25,-80.75,5008:370:2,0.46
+Cynoscion,analis,-7.75,-80.25,5008:370:3,0.46
+Cynoscion,analis,-7.75,-79.25,5007:479:3,0.74
+Cynoscion,analis,-6.75,-79.75,5007:469:4,1.00
+Cynoscion,analis,-4.75,-81.25,5008:141:3,1.00
+Cynoscion,analis,-5.25,-80.75,5008:350:2,1.00
+Cynoscion,analis,-5.75,-80.75,5008:350:4,1.00
+Cynoscion,analis,-5.25,-81.25,5008:351:1,1.00
+Cynoscion,analis,-5.75,-81.25,5008:351:3,1.00
+Cynoscion,analis,-6.25,-80.25,5008:360:1,1.00
+Cynoscion,analis,-6.75,-80.75,5008:360:4,0.94
+Cynoscion,analis,-6.25,-81.25,5008:361:1,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Cynoscion,analis,-6.25,-80.75,5008:360:2,112,19.3272113800049,19.7034778594971,34.720573425293,34.9753723144531,100.03600269556,0,205.779190063477,15
+Cynoscion,analis,-6.25,-81.25,5008:361:1,1656,19.7529010772705,4.3349871635437,34.7041549682617,34.5456047058105,82.0439979434013,0,49.3006553649902,27
+Cynoscion,analis,-5.75,-81.25,5008:351:3,902,19.5495090484619,15.1103162765503,34.5730247497559,35.0061378479004,54.8169985413551,0,57.0484924316406,25
+Cynoscion,analis,-5.25,-81.25,5008:351:1,543,19.6362857818604,16.0670337677002,34.4325866699219,35.0261764526367,53.3230006694794,0,84.6623382568359,25
+Cynoscion,analis,-4.75,-81.25,5008:141:3,462,20.1257457733154,21.1447200775146,34.484058380127,34.8156661987305,49.7220009565353,0,207.677337646484,19
+Cynoscion,analis,-4.25,-81.25,5008:141:1,1015,21.4521026611328,14.601939201355,34.356330871582,34.7249450683594,47.0229983329773,0,124.207214355469,19

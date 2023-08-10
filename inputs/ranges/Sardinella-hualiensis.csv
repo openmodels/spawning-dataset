@@ -1,0 +1,140 @@
+Mapping parameters for Sardinella hualiensis (Taiwan sardinella)
+
+"Cite AquaMaps itself as: Kaschner, K., J. Rius-Barile, K. Kesner-Reyes, C. Garilao, S.O. Kullander, T. Rees and R. Froese. 2013. AquaMaps: Predicted range maps for aquatic species World Wide Web electronic publication, www.aquamaps.org, Version 08/2013. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 61 |  71,
+Bounding Box (NSWE): ,29,17,115,123
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,20.73,23.92,26.05,30.25
+Salinity (psu),1,32.66,33.61,34.61,35.49
+Primary Production,1,216.5,526,1081,1628
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,3,5,25,97
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 102): 
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability,Depth,SST,Salinity,Primary Production,Sea Ice Concentration.,Distance to Land
+Sardinella,hualiensis,17.25,122.25,1112:372:1,0.17,,,,,,
+Sardinella,hualiensis,17.25,122.75,1112:372:2,0.14,,,,,,
+Sardinella,hualiensis,17.75,122.25,1112:372:3,0.15,,,,,,
+Sardinella,hualiensis,19.75,121.75,1112:391:4,0.12,,,,,,
+Sardinella,hualiensis,19.25,122.25,1112:392:1,0.06,,,,,,
+Sardinella,hualiensis,24.75,119.25,1211:249:3,0.06,,,,,,
+Sardinella,hualiensis,25.25,118.75,1211:458:2,0.16,,,,,,
+Sardinella,hualiensis,25.25,119.25,1211:459:1,0.15,,,,,,
+Sardinella,hualiensis,25.75,119.25,1211:459:3,0.11,,,,,,
+Sardinella,hualiensis,20.25,121.75,1212:101:2,0.05,,,,,,
+Sardinella,hualiensis,20.75,121.75,1212:101:4,0.14,,,,,,
+Sardinella,hualiensis,20.75,122.25,1212:102:3,0.09,,,,,,
+Sardinella,hualiensis,21.25,121.75,1212:111:2,0.12,,,,,,
+Sardinella,hualiensis,25.75,120.25,1212:350:3,0.02,,,,,,
+Sardinella,hualiensis,17.75,120.25,1112:370:3,0.35,,,,,,
+Sardinella,hualiensis,18.25,122.25,1112:382:1,0.31,,,,,,
+Sardinella,hualiensis,18.75,122.25,1112:382:3,0.37,,,,,,
+Sardinella,hualiensis,19.25,121.75,1112:391:2,0.38,,,,,,
+Sardinella,hualiensis,23.75,117.75,1211:237:4,0.36,,,,,,
+Sardinella,hualiensis,24.25,118.25,1211:248:1,0.28,,,,,,
+Sardinella,hualiensis,24.75,118.25,1211:248:3,0.25,,,,,,
+Sardinella,hualiensis,24.75,119.75,1211:249:4,0.37,,,,,,
+Sardinella,hualiensis,22.25,121.75,1212:121:2,0.27,,,,,,
+Sardinella,hualiensis,22.75,121.75,1212:121:4,0.34,,,,,,
+Sardinella,hualiensis,24.25,122.75,1212:142:2,0.20,,,,,,
+Sardinella,hualiensis,26.25,120.75,1212:360:2,0.23,,,,,,
+Sardinella,hualiensis,26.25,121.25,1212:361:1,0.27,,,,,,
+Sardinella,hualiensis,26.75,122.25,1212:362:3,0.35,,,,,,
+Sardinella,hualiensis,27.25,121.75,1212:371:2,0.22,,,,,,
+Sardinella,hualiensis,17.25,120.25,1112:370:1,0.43,,,,,,
+Sardinella,hualiensis,18.25,120.75,1112:380:2,0.59,,,,,,
+Sardinella,hualiensis,18.75,120.75,1112:380:4,0.45,,,,,,
+Sardinella,hualiensis,18.25,121.75,1112:381:2,0.55,,,,,,
+Sardinella,hualiensis,18.75,121.25,1112:381:3,0.50,,,,,,
+Sardinella,hualiensis,18.75,121.75,1112:381:4,0.54,,,,,,
+Sardinella,hualiensis,19.25,121.25,1112:391:1,0.44,,,,,,
+Sardinella,hualiensis,20.75,117.25,1211:207:3,0.44,,,,,,
+Sardinella,hualiensis,22.25,116.75,1211:226:2,0.50,,,,,,
+Sardinella,hualiensis,23.25,116.75,1211:236:2,0.50,,,,,,
+Sardinella,hualiensis,24.25,117.75,1211:247:2,0.56,,,,,,
+Sardinella,hualiensis,24.25,118.75,1211:248:2,0.45,,,,,,
+Sardinella,hualiensis,24.75,118.75,1211:248:4,0.55,,,,,,
+Sardinella,hualiensis,24.25,119.25,1211:249:1,0.59,,,,,,
+Sardinella,hualiensis,21.75,120.75,1212:110:4,0.59,,,,,,
+Sardinella,hualiensis,25.25,120.25,1212:350:1,0.50,,,,,,
+Sardinella,hualiensis,26.25,121.75,1212:361:2,0.48,,,,,,
+Sardinella,hualiensis,26.75,121.25,1212:361:3,0.43,,,,,,
+Sardinella,hualiensis,22.25,115.75,1211:225:2,0.79,,,,,,
+Sardinella,hualiensis,22.25,118.75,1211:228:2,0.75,,,,,,
+Sardinella,hualiensis,23.75,116.75,1211:236:4,0.63,,,,,,
+Sardinella,hualiensis,23.25,117.25,1211:237:1,0.77,,,,,,
+Sardinella,hualiensis,23.75,117.25,1211:237:3,0.67,,,,,,
+Sardinella,hualiensis,23.75,118.25,1211:238:3,0.62,,,,,,
+Sardinella,hualiensis,24.25,119.75,1211:249:2,0.63,,,,,,
+Sardinella,hualiensis,22.75,121.25,1212:121:3,0.67,,,,,,
+Sardinella,hualiensis,25.25,120.75,1212:350:2,0.69,,,,,,
+Sardinella,hualiensis,25.75,120.75,1212:350:4,0.63,,,,,,
+Sardinella,hualiensis,20.75,116.75,1211:206:4,0.93,,,,,,
+Sardinella,hualiensis,22.25,115.25,1211:225:1,0.81,,,,,,
+Sardinella,hualiensis,22.75,115.25,1211:225:3,1.00,,,,,,
+Sardinella,hualiensis,22.75,115.75,1211:225:4,1.00,,,,,,
+Sardinella,hualiensis,22.25,116.25,1211:226:1,1.00,,,,,,
+Sardinella,hualiensis,22.75,116.25,1211:226:3,1.00,,,,,,
+Sardinella,hualiensis,22.75,116.75,1211:226:4,1.00,,,,,,
+Sardinella,hualiensis,22.25,117.25,1211:227:1,1.00,,,,,,
+Sardinella,hualiensis,22.25,117.75,1211:227:2,0.98,,,,,,
+Sardinella,hualiensis,22.75,117.25,1211:227:3,1.00,,,,,,
+Sardinella,hualiensis,22.75,117.75,1211:227:4,1.00,,,,,,
+Sardinella,hualiensis,22.25,118.25,1211:228:1,0.92,,,,,,
+Sardinella,hualiensis,22.75,118.25,1211:228:3,0.96,,,,,,
+Sardinella,hualiensis,22.75,118.75,1211:228:4,1.00,,,,,,
+Sardinella,hualiensis,22.75,119.25,1211:229:3,1.00,,,,,,
+Sardinella,hualiensis,23.25,117.75,1211:237:2,0.95,,,,,,
+Sardinella,hualiensis,23.25,118.25,1211:238:1,1.00,,,,,,
+Sardinella,hualiensis,23.25,118.75,1211:238:2,0.83,,,,,,
+Sardinella,hualiensis,23.75,118.75,1211:238:4,0.84,,,,,,
+Sardinella,hualiensis,23.25,119.25,1211:239:1,0.81,,,,,,
+Sardinella,hualiensis,23.25,119.75,1211:239:2,1.00,,,,,,
+Sardinella,hualiensis,23.75,119.25,1211:239:3,0.93,,,,,,
+Sardinella,hualiensis,23.75,119.75,1211:239:4,0.99,,,,,,
+Sardinella,hualiensis,22.25,120.25,1212:120:1,0.94,,,,,,
+Sardinella,hualiensis,22.25,120.75,1212:120:2,0.94,,,,,,
+Sardinella,hualiensis,22.75,120.25,1212:120:3,0.94,,,,,,
+Sardinella,hualiensis,22.75,120.75,1212:120:4,0.94,,,,,,
+Sardinella,hualiensis,23.25,120.25,1212:130:1,1.00,,,,,,
+Sardinella,hualiensis,23.75,120.25,1212:130:3,1.00,,,,,,
+Sardinella,hualiensis,23.25,121.25,1212:131:1,0.97,,,,,,
+Sardinella,hualiensis,23.75,121.75,1212:131:4,1.00,,,,,,
+Sardinella,hualiensis,24.25,120.25,1212:140:1,1.00,,,,,,
+Sardinella,hualiensis,24.25,120.75,1212:140:2,1.00,,,,,,
+Sardinella,hualiensis,24.75,120.25,1212:140:3,1.00,,,,,,
+Sardinella,hualiensis,24.75,120.75,1212:140:4,1.00,,,,,,
+Sardinella,hualiensis,24.25,121.75,1212:141:2,1.00,,,,,,
+Sardinella,hualiensis,24.75,121.75,1212:141:4,1.00,,,,,,
+Sardinella,hualiensis,25.25,121.25,1212:351:1,1.00,,,,,,
+Sardinella,hualiensis,25.25,121.75,1212:351:2,1.00,,,,,,
+Sardinella,hualiensis,25.75,121.25,1212:351:3,1.00,,,,,,
+Sardinella,hualiensis,25.75,121.75,1212:351:4,1.00,,,,,,
+Sardinella,hualiensis,25.25,122.25,1212:352:1,1.00,,,,,,
+Sardinella,hualiensis,25.75,122.25,1212:352:3,1.00,,,,,,
+Sardinella,hualiensis,26.25,122.25,1212:362:1,0.85,,,,,,
+Sardinella,hualiensis,26.75,122.75,1212:362:4,0.85,,,,,,
+
+
+Occurrence cells used for creating environmental envelope (n = 10)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Sardinella,hualiensis,22.25,120.25,1212:120:1,721,26.32,34.09,785,0,97
+Sardinella,hualiensis,23.25,120.25,1212:130:1,30,25.45,33.95,652,0,9
+Sardinella,hualiensis,23.25,121.25,1212:131:1,147,26.05,34.4,516,0,5
+Sardinella,hualiensis,23.75,121.75,1212:131:4,2325,26.05,34.52,526,0,23
+Sardinella,hualiensis,24.25,120.75,1212:140:2,11,24.17,33.72,650,0,3
+Sardinella,hualiensis,24.25,120.25,1212:140:1,41,24.17,33.75,939,0,24
+Sardinella,hualiensis,24.75,121.75,1212:141:4,251,25.05,34.5,719,0,8
+Sardinella,hualiensis,25.25,119.75,1211:459:2,22,21.42,33.72,1628,0,25
+Sardinella,hualiensis,25.25,121.75,1212:351:2,66,23.92,34.43,871,0,15
+Sardinella,hualiensis,25.25,121.25,1212:351:1,78,23.92,33.72,1081,0,19

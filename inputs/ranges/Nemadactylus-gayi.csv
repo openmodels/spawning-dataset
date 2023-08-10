@@ -1,0 +1,49 @@
+Mapping parameters for Nemadactylus gayi ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87 |  87,
+Bounding Box (NSWE): ,-25,-35,-83,-76
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,160,166,191,220
+Temperature (°C),1,14.37,16.98,18.93,21.58
+Salinity (psu),1,33.48,33.98,34.98,35.48
+Primary Production,1,148.125,284.1,436.4,543.125
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,22.3,23.3,113.300003051758,226.25
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 9): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Nemadactylus,gayi,-33.75,-77.75,5307:237:4,0.08
+Nemadactylus,gayi,-25.75,-82.75,5208:352:4,0.23
+Nemadactylus,gayi,-25.25,-81.75,5208:351:2,0.68
+Nemadactylus,gayi,-25.75,-82.25,5208:352:3,0.62
+Nemadactylus,gayi,-33.75,-78.75,5307:238:4,0.72
+Nemadactylus,gayi,-26.25,-79.75,5207:469:2,1.00
+Nemadactylus,gayi,-26.25,-80.25,5208:360:1,0.93
+Nemadactylus,gayi,-33.75,-79.25,5307:239:3,1.00
+Nemadactylus,gayi,-33.75,-80.75,5308:130:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Nemadactylus,gayi,-33.75,-78.75,5307:238:4,1732,16.92,34.22,464,0,23
+Nemadactylus,gayi,-33.25,-79.25,5307:239:1,3940,17.12,34.28,372,0,119
+Nemadactylus,gayi,-26.25,-80.25,5208:360:1,3164,18.97,34.73,276,0,100
+Nemadactylus,gayi,-26.25,-79.75,5207:469:2,2471,18.84,34.7,303,0,24

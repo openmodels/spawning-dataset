@@ -1,0 +1,118 @@
+Mapping parameters for Lycodes akuugun ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 67,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,121,160,278,460
+Temperature (°C),1,5.44,5.98,7.04,7.54
+Salinity (psu),1,31.04,31.99,32.99,33.49
+Primary Production,1,270.5,498.5,770.6,906.5
+Sea Ice Concentration,1,0.00042917,0.000643251,0.0104186693206429,0.03
+Distance to Land (km),0,14,15.4,125.699996948242,209
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 74): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Lycodes,akuugun,56.75,-151.25,7515:361:3,0.03
+Lycodes,akuugun,56.25,-152.75,7515:362:2,0.03
+Lycodes,akuugun,56.25,-153.75,7515:363:2,0.18
+Lycodes,akuugun,56.25,-154.25,7515:364:1,0.03
+Lycodes,akuugun,56.75,-154.75,7515:364:4,0.07
+Lycodes,akuugun,55.75,-157.25,7515:457:3,0.03
+Lycodes,akuugun,56.25,-156.75,7515:466:2,0.04
+Lycodes,akuugun,56.25,-157.25,7515:467:1,0.01
+Lycodes,akuugun,53.75,-164.25,7516:134:3,0.09
+Lycodes,akuugun,54.25,-163.75,7516:143:2,0.01
+Lycodes,akuugun,54.75,-164.25,7516:144:3,0.16
+Lycodes,akuugun,53.25,-166.25,7516:236:1,0.19
+Lycodes,akuugun,54.75,-167.75,7516:247:4,0.02
+Lycodes,akuugun,55.25,-161.25,7516:351:1,0.18
+Lycodes,akuugun,55.25,-165.75,7516:455:2,0.06
+Lycodes,akuugun,55.75,-165.75,7516:455:4,0.02
+Lycodes,akuugun,55.25,-166.25,7516:456:1,0.04
+Lycodes,akuugun,55.25,-166.75,7516:456:2,0.16
+Lycodes,akuugun,55.75,-166.25,7516:456:3,0.08
+Lycodes,akuugun,55.75,-166.75,7516:456:4,0.05
+Lycodes,akuugun,55.75,-167.25,7516:457:3,0.05
+Lycodes,akuugun,55.75,-168.75,7516:458:4,0.02
+Lycodes,akuugun,55.75,-154.25,7515:354:3,0.37
+Lycodes,akuugun,55.75,-154.75,7515:354:4,0.29
+Lycodes,akuugun,56.75,-153.75,7515:363:4,0.28
+Lycodes,akuugun,55.75,-159.75,7515:459:4,0.31
+Lycodes,akuugun,52.75,-168.75,7516:228:4,0.22
+Lycodes,akuugun,51.75,-172.75,7517:112:4,0.32
+Lycodes,akuugun,55.75,-153.25,7515:353:3,0.57
+Lycodes,akuugun,55.75,-153.75,7515:353:4,0.48
+Lycodes,akuugun,56.25,-152.25,7515:362:1,0.41
+Lycodes,akuugun,53.25,-168.25,7516:238:1,0.48
+Lycodes,akuugun,53.75,-168.25,7516:238:3,0.51
+Lycodes,akuugun,54.25,-165.25,7516:245:1,0.51
+Lycodes,akuugun,55.25,-160.75,7516:350:2,0.46
+Lycodes,akuugun,55.75,-160.25,7516:350:3,0.40
+Lycodes,akuugun,51.75,-171.75,7517:111:4,0.52
+Lycodes,akuugun,53.75,-164.75,7516:134:4,0.67
+Lycodes,akuugun,52.25,-169.75,7516:229:2,0.78
+Lycodes,akuugun,54.75,-166.75,7516:246:4,0.65
+Lycodes,akuugun,54.75,-159.75,7515:249:4,1.00
+Lycodes,akuugun,52.75,-169.25,7516:229:3,1.00
+Lycodes,akuugun,52.75,-169.75,7516:229:4,1.00
+Lycodes,akuugun,53.75,-165.25,7516:235:3,0.84
+Lycodes,akuugun,53.75,-165.75,7516:235:4,1.00
+Lycodes,akuugun,53.75,-166.25,7516:236:3,1.00
+Lycodes,akuugun,53.25,-169.25,7516:239:1,1.00
+Lycodes,akuugun,53.25,-169.75,7516:239:2,1.00
+Lycodes,akuugun,54.25,-165.75,7516:245:2,0.93
+Lycodes,akuugun,54.75,-165.75,7516:245:4,1.00
+Lycodes,akuugun,54.25,-166.25,7516:246:1,1.00
+Lycodes,akuugun,54.75,-166.25,7516:246:3,0.84
+Lycodes,akuugun,51.75,-172.25,7517:112:3,0.84
+Lycodes,akuugun,51.75,-173.25,7517:113:3,1.00
+Lycodes,akuugun,51.75,-173.75,7517:113:4,1.00
+Lycodes,akuugun,51.75,-174.25,7517:114:3,1.00
+Lycodes,akuugun,51.75,-174.75,7517:114:4,1.00
+Lycodes,akuugun,52.25,-170.25,7517:120:1,1.00
+Lycodes,akuugun,52.25,-170.75,7517:120:2,1.00
+Lycodes,akuugun,52.75,-170.25,7517:120:3,1.00
+Lycodes,akuugun,52.75,-170.75,7517:120:4,1.00
+Lycodes,akuugun,52.25,-171.25,7517:121:1,1.00
+Lycodes,akuugun,52.25,-171.75,7517:121:2,1.00
+Lycodes,akuugun,52.75,-171.25,7517:121:3,0.94
+Lycodes,akuugun,52.25,-172.25,7517:122:1,1.00
+Lycodes,akuugun,52.25,-172.75,7517:122:2,0.98
+Lycodes,akuugun,52.75,-172.25,7517:122:3,1.00
+Lycodes,akuugun,52.25,-173.25,7517:123:1,0.94
+Lycodes,akuugun,52.25,-173.75,7517:123:2,0.94
+Lycodes,akuugun,52.75,-173.25,7517:123:3,0.94
+Lycodes,akuugun,52.75,-173.75,7517:123:4,0.94
+Lycodes,akuugun,52.25,-174.25,7517:124:1,0.89
+Lycodes,akuugun,52.25,-174.75,7517:124:2,0.89
+Lycodes,akuugun,53.25,-170.25,7517:130:1,0.91
+
+
+Occurrence cells used for creating environmental envelope (n = 8)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Lycodes,akuugun,52.25,-172.75,7517:122:2,280,5.98,32.84,495,0.00149667,17
+Lycodes,akuugun,52.25,-172.25,7517:122:1,203,5.98,32.84,512,0.00102417,16
+Lycodes,akuugun,52.25,-171.25,7517:121:1,1048,6.03,32.79,556,0.000735,90
+Lycodes,akuugun,52.75,-169.25,7516:229:3,361,6.23,32.7,728,0.00202667,67
+Lycodes,akuugun,52.75,-171.75,7517:121:4,767,6.03,32.79,500,0.00042917,67
+Lycodes,akuugun,52.75,-170.75,7517:120:4,463,6.12,32.75,559,0.00153833,16
+Lycodes,akuugun,55.75,-151.25,7515:351:3,5033,7.31,32.6,648,0.0007475,209
+Lycodes,akuugun,58.75,-152.25,7515:382:3,73,6.93,31.04,870,0.03,14

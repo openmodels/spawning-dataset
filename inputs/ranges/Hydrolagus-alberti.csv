@@ -1,0 +1,198 @@
+Mapping parameters for Hydrolagus alberti ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 31 |  34,
+Bounding Box (NSWE): ,25,21,,
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,570,683,963,1470
+Temperature (°C),1,3.76,4.26,11.14,19.87
+Salinity (psu),1,34.2,34.7,35.7,36.2
+Primary Production,1,131,325.6,1179.8,2179
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,23,66.2,156.600006103516,271
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 153): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Hydrolagus,alberti,22.25,-17.75,7201:227:2,0.15
+Hydrolagus,alberti,23.75,-16.75,7201:236:4,0.08
+Hydrolagus,alberti,23.25,-17.75,7201:237:2,0.01
+Hydrolagus,alberti,24.75,-16.25,7201:246:3,0.11
+Hydrolagus,alberti,21.75,-73.75,7207:113:4,0.13
+Hydrolagus,alberti,22.25,-75.75,7207:225:2,0.08
+Hydrolagus,alberti,22.25,-76.75,7207:226:2,0.08
+Hydrolagus,alberti,23.25,-79.25,7207:239:1,0.12
+Hydrolagus,alberti,21.75,-85.75,7208:215:4,0.17
+Hydrolagus,alberti,23.75,-88.75,7208:238:4,0.03
+Hydrolagus,alberti,24.75,-87.25,7208:247:3,0.12
+Hydrolagus,alberti,24.75,-95.75,7209:245:4,0.03
+Hydrolagus,alberti,22.75,-17.25,7201:227:3,0.30
+Hydrolagus,alberti,22.75,-74.75,7207:124:4,0.22
+Hydrolagus,alberti,23.25,-74.75,7207:134:2,0.23
+Hydrolagus,alberti,23.75,-74.75,7207:134:4,0.21
+Hydrolagus,alberti,22.75,-75.25,7207:225:3,0.35
+Hydrolagus,alberti,23.75,-79.25,7207:239:3,0.24
+Hydrolagus,alberti,24.25,-75.25,7207:245:1,0.33
+Hydrolagus,alberti,23.25,-80.25,7208:130:1,0.39
+Hydrolagus,alberti,23.25,-80.75,7208:130:2,0.39
+Hydrolagus,alberti,21.25,-85.75,7208:215:2,0.25
+Hydrolagus,alberti,22.75,-85.25,7208:225:3,0.31
+Hydrolagus,alberti,24.75,-88.25,7208:248:3,0.35
+Hydrolagus,alberti,21.75,-92.75,7209:112:4,0.37
+Hydrolagus,alberti,23.25,-17.25,7201:237:1,0.58
+Hydrolagus,alberti,24.25,-17.25,7201:247:1,0.59
+Hydrolagus,alberti,21.25,-73.25,7207:113:1,0.55
+Hydrolagus,alberti,22.25,-73.25,7207:123:1,0.40
+Hydrolagus,alberti,22.25,-73.75,7207:123:2,0.58
+Hydrolagus,alberti,21.25,-76.25,7207:216:1,0.43
+Hydrolagus,alberti,21.25,-80.25,7208:110:1,0.56
+Hydrolagus,alberti,22.75,-84.75,7208:124:4,0.50
+Hydrolagus,alberti,23.75,-83.75,7208:133:4,0.42
+Hydrolagus,alberti,24.25,-86.25,7208:246:1,0.47
+Hydrolagus,alberti,21.25,-92.25,7209:112:1,0.58
+Hydrolagus,alberti,21.25,-96.25,7209:216:1,0.47
+Hydrolagus,alberti,21.75,-97.25,7209:217:3,0.54
+Hydrolagus,alberti,22.25,-96.75,7209:226:2,0.55
+Hydrolagus,alberti,24.25,-96.25,7209:246:1,0.53
+Hydrolagus,alberti,22.75,-73.75,7207:123:4,0.64
+Hydrolagus,alberti,23.25,-79.75,7207:239:2,0.79
+Hydrolagus,alberti,21.75,-81.75,7208:111:4,0.61
+Hydrolagus,alberti,21.75,-83.25,7208:113:3,0.78
+Hydrolagus,alberti,21.75,-83.75,7208:113:4,0.70
+Hydrolagus,alberti,21.75,-84.25,7208:114:3,0.70
+Hydrolagus,alberti,21.75,-84.75,7208:114:4,0.76
+Hydrolagus,alberti,23.75,-81.25,7208:131:3,0.64
+Hydrolagus,alberti,23.75,-81.75,7208:131:4,0.79
+Hydrolagus,alberti,21.75,-85.25,7208:215:3,0.73
+Hydrolagus,alberti,22.25,-85.25,7208:225:1,0.69
+Hydrolagus,alberti,22.25,-85.75,7208:225:2,0.74
+Hydrolagus,alberti,22.75,-86.75,7208:226:4,0.79
+Hydrolagus,alberti,23.25,-85.25,7208:235:1,0.73
+Hydrolagus,alberti,23.75,-85.75,7208:235:4,0.62
+Hydrolagus,alberti,23.75,-86.25,7208:236:3,0.71
+Hydrolagus,alberti,23.25,-89.75,7208:239:2,0.78
+Hydrolagus,alberti,24.75,-87.75,7208:247:4,0.61
+Hydrolagus,alberti,23.75,-97.25,7209:237:3,0.60
+Hydrolagus,alberti,23.75,-17.25,7201:237:3,0.85
+Hydrolagus,alberti,24.25,-16.75,7201:246:2,0.95
+Hydrolagus,alberti,24.75,-16.75,7201:246:4,1.00
+Hydrolagus,alberti,21.25,-71.25,7207:111:1,1.00
+Hydrolagus,alberti,21.75,-72.25,7207:112:3,0.91
+Hydrolagus,alberti,22.25,-74.25,7207:124:1,1.00
+Hydrolagus,alberti,22.75,-74.25,7207:124:3,1.00
+Hydrolagus,alberti,21.25,-76.75,7207:216:2,0.83
+Hydrolagus,alberti,21.75,-77.25,7207:217:3,1.00
+Hydrolagus,alberti,21.25,-79.75,7207:219:2,0.82
+Hydrolagus,alberti,22.25,-75.25,7207:225:1,0.97
+Hydrolagus,alberti,22.75,-75.75,7207:225:4,0.97
+Hydrolagus,alberti,22.25,-77.25,7207:227:1,1.00
+Hydrolagus,alberti,23.75,-75.25,7207:235:3,0.94
+Hydrolagus,alberti,23.75,-75.75,7207:235:4,1.00
+Hydrolagus,alberti,23.75,-76.75,7207:236:4,1.00
+Hydrolagus,alberti,23.75,-77.25,7207:237:3,1.00
+Hydrolagus,alberti,24.25,-75.75,7207:245:2,0.85
+Hydrolagus,alberti,24.25,-76.25,7207:246:1,0.88
+Hydrolagus,alberti,24.75,-76.25,7207:246:3,1.00
+Hydrolagus,alberti,24.25,-77.25,7207:247:1,1.00
+Hydrolagus,alberti,24.75,-77.25,7207:247:3,0.88
+Hydrolagus,alberti,24.75,-77.75,7207:247:4,1.00
+Hydrolagus,alberti,24.25,-79.25,7207:249:1,0.93
+Hydrolagus,alberti,24.25,-79.75,7207:249:2,0.93
+Hydrolagus,alberti,24.75,-79.25,7207:249:3,1.00
+Hydrolagus,alberti,24.75,-79.75,7207:249:4,1.00
+Hydrolagus,alberti,21.75,-80.25,7208:110:3,0.97
+Hydrolagus,alberti,21.75,-80.75,7208:110:4,1.00
+Hydrolagus,alberti,21.75,-81.25,7208:111:3,1.00
+Hydrolagus,alberti,21.25,-82.25,7208:112:1,1.00
+Hydrolagus,alberti,21.25,-82.75,7208:112:2,0.84
+Hydrolagus,alberti,21.25,-83.25,7208:113:1,1.00
+Hydrolagus,alberti,22.75,-83.75,7208:123:4,1.00
+Hydrolagus,alberti,22.25,-84.75,7208:124:2,1.00
+Hydrolagus,alberti,22.75,-84.25,7208:124:3,1.00
+Hydrolagus,alberti,23.75,-80.75,7208:130:4,0.97
+Hydrolagus,alberti,23.25,-81.25,7208:131:1,1.00
+Hydrolagus,alberti,23.25,-81.75,7208:131:2,1.00
+Hydrolagus,alberti,23.25,-82.25,7208:132:1,1.00
+Hydrolagus,alberti,23.25,-82.75,7208:132:2,1.00
+Hydrolagus,alberti,23.75,-82.25,7208:132:3,0.83
+Hydrolagus,alberti,23.75,-82.75,7208:132:4,0.97
+Hydrolagus,alberti,23.25,-83.25,7208:133:1,0.92
+Hydrolagus,alberti,23.25,-83.75,7208:133:2,0.85
+Hydrolagus,alberti,23.75,-83.25,7208:133:3,0.91
+Hydrolagus,alberti,24.25,-80.25,7208:140:1,1.00
+Hydrolagus,alberti,24.25,-80.75,7208:140:2,0.95
+Hydrolagus,alberti,24.75,-80.25,7208:140:3,0.81
+Hydrolagus,alberti,24.25,-81.25,7208:141:1,1.00
+Hydrolagus,alberti,24.25,-81.75,7208:141:2,1.00
+Hydrolagus,alberti,24.25,-82.25,7208:142:1,1.00
+Hydrolagus,alberti,24.25,-82.75,7208:142:2,1.00
+Hydrolagus,alberti,24.25,-83.25,7208:143:1,1.00
+Hydrolagus,alberti,24.25,-83.75,7208:143:2,1.00
+Hydrolagus,alberti,24.75,-83.75,7208:143:4,0.90
+Hydrolagus,alberti,24.75,-84.25,7208:144:3,0.92
+Hydrolagus,alberti,21.25,-86.25,7208:216:1,1.00
+Hydrolagus,alberti,21.75,-86.25,7208:216:3,1.00
+Hydrolagus,alberti,22.75,-85.75,7208:225:4,0.90
+Hydrolagus,alberti,22.25,-86.25,7208:226:1,1.00
+Hydrolagus,alberti,22.75,-86.25,7208:226:3,1.00
+Hydrolagus,alberti,23.25,-85.75,7208:235:2,0.98
+Hydrolagus,alberti,23.75,-85.25,7208:235:3,0.85
+Hydrolagus,alberti,23.25,-86.25,7208:236:1,0.94
+Hydrolagus,alberti,23.25,-86.75,7208:236:2,1.00
+Hydrolagus,alberti,23.75,-86.75,7208:236:4,1.00
+Hydrolagus,alberti,23.75,-87.25,7208:237:3,0.88
+Hydrolagus,alberti,23.75,-89.25,7208:239:3,0.98
+Hydrolagus,alberti,23.75,-89.75,7208:239:4,0.98
+Hydrolagus,alberti,24.25,-86.75,7208:246:2,1.00
+Hydrolagus,alberti,24.25,-87.25,7208:247:1,1.00
+Hydrolagus,alberti,24.25,-87.75,7208:247:2,1.00
+Hydrolagus,alberti,24.25,-88.25,7208:248:1,1.00
+Hydrolagus,alberti,24.25,-88.75,7208:248:2,0.97
+Hydrolagus,alberti,21.75,-92.25,7209:112:3,0.84
+Hydrolagus,alberti,22.75,-90.25,7209:120:3,1.00
+Hydrolagus,alberti,22.75,-90.75,7209:120:4,1.00
+Hydrolagus,alberti,22.25,-91.75,7209:121:2,1.00
+Hydrolagus,alberti,22.75,-91.25,7209:121:3,0.96
+Hydrolagus,alberti,22.25,-92.25,7209:122:1,0.94
+Hydrolagus,alberti,23.25,-90.25,7209:130:1,0.92
+Hydrolagus,alberti,23.25,-90.75,7209:130:2,0.89
+Hydrolagus,alberti,23.75,-90.25,7209:130:3,0.91
+Hydrolagus,alberti,21.25,-96.75,7209:216:2,1.00
+Hydrolagus,alberti,21.75,-96.75,7209:216:4,1.00
+Hydrolagus,alberti,22.25,-97.25,7209:227:1,1.00
+Hydrolagus,alberti,22.75,-97.25,7209:227:3,1.00
+Hydrolagus,alberti,23.25,-96.75,7209:236:2,0.92
+Hydrolagus,alberti,23.75,-96.75,7209:236:4,0.92
+Hydrolagus,alberti,23.25,-97.25,7209:237:1,1.00
+Hydrolagus,alberti,24.25,-96.75,7209:246:2,1.00
+Hydrolagus,alberti,24.75,-96.25,7209:246:3,1.00
+Hydrolagus,alberti,24.75,-96.75,7209:246:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 9)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Hydrolagus,alberti,21.75,-17.75,7201:217:4,1188,20.43,36.2,2179,0,128
+Hydrolagus,alberti,22.25,-97.25,7209:227:1,585,26.02,36.52,368,0,77
+Hydrolagus,alberti,23.25,-82.75,7208:132:2,1312,27.18,36.02,431,0,23
+Hydrolagus,alberti,23.75,-82.75,7208:132:4,1450,27.18,36.08,320,0,107
+Hydrolagus,alberti,23.75,-89.25,7208:239:3,1606,26.29,36.38,327,0,271
+Hydrolagus,alberti,24.25,-82.75,7208:142:2,509,26.67,36.08,392,0,126
+Hydrolagus,alberti,24.25,-82.25,7208:142:1,491,26.67,36.08,412,0,106
+Hydrolagus,alberti,24.25,-77.25,7207:247:1,744,26.86,36.47,526,0,101
+Hydrolagus,alberti,24.75,-77.25,7207:247:3,565,26.86,36.47,930,0,101

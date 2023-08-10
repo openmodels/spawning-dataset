@@ -1,0 +1,81 @@
+Mapping parameters for Epigonus notacanthus ()
+
+"Cite AquaMaps itself as: Kaschner, K., K. Kesner-Reyes, C. Garilao, J. Rius-Barile, T. Rees, and R. Froese. 2015. 
+	AquaMaps: Predicted range maps for aquatic species. World wide web electronic publication, www.aquamaps.org, Version 08/2015. "
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,230,241,284,340
+Temperature (°C),1,1.32,1.82,2.2,2.7
+Salinity (psu),1,34.13,34.63,34.68,35.18
+Primary Production,1,150.5,202.4,691,983
+Sea Ice Concentration,1,-1,0,0,0
+Distance to Land (km),0,76,254.4,692.400024414063,752
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 40): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Epigonus,notacanthus,-1.25,-81.25,5008:111:1,0.10
+Epigonus,notacanthus,-1.75,-81.25,5008:111:3,0.08
+Epigonus,notacanthus,-0.25,-88.75,5008:208:2,0.10
+Epigonus,notacanthus,-24.75,-70.75,5207:140:4,0.05
+Epigonus,notacanthus,-24.75,-85.25,5208:245:3,0.18
+Epigonus,notacanthus,-56.75,-68.25,5506:468:3,0.07
+Epigonus,notacanthus,-56.75,-69.25,5506:469:3,0.09
+Epigonus,notacanthus,-55.25,-72.25,5507:352:1,0.03
+Epigonus,notacanthus,-1.25,-90.75,5009:110:2,0.20
+Epigonus,notacanthus,-25.75,-84.75,5208:354:4,0.38
+Epigonus,notacanthus,-54.75,-73.75,5507:143:4,0.25
+Epigonus,notacanthus,-25.25,-91.25,5209:351:1,0.41
+Epigonus,notacanthus,-33.75,-78.75,5307:238:4,0.42
+Epigonus,notacanthus,-35.75,-115.75,5311:455:4,0.52
+Epigonus,notacanthus,-0.25,-91.75,5009:101:2,0.66
+Epigonus,notacanthus,-22.75,-70.75,5207:120:4,0.70
+Epigonus,notacanthus,-25.75,-83.75,5208:353:4,0.64
+Epigonus,notacanthus,-25.25,-89.25,5208:459:1,0.66
+Epigonus,notacanthus,-25.75,-89.25,5208:459:3,0.69
+Epigonus,notacanthus,-33.75,-77.75,5307:237:4,0.73
+Epigonus,notacanthus,-1.25,-91.25,5009:111:1,0.96
+Epigonus,notacanthus,-26.25,-79.75,5207:469:2,1.00
+Epigonus,notacanthus,-21.25,-81.75,5208:111:2,0.94
+Epigonus,notacanthus,-22.25,-81.25,5208:121:1,0.93
+Epigonus,notacanthus,-25.25,-81.75,5208:351:2,1.00
+Epigonus,notacanthus,-25.75,-82.25,5208:352:3,0.80
+Epigonus,notacanthus,-25.75,-82.75,5208:352:4,0.90
+Epigonus,notacanthus,-25.75,-84.25,5208:354:3,1.00
+Epigonus,notacanthus,-26.25,-80.25,5208:360:1,0.90
+Epigonus,notacanthus,-25.75,-85.25,5208:455:3,1.00
+Epigonus,notacanthus,-25.75,-86.25,5208:456:3,0.99
+Epigonus,notacanthus,-25.75,-86.75,5208:456:4,0.88
+Epigonus,notacanthus,-25.25,-87.25,5208:457:1,0.92
+Epigonus,notacanthus,-33.75,-78.25,5307:238:3,0.98
+Epigonus,notacanthus,-33.75,-79.25,5307:239:3,0.96
+Epigonus,notacanthus,-33.75,-80.75,5308:130:4,1.00
+Epigonus,notacanthus,-46.25,-83.75,5408:363:2,0.87
+Epigonus,notacanthus,-43.25,-97.75,5409:237:2,0.99
+Epigonus,notacanthus,-56.25,-66.25,5506:466:1,0.90
+Epigonus,notacanthus,-56.75,-68.75,5506:468:4,0.95
+
+
+Occurrence cells used for creating environmental envelope (n = 5)
+Genus,Species,Center Lat,Center Long,C-Square,Depth,SST,Salinity,Primary Production,Sea Ice Conc.,Distance to Land
+Epigonus,notacanthus,-25.75,-86.75,5208:456:4,2178,20.05,35.18,196,0,752
+Epigonus,notacanthus,-25.75,-85.25,5208:455:3,2459,19.89,35.11,212,0,603
+Epigonus,notacanthus,-24.25,-70.75,5207:140:2,1882,18.53,34.75,983,0,76
+Epigonus,notacanthus,-22.25,-81.25,5208:121:1,2788,19.67,35.08,253,0,522
+Epigonus,notacanthus,-21.75,-81.75,5208:111:4,2263,19.79,35.17,250,0,592

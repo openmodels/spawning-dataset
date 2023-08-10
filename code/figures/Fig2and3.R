@@ -3,36 +3,30 @@ library(viridis)
 library(sf)
 library(scales)
 
-setwd("/Users/KO/Dropbox/Spawning ProCreator/dataset")
-rm(list=ls()) 
-
-
 # Figure 2: Number of species by functional group
 # from sumstats.csv
-stats_fn_grp<-read.csv("sumstats.csv")
+stats_fn_grp<-read.csv("outputs/sumstats.csv")
 stats_fn_grp$CONTINENT[is.na(stats_fn_grp$CONTINENT)] <- 'Multiple continents'
 stats_fn_grp$CONTINENT[stats_fn_grp$CONTINENT== "Seven seas (open ocean)"] <- 'non-Oceania islands'
-stats_fn_grp$CONTINENT = 
-  factor(stats_fn_grp$CONTINENT, levels = 
-           c('Africa', 'Asia', 'Europe', 'North America', 'South America', 
+stats_fn_grp$CONTINENT =
+  factor(stats_fn_grp$CONTINENT, levels =
+           c('Africa', 'Asia', 'Europe', 'North America', 'South America',
              'Oceania', 'Antarctica', 'non-Oceania islands', 'Multiple continents'))
 
 plot_with_na<-ggplot(stats_fn_grp, aes(fill=functional.group, y=species.spawning, x=CONTINENT))
-plot_with_na + 
+plot_with_na +
   geom_bar(position="stack", stat="identity") +
   theme_classic() +
   theme(legend.position="bottom") +
-  xlab("") + 
+  xlab("") +
   ylab("Number of species spawning-regions") +
   scale_x_discrete(labels = wrap_format(15))
 
 
 
 # Figure 3: Number of entries classified for type of geocoding method
-# from GeoSpawn.shp
-setwd("/Users/KO/Dropbox/Spawning ProCreator/dataset")
-rm(list=ls()) 
-procreator <- st_read("GeoSpawn.shp")
+# from GO-FISH.shp
+procreator <- st_read("outputs/GO-FISH.shp")
 
 #relabel the data to match the text of the paper
 procreator$method[procreator$method == 'Hand-geocoded'] <- 'Geocoding: Manual'
@@ -51,10 +45,8 @@ plot_data_class+geom_bar()+theme_classic()+
   scale_x_discrete(labels = wrap_format(15))
 
 #Figure 3: Percentage of entries classified for type of geocoding method
-#Using Spawning ProCreator google sheet 
-setwd("/Users/KO/Dropbox/Spawning ProCreator/dataset")
-rm(list=ls()) 
-procreator<-read.csv("MasterSpawningProCreator.csv")
+#Using Spawning ProCreator google sheet
+procreator<-read.csv("inputs/Master Spawning ProCreator.csv")
 
 #clean the data
 procreator$Verdict[procreator$Verdict == 'EEZs'] <- 'EEZ'
