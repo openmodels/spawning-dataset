@@ -1,6 +1,8 @@
 setwd("~/Dropbox/Climate Change Fish Nets")
 datapath <- "~/research/fishnets/"
 
+do.shapename <- "GO-FISH-hs"
+
 source("code/spawning/read.R")
 source("code/lib/hierarchy.R")
 
@@ -93,13 +95,61 @@ spawning2$CONTINENT[spawning$country == "Micronesia, Federated States of"] <- "O
 spawning2$CONTINENT[spawning$country == "Netherlands Antilles"] <- "South America"
 spawning2$CONTINENT[spawning$country == "Virgin Islands (USA)"] <- "North America"
 
+## Try to assign continents to FAO sheet entries
+specieseez <- read.csv("code/fao2eez/specieseez.csv")
+eezshp <- importShapefile(file.path(datapath, "shapefiles/World_EEZ_v8_20140228_LR/World_EEZ_v8_2014.shp"), readDBF=T)
+eezshp.polydata <- attr(eezshp, "PolyData")
+
+missing.se <- c()
+for (ii in which(is.na(spawning2$CONTINENT) | spawning2$CONTINENT == "")) {
+    eezlist <- specieseez$eez[specieseez$region == spawning2$localities[ii] & specieseez$specie == spawning2$species[ii]]
+    if (length(eezlist) == 0) {
+        if (spawning2$localities[ii] %in% c("North Sea", "Caspian Sea (Volga)", "Europe", "Europe: Italy, Tunisia", "Bay of Biscay", "Lake Constance", "Northern Europe", "Lake Geneva", "European lakes.", "Faroe (NW, N and NE)", "northern North Sea and shelf West of Orkney and Shetland", "Bay of Biscay, 1996-1997", "Central Europe", "Lake Ohrid", "Danube drainage", "Lake Ohrid (Albania, Macedonia)", "Lake Prespa", "Barents Sea", "Southern North Sea", "Western Caspian Sea", "Adriatic basin", "From Po to Soca drainages", "Moraca and Neretva drainages (Bosnia-Herzegovina, Montenegro)"))
+            spawning2$CONTINENT[ii] <- "Europe"
+        else if (spawning2$localities[ii] %in% c("Caribbean sea", "Lake Superior", "Michigan and Huron Lakes", "off  Florida, Caribbean", "Bristol Bay northward to Nunivak Island", "Georges Bank, Browns Bank and coastal Gulf of Maine", "Grand Bank", "Scotian Banks", "Flathead River of British Columbia, Alberta and Montana.", "Yukon River", "Yukon", "Yukon drainage", "Middle Cove Beach", "Newfoundland"))
+            spawning2$CONTINENT[ii] <- "North America"
+        else if (spawning2$localities[ii] %in% c("Orinoco River", "Curaçao"))
+            spawning2$CONTINENT[ii] <- "South America"
+        else if (spawning2$localities[ii] %in% c("Seamounts off southern part of  Africa"))
+            spawning2$CONTINENT[ii] <- "Africa"
+        else if (spawning2$localities[ii] %in% c("Mekong mainstream", "Nizhnyaya Tunguska", "Western Pacific: around Commander Island and coast of Siberia", "Eastern Bering Sea (1959-1964)", "Eastern Bering Sea (1990)", "Anadyr River", "Korea", "Yenisei River, Siberia", "Syr-Darya", "Asia", "Ganges Hooghly system"))
+            spawning2$CONTINENT[ii] <- "Asia"
+        else if (spawning2$localities[ii] %in% c("Eastern Indian Ocean", "Southestern Indian Ocean", "Arctic Ocean", "Arctic Ocean basin", "Southern Emperor-Northern Hawaiian Ridge"))
+            spawning2$CONTINENT[ii] <- "Seven seas (open ocean)"
+        else {
+            print(paste("None for", spawning2$localities[ii]))
+            missing.se <- c(missing.se, spawning2$localities[ii])
+        }
+    } else {
+        contlist <- unique((data.frame(NAME_CIAWF=eezshp.polydata$Country[eezlist]) %>% left_join(continents))$CONTINENT)
+        contlist <- contlist[!is.na(contlist)]
+        if (length(unique(contlist)) == 1)
+            spawning2$CONTINENT[ii] <- unique(contlist)
+    }
+}
+unique(missing.se)
+
 unique(spawning2$country[is.na(spawning2$CONTINENT)])
 
-shp.ds <- importShapefile("~/Dropbox/Spawning ProCreator/dataset/GeoSpawn.shp")
-polydata.ds <- attr(shp.ds, 'PolyData')
+polydata.ds <- read.csv(paste0("~/Dropbox/Spawning ProCreator/dataset/", do.shapename, ".csv"))
 
-included <- paste(polydata.ds$species, polydata.ds$country, polydata.ds$localities)
-spawning2$included <- paste(spawning2$species, spawning2$country, spawning2$localities) %in% included
+spawning2$included <- F
+allmiss <- c()
+for (ii in 1:nrow(polydata.ds)) {
+    rows <- which(spawning2$species == polydata.ds$species[ii] &
+                  (((is.na(polydata.ds$country[ii]) | polydata.ds$country[ii] == "") & (is.na(spawning2$country) | spawning2$country == "")) |
+                   polydata.ds$country[ii] == spawning2$country) &
+                  (((is.na(polydata.ds$localities[ii]) | polydata.ds$localities[ii] == "") & (is.na(spawning2$localities) | spawning2$localities == "")) |
+                   polydata.ds$localities[ii] == spawning2$localities))
+    if (length(rows) == 0)
+        allmiss <- c(allmiss, ii)
+    ## else if (length(rows) > 1) {
+    ##     print("Duplicates!")
+    ##     break
+    ## }
+    else
+        spawning2$included[rows] <- T
+}
 
 sumstats <- spawning2 %>% group_by(commercial.group, functional.group, CONTINENT) %>%
     summarize(species.spawning=length(unique(species)), spawnings.spawning=length(species),
@@ -168,3 +218,6 @@ sumstats2 <- sumstats %>% full_join(sumstats.sau)
 write.csv(sumstats2, "~/Dropbox/Spawning ProCreator/dataset/sumstats.csv", row.names=F)
 write.csv(species3, "~/Dropbox/Spawning ProCreator/dataset/sau-species.csv", row.names=F)
 write.csv(spawning2, "~/Dropbox/Spawning ProCreator/dataset/spawning-species.csv", row.names=F)
+
+length(unique(spawning2$species[spawning2$included]))
+sum(spawning2$included)
