@@ -1,6 +1,11 @@
 source("code/generate/read.R")
 source("code/generate/hierarchy.R")
 
+do.shapename <- "GO-FISH-hs"
+
+source("code/generate/read.R")
+source("code/generate/hierarchy.R")
+
 spawning <- read.csv("inputs/spawning-records.csv")
 spawning <- spawning[!duplicated(spawning),]
 
@@ -126,7 +131,7 @@ unique(missing.se)
 
 unique(spawning2$country[is.na(spawning2$CONTINENT)])
 
-polydata.ds <- read.csv("outputs/GO-FISH.csv")
+polydata.ds <- read.csv(paste0("outputs/", do.shapename, ".csv"))
 
 spawning2$included <- F
 allmiss <- c()
