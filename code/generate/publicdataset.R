@@ -4,15 +4,20 @@ datapath <- "~/research/fishnets/"
 require(sp)
 library(rgeos)
 
+allow.highseas <- T
+
 source("code/spawning/read.R")
 ##source("code/ranges/lib.R")
 
 spawning <- read.csv("code/spawning-records.csv")
+spawning <- spawning[!duplicated(spawning),]
+
 suitdir <- file.path(datapath, "ranges/current")
 
 allpid <- 0
 allshp <- data.frame()
 polydata <- data.frame()
+errors <- data.frame()
 
 method.messages <- list("EEZ"="Exclusive economic zone", "red"="ArcGIS geocoding", "green"="GeoNames geocoding",
                         "FAO sheet"="Multiple EEZs by FAO region", "Google maps"="Hand-geocoded",
@@ -22,25 +27,60 @@ method.messages <- list("EEZ"="Exclusive economic zone", "red"="ArcGIS geocoding
                         "Drop"="Drop", "newzealand-1728.shp"="Bathymetry-based polygon",
                         "jamaica-1839.shp"="Bathymetry-based polygon")
 
+get.method <- function(verdict) {
+    if (verdict %in% names(method.messages))
+        return(method.messages[[verdict]])
+
+    if (grepl("\\.shp", verdict)) {
+        if (grepl("^mr-", verdict))
+            return("Marine regions feature")
+        else if (grepl("shelf|seamount|slope|ridge", verdict))
+            return("Marine geographic feature")
+        else
+            return(verdict) # return("Bathymetry-based polygon")
+    }
+    verdict
+}
+
 for (ii in 1:nrow(spawning)) {
     print(ii)
-    shp <- get.poly(spawning$species[ii], spawning$country[ii], spawning$localities[ii])
-    if (nrow(shp) == 0) {
-        errmsg <- get.poly(spawning$species[ii], spawning$country[ii], spawning$localities[ii], error.only=T)
-	next
+    last.status <<- NULL
+    shp <- tryCatch({
+        shp <- get.poly(spawning$species[ii], spawning$country[ii], spawning$localities[ii], allow.highseas=allow.highseas)
+        if (nrow(shp) == 0)
+            last.status <<- get.poly(spawning$species[ii], spawning$country[ii], spawning$localities[ii],
+                                     error.only=T, allow.highseas=allow.highseas)
+        shp
+    }, error=function(err) {
+        last.status <<- paste("Unknown error:", as.character(err))
+        data.frame()
+    })
+
+    if (!is.null(last.status)) {
+        errors <- rbind(errors, data.frame(species=spawning$species[ii], country=spawning$country[ii], locality=spawning$localities[ii], message=last.status))
+        next
     }
 
-    method <- ifelse(nrow(last.row) > 1, "Multiple entries", method.messages[[last.row$Verdict]])
+    methods <- sapply(last.row$Verdict, get.method)
+    if (length(unique(methods)) > 1)
+        method <- "Multiple methods"
+    else
+        method <- unique(methods)
     notes <- ""
 
     ## Intersect with suitability
+    last.status <<- NULL
     suitmap <- region.x.suitability(spawning$species[ii], shp)
     if (nrow(suitmap) == 0 && !is.null(last.status)) {
         if (last.status == "Empty locality: missing gridref")
+            if (sum(calcArea(shp, rollup=1)) > 3 * .5*.5) {
+                errors <- rbind(errors, data.frame(species=spawning$species[ii], country=spawning$country[ii], locality=spawning$localities[ii], message="Empty locality: Large area"))
+                next
+            }
             notes <- "No available suitability"
         else {
             errmsg <- last.status
-            last.status <- NULL
+            errors <- rbind(errors, data.frame(species=spawning$species[ii], country=spawning$country[ii], locality=spawning$localities[ii], message=errmsg))
             next
         }
     }
@@ -65,6 +105,8 @@ for (ii in 1:nrow(spawning)) {
 
     allpid <- allpid + 1
     shp$PID <- allpid
+    if (!("SID" %in% names(shp)))
+        shp$SID <- 1
     allshp <- rbind(allshp, shp)
     polydata <- rbind(polydata, cbind(PID=allpid, spawning[ii, ], method, notes))
 }
@@ -82,33 +124,86 @@ for (PID in unique(allshp$PID)) {
     shapes[[PID]] <- Polygons(polygons, ID=PID)
 }
 
+shpname <- ifelse(allow.highseas, "GO-FISH-hs", "GO-FISH")
+
 spolys <- SpatialPolygons(shapes)
-library(cleangeo)
-sploys <- clgeo_Clean(spolys)
+
+## library(cleangeo)
+## sploys <- clgeo_Clean(spolys)
+library(rgdal)
 
 row.names(polydata) <- polydata$PID
 
 validpid <- c()
-for (PID in 1:length(slot(spolys, 'polygons'))) {
-    print(PID)
-    subspolys = spolys
-    slot(subspolys, 'polygons') <- slot(sploys, 'polygons')[c(validpid, PID)]
+lastpid <- 0
+## Faster approach to find invalid polygons
+while (lastpid < length(slot(spolys, 'polygons'))) {
+    testpid <- min(lastpid + 400, ceiling((lastpid + length(slot(spolys, 'polygons'))) / 2))
+    failpid <- NA
+    while (T) {
+        print(paste(lastpid, testpid, sep=" - "))
 
-    spdf <- SpatialPolygonsDataFrame(subspolys, polydata[c(validpid, PID),])
-    success <- tryCatch({
-        writeOGR(spdf, layer="GeoSpawn", "~/Dropbox/Spawning ProCreator/dataset", driver="ESRI Shapefile", overwrite_layer=T)
-	T
-    }, error=function(e) {
-        print(e)
-        F
-    })
-    if (success)
-      validpid <- c(validpid, PID)
+        subspolys = spolys
+        slot(subspolys, 'polygons') <- slot(spolys, 'polygons')[c(validpid, (lastpid+1):testpid)]
+
+        spdf <- SpatialPolygonsDataFrame(subspolys, polydata[c(validpid, (lastpid+1):testpid),])
+        success <- tryCatch({
+            writeOGR(spdf, layer=shpname, "~/Dropbox/Spawning ProCreator/dataset", driver="ESRI Shapefile", overwrite_layer=T)
+            T
+        }, error=function(e) {
+            print(e)
+            F
+        })
+        if (success && is.na(failpid)) {
+            ## Success on first try: take them all
+            validpid <- c(validpid, (lastpid+1):testpid)
+            lastpid <- testpid
+            break
+        } else if (success) {
+            ## Success after narrowing: take it but see what more can take
+            validpid <- c(validpid, (lastpid+1):testpid)
+            lastpid <- testpid
+            testpid <- ceiling((lastpid + failpid) / 2)
+        } else if (testpid == lastpid + 1) {
+            ## Failed and no room left to explore
+            lastpid <- testpid
+            break
+        } else {
+            failpid <- testpid
+            testpid <- ceiling((lastpid + testpid) / 2)
+        }
+    }
 }
 
-spdf <- SpatialPolygonsDataFrame(subspolys, polydata[validpid, -1])
-writeOGR(spdf, layer="GeoSpawn", "~/Dropbox/Spawning ProCreator/dataset", driver="ESRI Shapefile", overwrite_layer=T)
+## errors <- rbind(errors, data.frame(species=polydata$species[-validpid], country=polydata$country[-validpid],
+##                                    locality=polydata$localities[-validpid], message="Invalid polygon"))
+## spdf <- SpatialPolygonsDataFrame(subspolys, polydata[validpid, -1])
+
+## Fix invalids
+invalids <- (min(validpid):max(validpid))[-validpid]
+for (invalid in invalids) {
+    print(invalid)
+    ## plotMap(subset(allshp, PID == invalid))
+    spolys <- SpatialPolygons(shapes[invalid])
+    fixedpoly <- gBuffer(spolys, width=0)
+    slot(slot(fixedpoly, 'polygons')[[1]], 'ID') <- as.character(invalid)
+    ## spdf <- SpatialPolygonsDataFrame(fixedpoly, polydata[invalid,])
+    ## writeOGR(spdf, layer="test", "~/Dropbox/Spawning ProCreator/dataset", driver="ESRI Shapefile", overwrite_layer=T)
+
+    shapes[[invalid]] <- slot(fixedpoly, 'polygons')[[1]]
+}
+spolys <- SpatialPolygons(shapes)
+spdf <- SpatialPolygonsDataFrame(spolys, polydata)
+
+writeOGR(spdf, layer=shpname, "~/Dropbox/Spawning ProCreator/dataset", driver="ESRI Shapefile", overwrite_layer=T)
+write.csv(polydata, paste0("~/Dropbox/Spawning ProCreator/dataset/", shpname, ".csv"), row.names=F)
+write.csv(errors, paste0("~/Dropbox/Spawning ProCreator/dataset/", shpname, "-errors.csv"), row.names=F)
 
 ## Statistics
 
 length(unique(polydata$species[validpid]))
+
+shpname <- ifelse(allow.highseas, "GO-FISH-hs", "GO-FISH")
+errors <- read.csv(paste0("~/Dropbox/Spawning ProCreator/dataset/", shpname, "-errors.csv"))
+
+subset(errors, message == "No verdict")
