@@ -1,8 +1,8 @@
 library(dplyr)
-library(ncdf4) 
-library(raster) 
-library(rgdal) 
-library(ggplot2) 
+library(ncdf4)
+library(raster)
+library(rgdal)
+library(ggplot2)
 
 get.suitability <- function(filepath) {
     tbl <- get.table(filepath)
@@ -55,6 +55,24 @@ get.table <- function(filepath) {
   tbl$Center.Long <- as.numeric(as.character(tbl$Center.Long))
   tbl$Overall.Probability <- as.numeric(as.character(tbl$Overall.Probability))
   return(tbl)
+}
+
+get.occurances <- function(filepath) {
+    ## Find the start of the table
+    lines <- readLines(filepath)
+
+    skip <- 0
+    for (line in lines) {
+        if (stringr::str_sub(line, 1, nchar("Occurrence cells used")) == "Occurrence cells used")
+            break
+        skip <- skip + 1
+    }
+
+    tbl <- read.csv(filepath, skip=skip + 1, col.names=paste('X', 1:20)) # impose col.names to avoid special chars
+    tbl$Center.Lat <- as.numeric(as.character(tbl$X.3))
+    tbl$Center.Long <- as.numeric(as.character(tbl$X.4))
+    tbl <- subset(tbl, !is.na(Center.Lat) & !is.na(Center.Long))
+    return(data.frame(Center.Lat=tbl$Center.Lat, Center.Long=tbl$Center.Long, Overall.Probability=1))
 }
 
 make.probability <- function(values, condrow) {
@@ -111,7 +129,6 @@ get.plottable <- function(probs,envindices,environment) {
   loncoords <- environment$CenterLong
   uniquelats <- sort(unique(latcoords))
   uniquelons <- sort(unique(loncoords))
-  # 
   # Test plot
   plotprobs1 <- rep(0L,length(uniquelats)*length(uniquelons))
   plotprobs1[envindices] <- probs
