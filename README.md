@@ -106,9 +106,11 @@ This repository contains data extracted from public datasets, as described below
 
    Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org.
    
- - Natural Earth: The shapefiles under `inputs/shapefiles/ne_10m_admin_0_countries` and `inputs/shapefiles/ne_50m_coastline` where made by Natural Earth (public domain).
+ - Natural Earth: The shapefiles under `inputs/shapefiles/ne_10m_admin_0_countries` and `inputs/shapefiles/ne_50m_coastline` where made by Natural Earth (public domain): https://www.naturalearthdata.com/downloads/
  
- - SCRFA: The file `inputs/scrfa.csv` and the summarized dataset `inputs/spawning-records.csv` contains information derived from the SCRFA Aggregations Database (https://www.scrfa.org/database/).
+ - SCRFA: The file `inputs/scrfa.csv` and the summarized dataset `inputs/spawning-records.csv` contains information derived from the SCRFA Aggregations Database: https://www.scrfa.org/database/
+
+ - Marine Regions: Some shapefiles in `inputs/shapefiles` are extracted from Marine Regions (CC-BY-4.0): https://www.marineregions.org/downloads.php
 
  - Knolls and seamounts in the world ocean: Some shapefiles in `inputs/shapefiles` are extracted from Yesson et al. (2011) (CC-BY-3.0)
    
