@@ -115,3 +115,8 @@ This repository contains data extracted from public datasets, as described below
  - Knolls and seamounts in the world ocean: Some shapefiles in `inputs/shapefiles` are extracted from Yesson et al. (2011) (CC-BY-3.0)
    
    Yesson, Chris; Clark, M R; Taylor, M; Rogers, A D (2011): Knolls and seamounts in the world ocean - links to shape, kml and data files. PANGAEA, https://doi.org/10.1594/PANGAEA.757563,
+
+- FAO Major Fishing Areas: FAO regions are used to interpret international spawning reginos.
+
+   FAO 2023. FAO Major Fishing Areas. Fisheries and Aquaculture Division [online]. Rome. 
+https://www.fao.org/fishery/en/collection/area
