@@ -16,7 +16,7 @@ directory.
 ### To reproduce the Spawning ProCreator spreadsheet
 
 The Spawning ProCreator spreadsheet, `Master Spawning ProCreator.csv`,
-describes how each spwning region should be constructed. Improvements
+describes how each spawning region should be constructed. Improvements
 to these constructions can be made by editing the spreadsheet, which
 does not require reproducing it. However, if the underlying spawning
 information from FishBase and SCRFA is extended, the spreadsheet
@@ -35,7 +35,7 @@ these steps:
 2. Regenerate the `input/specieseez.csv` file if the `inputs/Region
 FAO EEZ matching-DO NOT EDIT IN EXCEL.csv` has changed. This second
 file describes the FAO regions corresponding to multinational
-descriptions in the spawnings dataset. To regenerate it, run
+descriptions in the spawning dataset. To regenerate it, run
 `prelim/fao2eez/species2eez.R`, which produces `output/specieseez.csv`
 and move this file to `inputs/specieseez.csv`.
 
@@ -81,7 +81,7 @@ continent and fish group.
 To regenerate the public dataset, first run
 `code/generate/publicdataset.R` and then `code/generate/stats.R`.
 
-### To regnerate the figures
+### To regenerate the figures
 
  - `maps.R` generates spawning maps across the whole year, by season,
    or by month.
@@ -94,7 +94,7 @@ To regenerate the public dataset, first run
 
 This repository contains data extracted from public datasets, as described below:
 
- - FishBase: The data under `inputs/spawning` and summarized in `inputs/spawning-records.csv` is dervied from FishBase (CC-BY-NC 3.0).
+ - FishBase: The data under `inputs/spawning` and summarized in `inputs/spawning-records.csv` is derived from FishBase (CC-BY-NC 3.0).
 
    Froese, R. and D. Pauly. Editors. 2023. FishBase. World Wide Web electronic publication. www.fishbase.org, version (02/2023).
 
@@ -116,7 +116,7 @@ This repository contains data extracted from public datasets, as described below
    
    Yesson, Chris; Clark, M R; Taylor, M; Rogers, A D (2011): Knolls and seamounts in the world ocean - links to shape, kml and data files. PANGAEA, https://doi.org/10.1594/PANGAEA.757563,
 
-- FAO Major Fishing Areas: FAO regions are used to interpret international spawning reginos.
+- FAO Major Fishing Areas: FAO regions are used to interpret international spawning regions.
 
    FAO 2023. FAO Major Fishing Areas. Fisheries and Aquaculture Division [online]. Rome. 
 https://www.fao.org/fishery/en/collection/area
