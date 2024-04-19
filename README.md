@@ -116,6 +116,10 @@ This repository contains data extracted from public datasets, as described below
    
    Yesson, Chris; Clark, M R; Taylor, M; Rogers, A D (2011): Knolls and seamounts in the world ocean - links to shape, kml and data files. PANGAEA, https://doi.org/10.1594/PANGAEA.757563,
 
+- Bathemetry:  Some shapefiles in `inputs/shapefiles` 2-minute Gridded Global Relief Data (ETOPO2) v2: https://doi.org/10.7289/V5J1012Q 
+
+  NOAA National Geophysical Data Center. 2006: 2-minute Gridded Global Relief Data (ETOPO2) v2. NOAA National Centers for Environmental Information. https://doi.org/10.7289/V5J1012Q.
+  
 - FAO Major Fishing Areas: FAO regions are used to interpret international spawning regions.
 
    FAO 2023. FAO Major Fishing Areas. Fisheries and Aquaculture Division [online]. Rome. 
