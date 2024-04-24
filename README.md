@@ -59,6 +59,23 @@ and move this file to `inputs/specieseez.csv`.
    and other columns are manually entered), save the result as a CSV
    file at `inputs/Master Spawning ProCreator.csv`.
 
+### Spawning ProCreator metadata
+
+ID: Unique ID number assigned to each unique [Locality, Country] pair before manual verdict assignment (see verdict variable description below). During verdict assignment, if the researcher believed the location needed to be split into two entries, then the ID number was duplicated. 
+Country: Spawning country listed in Fishbase.org’s spawning dataset
+Localities: Locality listed in Fishbase.org’s spawning dataset.
+Total Catch: Indicative catch associated with this spawning region, calculated by dividing the 2014 catch for each species associated with the spawning locality by the total number of spawning localities for that species, and summing these values across all of the species associated with the given locality. Catch values from Sea Around Us.
+Total Value: Indicative value associated with this spawning region, calculated as in the Total Catch, but using landed values from Sea Around Us.
+species: All species listed by scientific name that had the same [Locality, Country] from Fishbase.org’s spawning dataset. Percentages in parentheses describe the % of catch that each species contributed to the Total Catch value.
+Geocoded: Maps produced by GeoNames Search Webservice and ArcGIS World Geocoding Service (documentation for these services can be found at https://www.geonames.org/export/web-services.html and https://developers.arcgis.com/documentation/mapping-apis-and-services/geocoding/, respectively). GeoNames were in red and ArcGIS were in green
+Example of map: https://www.dropbox.com/home/Spawning%20ProCreator/maps?preview=map346.pdf
+Verdict: Method researcher used to geocode the spawning location. See article’s method section for more details.
+New Country: When there was no country in the description and the boundaries of a country’s EEZ would help with the accuracy of the geocoding, a country was used. An example is “Seamounts off southern part of Africa.” A seamount product was used, but South Africa’s EEZ helped to bound the seamounts. It was also used to override incorrect countries listed. When checked by a second researcher, if the original verdict was incorrect and should have been EEZ, this new decision overrode the original verdict by filling in “EEZ” here. Finally, if the description matched the native range better than any EEZ, “any” was written to indicate use the native range. 
+(1) Southwest Coordinate, (1) Northeast Coordinate, (2) Southwest Coordinate, (2) Northeast Coordinate, (3) Southwest Coordinate, (3) Northeast Coordinate: There were up to 3 boxes used for these manual geocoding entries described in the methods of the paper. When the researcher manually created a box using Google Maps to bound the spawning grounds, the research recorded the two diagonal coordinates to draw the box. Coordinates with the same (#) are pairs. 
+Latitude range: When the description included latitudes or areas that commonly use latitudes, we noted the latitude range here. We used 35oS - 35oN for the subtropics and tropics, 23.5oS - 23.5oN for the tropics, 20oS - 20oN for the equatorial region, and 30oS - 30oN for lower latitudes.
+Notes: The researcher made notes of difficult entries, primary sources when they changed the description, or reasons why an entry was dropped. These notes are not comprehensive of the full discussion of all the challenging entries. 
+Notes (4/13/23): During a last check of the data on April 13, 2023, there were some rows that were dropped in the data merging often due to punctuation differences. These notes corrected those issues. These notes were also used to replace any verdicts with a more accurate shapefile of a region using marineregions.org shapefiles. The most common shapefiles were seas, gulfs, and bays. 
+
 ### To reproduce the GO-FISH shapefile
 
 The `code/generate/read.R` functions translate information from the
