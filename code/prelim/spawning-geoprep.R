@@ -3,7 +3,7 @@ library(dplyr)
 
 do.sauweights <- F # If T, need catch and value in saudata
 
-dropbox.path <- "~/Dropbox/Spawning ProCreator/maps"
+dropbox.path <- NULL
 dropbox.url <- "https://www.dropbox.com/home/Spawning%20ProCreator/maps"
 
 df <- read.csv("inputs/spawning-records.csv")
@@ -74,9 +74,11 @@ for (rr in 1:length(regionslist)) {
 
     ## Create the map with geocodings
 
-    pdf(file.path(dropbox.path, paste0("map", rr, ".pdf")), width=6, height=3)
-    par(rep(0, 4))
-    map("world", mar=rep(0, 4))
+    if (!is.null(dropbox.path)) {
+        pdf(file.path(dropbox.path, paste0("map", rr, ".pdf")), width=6, height=3)
+        par(rep(0, 4))
+        map("world", mar=rep(0, 4))
+    }
 
     ## Plot goes 1
     g1row <- geos1[((!is.na(geos1$country) & geos1$country == country) | (is.na(geos1$country) & country == "NA")) &
@@ -84,19 +86,24 @@ for (rr in 1:length(regionslist)) {
     if (nrow(g1row) > 0) {
         if (is.na(g1row$ne_lon) || g1row$ne_lon - g1row$sw_lon < .25 || g1row$ne_lat - g1row$sw_lat < .25) {
             if (!is.na(g1row$lon)) {
-                points(g1row$lon, g1row$lat, col=2)
+                if (!is.null(dropbox.path))
+                    points(g1row$lon, g1row$lat, col=2)
                 master.rect1 <- c(g1row$lon - .25, g1row$lat - .25, g1row$lon + .25, g1row$lat + .25)
             }
             if (!is.na(g1row$ne_lon)) {
-                points((g1row$ne_lon + g1row$sw_lon) / 2, (g1row$ne_lat + g1row$sw_lat) / 2, col=2)
+                if (!is.null(dropbox.path))
+                    points((g1row$ne_lon + g1row$sw_lon) / 2, (g1row$ne_lat + g1row$sw_lat) / 2, col=2)
                 master.rect1 <- c(g1row$sw_lon - .125, g1row$sw_lat - .125, g1row$ne_lon + .125, g1row$ne_lat + .125)
             }
         } else if (g1row$ne_lon < g1row$sw_lon) {
-            rect(g1row$ne_lon, g1row$ne_lat, -300, g1row$sw_lat, border=2)
-            rect(300, g1row$ne_lat, g1row$sw_lon, g1row$sw_lat, border=2)
+            if (!is.null(dropbox.path)) {
+                rect(g1row$ne_lon, g1row$ne_lat, -300, g1row$sw_lat, border=2)
+                rect(300, g1row$ne_lat, g1row$sw_lon, g1row$sw_lat, border=2)
+            }
             master.rect1 <- c(-180, g1row$sw_lat, 180, g1row$ne_lat)
         } else {
-            rect(g1row$ne_lon, g1row$ne_lat, g1row$sw_lon, g1row$sw_lat, border=2)
+            if (!is.null(dropbox.path))
+                rect(g1row$ne_lon, g1row$ne_lat, g1row$sw_lon, g1row$sw_lat, border=2)
             master.rect1 <- c(g1row$sw_lon, g1row$sw_lat, g1row$ne_lon, g1row$ne_lat)
         }
     }
@@ -107,20 +114,25 @@ for (rr in 1:length(regionslist)) {
     if (nrow(g2row) > 0 && !is.na(g2row$confidence)) {
         if (is.na(g2row$ne_lon) || g2row$ne_lon - g2row$sw_lon < .25 || g2row$ne_lat - g2row$sw_lat < .25) {
             if (!is.na(g2row$lon)) {
-                points(g2row$lon, g2row$lat, col=3)
+                if (!is.null(dropbox.path))
+                    points(g2row$lon, g2row$lat, col=3)
                 master.rect2 <- c(g2row$sw_lon - .125, g2row$sw_lat - .125, g2row$ne_lon + .125, g2row$ne_lat + .125)
             }
         } else if (g2row$ne_lon < g2row$sw_lon) {
-            rect(g2row$ne_lon, g2row$ne_lat, -300, g2row$sw_lat, border=3)
-            rect(300, g2row$ne_lat, g2row$sw_lon, g2row$sw_lat, border=3)
+            if (!is.null(dropbox.path)) {
+                rect(g2row$ne_lon, g2row$ne_lat, -300, g2row$sw_lat, border=3)
+                rect(300, g2row$ne_lat, g2row$sw_lon, g2row$sw_lat, border=3)
+            }
             master.rect2 <- c(-180, g2row$sw_lat, 180, g2row$ne_lat)
         } else {
-            rect(g2row$ne_lon, g2row$ne_lat, g2row$sw_lon, g2row$sw_lat, border=3)
+            if (!is.null(dropbox.path))
+                rect(g2row$ne_lon, g2row$ne_lat, g2row$sw_lon, g2row$sw_lat, border=3)
             master.rect2 <- c(g2row$sw_lon, g2row$sw_lat, g2row$ne_lon, g2row$ne_lat)
         }
     }
 
-    dev.off()
+    if (!is.null(dropbox.path))
+        dev.off()
 
     ## Create the Map Tool link
 
@@ -132,10 +144,15 @@ for (rr in 1:length(regionslist)) {
         url <- paste0("https://iridl.ldeo.columbia.edu/maproom/Global/Ocean_Temp/Annual_Cycle_Max.html?bbox=bb%3A", master.rect[1], "%3A", master.rect[2], "%3A", master.rect[3], "%3A", master.rect[4], "%3Abb")
 
     ## Create the final row in the spreadsheet
-    if (do.sauweights) {
-        results <- rbind(results, data.frame(country, localities, part.catch, part.value, species=specstr, geocode=paste0(dropbox.url, "?preview=map", rr, ".pdf"), geotool=url))
+    if (!is.null(dropbox.url)) {
+        geocode.url <- paste0(dropbox.url, "?preview=map", rr, ".pdf")
     } else {
-        results <- rbind(results, data.frame(country, localities, species=specstr, geocode=paste0(dropbox.url, "?preview=map", rr, ".pdf"), geotool=url))
+        geocode.url <- NA
+    }
+    if (do.sauweights) {
+        results <- rbind(results, data.frame(country, localities, part.catch, part.value, species=specstr, geocode=geocode.url, geotool=url))
+    } else {
+        results <- rbind(results, data.frame(country, localities, species=specstr, geocode=geocode.url, geotool=url))
     }
     allrects <- rbind(allrects, data.frame(country, localities, which='red', west=master.rect1[1], south=master.rect1[2], east=master.rect1[3], north=master.rect1[4]),
                       data.frame(country, localities, which='green', west=master.rect2[1], south=master.rect2[2], east=master.rect2[3], north=master.rect2[4]))

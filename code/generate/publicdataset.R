@@ -3,7 +3,7 @@ library(rgeos)
 
 allow.highseas <- T
 
-source("code/spawning/read.R")
+source("code/generate/read.R")
 
 spawning <- read.csv("inputs/spawning-records.csv")
 spawning <- spawning[!duplicated(spawning),]
@@ -68,13 +68,13 @@ for (ii in 1:nrow(spawning)) {
     last.status <<- NULL
     suitmap <- region.x.suitability(spawning$species[ii], shp)
     if (nrow(suitmap) == 0 && !is.null(last.status)) {
-        if (last.status == "Empty locality: missing gridref")
+        if (last.status == "Empty locality: missing gridref") {
             if (sum(calcArea(shp, rollup=1)) > 3 * .5*.5) {
                 errors <- rbind(errors, data.frame(species=spawning$species[ii], country=spawning$country[ii], locality=spawning$localities[ii], message="Empty locality: Large area"))
                 next
             }
             notes <- "No available suitability"
-        else {
+        } else {
             errmsg <- last.status
             errors <- rbind(errors, data.frame(species=spawning$species[ii], country=spawning$country[ii], locality=spawning$localities[ii], message=errmsg))
             next

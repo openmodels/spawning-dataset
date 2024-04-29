@@ -22,6 +22,12 @@ for (filename in list.files("inputs/spawning")) {
         next
     tbl$Locality <- as.character(tbl$Locality)
 
+    ## Fix occasional January coding problem
+    if (any(!is.na(tbl$J) & tbl$J == "1,111")) {
+        tbl$J[!is.na(tbl$J) & tbl$J == "1,111"] <- "111"
+        tbl$J <- as.numeric(tbl$J)
+    }
+
     ## Standardize results
     for (ii in 1:nrow(tbl)) {
         bymonth <- combinespawning(tbl[ii,])

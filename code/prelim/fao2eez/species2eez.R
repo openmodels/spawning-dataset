@@ -3,7 +3,7 @@ divs <- importShapefile("inputs/shapefiles/fa_/fa_", readDBF=T)
 dbfs <- attr(divs, "PolyData")
 fao2pid <- data.frame(area=as.character(dbfs$F_AREA), subarea=as.character(dbfs$F_SUBAREA), division=dbfs$F_DIVISION, subdivis=dbfs$F_SUBDIVIS, subunit=dbfs$F_SUBUNIT, PID=dbfs$PID)
 
-fao2eez <- read.csv("outputs/fao2eez.csv")
+fao2eez <- read.csv("inputs/fao2eez.csv")
 fao2eez$encoded <- paste(fao2eez$area, fao2eez$country, sep='.')
 species <- read.csv("inputs/Region FAO EEZ matching-DO NOT EDIT IN EXCEL.csv")
 

@@ -18,10 +18,10 @@ shorelines <- importShapefile("inputs/shapefiles/ne_50m_coastline/ne_50m_coastli
 shorelines$SID <- as.numeric(factor(paste(shorelines$PID, shorelines$SID)))
 shorelines$PID <- 1
 
-fadivs <- importShapefile(file.path(datapath, "shapefiles/fa_/fa_"), readDBF=T)
-speciespid <- read.csv("code/fao2eez/speciespid.csv")
+fadivs <- importShapefile("inputs/shapefiles/fa_/fa_", readDBF=T)
+speciespid <- read.csv("inputs/speciespid.csv")
 
-oceanmask <- importShapefile(file.path(datapath, "shapefiles/EEZ_High_Seas/EEZ_High_Seas.shp"))
+oceanmask <- importShapefile("inputs/shapefiles/EEZ_High_Seas/EEZ_High_Seas.shp")
 
 allrects <- read.csv("inputs/allrects.csv")
 

@@ -1,13 +1,13 @@
 library(PBSmapping)
 library(ggplot2)
 
-shp = importShapefile("dataset/GO-FISH-hs.shp")
+shp = importShapefile("outputs/GO-FISH-hs.shp")
 polydata <- attr(shp, 'PolyData')
 
 shp.coast <- importShapefile("inputs/shapefiles/ne_50m_coastline/ne_50m_coastline.shp")
 shp.adm0 <- importShapefile("inputs/shapefiles/ne_10m_admin_0_countries/ne_10m_admin_0_countries.shp")
 
-for (month in NA) { ##c('djf', 'mam', 'jja', 'son')) {
+for (month in c(NA, 'djf', 'mam', 'jja', 'son')) {
     grid <- expand.grid(X=seq(-180 + .05, 180 - .05, by=.1),
                     Y=seq(-78 + .05, 81 - .05, by=.1))
     grid$count <- 0

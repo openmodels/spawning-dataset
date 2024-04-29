@@ -12,6 +12,10 @@ Code for the generation and processing of fish spawning regions
 First, clone the repository, and set the working directory in R to the
 root of the repository. All R code assumes that this is the working
 directory.
+
+The R code relies on a number of libraries. These should be installed
+before running the code: maps, dplyr, PBSmapping, ggplot2, viridis,
+sf, scales, RColorBrewer, rgeos, rgdal, ncdf4, raster, stringi.
    
 ### To reproduce the Spawning ProCreator spreadsheet
 
@@ -32,12 +36,13 @@ these steps:
    running it, move the resulting `outputs/fao2eez.csv` to
    `inputs/fao2eez.csv`.
    
-2. Regenerate the `input/specieseez.csv` file if the `inputs/Region
-FAO EEZ matching-DO NOT EDIT IN EXCEL.csv` has changed. This second
-file describes the FAO regions corresponding to multinational
-descriptions in the spawning dataset. To regenerate it, run
-`prelim/fao2eez/species2eez.R`, which produces `output/specieseez.csv`
-and move this file to `inputs/specieseez.csv`.
+2. Regenerate the `input/specieseez.csv` and `input/speciespid.csv`
+   files if the `inputs/Region FAO EEZ matching-DO NOT EDIT IN
+   EXCEL.csv` has changed. These files describes the FAO regions
+   corresponding to multinational descriptions in the spawning
+   dataset. To regenerate them, run `prelim/fao2eez/species2eez.R`,
+   which produces `output/specieseez.csv` and `output/speciespid.csv`
+   and move them to the `inputs` directory.
 
 3. Merge the FishBase and SCRFA spawning records: Run the
    `code/prelim/spawning-merge.R` script. This generates a file
@@ -45,15 +50,21 @@ and move this file to `inputs/specieseez.csv`.
    `inputs/spawning-records.csv` for the next step.
 
 4. Geocode spawning region names: Set `source = 'arcgis'` in
-   `code/prelim/geocode.py` and run the script; then set `source =
-   'geonames'` and run the script again. This script produces geocoded
-   result files names `localities-arcgis.csv` and
-   `localities-geonames.csv`. Move these to the `inputs/` directory.
+   `code/prelim/geocode.py` and run the script from the `prelim`
+   directory. You will need to have the geocoder python package
+   installed. Then set `source = 'geonames'` and run the script
+   again. This script produces geocoded result files named
+   `localities-arcgis.csv` and `localities-geonames.csv`. Move these
+   to the `inputs/` directory.
 
 5. Run the `code/prelim/spawning-geoprep.R` script, which constructs
    the raw Spawning ProCreator spreadsheet into
-   `outputs/master.csv`. This can then be imported into Excel or
-   Google Sheets for filling out the Verdict column.
+   `outputs/master.csv`. The code includes logic for generating maps
+   of the geocoded regions, for choosing between them, and saving
+   these to an accessible dropbox folder, but `dropbox.path` and
+   `dropbox.url` need to be provided for this to work.  The resulting
+   `master.csv` file can then be imported into Excel or Google Sheets
+   for filling out the Verdict column.
 
 6. When the Spawning ProCreator spreadsheet is prepared (the Verdict
    and other columns are manually entered), save the result as a CSV
@@ -100,10 +111,11 @@ To regenerate the public dataset, first run
 
 ### To regenerate the figures
 
- - `maps.R` generates spawning maps across the whole year, by season,
-   or by month.
+ - `figures/Figure1.R` generates spawning maps across the whole year, by season,
+   or across the whole year.
    
- - `Fig2and3.R` generates the other figures in the paper.
+ - `figures/Figure2.R` generates the bar charts of spawning fish
+   groups by region.
 
 ## License
 
