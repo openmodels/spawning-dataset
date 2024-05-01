@@ -188,6 +188,8 @@ spolys <- SpatialPolygons(shapes)
 spdf <- SpatialPolygonsDataFrame(spolys, polydata)
 
 writeOGR(spdf, layer=shpname, "outputs", driver="ESRI Shapefile", overwrite_layer=T)
+
+polydata$method[grep("\\.shp", polydata$method)] <- "Marine regions feature"
 write.csv(polydata, paste0("outputs/", shpname, ".csv"), row.names=F)
 write.csv(errors, paste0("outputs/", shpname, "-errors.csv"), row.names=F)
 
